@@ -3,11 +3,69 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
   <title>Wikybook - Ensiklopedia Sejarah Dunia</title>
+  <meta name="title" content="Wikybook - Ensiklopedia Sejarah Dunia">
   <meta name="description" content="Wikybook adalah ensiklopedia sejarah dunia berbahasa Indonesia. Temukan informasi lengkap tentang peradaban kuno, kerajaan Nusantara, tokoh sejarah, dan peristiwa penting dunia.">
+  <meta name="keywords" content="ensiklopedia, sejarah dunia, kerajaan nusantara, peradaban kuno, tokoh sejarah, wikybook, sejarah indonesia, sejarah jepang, sejarah romawi, mesir kuno">
+  <meta name="author" content="Wikybook">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="Indonesian">
+  
+  <!-- Canonical URL (Ganti dengan URL asli jika sudah ada domain) -->
+  <link rel="canonical" href="https://wikybook.com/">
+
+  <!-- Hreflang for Multi-language Support (SEO Internasional) -->
+  <link rel="alternate" hreflang="id" href="https://wikybook.com/" />
+  <link rel="alternate" hreflang="en" href="https://wikybook.com/?lang=en" />
+  <link rel="alternate" hreflang="ja" href="https://wikybook.com/?lang=ja" />
+  <link rel="alternate" hreflang="ko" href="https://wikybook.com/?lang=ko" />
+  <link rel="alternate" hreflang="zh" href="https://wikybook.com/?lang=zh" />
+  <link rel="alternate" hreflang="x-default" href="https://wikybook.com/" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://wikybook.com/">
+  <meta property="og:title" content="Wikybook - Ensiklopedia Sejarah Dunia">
+  <meta property="og:description" content="Wikybook adalah ensiklopedia sejarah dunia interaktif. Temukan informasi lengkap tentang peradaban kuno, kerajaan Nusantara, tokoh sejarah, dan peristiwa penting dunia.">
+  <!-- Ganti URL gambar di bawah dengan URL gambar banner yang sesungguhnya -->
+  <meta property="og:image" content="logo.png"> 
+  <meta property="og:site_name" content="Wikybook">
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="ja_JP">
+  <meta property="og:locale:alternate" content="ko_KR">
+  <meta property="og:locale:alternate" content="zh_CN">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://wikybook.com/">
+  <meta property="twitter:title" content="Wikybook - Ensiklopedia Sejarah Dunia">
+  <meta property="twitter:description" content="Wikybook adalah ensiklopedia sejarah dunia interaktif. Temukan informasi lengkap tentang peradaban kuno, kerajaan Nusantara, tokoh sejarah, dan peristiwa penting dunia.">
+  <meta property="twitter:image" content="https://placehold.co/1200x630/111827/ffffff?text=Wikybook+Ensiklopedia">
+
+  <!-- Favicon & PWA basics -->
   <link rel="apple-touch-icon" sizes="180x180" href="logo.png">
   <link rel="icon" type="image/png" sizes="32x32" href="logo.png">
   <meta name="theme-color" content="#ffffff">
+
+  <!-- Structured Data / JSON-LD for Rich Snippets -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Wikybook",
+    "url": "https://wikybook.com/",
+    "description": "Ensiklopedia sejarah dunia yang interaktif.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://wikybook.com/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -51,7 +109,7 @@
       </svg>
     </div>
     <span class="text-2xl font-bold tracking-tight text-gray-900 -ml-1 mt-6">ikybook</span>
-    <button onclick="toggleSidebar()" class="ml-auto p-1.5 text-gray-400 hover:text-gray-900 hover:bg-gray-100 rounded-md transition-colors">
+    <button onclick="toggleSidebar()" class="ml-auto p-1.5 text-gray-400 hover:text-gray-900 hover:bg-gray-100 rounded-md transition-colors" aria-label="Close Sidebar">
       <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
     </button>
   </div>
@@ -86,7 +144,6 @@
       <svg id="countryDropIcon" class="w-4 h-4 text-gray-400 transition-transform duration-200 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
     </button>
     <div id="countryDrop" class="hidden pl-11 pr-3 py-1 flex-col gap-1"></div>
-    <!-- countryList tetap ada tapi tersembunyi (untuk kompatibilitas) -->
     <div id="countryList" class="hidden"></div>
 
     <div class="h-px bg-gray-100 w-full my-1"></div>
@@ -99,7 +156,7 @@
   </div>
 </aside>
 
-<div id="app-container" class="flex-grow w-full max-w-2xl mx-auto px-4 sm:px-6 relative"></div>
+<main id="app-container" class="flex-grow w-full max-w-2xl mx-auto px-4 sm:px-6 relative"></main>
 
 <footer class="py-6 mt-12 border-t border-gray-200 text-center text-sm text-gray-500 w-full max-w-2xl mx-auto px-4 sm:px-6">
   &copy; 2026 Wikybook. <span id="footerText">Seluruh hak cipta dilindungi.</span>
@@ -127,11 +184,6 @@ const languages = {
 
 // =============================================
 // DATABASE ARTIKEL PER NEGARA
-// Format: countries[countryId] = {
-//   names: { id, en, ja, ko, zh },   // nama negara per bahasa
-//   flag: 'emoji',
-//   articles: [ { id, langs: { id:{title,desc,content,sourceDomain,sourceSnippet}, en:{...}, ... } }, ... ]
-// }
 // =============================================
 const countries = {
   'indonesia': {
@@ -218,7 +270,7 @@ const countries = {
           id: { title: 'Piramida Agung Giza', desc: 'Satu-satunya dari Tujuh Keajaiban Dunia Kuno yang masih berdiri, dibangun sekitar 2560 SM.', content: '<p class="mb-4">Piramida Agung Giza dibangun sebagai makam Firaun Khufu sekitar 2560 SM. Terdiri dari sekitar 2,3 juta blok batu dengan berat rata-rata 2,5 ton setiap bloknya. Tanpa mesin modern, ribuan pekerja membangunnya selama 20 tahun.</p><p class="mb-4">Tingginya mencapai 146,5 meter saat dibangun — menjadikannya bangunan tertinggi di dunia selama 3.800 tahun hingga Katedral Lincoln selesai pada 1311 M.</p><p class="mb-4">Hingga kini, cara persis pembangunan piramida masih menjadi misteri dan diperdebatkan para arkeolog dunia.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Encyclopaedia Britannica — Piramida Agung Giza.' },
           en: { title: 'Great Pyramid of Giza', desc: 'The only surviving Wonder of the Ancient World, built around 2560 BC.', content: '<p class="mb-4">The Great Pyramid of Giza was built as Pharaoh Khufu\'s tomb around 2560 BC. It consists of approximately 2.3 million stone blocks averaging 2.5 tons each. Without modern machinery, thousands of workers built it over 20 years.</p><p class="mb-4">At 146.5 meters tall when built, it was the world\'s tallest structure for 3,800 years until Lincoln Cathedral was completed in 1311 CE.</p><p class="mb-4">The exact method of pyramid construction remains a mystery debated by archaeologists worldwide.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Great Pyramid of Giza.' },
           ja: { title: 'ギザの大ピラミッド', desc: '紀元前2560年頃に建設された、古代世界の七不思議のうち現存する唯一のもの。', content: '<p class="mb-4">ギザの大ピラミッドは紀元前2560年頃にファラオ・クフの墓として建設されました。平均2.5トンの石块约230万個で構成されています。近代的な機械なしに、数千人の労働者が20年かけて建設しました。</p><p class="mb-4">建設時の高さは146.5メートルで、1311年にリンカーン大聖堂が完成するまで3,800年間、世界最高の建造物でした。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — ギザの大ピラミッド。' },
-          ko: { title: '기자의 대피라미드', desc: '기원전 2560년경에 건설된 고대 세계 7대 불가사의 중 유일하게 남아있는 것.', content: '<p class="mb-4">기자의 대피라미드는 기원전 2560년경 파라오 쿠푸의 무덤으로 건설되었습니다. 평균 2.5톤의 돌블록 약 230만 개로 구성되어 있습니다. 현대 기계 없이 수천 명의 노동자가 20년에 걸쳐 건설했습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 기자의 대피라미드.' },
+          ko: { title: '기자의 대피라미드', desc: '기원전 2560년경에 건설된 고대 세계 7대 불가사의 중 유일하게 남아있는 것.', content: '<p class="mb-4">기자의 대피라미드는 기원전 2560년경 파라오 쿠푸의 무덤으로 건설되었습니다. 평균 2.5톤의 돌블록 약 230만 개로 구성되어 있습니다. 현대 기계 없이 수천 명의 노동자가 20년에 걸쳐 건설했습니다.</p>', sourceDomain: 'britannica.com', 고Snippet: 'Britannica — 기자의 대피라미드.' },
           zh: { title: '吉萨大金字塔', desc: '建于约公元前2560年，古代世界七大奇迹中唯一幸存的建筑。', content: '<p class="mb-4">吉萨大金字塔建于约公元前2560年，作为法老胡夫的陵墓。由约230万块平均重2.5吨的石块组成。没有现代机械，数千名工人花了20年建造。</p><p class="mb-4">建造时高146.5米，是世界最高建筑，直到1311年林肯大教堂完工，这一纪录保持了3800年。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 吉萨大金字塔。' }
         }
       },
@@ -306,7 +358,6 @@ const countries = {
 function ui() { return languages[currentLang].ui; }
 
 function getAllArticles() {
-  // Kumpulkan semua artikel dari semua negara untuk halaman beranda
   let all = [];
   for (const cId in countries) {
     const c = countries[cId];
@@ -366,7 +417,6 @@ function updateSidebarUI() {
   document.getElementById('footerText').innerText = u.footer;
   document.getElementById('ctaLangText').innerText = languages[currentLang].nativeName;
 
-  // Populate bahasa
   const langDrop = document.getElementById('langDrop');
   langDrop.innerHTML = '';
   for (const key in languages) {
@@ -377,7 +427,6 @@ function updateSidebarUI() {
     langDrop.appendChild(btn);
   }
 
-  // Populate negara di dropdown
   const countryDropEl = document.getElementById('countryDrop');
   if (countryDropEl) {
     countryDropEl.innerHTML = '';
@@ -402,7 +451,7 @@ function changeLanguage(key) {
   else if (currentView === 'country') renderCountry(currentCountryId);
   else if (currentView === 'article') renderArticle(currentCountryId, currentArticleId);
   else if (currentView === 'about') renderAbout();
-  // Close dropdown
+  
   const drop = document.getElementById('langDrop');
   drop.classList.add('hidden'); drop.classList.remove('flex');
   const icon = document.getElementById('langDropIcon');
@@ -410,7 +459,6 @@ function changeLanguage(key) {
 }
 
 function selectCountry(countryId) {
-  // Tutup dropdown negara
   const drop = document.getElementById('countryDrop');
   if (drop) { drop.classList.add('hidden'); drop.classList.remove('flex'); }
   const icon = document.getElementById('countryDropIcon');
@@ -444,13 +492,12 @@ function goToAbout() {
 const appContainer = () => document.getElementById('app-container');
 
 function makeHeader(backFn, backLabel) {
-  return '<header class="sticky top-0 bg-white pt-4 pb-0 z-40 border-b border-gray-100 h-">' +
-    '<div class="flex items-center h-full text-gray-500 cursor-pointer hover:text-gray-900 transition-colors" onclick="' + backFn + '">' +
+  return '<header class="sticky top-0 bg-white pt-4 pb-0 z-40 border-b border-gray-100">' +
+    '<div class="flex items-center h-full text-gray-500 cursor-pointer hover:text-gray-900 transition-colors pb-4" onclick="' + backFn + '">' +
     '<svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>' +
     '<span class="font-medium text-sm">' + backLabel + '</span></div></header>';
 }
 
-// BERANDA — semua artikel campur
 function renderHome(searchQuery) {
   currentView = 'home';
   searchQuery = searchQuery || '';
@@ -481,7 +528,7 @@ function renderHome(searchQuery) {
   appContainer().innerHTML =
     '<header class="sticky top-0 bg-white pt-4 pb-0 z-40">' +
     '<div class="flex items-center gap-3">' +
-    '<button onclick="toggleSidebar()" class="p-2 -ml-2 text-gray-700 hover:bg-gray-100 rounded-md focus:outline-none transition-colors flex-shrink-0">' +
+    '<button aria-label="Open Sidebar" onclick="toggleSidebar()" class="p-2 -ml-2 text-gray-700 hover:bg-gray-100 rounded-md focus:outline-none transition-colors flex-shrink-0">' +
     '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16 M4 12h10 M4 18h16"/></svg>' +
     '</button>' +
     '<div class="relative flex-grow">' +
@@ -494,7 +541,6 @@ function renderHome(searchQuery) {
   window.scrollTo(0, 0);
 }
 
-// HALAMAN NEGARA — daftar artikel negara itu
 function renderCountry(countryId) {
   currentView = 'country';
   currentCountryId = countryId;
@@ -516,7 +562,7 @@ function renderCountry(countryId) {
   appContainer().innerHTML =
     '<header class="sticky top-0 bg-white pt-5 pb-4 z-40 border-b border-gray-100">' +
     '<div class="relative flex items-center justify-center">' +
-    '<button onclick="toggleSidebar()" class="absolute left-0 p-2 -ml-2 text-gray-700 hover:bg-gray-100 rounded-md focus:outline-none transition-colors">' +
+    '<button aria-label="Open Sidebar" onclick="toggleSidebar()" class="absolute left-0 p-2 -ml-2 text-gray-700 hover:bg-gray-100 rounded-md focus:outline-none transition-colors">' +
     '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16 M4 12h10 M4 18h16"/></svg>' +
     '</button>' +
     '<div class="text-center">' +
@@ -530,7 +576,6 @@ function renderCountry(countryId) {
   window.scrollTo(0, 0);
 }
 
-// HALAMAN ARTIKEL — isi artikel lengkap
 function renderArticle(countryId, articleId) {
   currentView = 'article';
   currentCountryId = countryId;
@@ -560,7 +605,7 @@ function renderArticle(countryId, articleId) {
     '</div>' +
     '<div id="sourceDetails" class="hidden mt-4">' +
     '<div class="p-4 border border-gray-200 rounded-[0.5rem] bg-gray-50 flex items-start sm:items-center flex-col sm:flex-row gap-4">' +
-    '<img src="https://www.google.com/s2/favicons?domain=' + item.sourceDomain + '&sz=64" class="w-12 h-12 rounded border border-gray-200 flex-shrink-0 bg-white" onerror="this.style.display=\'none\'">' +
+    '<img src="https://www.google.com/s2/favicons?domain=' + item.sourceDomain + '&sz=64" alt="favicon" class="w-12 h-12 rounded border border-gray-200 flex-shrink-0 bg-white" onerror="this.style.display=\'none\'">' +
     '<div><div class="font-bold text-gray-900 text-sm">' + item.sourceDomain + '</div>' +
     '<div class="text-xs text-gray-500 mt-1.5 leading-relaxed">' + item.sourceSnippet + '</div></div>' +
     '</div></div></div>';
@@ -568,7 +613,6 @@ function renderArticle(countryId, articleId) {
   window.scrollTo(0, 0);
 }
 
-// TENTANG
 function renderAbout() {
   currentView = 'about';
   const u = ui();
@@ -603,9 +647,6 @@ function toggleSourceInfo() {
   arrow && (arrow.style.transform = hidden ? 'rotate(90deg)' : 'rotate(0deg)');
 }
 
-// =============================================
-// INIT
-// =============================================
 function init() {
   updateSidebarUI();
   renderHome();

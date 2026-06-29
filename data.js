@@ -162,5 +162,178 @@ const countries = {
         }
       }
     ]
+  },
+  'india': {
+    names: { id: 'India', en: 'India', ja: 'インド', ko: '인도', zh: '印度' },
+    flag: '🇮🇳',
+    articles: [
+      {
+        id: 'india-maurya',
+        langs: {
+          id: { title: 'Kekaisaran Maurya', desc: 'Kekaisaran pertama yang menyatukan hampir seluruh anak benua India, dipimpin Chandragupta Maurya pada 321 SM.', content: '<p class="mb-4">Kekaisaran Maurya (321-185 SM) didirikan oleh Chandragupta Maurya dengan bantuan penasihat Chanakya. Kaisar Ashoka (268-232 SM) memeluk Buddhisme setelah Pertempuran Kalinga yang menewaskan 100.000 orang. Ia menyebarkan ajaran Buddha ke seluruh Asia. Singa pada pilar Ashoka kini menjadi lambang negara India modern.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Maurya Empire.' },
+          en: { title: 'Maurya Empire', desc: 'The first empire to unify most of the Indian subcontinent, founded by Chandragupta Maurya in 321 BCE.', content: '<p class="mb-4">The Maurya Empire (321-185 BCE) was founded by Chandragupta Maurya with advisor Chanakya, stretching from Afghanistan to Bengal. Emperor Ashoka (268-232 BCE) converted to Buddhism after the bloody Battle of Kalinga and spread it across Asia through diplomatic missions. The Ashoka lion capital is now India's national emblem.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Maurya Empire.' },
+          ja: { title: 'マウリヤ朝', desc: '紀元前321年創設のインド亜大陸をほぼ統一した最初の帝国。', content: '<p class="mb-4">マウリヤ朝（紀元前321-185年）はチャンドラグプタ・マウリヤが創設。アショーカ王（紀元前268-232年）がカリンガの戦い後に仏教へ改宗しアジア全土に仏教を広めました。アショーカの獅子柱頭は現在のインドの国章です。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Maurya Empire.' },
+          ko: { title: '마우리아 제국', desc: '기원전 321년 찬드라굽타 마우리아가 창건한 인도 아대륙을 거의 통일한 최초의 제국.', content: '<p class="mb-4">마우리아 제국(기원전 321-185년)은 찬드라굽타 마우리아가 창건했습니다. 아소카 왕(기원전 268-232년)이 칼링가 전투 후 불교로 개종하고 아시아 전역에 불교를 전파했습니다. 아소카의 사자 주두는 현재 인도의 국장입니다.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Maurya Empire.' },
+          zh: { title: '孔雀帝国', desc: '公元前321年创建的统一印度次大陆的第一个帝国。', content: '<p class="mb-4">孔雀帝国（公元前321-185年）由旃陀罗笈多·孔雀创建。阿育王（公元前268-232年）在卡林伽战役后皈依佛教，向全亚洲传播佛教。阿育王的狮子柱头成为现代印度的国徽。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Maurya Empire.' }
+        }
+      },
+      {
+        id: 'india-taj-mahal',
+        langs: {
+          id: { title: 'Taj Mahal — Monumen Cinta Agung', desc: 'Mahakarya arsitektur Mughal yang dibangun Shah Jahan untuk mengenang istrinya Mumtaz Mahal, kini Keajaiban Dunia.', content: '<p class="mb-4">Taj Mahal dibangun 1632-1653 oleh Kaisar Mughal Shah Jahan sebagai makam istrinya Mumtaz Mahal yang meninggal saat melahirkan. Lebih dari 20.000 pekerja menghabiskan 21 tahun membangunnya dari marmer putih murni. UNESCO World Heritage 1983 dan Keajaiban Dunia Baru 2007. Dikunjungi 7-8 juta wisatawan per tahun.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Taj Mahal.' },
+          en: { title: 'Taj Mahal — Monument of Supreme Love', desc: 'The Mughal masterpiece built by Shah Jahan for his wife Mumtaz Mahal, now a Wonder of the World.', content: '<p class="mb-4">The Taj Mahal was built 1632-1653 by Emperor Shah Jahan as a mausoleum for his beloved wife Mumtaz Mahal, who died in childbirth. Over 20,000 workers labored 21 years using pure white marble inlaid with semi-precious stones worldwide. UNESCO World Heritage since 1983 and New Seven Wonders of the World since 2007. Visited by 7-8 million tourists annually.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Taj Mahal.' },
+          ja: { title: 'タージ・マハル', desc: 'シャー・ジャハーンが妻のために建てたムガル建築の傑作。世界七不思議の一つ。', content: '<p class="mb-4">タージ・マハルは1632-1653年に皇帝シャー・ジャハーンが出産で亡くなった愛妻ムムターズ・マハルの廟として建設。2万人以上の職人が21年かけ純白の大理石で完成させました。1983年ユネスコ世界遺産、2007年世界七不思議に選定。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Taj Mahal.' },
+          ko: { title: '타지마할', desc: '샤 자한이 아내를 위해 건설한 무굴 건축의 걸작. 세계 7대 불가사의 중 하나.', content: '<p class="mb-4">타지마할은 1632-1653년 황제 샤 자한이 출산 중 사망한 사랑하는 아내 뭄타즈 마할의 영묘로 건설했습니다. 2만여 명의 장인이 21년에 걸쳐 순백의 대리석으로 완성했습니다. 1983년 유네스코 세계문화유산, 2007년 세계 7대 불가사의로 선정되었습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Taj Mahal.' },
+          zh: { title: '泰姬陵', desc: '沙贾汗为妻子建造的莫卧儿建筑杰作，世界七大奇迹之一。', content: '<p class="mb-4">泰姬陵建于1632-1653年，是沙贾汗为生育中去世的爱妻穆姆塔兹·马哈尔所建的陵墓。超过2万名工匠耗时21年用纯白大理石完成。1983年列为联合国教科文组织世界遗产，2007年入选世界新七大奇迹。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Taj Mahal.' }
+        }
+      },
+      {
+        id: 'india-gandhi',
+        langs: {
+          id: { title: 'Mahatma Gandhi dan Kemerdekaan India', desc: 'Gandhi memimpin perlawanan tanpa kekerasan yang mengakhiri 200 tahun penjajahan Inggris di India.', content: '<p class="mb-4">Mahatma Gandhi (1869-1948) mengembangkan Satyagraha — perlawanan tanpa kekerasan. Maret Garam 1930 (berjalan 388 km ke pantai) menjadi aksi paling ikonik melawan pajak garam kolonial Inggris. India merdeka 15 Agustus 1947. Gandhi dibunuh 30 Januari 1948. Metodenya menginspirasi Martin Luther King Jr. dan Nelson Mandela.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Mahatma Gandhi.' },
+          en: { title: 'Mahatma Gandhi and Indian Independence', desc: 'Gandhi led nonviolent resistance that ended 200 years of British colonial rule in India.', content: '<p class="mb-4">Mahatma Gandhi (1869-1948) developed Satyagraha — nonviolent resistance. The 1930 Salt March (388 km walk to the sea) was his most iconic act against British colonial salt tax, triggering mass civil disobedience. India gained independence on August 15, 1947. Gandhi was assassinated on January 30, 1948. His methods inspired Martin Luther King Jr. and Nelson Mandela.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Gandhi.' },
+          ja: { title: 'マハトマ・ガンジーとインド独立', desc: 'ガンジーが非暴力抵抗でインドの200年の植民地支配を終わらせた。', content: '<p class="mb-4">マハトマ・ガンジー（1869-1948）はサティヤーグラハ（非暴力抵抗）を開発。1930年の塩の行進（388km徒歩）で世界的注目を集めました。インドは1947年8月15日に独立。ガンジーは1948年1月30日に暗殺。キング牧師やマンデラに影響を与えました。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Gandhi.' },
+          ko: { title: '마하트마 간디와 인도 독립', desc: '간디가 비폭력 저항으로 200년의 영국 식민지 지배를 종식시켰다.', content: '<p class="mb-4">마하트마 간디(1869-1948)는 사티아그라하(비폭력 저항)를 개발했습니다. 1930년 소금 행진(388km 도보)이 세계적 주목을 받았습니다. 인도는 1947년 8월 15일 독립했습니다. 간디는 1948년 1월 30일 암살되었으며 마틴 루서 킹과 만델라에게 영향을 주었습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Gandhi.' },
+          zh: { title: '圣雄甘地与印度独立', desc: '甘地通过非暴力抵抗结束了200年英国殖民统治。', content: '<p class="mb-4">圣雄甘地（1869-1948年）发展了"坚持真理"非暴力抵抗方法。1930年食盐长征（步行388公里）引发全球关注。印度于1947年8月15日独立。甘地于1948年1月30日遇刺。他的方法影响了马丁·路德·金和曼德拉。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Gandhi.' }
+        }
+      }
+    ]
+  },
+  'yunani': {
+    names: { id: 'Yunani Kuno', en: 'Ancient Greece', ja: '古代ギリシャ', ko: '고대 그리스', zh: '古希腊' },
+    flag: '🇬🇷',
+    articles: [
+      {
+        id: 'yunani-alexander',
+        langs: {
+          id: { title: 'Alexander Agung — Penakluk Dunia', desc: 'Pemimpin militer terbesar sepanjang masa yang membangun kekaisaran terbesar sebelum usia 33 tahun.', content: '<p class="mb-4">Alexander III dari Makedonia (356-323 SM) tidak pernah kalah dalam pertempuran sepanjang 15 tahun karir militernya. Murid Aristoteles ini naik takhta usia 20 tahun dan menaklukkan Persia, Mesir, Asia Tengah hingga India. Ia mendirikan 20+ kota Alexandria menyebarkan budaya Yunani (Helenisme). Alexander meninggal misterius di Babilonia usia 32 tahun.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Alexander the Great.' },
+          en: { title: 'Alexander the Great — Conqueror of the World', desc: 'The greatest military leader of all time who built the largest empire before age 33.', content: '<p class="mb-4">Alexander III of Macedon (356-323 BCE) was never defeated in 15 years of military campaigns. A student of Aristotle, he conquered Persia, Egypt, Central Asia, and northwestern India, founding 20+ cities named Alexandria that spread Greek culture (Hellenism). He died mysteriously in Babylon at age 32.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Alexander the Great.' },
+          ja: { title: 'アレクサンドロス大王', desc: '33歳以前に史上最大の帝国を築いた史上最大の軍事指導者。', content: '<p class="mb-4">マケドニアのアレクサンドロス3世（紀元前356-323年）は15年間無敗。アリストテレスの弟子として20歳で即位しペルシャ・エジプト・中央アジア・インド北西部を征服。20以上のアレクサンドリアを建設。32歳でバビロンにて謎の死を遂げました。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Alexander.' },
+          ko: { title: '알렉산더 대왕', desc: '33세 이전에 역사상 최대 제국을 건설한 역사상 최고의 군사 지도자.', content: '<p class="mb-4">마케도니아의 알렉산더 3세(기원전 356-323년)는 15년간 무패. 아리스토텔레스의 제자로 20세에 즉위하여 페르시아, 이집트, 중앙아시아, 인도 북서부를 정복했습니다. 20개 이상의 알렉산드리아를 건설했으며 32세에 바빌론에서 의문사했습니다.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Alexander.' },
+          zh: { title: '亚历山大大帝', desc: '在33岁之前建立历史上最大帝国的最伟大军事领袖。', content: '<p class="mb-4">马其顿的亚历山大三世（公元前356-323年）15年军事生涯从未战败。师从亚里士多德，20岁登基，征服波斯、埃及、中亚和印度西北部，建立了20多座亚历山大城。32岁在巴比伦神秘去世。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Alexander.' }
+        }
+      },
+      {
+        id: 'yunani-olimpiade',
+        langs: {
+          id: { title: 'Olimpiade Kuno Yunani', desc: 'Festival olahraga terbesar dunia kuno yang digelar setiap 4 tahun di Olympia sejak 776 SM selama 1.200 tahun.', content: '<p class="mb-4">Olimpiade Kuno diadakan di Olympia setiap 4 tahun sejak 776 SM, didedikasikan untuk Zeus. Selama berlangsung, semua perang dihentikan (Ekecheiria). Cabang olahraga: lari, gulat, tinju, pacuan kuda, pentathlon. Pemenang mendapat karangan daun zaitun. Dilarang Kaisar Theodosius I tahun 393 M. Olimpiade modern dihidupkan Baron Pierre de Coubertin di Athena 1896.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Ancient Olympics.' },
+          en: { title: 'Ancient Greek Olympics', desc: 'The greatest sporting festival of the ancient world held every 4 years at Olympia from 776 BCE for 1,200 years.', content: '<p class="mb-4">The Ancient Olympics were held at Olympia every 4 years from 776 BCE, dedicated to Zeus. All wars were suspended during the games (Ekecheiria). Sports included sprint, wrestling, boxing, chariot racing, and pentathlon. Winners received olive leaf crowns. Banned by Emperor Theodosius I in 393 CE. Modern Olympics revived by Baron Pierre de Coubertin in Athens in 1896.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Ancient Olympics.' },
+          ja: { title: '古代ギリシャのオリンピック', desc: '紀元前776年から1,200年間4年ごとにオリンピアで開催された古代世界最大のスポーツ祭典。', content: '<p class="mb-4">古代オリンピックは紀元前776年からゼウスに捧ける祭典として4年ごとにオリンピアで開催。期間中は全戦争が停止（エケケイリア）。競技は短距離走・レスリング・ボクシング・戦車競争・五種競技。393年テオドシウス1世に禁止。1896年アテネで近代オリンピックとして復活。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Ancient Olympics.' },
+          ko: { title: '고대 그리스 올림픽', desc: '기원전 776년부터 1,200년간 4년마다 올림피아에서 개최된 고대 세계 최대 스포츠 축제.', content: '<p class="mb-4">고대 올림픽은 기원전 776년부터 제우스를 위한 축제로 4년마다 올림피아에서 개최되었습니다. 기간 중 모든 전쟁 중단(에케케이리아). 단거리 달리기, 레슬링, 복싱, 전차 경주, 5종 경기가 있었습니다. 393년 테오도시우스 1세에 의해 금지되었으며 1896년 아테네에서 근대 올림픽으로 부활했습니다.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Ancient Olympics.' },
+          zh: { title: '古代希腊奥林匹克运动会', desc: '公元前776年起每4年在奥林匹亚举办的古代世界最大体育盛会，持续1,200年。', content: '<p class="mb-4">古代奥运会自公元前776年起以4年为周期在奥林匹亚举办，献给宙斯神。期间所有战争停止（神圣休战）。项目包括短跑、摔跤、拳击、战车赛、五项全能。优胜者获颁橄榄叶冠。393年被狄奥多西一世禁止。1896年在雅典以现代奥运会形式复活。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Ancient Olympics.' }
+        }
+      },
+      {
+        id: 'yunani-sparta',
+        langs: {
+          id: { title: 'Sparta — Kota Prajurit Terkuat', desc: 'Polis Yunani kuno yang membangun militer paling ditakuti dunia kuno melalui sistem Agoge yang keras.', content: '<p class="mb-4">Sparta membangun masyarakat seluruhnya berpusat pada kekuatan militer. Setiap anak laki-laki menjalani Agoge — pelatihan militer ketat dari usia 7 tahun. Wanita Sparta punya hak lebih luas dari wanita Yunani lainnya. Pertempuran Thermopylae (480 SM): 300 prajurit Sparta Raja Leonidas menahan ratusan ribu tentara Persia selama 3 hari — simbol keberanian abadi.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Sparta.' },
+          en: { title: 'Sparta — City of the Mightiest Warriors', desc: 'The ancient Greek polis that built the most feared military through the brutal Agoge training system.', content: '<p class="mb-4">Sparta built a society entirely centered on military strength. Every boy underwent the Agoge — strict military training from age 7. Spartan women had far more rights than other Greek women. The Battle of Thermopylae (480 BCE): 300 Spartans under King Leonidas held off hundreds of thousands of Persian troops for 3 days — an eternal symbol of courage and sacrifice.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Sparta.' },
+          ja: { title: 'スパルタ — 最強の戦士の都市', desc: 'アゴーゲーで古代世界最強の軍を築いた古代ギリシャのポリス。', content: '<p class="mb-4">スパルタは軍事力を中心に社会が構成されたポリスです。7歳からのアゴーゲー訓練が全少年に課されました。スパルタの女性は他のギリシャ女性より権利が豊かでした。テルモピュライの戦い（紀元前480年）：レオニダス王率いる300人が3日間ペルシャ軍数十万を食い止めた伝説は永遠の勇気の象徴です。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Sparta.' },
+          ko: { title: '스파르타 — 가장 강한 전사의 도시', desc: '아고게 훈련 제도로 고대 세계 최강의 군대를 구축한 고대 그리스 폴리스.', content: '<p class="mb-4">스파르타는 군사력 중심으로 사회가 구성된 폴리스입니다. 7세부터 아고게 훈련이 모든 소년에게 부과되었습니다. 스파르타 여성은 다른 그리스 여성보다 권리가 많았습니다. 테르모필레 전투(기원전 480년): 레오니다스 왕의 300명이 3일간 수십만 페르시아군을 저지한 전설은 영원한 용기의 상징입니다.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Sparta.' },
+          zh: { title: '斯巴达 — 最强战士之城', desc: '通过阿哥吉训练制度建立古代世界最强军队的古希腊城邦。', content: '<p class="mb-4">斯巴达以军事实力为中心组织社会。所有男孩从7岁开始接受阿哥吉军事训练。斯巴达女性拥有比其他希腊女性更多的权利。温泉关战役（公元前480年）：莱奥尼达斯王率300名战士阻挡波斯数十万大军3天——成为永恒的勇气象征。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Sparta.' }
+        }
+      },
+      {
+        id: 'yunani-demokrasi',
+        langs: {
+          id: { title: 'Lahirnya Demokrasi di Athena', desc: 'Bagaimana Athena kuno menciptakan demokrasi pada abad ke-5 SM — sistem pemerintahan yang kini menjadi fondasi dunia modern.', content: '<p class="mb-4">Demokrasi (demos=rakyat, kratos=kekuasaan) lahir di Athena pada abad ke-5 SM di bawah reformasi Cleisthenes (508 SM) dan Pericles. Setiap warga laki-laki Athena memiliki hak suara dalam majelis (Ekklesia) yang membuat keputusan hukum dan kebijakan negara.</p><p class="mb-4">Athena juga melahirkan filsafat Barat melalui Socrates, Plato, dan Aristoteles — tiga tokoh yang pemikirannya masih mendominasi ilmu pengetahuan, etika, dan politik hingga hari ini.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Athenian democracy.' },
+          en: { title: 'Birth of Democracy in Athens', desc: 'How ancient Athens created democracy in the 5th century BCE — the governing system that now forms the foundation of the modern world.', content: '<p class="mb-4">Democracy (demos=people, kratos=power) was born in Athens in the 5th century BCE under reforms by Cleisthenes (508 BCE) and Pericles. Every male Athenian citizen had a vote in the assembly (Ekklesia) that made laws and state decisions. Athens also birthed Western philosophy through Socrates, Plato, and Aristotle — three thinkers whose ideas still dominate science, ethics, and politics today.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Athenian democracy.' },
+          ja: { title: 'アテネにおける民主主義の誕生', desc: '紀元前5世紀の古代アテネが民主主義を創出した経緯。現代世界の基盤となる統治制度。', content: '<p class="mb-4">民主主義（デモス＝人民、クラトス＝権力）は紀元前5世紀のアテネでクレイステネス（紀元前508年）とペリクレスの改革により誕生しました。成人男性市民全員が法律・政策を決定する民会（エクレシア）で投票権を持ちました。アテネはソクラテス・プラトン・アリストテレスを通じて西洋哲学も生み出しました。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Athenian democracy.' },
+          ko: { title: '아테네에서의 민주주의 탄생', desc: '기원전 5세기 고대 아테네가 민주주의를 창출한 과정. 현대 세계의 기반이 된 통치 제도.', content: '<p class="mb-4">민주주의(데모스=인민, 크라토스=권력)는 기원전 5세기 아테네에서 클레이스테네스(기원전 508년)와 페리클레스의 개혁으로 탄생했습니다. 성인 남성 시민 모두가 법률과 정책을 결정하는 민회(에클레시아)에서 투표권을 가졌습니다. 아테네는 소크라테스, 플라톤, 아리스토텔레스를 통해 서양 철학도 탄생시켰습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Athenian democracy.' },
+          zh: { title: '雅典民主的诞生', desc: '古代雅典如何在公元前5世纪创造民主——如今构成现代世界基础的治理制度。', content: '<p class="mb-4">民主（demos=人民，kratos=权力）在公元前5世纪的雅典，在克里斯提尼（公元前508年）和伯里克利的改革下诞生。每位成年男性公民在决定法律和国家政策的公民大会（民众大会）中都有投票权。雅典还通过苏格拉底、柏拉图和亚里士多德孕育了西方哲学。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Athenian democracy.' }
+        }
+      }
+    ]
+  },
+  'mongolia': {
+    names: { id: 'Mongolia', en: 'Mongolia', ja: 'モンゴル', ko: '몽골', zh: '蒙古' },
+    flag: '🇲🇳',
+    articles: [
+      {
+        id: 'mongolia-genghis',
+        langs: {
+          id: { title: 'Genghis Khan — Pembangun Kekaisaran Terbesar', desc: 'Temujin yang menyatukan suku-suku Mongolia dan membangun kekaisaran daratan terbesar dalam sejarah manusia.', content: '<p class="mb-4">Temujin (1162-1227) bangkit dari masa kecil penuh penderitaan menjadi Genghis Khan pada 1206. Dalam 20 tahun pasukannya menaklukkan dari Tiongkok hingga Eropa Timur — 24 juta km² dan 100 juta penduduk. Taktik: kavaleri cepat, intelijen superior, psikologi terror. Diperkirakan 40 juta tewas dalam penaklukannya. Meninggal 1227 secara misterius, lokasi kuburannya tetap rahasia.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Genghis Khan.' },
+          en: { title: 'Genghis Khan — Builder of the Greatest Empire', desc: 'Temujin who united Mongolian tribes and built the largest contiguous land empire in human history.', content: '<p class="mb-4">Temujin (1162-1227) rose from a painful childhood to become Genghis Khan in 1206. In 20 years his forces conquered from China to Eastern Europe — 24 million km² and 100 million people. Tactics: fast cavalry, superior intelligence, psychological terror. An estimated 40 million died in his conquests. He died mysteriously in 1227, his grave location still unknown to this day.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Genghis Khan.' },
+          ja: { title: 'チンギス・ハン — 最大帝国の建設者', desc: 'モンゴルの部族を統一し、人類史上最大の陸上帝国を築いたテムジン。', content: '<p class="mb-4">テムジン（1162-1227年）は苦しい幼少期を乗り越え1206年にチンギス・ハンとなりました。20年で中国から東ヨーロッパまで2,400万平方キロ・1億人を支配。高速騎兵・優秀な情報収集・心理的恐怖を武器に推定4,000万人が犠牲になりました。1227年に謎の死を遂げ、墓の場所は今も秘密です。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Genghis Khan.' },
+          ko: { title: '칭기즈 칸 — 가장 큰 제국의 건설자', desc: '몽골 부족을 통일하고 인류 역사상 가장 큰 연속 육상 제국을 건설한 테무진.', content: '<p class="mb-4">테무진(1162-1227년)은 힘든 어린 시절을 극복하고 1206년 칭기즈 칸이 되었습니다. 20년 만에 중국에서 동유럽까지 2,400만 km²와 1억 명을 지배했습니다. 고속 기병, 우수한 정보력, 심리적 공포를 무기로 추정 4,000만 명이 희생되었습니다. 1227년 의문사하여 무덤 위치는 아직도 비밀입니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Genghis Khan.' },
+          zh: { title: '成吉思汗 — 最大帝国的建造者', desc: '统一蒙古各部落、建立人类历史上最大连续陆地帝国的铁木真。', content: '<p class="mb-4">铁木真（1162-1227年）克服艰难童年，1206年成为成吉思汗。20年内从中国到东欧征服2,400万平方公里和1亿人口。以快速骑兵、出色情报和心理恐惧为武器，估计造成4,000万人死亡。1227年神秘去世，墓穴位置至今仍是秘密。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Genghis Khan.' }
+        }
+      }
+    ]
+  },
+  'ottoman': {
+    names: { id: 'Kesultanan Ottoman', en: 'Ottoman Empire', ja: 'オスマン帝国', ko: '오스만 제국', zh: '奥斯曼帝国' },
+    flag: '🕌',
+    articles: [
+      {
+        id: 'ottoman-suleiman',
+        langs: {
+          id: { title: 'Sultan Suleiman Agung', desc: 'Pemerintahan Sultan Suleiman I (1520-1566) yang membawa Kekaisaran Ottoman ke puncak kekuasaan dan peradaban.', content: '<p class="mb-4">Suleiman I (1494-1566), dijuluki Al-Qanuni (Pembuat Hukum) dan Suleiman Agung, memerintah 46 tahun. Ottoman membentang dari Hungaria hingga Persia, Krimea hingga Somalia. Ia reformator hukum besar, penyair, dan patron seni. Arsitek Mimar Sinan membangun Masjid Suleiman di Istanbul atas perintahnya. Meninggal saat pengepungan Szigetvár 1566.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Suleiman the Magnificent.' },
+          en: { title: 'Sultan Suleiman the Magnificent', desc: 'The reign of Sultan Suleiman I (1520-1566) that brought the Ottoman Empire to the peak of power and civilization.', content: '<p class="mb-4">Suleiman I (1494-1566), called Al-Qanuni (The Lawgiver) and Suleiman the Magnificent, ruled 46 years. The Ottoman Empire stretched from Hungary to Persia, Crimea to Somalia. He was a major legal reformer, poet, and art patron. Architect Mimar Sinan built the Suleiman Mosque in Istanbul under his command. He died during the Siege of Szigetvár in 1566.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Suleiman the Magnificent.' },
+          ja: { title: 'スレイマン大帝', desc: 'オスマン帝国を権力・文明の頂点に導いたスレイマン1世の治世（1520-1566年）。', content: '<p class="mb-4">スレイマン1世（1494-1566年）は「立法者」・「壮麗帝」と呼ばれ46年間統治。帝国はハンガリーからペルシャ、クリミアからソマリアまで広がりました。法改革者・詩人・芸術のパトロンでもあり、建築家ミマール・スィナンがスレイマニエ・モスクを建設。1566年ジゲトバール包囲中に死去しました。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Suleiman.' },
+          ko: { title: '술레이만 대제', desc: '오스만 제국을 권력과 문명의 정점으로 이끈 술레이만 1세의 치세(1520-1566년).', content: '<p class="mb-4">술레이만 1세(1494-1566년)는 "입법자"·"장엄한 술레이만"으로 불리며 46년 통치했습니다. 제국은 헝가리에서 페르시아, 크림에서 소말리아까지 뻗어 있었습니다. 법 개혁자, 시인, 예술 후원자이기도 했으며 건축가 미마르 시난이 술레이마니예 모스크를 건설했습니다. 1566년 시게트바르 포위전 중 사망했습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Suleiman.' },
+          zh: { title: '苏莱曼大帝', desc: '将奥斯曼帝国带至权力与文明顶峰的苏莱曼一世统治时期（1520-1566年）。', content: '<p class="mb-4">苏莱曼一世（1494-1566年）被称为"立法者"和"大帝"，统治46年。帝国从匈牙利延伸至波斯，从克里米亚到索马里。他是重要的法律改革者、诗人和艺术赞助人，建筑师米马尔·锡南奉命建造苏莱曼尼耶清真寺。1566年在锡格特堡围攻战中去世。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Suleiman.' }
+        }
+      },
+      {
+        id: 'ottoman-konstantinopel',
+        langs: {
+          id: { title: 'Jatuhnya Konstantinopel 1453', desc: 'Penaklukan Konstantinopel oleh Sultan Mehmed II yang mengakhiri Kekaisaran Romawi Timur dan mengubah sejarah dunia.', content: '<p class="mb-4">Pada 29 Mei 1453, Sultan Mehmed II (22 tahun) menembus tembok Konstantinopel setelah 53 hari pengepungan menggunakan meriam raksasa Basilica. Kekaisaran Romawi Timur (Byzantium) yang 1.100 tahun berakhir. Dampak global: sarjana Yunani melarikan diri ke Eropa memicu Renaisans; jalur darat ke Asia terputus mendorong Eropa cari jalur laut — Columbus menemukan Amerika 1492.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Fall of Constantinople.' },
+          en: { title: 'Fall of Constantinople 1453', desc: 'Ottoman conquest of Constantinople ended the Eastern Roman Empire and changed world history forever.', content: '<p class="mb-4">On May 29, 1453, Sultan Mehmed II (age 22) breached Constantinople after 53 days using the massive Basilica cannon. The 1,100-year Eastern Roman Empire (Byzantium) ended. Global impact: Greek scholars fled to Europe with manuscripts, triggering the Renaissance; the blocking of land routes to Asia pushed Europe to find sea routes — Columbus discovered America in 1492.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Fall of Constantinople.' },
+          ja: { title: 'コンスタンティノープルの陥落 1453年', desc: 'メフメト2世のコンスタンティノープル征服が東ローマ帝国を終わらせ世界史を変えた。', content: '<p class="mb-4">1453年5月29日、22歳のメフメト2世が巨大砲バジリカで53日間の包囲の末コンスタンティノープルを陥落。1,100年続いた東ローマ帝国が終焉しました。世界への影響：ギリシャ学者が古典を持ちヨーロッパに逃れルネサンスを促進；陸路遮断がヨーロッパに海路を求めさせ1492年コロンブスのアメリカ発見につながりました。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Constantinople.' },
+          ko: { title: '콘스탄티노폴리스의 함락 1453년', desc: '메흐메트 2세의 콘스탄티노폴리스 정복이 동로마 제국을 종식시키고 세계사를 영원히 바꾸었다.', content: '<p class="mb-4">1453년 5월 29일 22세의 메흐메트 2세가 거대 대포 바실리카로 53일 만에 콘스탄티노폴리스를 함락했습니다. 1,100년 동로마 제국이 종막을 고했습니다. 세계적 영향: 그리스 학자들이 고전 필사본을 들고 유럽으로 도피해 르네상스를 촉진; 육로 차단이 유럽을 해로 개척으로 이끌어 1492년 콜럼버스의 아메리카 발견으로 이어졌습니다.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Constantinople.' },
+          zh: { title: '君士坦丁堡的陷落 1453年', desc: '穆罕默德二世征服君士坦丁堡，终结东罗马帝国并永久改变世界历史。', content: '<p class="mb-4">1453年5月29日，22岁的穆罕默德二世用巨炮巴西利卡经53天围攻攻克君士坦丁堡。延续1,100年的东罗马帝国终结。世界影响：希腊学者携古籍手稿逃往欧洲，促进了文艺复兴；陆路贸易受阻迫使欧洲开辟海路，导致1492年哥伦布发现美洲大陆。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Constantinople.' }
+        }
+      }
+    ]
+  },
+  'maya': {
+    names: { id: 'Peradaban Maya', en: 'Maya Civilization', ja: 'マヤ文明', ko: '마야 문명', zh: '玛雅文明' },
+    flag: '🏛️',
+    articles: [
+      {
+        id: 'maya-peradaban',
+        langs: {
+          id: { title: 'Peradaban Maya — Ilmuwan Mesoamerika', desc: 'Maya mengembangkan sistem tulisan, kalender, astronomi, dan matematika paling maju di dunia kuno Amerika.', content: '<p class="mb-4">Peradaban Maya berkembang di Mesoamerika dari sekitar 2000 SM hingga kedatangan Spanyol abad ke-16. Populasi puncak 10-20 juta jiwa. Maya mengembangkan tulisan hiroglif paling kompleks di Amerika, kalender lebih akurat dari Eropa saat itu, dan sistem angka berbasis-20 dengan konsep nol. Kota besar: Tikal, Chichen Itza, Palenque. Runtuh sekitar 900 M akibat kekeringan dan perang.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Maya civilization.' },
+          en: { title: 'Maya Civilization — Mesoamerica's Scientists', desc: 'The Maya developed the most advanced writing, calendar, astronomy, and mathematics in ancient America.', content: '<p class="mb-4">Maya civilization flourished in Mesoamerica from around 2000 BCE until the 16th-century Spanish arrival. Peak population: 10-20 million. They developed the most complex writing in the Americas, a more accurate calendar than contemporary Europe, and a base-20 number system with zero. Great cities included Tikal, Chichen Itza, and Palenque. Classic Maya collapsed around 900 CE due to drought and warfare.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Maya civilization.' },
+          ja: { title: 'マヤ文明 — 中米の科学者', desc: 'マヤは古代アメリカで最も進んだ文字・暦・天文・数学を発展させた。', content: '<p class="mb-4">マヤ文明は紀元前2000年頃から16世紀まで中米で栄えました。最盛期人口1,000-2,000万人。アメリカ最複雑な文字、当時のヨーロッパより正確な暦、ゼロを含む20進法を開発。ティカル・チチェン・イツァ・パレンケなどの大都市が繁栄。古典マヤは900年頃に干ばつと戦争で崩壊しました。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Maya civilization.' },
+          ko: { title: '마야 문명 — 메소아메리카의 과학자들', desc: '마야는 고대 아메리카에서 가장 발전된 문자, 달력, 천문학, 수학을 발전시켰다.', content: '<p class="mb-4">마야 문명은 기원전 2000년경부터 16세기 스페인 도래까지 중미에서 번성했습니다. 최성기 인구 1,000-2,000만 명. 아메리카에서 가장 복잡한 문자, 당시 유럽보다 정확한 달력, 영을 포함한 20진법을 개발했습니다. 티칼, 치첸이트사, 팔렌케 등 대도시가 번성했습니다. 고전 마야는 900년경 가뭄과 전쟁으로 붕괴했습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Maya civilization.' },
+          zh: { title: '玛雅文明 — 中美洲的科学家', desc: '玛雅人发展出古代美洲最先进的文字、历法、天文学和数学。', content: '<p class="mb-4">玛雅文明从约公元前2000年繁荣至16世纪西班牙人到来。鼎盛时期人口1,000-2,000万。他们开发了美洲最复杂的文字体系、比当时欧洲更精确的历法，以及包含零的20进制数字系统。蒂卡尔、奇琴伊察、帕伦克等大城市兴旺。古典玛雅约于900年因干旱和战争崩溃。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Maya civilization.' }
+        }
+      }
+    ]
+  },
+  'viking': {
+    names: { id: 'Viking', en: 'Vikings', ja: 'ヴァイキング', ko: '바이킹', zh: '维京人' },
+    flag: '⚔️',
+    articles: [
+      {
+        id: 'viking-ekspedisi',
+        langs: {
+          id: { title: 'Viking — Penjelajah Lautan Dunia', desc: 'Bangsa Norse dari Skandinavia yang menjelajahi dari Amerika Utara hingga Asia Tengah antara 793-1066 M.', content: '<p class="mb-4">Viking dari Skandinavia aktif 793-1066 M berkat kapal Longship revolusioner. Leif Erikson sekitar 1000 M mendarat di Amerika Utara (Vinland) — 400 tahun sebelum Columbus. Mereka juga mendirikan koloni di Islandia (874 M) dan Greenland (985 M), berdagang hingga Byzantium dan Baghdad, serta mendirikan Kerajaan Kiev di Eropa Timur. Ekspansi berakhir seiring kristenisasi Skandinavia.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Vikings.' },
+          en: { title: 'Vikings — World Ocean Explorers', desc: 'Norse people from Scandinavia who explored from North America to Central Asia between 793-1066 CE.', content: '<p class="mb-4">Vikings from Scandinavia were active 793-1066 CE, famous for revolutionary Longships. Leif Erikson around 1000 CE landed in North America (Vinland) — over 400 years before Columbus. They also settled Iceland (874 CE) and Greenland (985 CE), traded as far as Byzantium and Baghdad, and founded Kievan Rus in Eastern Europe. Viking expansion ended as Scandinavia Christianized.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Vikings.' },
+          ja: { title: 'ヴァイキング — 世界の海の探検家', desc: '793-1066年にスカンジナビアから北米から中央アジアまで探検したノルセ人。', content: '<p class="mb-4">スカンジナビアのヴァイキングは793-1066年に革命的なロングシップで活動。レイフ・エリクソンは1000年頃北米（ヴィンランド）に上陸し、コロンブスより400年以上先んじました。アイスランド（874年）・グリーンランド（985年）に植民し、ビザンツ・バグダードまで交易し、東欧にキエフ・ルーシを建国。スカンジナビアのキリスト教化とともに拡張は終焉しました。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Vikings.' },
+          ko: { title: '바이킹 — 세계 바다의 탐험가', desc: '793-1066년 스칸디나비아에서 북아메리카부터 중앙아시아까지 탐험한 노르스인.', content: '<p class="mb-4">스칸디나비아 바이킹은 793-1066년 혁명적인 롱십으로 활동했습니다. 레이프 에릭손은 약 1000년경 북아메리카(빈란드)에 상륙했는데 콜럼버스보다 400년 이상 앞섰습니다. 아이슬란드(874년)·그린란드(985년)에 식민지를 건설하고 비잔티움·바그다드까지 교역하며 동유럽에 키예프 루스를 건국했습니다. 스칸디나비아의 기독교화와 함께 확장이 끝났습니다.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Vikings.' },
+          zh: { title: '维京人 — 世界海洋探险家', desc: '793-1066年从斯堪的纳维亚探险于北美至中亚的诺斯人。', content: '<p class="mb-4">斯堪的纳维亚维京人活跃于793-1066年，以革命性的长船著称。莱夫·埃里克森约于1000年登陆北美（文兰）——比哥伦布早400多年。他们在冰岛（874年）和格陵兰（985年）建立殖民地，交易远达拜占庭和巴格达，并在东欧建立了基辅罗斯。随着斯堪的纳维亚基督教化，扩张走向终结。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Vikings.' }
+        }
+      }
+    ]
+  },
+  'persia': {
+    names: { id: 'Persia Kuno', en: 'Ancient Persia', ja: '古代ペルシャ', ko: '고대 페르시아', zh: '古代波斯' },
+    flag: '🇮🇷',
+    articles: [
+      {
+        id: 'persia-achaemenid',
+        langs: {
+          id: { title: 'Kekaisaran Achaemenid — Kekaisaran Pertama Dunia', desc: 'Kekaisaran Persia Achaemenid (550-330 SM) menjadi kekaisaran multinasional pertama dan terbesar dalam sejarah kuno.', content: '<p class="mb-4">Kekaisaran Achaemenid (550-330 SM) didirikan Cyrus Agung mencakup 8 juta km² dan 44% populasi dunia — dari Lembah Indus hingga Libya dan Thrace. Cyrus membebaskan bangsa Yahudi dari perbudakan Babilon — dicatat Alkitab sebagai pembebas. Silinder Cyrus (539 SM) dianggap piagam hak asasi manusia pertama. Darius I membangun Royal Road 2.700 km dan Persepolis. Ditaklukkan Alexander 334-330 SM.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Achaemenid Empire.' },
+          en: { title: 'Achaemenid Empire — World's First Empire', desc: 'The Persian Achaemenid Empire (550-330 BCE) became the world's first multinational and largest empire in ancient history.', content: '<p class="mb-4">The Achaemenid Empire (550-330 BCE) founded by Cyrus the Great covered 8 million km² and 44% of the world's population — from the Indus Valley to Libya and Thrace. Cyrus freed the Jews from Babylonian captivity, recorded in the Bible as a liberator. The Cyrus Cylinder (539 BCE) is considered the first human rights charter. Darius I built the 2,700 km Royal Road and Persepolis. Conquered by Alexander 334-330 BCE.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Achaemenid Empire.' },
+          ja: { title: 'アケメネス朝 — 世界初の帝国', desc: '紀元前550-330年のペルシャ・アケメネス朝が世界初の多民族帝国となった。', content: '<p class="mb-4">アケメネス朝（紀元前550-330年）はキュロス大王が創建し、800万平方キロ・世界人口44%を支配。インダス川流域からリビア・トラキアまで広がりました。キュロスはバビロン捕囚のユダヤ人を解放し聖書に記されました。キュロスの円筒は史上初の人権宣言。ダレイオス1世が2,700kmの王の道とペルセポリスを建設。アレクサンドロスに紀元前334-330年に征服されました。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Achaemenid Empire.' },
+          ko: { title: '아케메네스 왕조 — 세계 최초의 제국', desc: '기원전 550-330년의 페르시아 아케메네스 제국이 세계 최초의 다민족 제국이 되었다.', content: '<p class="mb-4">아케메네스 제국(기원전 550-330년)은 키루스 대왕이 창건하여 800만 km²와 세계 인구 44%를 지배했습니다. 인더스 계곡에서 리비아·트라키아까지 뻗어 있었습니다. 키루스는 바빌론 포로 유대인을 해방하여 성경에 기록되었습니다. 키루스 실린더는 최초의 인권 선언으로 여겨집니다. 다리우스 1세가 2,700km 왕의 도로와 페르세폴리스를 건설했습니다. 기원전 334-330년 알렉산더에게 정복되었습니다.</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Achaemenid Empire.' },
+          zh: { title: '阿契美尼德帝国 — 世界上第一个帝国', desc: '公元前550-330年的波斯阿契美尼德帝国成为世界第一个多民族帝国。', content: '<p class="mb-4">阿契美尼德帝国（公元前550-330年）由居鲁士大帝创建，覆盖800万平方公里和世界人口的44%，从印度河流域延伸至利比亚和色雷斯。居鲁士释放了被巴比伦囚禁的犹太人，被圣经记载。居鲁士圆筒是最早的人权宣言。大流士一世建造了2,700公里御道和波斯波利斯。公元前334-330年被亚历山大征服。</p>', sourceDomain: 'worldhistory.org', sourceSnippet: 'World History Encyclopedia — Achaemenid Empire.' }
+        }
+      }
+    ]
   }
+
 }

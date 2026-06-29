@@ -32,7 +32,77 @@ const countries = {
           ko: { title: '스리비자야 제국', desc: '7세기 동안 말라카 해협 무역로를 지배한 동남아시아 최대의 해양 제국.', content: '<p class="mb-4">스리비자야(7세기~13세기)는 남부 수마트라 팔렘방을 중심으로 한 해양 제국이었습니다. 아시아에서 가장 바쁜 무역 루트인 말라카 해협을 지배하며 통과하는 모든 선박에서 통행료를 징수했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 스리비자야 제국.' },
           zh: { title: '室利佛逝帝国', desc: '控制马六甲海峡贸易路线长达7个世纪的东南亚最大海洋帝国。', content: '<p class="mb-4">室利佛逝（7世纪至13世纪）是以南苏门答腊巨港为中心的海洋帝国。它控制着亚洲最繁忙的贸易路线——马六甲海峡，向每艘过往船只收取通行费。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 室利佛逝帝国。' }
         }
-      }
+      },
+      {
+        id: 'indonesia-bandung-api',
+        langs: {
+          id: { title: 'Bandung Lautan Api', desc: 'Strategi bumi hangus demi mencegah Sekutu dan NICA menggunakan kota Bandung.', content: '<p class="mb-4">Pada 23 Maret 1946, sekitar 200.000 penduduk Bandung membakar rumah mereka sendiri dalam waktu tujuh jam dan meninggalkan kota menuju pegunungan. Ini dilakukan agar tentara Sekutu tidak dapat menggunakan Bandung sebagai markas militer.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia — Bandung Lautan Api.' },
+          en: { title: 'Bandung Sea of Fire', desc: 'A scorched earth strategy to prevent Allies and NICA from using the city.', content: '<p class="mb-4">On March 23, 1946, about 200,000 residents of Bandung burned their own homes within seven hours and evacuated to the mountains, preventing Allied forces from using the city as a military base.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Bandung Sea of Fire.' },
+          ja: { title: 'バンドン火の海事件', desc: '連合国軍による都市の使用を防ぐための焦土作戦。', content: '<p class="mb-4">1946年3月23日、約20万人のバンドン住民が連合国軍の軍事基地化を防ぐため、7時間で自宅に火を放ち山へ避難しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — バンドン火の海事件。' },
+          ko: { title: '반둥 불바다 사건', desc: '연합군의 도시 사용을 막기 위한 청야 전술.', content: '<p class="mb-4">1946년 3월 23일, 약 20만 명의 반둥 주민들이 연합군의 군사 기지화를 막기 위해 7시간 만에 자신의 집에 불을 지르고 산으로 대피했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 반둥 불바다.' },
+          zh: { title: '万隆火海事件', desc: '为防止盟军利用该城市而采取的焦土战略。', content: '<p class="mb-4">1946年3月23日，约20万万隆居民在7小时内烧毁了自己的家园并撤退到山区，以防止盟军将该市用作军事基地。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 万隆火海事件。' }
+        }
+      },,
+      {
+        id: 'indonesia-borobudur',
+        langs: {
+          id: { title: 'Candi Borobudur', desc: 'Kuil Buddha terbesar di dunia peninggalan Dinasti Syailendra.', content: '<p class="mb-4">Dibangun pada abad ke-9, Candi Borobudur di Magelang, Jawa Tengah, adalah monumen Buddha terbesar di dunia. Candi ini memiliki 2.672 panel relief dan 504 patung Buddha yang menceritakan perjalanan menuju Nirwana.</p>', sourceDomain: 'whc.unesco.org', sourceSnippet: 'UNESCO World Heritage Centre — Borobudur Temple Compounds.' },
+          en: { title: 'Borobudur Temple', desc: 'The world\'s largest Buddhist temple built by the Sailendra Dynasty.', content: '<p class="mb-4">Built in the 9th century, Borobudur in Central Java is the world\'s largest Buddhist monument, featuring 2,672 relief panels and 504 Buddha statues illustrating the journey to Nirvana.</p>', sourceDomain: 'whc.unesco.org', sourceSnippet: 'UNESCO — Borobudur.' },
+          ja: { title: 'ボロブドゥール寺院', desc: 'シャイレーンドラ朝によって建てられた世界最大の仏教寺院。', content: '<p class="mb-4">9世紀に建設された中部ジャワ州のボロブドゥールは世界最大の仏教遺跡であり、2,672枚のレリーフと504体の仏像があります。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ボロブドゥール遺跡。' },
+          ko: { title: '보로부두르 사원', desc: '샤일렌드라 왕조가 세운 세계 최대의 불교 사원.', content: '<p class="mb-4">9세기에 지어진 중부 자바의 보로부두르는 열반으로 가는 여정을 묘사한 2,672개의 부조 패널과 504개의 불상을 특징으로 하는 세계 최대의 불교 기념물입니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 보로부두르.' },
+          zh: { title: '婆罗浮屠', desc: '由夏连特拉王朝建造的世界上最大的佛教寺庙。', content: '<p class="mb-4">建于9世纪的中爪哇婆罗浮屠是世界上最大的佛教纪念碑，拥有2672块浮雕面板和504尊佛像。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 婆罗浮屠。' }
+        }
+      },,
+      {
+        id: 'indonesia-budi-utomo',
+        langs: {
+          id: { title: 'Budi Utomo & Kebangkitan Nasional', desc: 'Organisasi modern pertama yang menandai lahirnya pergerakan nasional Indonesia.', content: '<p class="mb-4">Didirikan pada 20 Mei 1908 oleh para mahasiswa STOVIA (sekolah dokter Jawa), Budi Utomo adalah organisasi modern pertama di Nusantara. Tanggal berdirinya kini diperingati sebagai Hari Kebangkitan Nasional.</p>', sourceDomain: 'kemdikbud.go.id', sourceSnippet: 'Kemdikbud RI — Sejarah Budi Utomo.' },
+          en: { title: 'Budi Utomo & National Awakening', desc: 'The first modern organization marking the birth of the Indonesian national movement.', content: '<p class="mb-4">Founded on May 20, 1908, by medical students of STOVIA, Budi Utomo was the first modern organization in the archipelago. Its founding date is now celebrated as National Awakening Day.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Budi Utomo.' },
+          ja: { title: 'ブディ・ウトモと民族覚醒', desc: 'インドネシア民族運動の誕生を告げる最初の近代的な組織。', content: '<p class="mb-4">1908年5月20日に医学生によって設立されたブディ・ウトモは群島初の近代的な組織でした。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ブディ・ウトモ。' },
+          ko: { title: '부디 우토모와 민족 각성', desc: '인도네시아 민족 운동의 탄생을 알리는 최초의 현대적 조직.', content: '<p class="mb-4">1908년 5월 20일 의대생들이 설립한 부디 우토모는 군도 최초의 현대적인 조직이었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 부디 우토모.' },
+          zh: { title: '至善社与民族觉醒', desc: '标志着印度尼西亚民族运动诞生的第一个现代组织。', content: '<p class="mb-4">至善社由医学生于1908年5月20日成立，是群岛上的第一个现代组织。这一天现在被定为民族觉醒日。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 至善社。' }
+        }
+      },,
+      {
+        id: 'indonesia-kaa',
+        langs: {
+          id: { title: 'Konferensi Asia-Afrika 1955', desc: 'Pertemuan bersejarah negara-negara dunia ketiga yang menentang kolonialisme.', content: '<p class="mb-4">Diadakan di Bandung pada April 1955, KAA dihadiri 29 negara yang mewakili lebih dari setengah populasi dunia. Konferensi ini dipelopori oleh Indonesia dan melahirkan "Dasasila Bandung" serta Gerakan Non-Blok pada masa Perang Dingin.</p>', sourceDomain: 'kemenlu.go.id', sourceSnippet: 'Kemenlu RI — Sejarah Konferensi Asia Afrika.' },
+          en: { title: 'Asian-African Conference 1955', desc: 'Historic meeting of third-world countries opposing colonialism.', content: '<p class="mb-4">Held in Bandung in April 1955, the AAC was attended by 29 countries representing over half the world\'s population. It birthed the "Ten Principles of Bandung" and the Non-Aligned Movement.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Bandung Conference.' },
+          ja: { title: '1955年アジア・アフリカ会議', desc: '植民地主義に反対する第三世界諸国の歴史的会議。', content: '<p class="mb-4">1955年4月にバンドンで開催され、世界人口の半分以上を代表する29か国が参加し、非同盟運動のきっかけとなりました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — バンドン会議。' },
+          ko: { title: '1955년 아시아-아프리카 회의', desc: '식민주의에 반대하는 제3세계 국가들의 역사적인 회의.', content: '<p class="mb-4">1955년 4월 반둥에서 개최된 이 회의에는 세계 인구의 절반 이상을 대표하는 29개국이 참석하여 비동맹 운동의 탄생을 이끌었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 반둥 회의.' },
+          zh: { title: '1955年亚非会议', desc: '反对殖民主义的第三世界国家的历史性会议。', content: '<p class="mb-4">1955年4月在万隆举行，代表世界一半以上人口的29个国家出席了会议，催生了不结盟运动。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 万隆会议。' }
+        }
+      },
+      {
+        id: 'indonesia-krakatau',
+        langs: {
+          id: { title: 'Erupsi Krakatau 1883', desc: 'Letusan gunung berapi yang menghasilkan suara paling keras dalam sejarah manusia.', content: '<p class="mb-4">Pada 26 Agustus 1883, Gunung Krakatau meletus dengan kekuatan 13.000 kali bom atom Hiroshima. Suaranya terdengar hingga 4.800 km jauhnya, memicu tsunami setinggi 36 meter, dan menurunkan suhu global selama beberapa tahun.</p>', sourceDomain: 'ng.com', sourceSnippet: 'National Geographic — 1883 Krakatoa Eruption.' },
+          en: { title: '1883 Eruption of Krakatoa', desc: 'The volcanic eruption that produced the loudest sound in human history.', content: '<p class="mb-4">On August 26, 1883, Krakatoa erupted with the force of 13,000 Hiroshima bombs. The sound was heard 4,800 km away, triggering 36m tsunamis and dropping global temperatures for years.</p>', sourceDomain: 'ng.com', sourceSnippet: 'National Geo — Krakatoa.' },
+          ja: { title: '1883年のクラカトア噴火', desc: '人類史上最も大きな音を立てた火山噴火。', content: '<p class="mb-4">1883年8月26日、クラカトアは広島型原爆の1万3千倍の威力で噴火しました。その音は4,800km先まで聞こえました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — クラカトアの噴火。' },
+          ko: { title: '1883년 크라카토아 화산 폭발', desc: '인류 역사상 가장 큰 소리를 낸 화산 폭발.', content: '<p class="mb-4">1883년 8월 26일, 크라카토아는 히로시마 원자폭탄의 13,000배 위력으로 폭발했습니다. 그 소리는 4,800km 떨어진 곳에서도 들렸습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 크라카토아.' },
+          zh: { title: '1883年喀拉喀托火山爆发', desc: '产生人类历史上最大声音的火山爆发。', content: '<p class="mb-4">1883年8月26日，喀拉喀托火山爆发，威力相当于13000颗广岛原子弹，远在4800公里外都能听到声音。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 喀拉喀托火山爆发。' }
+        }
+      },,
+      {
+        id: 'indonesia-sumpah-pemuda',
+        langs: {
+          id: { title: 'Sumpah Pemuda 1928', desc: 'Tonggak utama pergerakan kemerdekaan yang menyatukan identitas bangsa.', content: '<p class="mb-4">Diikrarkan pada 28 Oktober 1928, pemuda dari seluruh Nusantara bersumpah untuk bertumpah darah satu, berbangsa satu, dan menjunjung bahasa persatuan: Indonesia. Pada kongres ini pula lagu "Indonesia Raya" pertama kali diperdengarkan.</p>', sourceDomain: 'kemdikbud.go.id', sourceSnippet: 'Kemdikbud RI — Sejarah Sumpah Pemuda.' },
+          en: { title: 'Youth Pledge 1928', desc: 'The major milestone of the independence movement uniting the national identity.', content: '<p class="mb-4">Pledged on October 28, 1928, youths from across the archipelago swore to one motherland, one nation, and one language: Indonesia. The anthem "Indonesia Raya" was also played for the first time here.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Youth Pledge.' },
+          ja: { title: '1928年の青年の誓い', desc: '国民のアイデンティティを統一した独立運動の主要な節目。', content: '<p class="mb-4">1928年10月28日、群島全域の青年が一つの祖国、一つの国民、一つの言語（インドネシア語）を誓いました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 青年の誓い。' },
+          ko: { title: '1928년 청년의 맹세', desc: '국가 정체성을 통합한 독립 운동의 주요 이정표.', content: '<p class="mb-4">1928년 10월 28일, 군도 전역의 청년들이 하나의 조국, 하나의 민족, 하나의 언어인 인도네시아어를 맹세했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 청년의 맹세.' },
+          zh: { title: '1928年青年誓言', desc: '团结民族认同的独立运动的重要里程碑。', content: '<p class="mb-4">1928年10月28日，来自群岛各地的青年宣誓：一个祖国、一个民族、一种语言：印度尼西亚语。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 青年誓言。' }
+        }
+      },,
+      {
+        id: 'indonesia-voc',
+        langs: {
+          id: { title: 'Era VOC (Hindia Belanda)', desc: 'Perusahaan multinasional pertama di dunia yang memonopoli rempah-rempah Nusantara.', content: '<p class="mb-4">Vereenigde Oostindische Compagnie (VOC) didirikan pada 1602 dan menjadi perusahaan multinasional pertama sekaligus terkaya di dunia. VOC memiliki tentara sendiri, hak mencetak uang, dan menjajah Nusantara demi monopoli pala dan cengkeh.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Dutch East India Company.' },
+          en: { title: 'VOC Era (Dutch East Indies)', desc: 'The world\'s first multinational corporation that monopolized archipelago spices.', content: '<p class="mb-4">The Dutch East India Company (VOC), founded in 1602, was the world\'s first and richest multinational company. It had its own army, minted its own coins, and colonized the archipelago for spice monopoly.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — VOC.' },
+          ja: { title: 'オランダ東インド会社 (VOC)', desc: '群島の香辛料を独占した世界初の多国籍企業。', content: '<p class="mb-4">1602年に設立されたオランダ東インド会社（VOC）は、独自の軍隊を持ち、香辛料の独占のために群島を植民地化した世界初の多国籍企業でした。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — オランダ東インド会社。' },
+          ko: { title: '네덜란드 동인도 회사 (VOC)', 기: '군도의 향신료를 독점한 세계 최초의 다국적 기업.', content: '<p class="mb-4">1602년에 설립된 네덜란드 동인도 회사(VOC)는 자체 군대를 보유하고 향신료 독점을 위해 군도를 식민지화한 세계 최초의 다국적 기업이었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 네덜란드 동인도 회사.' },
+          zh: { title: '荷兰东印度公司 (VOC)', desc: '垄断群岛香料的世界第一家跨国公司。', content: '<p class="mb-4">成立于1602年的荷兰东印度公司（VOC）是世界上第一家跨国公司，拥有自己的军队并为了香料垄断而殖民群岛。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 荷兰东印度公司。' }
+        }
+      },
     ]
   },
 
@@ -69,7 +139,77 @@ const countries = {
           ko: { title: '히로시마 & 나가사키 원자폭탄', desc: '제2차 세계대전을 종식시킨 현대 전쟁사 최대의 인도주의적 비극.', content: '<p class="mb-4">1945년 8월 6일 미국이 히로시마에 첫 원자폭탄을 투하했고, 8월 9일 나가사키에 이어졌습니다. 두 도시가 순식간에 파괴되었고, 약 12만 9천~22만 6천 명이 사망했습니다.</p><p class="mb-4">히로시마는 이제 평화 기념관과 유네스코가 인정한 원폭 돔을 갖춘 세계 평화의 상징이 되었습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 히로시마 나가사키 원자폭탄.' },
           zh: { title: '广岛与长崎原子弹', desc: '结束第二次世界大战的现代战争史上最大的人道主义悲剧。', content: '<p class="mb-4">1945年8月6日，美国向广岛投下第一颗原子弹，8月9日又轰炸了长崎。两座城市瞬间被摧毁，估计有12.9万至22.6万人死亡。</p><p class="mb-4">广岛现在已成为世界和平的象征，拥有和平纪念馆和联合国教科文组织认定的原爆穹顶。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 广岛长崎原子弹。' }
         }
-      }
+      },
+      {
+        id: 'jepang-edo',
+        langs: {
+          id: { title: 'Budaya Zaman Edo (Ukiyo-e & Geisha)', desc: 'Berkembangnya budaya pop tradisional Jepang selama masa isolasi.', content: '<p class="mb-4">Selama periode damai yang panjang di bawah Tokugawa (Edo), seni populer berkembang pesat. Ini termasuk teater Kabuki, seniman penghibur Geisha, dan lukisan cetak kayu Ukiyo-e (seperti "The Great Wave off Kanagawa").</p>', sourceDomain: 'metmuseum.org', sourceSnippet: 'Met Museum — Edo Period Art.' },
+          en: { title: 'Edo Period Culture (Ukiyo-e & Geisha)', desc: 'The flourishing of traditional Japanese pop culture during isolation.', content: '<p class="mb-4">During the long peace under Tokugawa (Edo), popular arts thrived. This included Kabuki theater, Geisha entertainers, and Ukiyo-e woodblock prints like "The Great Wave off Kanagawa".</p>', sourceDomain: 'metmuseum.org', sourceSnippet: 'Met — Edo Culture.' },
+          ja: { title: '江戸時代の文化 (浮世絵と芸者)', desc: '鎖国下の日本の伝統的ポップカルチャーの開花。', content: '<p class="mb-4">徳川（江戸）の長期にわたる平和の間に、大衆芸術が繁栄しました。これには歌舞伎、芸者、そして「神奈川沖浪裏」のような浮世絵版画が含まれます。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 江戸時代。' },
+          ko: { title: '에도 시대 문화 (우키요에 및 게이샤)', desc: '고립 기간 동안 일본 전통 대중 문화의 번성.', content: '<p class="mb-4">도쿠가와(에도) 치하의 긴 평화 기간 동안 대중 예술이 번성했습니다. 여기에는 가부키 극장, 게이샤, "가나가와 해변의 높은 파도 아래"와 같은 우키요에 목판화가 포함됩니다。</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 에도 시대.' },
+          zh: { title: '江户时代文化 (浮世绘与艺伎)', desc: '孤立时期日本传统流行文化的繁荣。', content: '<p class="mb-4">在德川（江户）的长期和平期间，大众艺术繁荣发展。这包括歌舞伎、艺伎和《神奈川冲浪里》等浮世绘木版画。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 江户时代。' }
+        }
+      },,
+      {
+        id: 'jepang-fukushima',
+        langs: {
+          id: { title: 'Bencana Gempa & Tsunami Tōhoku 2011', desc: 'Gempa bumi paling kuat yang tercatat dalam sejarah Jepang.', content: '<p class="mb-4">Pada 11 Maret 2011, gempa berkekuatan 9,1 SR memicu tsunami setinggi 40 meter yang menyapu pesisir timur laut Jepang. Bencana ini juga menyebabkan kebocoran fatal di Pembangkit Listrik Tenaga Nuklir Fukushima Daiichi.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 2011 Japan Earthquake and Tsunami.' },
+          en: { title: '2011 Tōhoku Earthquake and Tsunami', desc: 'The most powerful earthquake ever recorded in Japan.', content: '<p class="mb-4">On March 11, 2011, a 9.1 magnitude quake triggered a 40-meter tsunami devastating Japan\'s northeast coast. It also caused nuclear meltdowns at the Fukushima Daiichi Nuclear Power Plant.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 2011 Tōhoku.' },
+          ja: { title: '東日本大震災', desc: '日本史上最大規模の地震。', content: '<p class="mb-4">2011年3月11日、マグニチュード9.1の地震が発生し、高さ40メートルの津波が東北地方の沿岸を襲いました。また、福島第一原子力発電所事故も引き起こしました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 東日本大震災。' },
+          ko: { title: '2011년 도호쿠 지진 및 쓰나미', desc: '일본 역사상 가장 강력한 지진.', content: '<p class="mb-4">2011년 3월 11일, 규모 9.1의 지진이 발생하여 40m 높이의 쓰나미가 일본 북동부 해안을 황폐화시켰습니다. 또한 후쿠시마 제1원자력 발전소 사고를 일으켰습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 도호쿠 지방 태평양 해역 지진.' },
+          zh: { title: '2011年日本东北地方太平洋近海地震', desc: '日本历史上记录到的最强地震。', content: '<p class="mb-4">2011年3月11日，9.1级地震引发了高达40米的海啸，摧毁了日本东北海岸，并导致福岛第一核电站发生核泄漏。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 311大地震。' }
+        }
+      },
+      {
+        id: 'jepang-heian',
+        langs: {
+          id: { title: 'Zaman Heian & The Tale of Genji', desc: 'Masa keemasan budaya keraton Jepang dan lahirnya novel pertama di dunia.', content: '<p class="mb-4">Zaman Heian (794–1185) dikenal karena seni, puisi, dan budayanya. Pada masa ini, Murasaki Shikibu, seorang wanita bangsawan, menulis "The Tale of Genji", yang diakui secara luas sebagai novel psikologis pertama di dunia.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Heian Period & Tale of Genji.' },
+          en: { title: 'Heian Period & The Tale of Genji', desc: 'Golden age of Japanese court culture and the world\'s first novel.', content: '<p class="mb-4">The Heian Period (794–1185) is noted for its art and poetry. Noblewoman Murasaki Shikibu wrote "The Tale of Genji" here, widely considered the world\'s first psychological novel.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Heian.' },
+          ja: { title: '平安時代と源氏物語', desc: '日本の宮廷文化の黄金時代と世界初の小説。', content: '<p class="mb-4">平安時代（794–1185）は芸術と詩で知られています。貴族の紫式部はここで、世界初の心理小説とされる『源氏物語』を執筆しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 平安時代。' },
+          ko: { title: '헤이안 시대와 겐지 이야기', desc: '일본 궁정 문화의 황금기와 세계 최초의 소설.', content: '<p class="mb-4">헤이안 시대(794–1185)는 예술과 시로 유명합니다. 귀족 여성 무라사키 시키부는 이곳에서 세계 최초의 심리 소설로 여겨지는 "겐지 이야기"를 썼습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 헤이안 시대.' },
+          zh: { title: '平安时代与源氏物语', desc: '日本宫廷文化的黄金时代和世界第一部小说。', content: '<p class="mb-4">平安时代（794–1185）以其艺术和诗歌闻名。贵族妇女紫式部在这里写下了《源氏物语》，被广泛认为是世界上第一部心理小说。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 平安时代。' }
+        }
+      },,
+      {
+        id: 'jepang-kamikaze',
+        langs: {
+          id: { title: 'Angin Topan Kamikaze', desc: 'Angin dewa yang menyelamatkan Jepang dari invasi Kekaisaran Mongol.', content: '<p class="mb-4">Pada 1274 dan 1281, Kubilai Khan dari Kekaisaran Mongol mengirim armada raksasa untuk menaklukkan Jepang. Kedua armada tersebut dihancurkan oleh topan dahsyat yang oleh Jepang disebut "Kamikaze" (Angin Dewa).</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'National Geographic — Mongol Invasions of Japan.' },
+          en: { title: 'Kamikaze Typhoons', desc: 'Divine winds that saved Japan from the Mongol Empire invasions.', content: '<p class="mb-4">In 1274 and 1281, Kublai Khan sent massive fleets to conquer Japan. Both fleets were destroyed by massive typhoons which the Japanese called "Kamikaze" (Divine Wind).</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'Nat Geo — Mongol Invasion.' },
+          ja: { title: '元寇と神風', desc: 'モンゴル帝国の侵攻から日本を救った神風。', content: '<p class="mb-4">1274年と1281年、フビライ・ハンは日本を征服するために巨大な艦隊を派遣しました。両艦隊は日本人が「神風」と呼んだ猛烈な台風によって壊滅しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 元寇。' },
+          ko: { title: '카미카제 태풍', desc: '몽골 제국의 침략으로부터 일본을 구한 신풍.', content: '<p class="mb-4">1274년과 1281년 쿠빌라이 칸은 일본을 정복하기 위해 거대한 함대를 보냈습니다. 두 함대 모두 일본인들이 "카미카제"(신풍)라고 부르는 거대한 태풍에 의해 파괴되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 여몽연합군의 일본 원정.' },
+          zh: { title: '神风台风', desc: '从蒙古帝国入侵中拯救日本的神圣之风。', content: '<p class="mb-4">1274年和1281年，忽必烈汗派遣庞大舰队征服日本。两支舰队都被日本人称为"神风"的猛烈台风摧毁。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 元日战争。' }
+        }
+      },,
+      {
+        id: 'jepang-russo',
+        langs: {
+          id: { title: 'Perang Rusia-Jepang (1904-1905)', desc: 'Kemenangan Asia pertama atas kekuatan Eropa di era modern.', content: '<p class="mb-4">Jepang menghancurkan Armada Baltik Rusia dalam Pertempuran Tsushima, mengejutkan dunia. Ini adalah kali pertama sebuah negara Asia mengalahkan kekuatan besar Eropa di era modern, mengukuhkan Jepang sebagai kekuatan dunia.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Russo-Japanese War.' },
+          en: { title: 'Russo-Japanese War (1904-1905)', desc: 'First Asian victory over a European power in the modern era.', content: '<p class="mb-4">Japan annihilated Russia\'s Baltic Fleet at Tsushima, shocking the world. It was the first time an Asian nation defeated a major European power in the modern era.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Russo-Japanese.' },
+          ja: { title: '日露戦争 (1904-1905)', desc: '近代においてアジアがヨーロッパの国に勝利した初の事例。', content: '<p class="mb-4">日本は対馬沖でロシアのバルチック艦隊を全滅させ、世界に衝撃を与えました。これは近代においてアジアの国がヨーロッパの大国を破った初めての出来事でした。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 日露戦争。' },
+          ko: { title: '러일 전쟁 (1904-1905)', desc: '근대 아시아 국가가 유럽 강대국을 상대로 거둔 첫 승리.', content: '<p class="mb-4">일본은 쓰시마 해전에서 러시아 발트 함대를 전멸시켜 세계를 놀라게 했습니다. 근대에 아시아 국가가 유럽 강대국을 격파한 것은 이번이 처음이었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 러일 전쟁.' },
+          zh: { title: '日俄战争 (1904-1905)', desc: '现代亚洲首次战胜欧洲强国。', content: '<p class="mb-4">日本在对马海战中歼灭了俄罗斯波罗的海舰队，震惊了世界。这是现代亚洲国家首次击败欧洲大国。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 日俄战争。' }
+        }
+      },,
+      {
+        id: 'jepang-sekigahara',
+        langs: {
+          id: { title: 'Pertempuran Sekigahara', desc: 'Pertempuran epik 1600 yang menyatukan Jepang di bawah Tokugawa.', content: '<p class="mb-4">Terjadi pada 21 Oktober 1600, pasukan Timur pimpinan Tokugawa Ieyasu mengalahkan pasukan Barat. Kemenangan ini mengakhiri perang saudara dan memulai era Keshogunan Tokugawa yang damai selama 260 tahun.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Battle of Sekigahara.' },
+          en: { title: 'Battle of Sekigahara', desc: 'The epic 1600 battle uniting Japan under Tokugawa.', content: '<p class="mb-4">Fought on Oct 21, 1600, Tokugawa Ieyasu\'s Eastern army defeated the Western army. This victory ended civil wars and started the 260-year peaceful Tokugawa Shogunate.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Sekigahara.' },
+          ja: { title: '関ヶ原の戦い', desc: '徳川の下で日本を統一した1600年の壮大な戦い。', content: '<p class="mb-4">1600年10月21日に行われ、徳川家康の東軍が西軍を破りました。この勝利により内戦が終わり、260年続く江戸幕府が始まりました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 関ヶ原の戦い。' },
+          ko: { title: '세키가하라 전투', desc: '도쿠가와 아래 일본을 통일한 1600년의 서사적인 전투.', content: '<p class="mb-4">1600년 10월 21일 벌어진 전투에서 도쿠가와 이에야스의 동군이 서군을 격파했습니다. 이 승리로 내전이 끝나고 260년간의 도쿠가와 막부가 시작되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 세키가하라 전투.' },
+          zh: { title: '关原之战', desc: '1600年将日本统一在德川统治下的史诗般战役。', content: '<p class="mb-4">发生于1600年10月21日，德川家康的东军击败了西军。这场胜利结束了内战，开启了长达260年的德川幕府时代。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 关原之战。' }
+        }
+      },,
+      {
+        id: 'jepang-sengoku',
+        langs: {
+          id: { title: 'Zaman Sengoku Jidai', desc: 'Era peperangan sipil berdarah antar panglima perang (daimyo).', content: '<p class="mb-4">Berlangsung dari abad ke-15 hingga ke-17, ini adalah masa kekacauan sosial dan konflik militer konstan di Jepang, di mana tokoh legendaris seperti Oda Nobunaga dan Toyotomi Hideyoshi muncul untuk menyatukan negeri.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Sengoku Period.' },
+          en: { title: 'Sengoku Jidai', desc: 'The era of bloody civil wars between warlords (daimyo).', content: '<p class="mb-4">Lasting from the 15th to 17th century, it was a time of social upheaval and constant military conflict in Japan, giving rise to legends like Oda Nobunaga.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Warring States Japan.' },
+          ja: { title: '戦国時代', desc: '大名間の血みどろの内戦時代。', content: '<p class="mb-4">15世紀から17世紀にかけて、日本における社会的混乱と絶え間ない軍事衝突の時代であり、織田信長や豊臣秀吉のような伝説的な人物が登場しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 戦国時代。' },
+          ko: { title: '센고쿠 시대', desc: '군벌(다이묘) 간의 유혈 내전 시대.', content: '<p class="mb-4">15세기부터 17세기까지 지속된 이 시대는 일본의 사회적 격변과 끊임없는 군사적 충돌의 시기로 오다 노부나가와 같은 전설적인 인물들이 등장했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 센고쿠 시대.' },
+          zh: { title: '战国时代', desc: '军阀（大名）之间血腥内战的时代。', content: '<p class="mb-4">从15世纪持续到17世纪，这是日本社会动荡和军事冲突不断的时期，织田信长等传奇人物由此崛起。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 日本战国时代。' }
+        }
+      },
     ]
   },
 
@@ -106,6 +246,76 @@ const countries = {
           ko: { title: '상형문자 — 이집트의 신성한 글자', desc: '3500년간 사용되어 고대 이집트 문명 이해의 열쇠가 된 상형 문자 체계.', content: '<p class="mb-4">상형문자(그리스어로 "신성한 글자")는 기원전 3200년경에 발전한 이집트의 그림문자 체계입니다. 소리, 단어, 개념을 나타내는 700개 이상의 기호로 구성됩니다.</p><p class="mb-4">1799년 로제타석 발견까지 상형문자는 풀리지 않는 수수께끼였습니다. 1822년 샹폴리옹이 해독에 성공했습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 이집트 상형문자.' },
           zh: { title: '象形文字——埃及神圣的书写', desc: '使用了3500年，成为理解古埃及文明关键的象形文字体系。', content: '<p class="mb-4">象形文字（希腊语意为"神圣的书写"）是约公元前3200年发展起来的埃及图形文字体系，由700多个代表声音、词语或概念的符号组成。</p><p class="mb-4">几个世纪来，象形文字是个未解之谜，直到1799年发现罗塞塔石碑。1822年商博良成功解读了象形文字。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 埃及象形文字。' }
         }
+      },
+      {
+        id: 'mesir-akhenaten',
+        langs: {
+          id: { title: 'Akhenaten & Revolusi Monoteisme', desc: 'Firaun radikal yang mengubah agama Mesir Kuno sesaat.', content: '<p class="mb-4">Firaun Akhenaten (ayah Tutankhamun) menghapus politeisme tradisional dan dewa Amun, lalu memaksa seluruh Mesir menyembah satu dewa tunggal: Aten (Cakram Matahari). Setelah ia wafat, monumennya dihancurkan dan agama lama dipulihkan.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Akhenaten and Monotheism.' },
+          en: { title: 'Akhenaten & Monotheism', desc: 'The radical Pharaoh who briefly changed Egyptian religion.', content: '<p class="mb-4">Pharaoh Akhenaten abolished traditional polytheism, forcing Egypt to worship a single god: Aten (the Sun Disk). After his death, his monuments were destroyed and the old religion restored.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Akhenaten.' },
+          ja: { title: 'アクエンアテンと一神教', desc: 'エジプトの宗教を一時的に変えた急進的なファラオ。', content: '<p class="mb-4">アクエンアテン（ツタンカーメンの父）は伝統的な多神教を廃止し、唯一神アテン（太陽円盤）を崇拝させました。彼の死後、古い宗教が復活しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — アクエンアテン。' },
+          ko: { title: '아크나톤과 일신교', desc: '이집트 종교를 일시적으로 바꾼 급진적인 파라오.', content: '<p class="mb-4">아크나톤(투탕카멘의 아버지)은 전통적인 다신교를 폐지하고 유일신 아톤(태양 원반)을 숭배하게 했습니다. 그의 사후 오래된 종교가 회복되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 아크나톤.' },
+          zh: { title: '阿肯那顿与一神教', desc: '短暂改变埃及宗教的激进法老。', content: '<p class="mb-4">阿肯那顿法老废除了传统的多神教，强迫埃及人崇拜唯一的神：阿顿（太阳圆盘）。他死后，旧宗教被恢复。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 阿肯那顿。' }
+        }
+      },,
+      {
+        id: 'mesir-alexandria',
+        langs: {
+          id: { title: 'Perpustakaan Besar Aleksandria', desc: 'Pusat pengetahuan terbesar di dunia kuno.', content: '<p class="mb-4">Dibangun pada masa Dinasti Ptolemeus (sekitar 285 SM), perpustakaan ini mengumpulkan hingga setengah juta gulungan papirus. Di sini, Eratosthenes berhasil menghitung keliling bumi dengan sangat akurat.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Library of Alexandria.' },
+          en: { title: 'Great Library of Alexandria', desc: 'The largest center of knowledge in the ancient world.', content: '<p class="mb-4">Built during the Ptolemaic Dynasty (c. 285 BC), it held up to half a million papyrus scrolls. Here, Eratosthenes accurately calculated the Earth\'s circumference.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Library of Alexandria.' },
+          ja: { title: 'アレクサンドリア図書館', desc: '古代世界最大の知識の中心地。', content: '<p class="mb-4">プトレマイオス朝時代（紀元前285年頃）に建設され、最大50万巻のパピルスが収められていました。ここでエラトステネスは地球の円周を正確に計算しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — アレクサンドリア図書館。' },
+          ko: { title: '알렉산드리아 도서관', desc: '고대 세계 최대의 지식 중심지.', content: '<p class="mb-4">프톨레마이오스 왕조(기원전 285년경)에 건설되었으며 최대 50만 권의 파피루스 두루마리를 소장했습니다. 여기서 에라토스테네스는 지구의 둘레를 정확하게 계산했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 알렉산드리아 도서관.' },
+          zh: { title: '亚历山大图书馆', desc: '古代世界最大的知识中心。', content: '<p class="mb-4">建于托勒密王朝（约公元前285年），馆藏多达50万卷纸莎草纸。在这里，埃拉托色尼准确计算出了地球的周长。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 亚历山大图书馆。' }
+        }
+      },,
+      {
+        id: 'mesir-hatshepsut',
+        langs: {
+          id: { title: 'Firaun Wanita Hatshepsut', desc: 'Penguasa wanita paling sukses di Mesir Kuno.', content: '<p class="mb-4">Berkuasa pada abad ke-15 SM, Hatshepsut menyatakan dirinya sebagai Firaun (raja, bukan ratu) dan sering digambarkan mengenakan janggut palsu. Ia membangun kembali jalur perdagangan kuno dan membangun kuil megah Deir el-Bahari.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Hatshepsut.' },
+          en: { title: 'Female Pharaoh Hatshepsut', desc: 'The most successful female ruler of Ancient Egypt.', content: '<p class="mb-4">Ruling in the 15th century BC, Hatshepsut declared herself Pharaoh (king, not queen) and wore a false beard. She re-established trade networks and built the grand Deir el-Bahari temple.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Hatshepsut.' },
+          ja: { title: '女性ファラオ・ハトシェプスト', desc: '古代エジプトで最も成功した女性統治者。', content: '<p class="mb-4">紀元前15世紀に統治したハトシェプストは自らをファラオ（女王ではなく王）と宣言し、付け髭をつけていました。彼女は壮大なデル・エル・バハリ神殿を建設しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ハトシェプスト。' },
+          ko: { title: '여성 파라오 하트셉수트', desc: '고대 이집트에서 가장 성공적인 여성 통치자.', content: '<p class="mb-4">기원전 15세기에 통치한 하트셉수트는 자신을 파라오(여왕이 아닌 왕)로 선포하고 가짜 수염을 달았습니다. 그녀는 웅장한 데이르 엘-바하리 신전을 지었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 하트셉수트.' },
+          zh: { title: '女法老哈特谢普苏特', desc: '古埃及最成功的女性统治者。', content: '<p class="mb-4">在公元前15世纪统治，哈特谢普苏特宣布自己为法老（国王，而不是女王）并戴着假胡须。她建造了宏伟的代尔巴哈里神庙。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 哈特谢普苏特。' }
+        }
+      },,
+      {
+        id: 'mesir-lembah-raja',
+        langs: {
+          id: { title: 'Lembah Para Raja', desc: 'Makam rahasia bawah tanah para Firaun di era Kerajaan Baru.', content: '<p class="mb-4">Untuk menghindari perampok makam yang sering menjarah piramida, para firaun (seperti Tutankhamun dan Ramses) mulai dikubur secara rahasia di makam bawah tanah yang dipahat di bebatuan kering tebing Thebes (kini Luxor).</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'National Geographic — Valley of the Kings.' },
+          en: { title: 'Valley of the Kings', desc: 'Secret underground tombs of New Kingdom Pharaohs.', content: '<p class="mb-4">To avoid grave robbers who frequently looted pyramids, pharaohs (like King Tut and Ramses) were buried secretly in rock-cut tombs in the dry cliffs of Thebes (now Luxor).</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'Nat Geo — Valley of the Kings.' },
+          ja: { title: '王家の谷', desc: '新王国時代のファラオたちの秘密の地下墓地。', content: '<p class="mb-4">ピラミッドを略奪する墓泥棒を避けるため、ファラオたちはテーベ（現在のルクソール）の乾燥した崖に掘られた岩窟墓に秘密裏に埋葬されました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 王家の谷。' },
+          ko: { title: '왕가의 계곡', desc: '신왕국 시대 파라오들의 비밀 지하 무덤.', content: '<p class="mb-4">피라미드를 약탈하는 도굴꾼들을 피하기 위해 파라오들은 테베(현 룩소르)의 마른 절벽에 파낸 암굴 무덤에 비밀리에 묻혔습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 왕가의 계곡.' },
+          zh: { title: '帝王谷', desc: '新王国时期法老们的秘密地下陵墓。', content: '<p class="mb-4">为了躲避经常掠夺金字塔的盗墓者，法老们被秘密埋葬在底比斯（今卢克索）干燥悬崖上开凿的岩陵中。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 帝王谷。' }
+        }
+      },,
+      {
+        id: 'mesir-mumi',
+        langs: {
+          id: { title: 'Proses Mumifikasi', desc: 'Teknik pengawetan mayat agar jiwa dapat hidup abadi di alam baka.', content: '<p class="mb-4">Orang Mesir Kuno percaya tubuh fisik harus utuh agar roh bisa bertahan hidup di akhirat. Organ dalam (kecuali jantung) dikeluarkan dan disimpan dalam Guci Kanopik, lalu tubuh dikeringkan dengan garam natron selama 70 hari sebelum dibungkus kain linen.</p>', sourceDomain: 'si.edu', sourceSnippet: 'Smithsonian — Egyptian Mummies.' },
+          en: { title: 'Mummification Process', desc: 'Body preservation techniques for eternal life in the afterlife.', content: '<p class="mb-4">Ancient Egyptians believed the physical body must remain intact for the spirit to survive in the afterlife. Organs (except the heart) were removed, and the body was dried with natron salt for 70 days.</p>', sourceDomain: 'si.edu', sourceSnippet: 'Smithsonian — Mummies.' },
+          ja: { title: 'ミイラ作りのプロセス', desc: '魂が死後の世界で永遠に生きるための遺体保存技術。', content: '<p class="mb-4">古代エジプト人は、魂が死後の世界で生き残るためには肉体が無傷でなければならないと信じていました。内臓（心臓を除く）を取り出し、ナトロン塩で70日間乾燥させました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ミイラ。' },
+          ko: { title: '미라 제작 과정', desc: '사후 세계에서 영원한 삶을 위한 시신 보존 기술.', content: '<p class="mb-4">고대 이집트인들은 영혼이 사후 세계에서 살아남으려면 육체가 온전해야 한다고 믿었습니다. 장기(심장 제외)를 제거하고 나트론 소금으로 70일 동안 건조시켰습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 미라.' },
+          zh: { title: '木乃伊制作过程', desc: '为了在来世获得永生的遗体保存技术。', content: '<p class="mb-4">古埃及人相信，为了让灵魂在来世存活，肉体必须保持完整。内脏（除心脏外）被取出，身体用泡碱盐干燥70天。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 木乃伊。' }
+        }
+      },,
+      {
+        id: 'mesir-nil',
+        langs: {
+          id: { title: 'Sungai Nil: Urat Nadi Mesir', desc: 'Sungai terpanjang di dunia yang menjadi fondasi peradaban Mesir Kuno.', content: '<p class="mb-4">Tanpa Sungai Nil, Mesir hanya akan menjadi gurun pasir. Banjir tahunan dari sungai ini (inundasi) meninggalkan lumpur hitam yang sangat subur, memungkinkan pertanian masif yang menopang seluruh kekaisaran Firaun.</p>', sourceDomain: 'nationalgeographic.org', sourceSnippet: 'National Geographic — Nile River.' },
+          en: { title: 'Nile River: The Lifeblood', desc: 'The longest river forming the foundation of Ancient Egyptian civilization.', content: '<p class="mb-4">Without the Nile, Egypt would be a desert. Its annual flooding deposited rich black silt, allowing massive agriculture that sustained the entire Pharaonic empire.</p>', sourceDomain: 'nationalgeographic.org', sourceSnippet: 'Nat Geo — Nile.' },
+          ja: { title: 'ナイル川：エジプトの生命線', desc: '古代エジプト文明の基盤となった世界最長の川。', content: '<p class="mb-4">ナイル川がなければエジプトは砂漠でした。毎年の洪水によって豊かな黒土が運ばれ、ファラオの帝国全体を支える大規模な農業が可能になりました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ナイル川。' },
+          ko: { title: '나일강: 이집트의 생명선', desc: '고대 이집트 문명의 토대가 된 세계에서 가장 긴 강.', content: '<p class="mb-4">나일강이 없었다면 이집트는 사막이었을 것입니다. 매년 발생하는 홍수로 비옥한 검은 흙이 쌓여 파라오 제국 전체를 유지하는 대규모 농업이 가능했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 나일강.' },
+          zh: { title: '尼罗河：埃及的命脉', desc: '奠定古埃及文明基础的世界最长河流。', content: '<p class="mb-4">如果没有尼罗河，埃及将是一片沙漠。其每年的洪水带来了肥沃的黑色淤泥，使得大规模农业成为可能，维持了整个法老帝国。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 尼罗河。' }
+        }
+      },,
+      {
+        id: 'mesir-suez',
+        langs: {
+          id: { title: 'Terusan Suez', desc: 'Proyek rekayasa modern yang mengubah arah perdagangan global.', content: '<p class="mb-4">Dibuka pada 1869, terusan sepanjang 193 km ini menghubungkan Laut Mediterania ke Laut Merah. Hal ini membuat kapal tidak perlu lagi mengelilingi seluruh benua Afrika untuk berlayar dari Eropa ke Asia.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Suez Canal.' },
+          en: { title: 'Suez Canal', desc: 'The modern engineering project that changed global trade.', content: '<p class="mb-4">Opened in 1869, this 193km canal connects the Mediterranean to the Red Sea, eliminating the need for ships to navigate around the entire African continent to reach Asia.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Suez Canal.' },
+          ja: { title: 'スエズ運河', desc: '世界貿易を変えた近代工学プロジェクト。', content: '<p class="mb-4">1869年に開通した193kmの運河で、地中海と紅海を結び、船がアジアへ行くためにアフリカ大陸を迂回する必要をなくしました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — スエズ運河。' },
+          ko: { title: '수에즈 운하', desc: '세계 무역을 바꾼 현대 공학 프로젝트.', content: '<p class="mb-4">1869년에 개통된 193km의 운하로 지중해와 홍해를 연결하여 선박이 아시아에 도달하기 위해 아프리카 대륙을 우회할 필요를 없앴습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 수에즈 운하.' },
+          zh: { title: '苏伊士运河', desc: '改变全球贸易的现代工程项目。', content: '<p class="mb-4">这条193公里长的运河于1869年开通，连接地中海和红海，使船只无需绕过整个非洲大陆即可到达亚洲。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 苏伊士运河。' }
+        }
       }
     ]
   },
@@ -133,7 +343,87 @@ const countries = {
           ko: { title: '콜로세움 — 로마의 거대한 경기장', desc: '전설적인 검투사 싸움을 위해 8만 명의 관중을 수용한 역사상 가장 큰 원형 경기장.', content: '<p class="mb-4">콜로세움(플라비우스 원형 경기장)은 70~80년경 로마에 건설된 인류 역사상 가장 큰 원형 경기장입니다. 5만~8만 명의 관중을 수용할 수 있으며, 로마 건설 공학의 정점입니다.</p><p class="mb-4">원래 구조물의 2/3가 여전히 남아 있으며, 연간 700만 명의 관광객이 방문하는 세계에서 가장 상징적인 기념물이 되었습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 로마 콜로세움.' },
           zh: { title: '罗马斗兽场 — 罗马的巨型竞技场', desc: '有史以来最大的圆形剧场，可容纳8万名观众观看传奇的角斗士战斗。', content: '<p class="mb-4">斗兽场（弗拉维安圆形剧场）是人类历史上最大的圆形剧场，建于公元70-80年间。可容纳5-8万名观众，是罗马建筑工程的顶峰。</p><p class="mb-4">尽管因地震和掠夺受损，原始结构的2/3仍然矗立。斗兽场现在是世界上最具标志性的纪念碑，每年有700万游客参观。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 罗马斗兽场。' }
         }
-      }
+      },
+      {
+        id: 'romawi-akuaduk',
+        langs: {
+          id: { title: 'Akuaduk & Teknik Sipil', desc: 'Sistem pengairan canggih penopang metropolitan kuno.', content: '<p class="mb-4">Bangsa Romawi adalah insinyur ulung. Mereka membangun jaringan akuaduk (saluran air) sepanjang ratusan kilometer menggunakan gravitasi konstan untuk memasok air bersih ke pemandian umum, air mancur, dan rumah pribadi di Roma.</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'National Geographic — Roman Aqueducts.' },
+          en: { title: 'Roman Aqueducts', desc: 'Advanced water systems sustaining an ancient metropolis.', content: '<p class="mb-4">Romans were master engineers, building hundreds of kilometers of aqueducts using precise gravity gradients to supply fresh water to public baths, fountains, and private homes.</p>', sourceDomain: 'ng.com', sourceSnippet: 'Nat Geo — Aqueducts.' },
+          ja: { title: 'ローマの水道橋', desc: '古代の巨大都市を支えた高度な水供給システム。', content: '<p class="mb-4">ローマ人は優れた技術者であり、重力を利用して公衆浴場や家庭に真水を供給するために何百キロにも及ぶ水道橋を建設しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ローマ水道。' },
+          ko: { title: '로마의 수도교', desc: '고대 거대 도시를 유지한 첨단 수도 시스템.', content: '<p class="mb-4">로마인들은 뛰어난 기술자였으며 중력을 이용하여 공중 목욕탕과 가정에 담수를 공급하기 위해 수백 킬로미터의 수도교를 건설했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 로마 수도.' },
+          zh: { title: '罗马高架渠', desc: '维持古代大都市的先进供水系统。', content: '<p class="mb-4">罗马人是优秀的工程师，他们利用重力建造了数百公里的高架渠，为公共浴池和家庭供应淡水。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 罗马高架渠。' }
+        }
+      },,
+      {
+        id: 'romawi-augustus',
+        langs: {
+          id: { title: 'Augustus & Pax Romana', desc: 'Kaisar pertama Roma dan era perdamaian selama 200 tahun.', content: '<p class="mb-4">Octavianus (Augustus) mengakhiri seabad perang saudara dan mendirikan Kekaisaran Romawi pada 27 SM. Masa pemerintahannya memulai "Pax Romana" (Perdamaian Romawi), sebuah periode stabilitas ekonomi dan budaya yang belum pernah terjadi sebelumnya.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Augustus.' },
+          en: { title: 'Augustus & Pax Romana', desc: 'Rome\'s first Emperor and the 200-year era of peace.', content: '<p class="mb-4">Octavian (Augustus) ended a century of civil war and founded the Roman Empire in 27 BC, starting the "Pax Romana" (Roman Peace), a period of unprecedented stability.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Pax Romana.' },
+          ja: { title: 'アウグストゥスとパクス・ロマーナ', desc: 'ローマ初代皇帝と200年にわたる平和な時代。', content: '<p class="mb-4">オクタウィアヌス（アウグストゥス）は紀元前27年にローマ帝国を建国し、かつてない安定期である「パクス・ロマーナ」（ローマの平和）を始めました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — アウグストゥス。' },
+          ko: { title: '아우구스투스와 팍스 로마나', desc: '로마의 초대 황제와 200년의 평화 시대.', content: '<p class="mb-4">옥타비아누스(아우구스투스)는 기원전 27년 로마 제국을 세우고 유례없는 안정기인 "팍스 로마나"(로마의 평화)를 시작했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 아우구스투스.' },
+          zh: { title: '奥古斯都与罗马和平', desc: '罗马第一位皇帝和200年的和平时代。', content: '<p class="mb-4">屋大维（奥古斯都）在公元前27年建立了罗马帝国，开启了史无前例的稳定时期——"罗马和平"。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 奥古斯都。' }
+        }
+      },,
+      {
+        id: 'romawi-keruntuhan',
+        langs: {
+          id: { title: 'Keruntuhan Romawi Barat (476 M)', desc: 'Akhir dari Kekaisaran yang berkuasa selama 1.000 tahun.', content: '<p class="mb-4">Setelah berabad-abad dilanda krisis ekonomi, korupsi, dan invasi suku-suku Jermanik (Goth, Vandal, Hun), Kekaisaran Romawi Barat resmi runtuh ketika raja barbar Odoacer menggulingkan kaisar terakhir, Romulus Augustulus pada 476 M.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Fall of Rome.' },
+          en: { title: 'Fall of the Western Roman Empire', desc: 'The end of a 1,000-year ruling Empire.', content: '<p class="mb-4">Following centuries of economic crisis and Germanic invasions, the Western Empire fell when barbarian king Odoacer deposed the last emperor, Romulus Augustulus, in 476 AD.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Fall of Rome.' },
+          ja: { title: '西ローマ帝国の滅亡', desc: '1000年続いた帝国の終焉。', content: '<p class="mb-4">数世紀にわたる経済危機とゲルマン人の侵略の後、476年に蛮族の王オドアケルが最後の皇帝ロムルス・アウグストゥルスを退位させ、西ローマ帝国は滅亡しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 西ローマ帝国。' },
+          ko: { title: '서로마 제국의 멸망', desc: '1000년 지속된 제국의 종말.', content: '<p class="mb-4">수세기에 걸친 경제 위기와 게르만족의 침략 이후, 476년 야만인 왕 오도아케르가 마지막 황제 로물루스 아우구스투스를 폐위시키면서 서로마 제국은 멸망했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 서로마 제국.' },
+          zh: { title: '西罗马帝国的灭亡', desc: '1000年帝国的终结。', content: '<p class="mb-4">经过几个世纪的经济危机和日耳曼人入侵，西罗马帝国在公元476年蛮族国王奥多亚塞废黜最后一位皇帝罗慕路斯·奥古斯都后灭亡。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 西罗马帝国。' }
+        }
+      },,
+      {
+        id: 'romawi-konstantin',
+        langs: {
+          id: { title: 'Konstantin Agung & Kristenisasi', desc: 'Kaisar Romawi pertama yang memeluk agama Kristen.', content: '<p class="mb-4">Konstantin melegalisasi kekristenan lewat Dekrit Milan (313 M) dan mengakhiri penganiayaan panjang. Ia juga memindahkan ibu kota kekaisaran dari Roma ke kota timur Byzantium, yang ia ganti namanya menjadi Konstantinopel.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Constantine I.' },
+          en: { title: 'Constantine the Great', desc: 'The first Roman Emperor to embrace Christianity.', content: '<p class="mb-4">Constantine legalized Christianity via the Edict of Milan (313 AD). He also moved the imperial capital from Rome east to Byzantium, renaming it Constantinople.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Constantine.' },
+          ja: { title: 'コンスタンティヌス大帝', desc: 'キリスト教を受け入れた最初のローマ皇帝。', content: '<p class="mb-4">コンスタンティヌスはミラノ勅令（313年）によってキリスト教を公認しました。また、首都をローマからビザンティウム（コンスタンティノープル）に移しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — コンスタンティヌス1世。' },
+          ko: { title: '콘스탄티누스 대제', desc: '기독교를 받아들인 최초의 로마 황제.', content: '<p class="mb-4">콘스탄티누스는 밀라노 칙령(313년)을 통해 기독교를 합법화했습니다. 또한 제국의 수도를 로마에서 비잔티움(콘스탄티노폴리스)으로 옮겼습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 콘스탄티누스 1세.' },
+          zh: { title: '君士坦丁大帝', desc: '第一位接受基督教的罗马皇帝。', content: '<p class="mb-4">君士坦丁通过《米兰敕令》（公元313年）使基督教合法化。他还将帝国首都从罗马迁至拜占庭（君士坦丁堡）。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 君士坦丁大帝。' }
+        }
+      },,
+      {
+        id: 'romawi-legiun',
+        langs: {
+          id: { title: 'Legiun Romawi', desc: 'Mesin militer paling mematikan dan disiplin di dunia kuno.', content: '<p class="mb-4">Kesuksesan penaklukan Romawi sangat bergantung pada Legiun—pasukan profesional yang sangat terlatih. Mereka memelopori taktik canggih seperti formasi "Testudo" (kura-kura) dengan perisai berlapis untuk melindungi diri dari panah musuh.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Roman Legion.' },
+          en: { title: 'The Roman Legion', desc: 'The most lethal and disciplined military machine of the ancient world.', content: '<p class="mb-4">Roman conquests relied heavily on the Legions—highly trained professional armies. They pioneered advanced tactics like the "Testudo" (tortoise) shield formation.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Legion.' },
+          ja: { title: 'ローマ軍団 (レギオン)', desc: '古代世界で最も規律正しい軍事組織。', content: '<p class="mb-4">ローマの征服は、高度に訓練された職業軍隊である軍団に依存していました。彼らは「テストゥド（亀）」と呼ばれる盾の陣形などの高度な戦術を開拓しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ローマ軍団。' },
+          ko: { title: '로마 군단', desc: '고대 세계에서 가장 규율 잡힌 군사 조직.', content: '<p class="mb-4">로마의 정복은 고도로 훈련된 직업 군대인 군단에 의존했습니다. 그들은 방패를 이용한 "테스투도(거북이)" 진형과 같은 고도의 전술을 개척했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 로마 군단.' },
+          zh: { title: '罗马军团', desc: '古代世界最纪律严明的军事机器。', content: '<p class="mb-4">罗马的征服在很大程度上依赖于军团——训练有素的职业军队。他们开创了先进的战术，如"龟甲阵"盾牌编队。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 罗马军团。' }
+        }
+      },,
+      {
+        id: 'romawi-pantheon',
+        langs: {
+          id: { title: 'Kuil Pantheon', desc: 'Mahakarya arsitektur Romawi yang atap kubahnya tak tertandingi.', content: '<p class="mb-4">Dibangun kembali oleh Kaisar Hadrian sekitar 126 M, Pantheon adalah kuil untuk semua dewa Roma. Hingga hari ini, kubah utamanya tetap menjadi kubah beton tak bertulang terbesar di dunia—sebuah bukti jeniusnya beton tahan lama Romawi.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Pantheon.' },
+          en: { title: 'The Pantheon', desc: 'Roman architectural masterpiece with an unparalleled dome.', content: '<p class="mb-4">Rebuilt by Emperor Hadrian around 126 AD, it remains the world\'s largest unreinforced concrete dome to this day—a testament to the genius of Roman durable concrete.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Pantheon.' },
+          ja: { title: 'パンテオン', desc: '比類のないドームを持つローマ建築の傑作。', content: '<p class="mb-4">126年頃にハドリアヌス帝によって再建されたパンテオンは、今日に至るまで世界最大の無筋コンクリートドームを誇っています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — パンテオン。' },
+          ko: { title: '판테온', desc: '비할 데 없는 돔을 가진 로마 건축의 걸작.', content: '<p class="mb-4">서기 126년경 하드리아누스 황제에 의해 재건된 판테온은 오늘날까지도 세계에서 가장 큰 무근 콘크리트 돔으로 남아 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 판테온.' },
+          zh: { title: '万神殿', desc: '拥有无与伦比穹顶的罗马建筑杰作。', content: '<p class="mb-4">约公元126年由哈德良皇帝重建，至今它仍是世界上最大的无钢筋混凝土穹顶，证明了罗马混凝土的天才。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 万神殿。' }
+        }
+      },
+      {
+        id: 'romawi-pompeii',
+        langs: {
+          id: { title: 'Kehancuran Pompeii (79 M)', desc: 'Kota Romawi yang membeku dalam waktu akibat abu vulkanik.', content: '<p class="mb-4">Ketika Gunung Vesuvius meletus pada 79 M, kota Pompeii dan Herculaneum terkubur di bawah abu setebal 4-6 meter. Saat digali berabad-abad kemudian, kota ini memberikan gambaran paling detail tentang kehidupan sehari-hari Romawi Kuno.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Pompeii.' },
+          en: { title: 'Destruction of Pompeii (79 AD)', desc: 'A Roman city frozen in time by volcanic ash.', content: '<p class="mb-4">When Mount Vesuvius erupted in 79 AD, Pompeii was buried under 4-6 meters of ash. Excavated centuries later, it provides the most detailed snapshot of ancient Roman daily life.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Pompeii.' },
+          ja: { title: 'ポンペイの滅亡', desc: '火山灰によって時が止まったローマの都市。', content: '<p class="mb-4">西暦79年にヴェスヴィオ山が噴火した際、ポンペイは火山灰の下に埋もれました。発掘されたこの都市は、古代ローマの日常生活の最も詳細な姿を伝えています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ポンペイ。' },
+          ko: { title: '폼페이의 최후', desc: '화산재에 의해 시간이 멈춘 로마 도시.', content: '<p class="mb-4">기원후 79년 베수비오 화산이 폭발했을 때 폼페이는 화산재 아래 묻혔습니다. 발굴된 이 도시는 고대 로마 일상 생활의 가장 생생한 모습을 제공합니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 폼페이.' },
+          zh: { title: '庞贝城的毁灭', desc: '被火山灰冻结在时间里的罗马城市。', content: '<p class="mb-4">公元79年维苏威火山爆发时，庞贝城被埋在火山灰下。发掘出的这座城市提供了古罗马日常生活的生动画面。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 庞贝城。' }
+        }
+      },,
+      {
+        id: 'romawi-punic',
+        langs: {
+          id: { title: 'Perang Punisia & Hannibal', desc: 'Perang eksistensial antara Roma dan Kartago memperebutkan Mediterania.', content: '<p class="mb-4">Dalam Perang Punisia Kedua (218 SM), jenderal Kartago legendaris, Hannibal Barca, memimpin pasukan gajah melintasi pegunungan Alpen untuk menyerang Italia. Meski sering kalah, Roma akhirnya menghancurkan Kartago dan menguasai laut Mediterania.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Punic Wars.' },
+          en: { title: 'Punic Wars & Hannibal', desc: 'The existential war between Rome and Carthage over the Mediterranean.', content: '<p class="mb-4">In the Second Punic War (218 BC), Carthaginian general Hannibal famously led elephants across the Alps into Italy. Despite early defeats, Rome eventually destroyed Carthage.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Punic.' },
+          ja: { title: 'ポエニ戦争とハンニバル', desc: '地中海を巡るローマとカルタゴの存亡をかけた戦争。', content: '<p class="mb-4">第二次ポエニ戦争（紀元前218年）で、カルタゴの将軍ハンニバルは象を連れてアルプスを越えイタリアに侵攻しました。最終的にローマが勝利しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — ポエニ戦争。' },
+          ko: { title: '포에니 전쟁과 한니발', desc: '지중해를 둘러싼 로마와 카르타고의 생존 전쟁.', content: '<p class="mb-4">제2차 포에니 전쟁(기원전 218년)에서 카르타고의 장군 한니발은 코끼리를 이끌고 알프스를 넘어 이탈리아를 침공했습니다. 결국 로마가 승리했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 포에니 전쟁.' },
+          zh: { title: '布匿战争与汉尼拔', desc: '罗马与迦太基争夺地中海的生存之战。', content: '<p class="mb-4">在第二次布匿战争（公元前218年）中，迦太基将军汉尼拔率领大象越过阿尔卑斯山入侵意大利。罗马最终获胜并摧毁了迦太基。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 布匿战争。' }
+        }
+      },
     ]
   },
 
@@ -159,6 +449,96 @@ const countries = {
           ja: { title: '唐朝 — 黄金時代', desc: '芸術、文学、技術、国際貿易における中国最も輝かしい時代（618–907年）。', content: '<p class="mb-4">唐朝（618–907年）は中国文明の黄金時代とされています。首都の長安（現在の西安）は人口100万人以上を擁する世界最大かつ最も国際色豊かな都市で、シルクロードの中心でした。</p><p class="mb-4">唐代には中国詩が頂点に達しました。李白と杜甫は現在も学ばれる最大の詩人です。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 唐朝。' },
           ko: { title: '당나라 — 황금 시대', desc: '예술, 문학, 기술 및 국제 무역에서 중국의 가장 찬란한 시대(618–907년).', content: '<p class="mb-4">당나라(618–907년)는 중국 문명의 황금시대로 여겨집니다. 수도 장안(현재의 시안)은 인구 100만 명 이상의 세계 최대의 국제적인 도시로 실크로드의 중심지였습니다.</p><p class="mb-4">당나라 시대에 중국 시가 정점에 달했습니다. 이백과 두보는 오늘날까지 연구되는 최대의 시인입니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 당나라.' },
           zh: { title: '唐朝 — 黄金时代', desc: '中国在艺术、文学、技术和国际贸易方面最辉煌的时代（618–907年）。', content: '<p class="mb-4">唐朝（618–907年）被认为是中华文明的黄金时代。其首都长安（今西安）是世界上最大、最具国际性的城市，人口超过100万，是丝绸之路的繁荣中心。</p><p class="mb-4">唐代中国诗歌达到顶峰。李白和杜甫是至今仍被研究的两位最伟大的诗人。雕版印刷也在这一时代首次发展起来。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 唐朝。' }
+        }
+      },
+      {
+        id: 'tiongkok-candu',
+        langs: {
+          id: { title: 'Perang Candu', desc: 'Awal dari "Abad Penghinaan" bagi Kekaisaran Qing.', content: '<p class="mb-4">Pada abad ke-19 (1839), Kerajaan Inggris menyelundupkan opium (candu) ke Tiongkok untuk menutupi defisit perdagangan teh. Saat Tiongkok menyita opium itu, Inggris menyatakan perang. Tiongkok kalah, dipaksa membuka pelabuhan dan menyerahkan pulau Hong Kong ke Inggris.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Opium Wars.' },
+          en: { title: 'The Opium Wars', desc: 'The start of the "Century of Humiliation" for the Qing Empire.', content: '<p class="mb-4">In 1839, Britain smuggled opium into China. When China seized it, Britain declared war. China lost, was forced to open ports, and ceded Hong Kong island to the British.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Opium Wars.' },
+          ja: { title: 'アヘン戦争', desc: '清帝国の「屈辱の世紀」の始まり。', content: '<p class="mb-4">1839年、イギリスは中国にアヘンを密輸しました。中国がそれを没収するとイギリスは宣戦布告し、勝利したイギリスは香港を割譲させました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — アヘン戦争。' },
+          ko: { title: '아편 전쟁', desc: '청 제국의 "굴욕의 세기" 시작.', content: '<p class="mb-4">1839년 영국은 중국에 아편을 밀수했습니다. 중국이 이를 몰수하자 영국은 전쟁을 선포했고 승리한 영국은 홍콩을 할양받았습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 아편 전쟁.' },
+          zh: { title: '鸦片战争', desc: '清帝国"百年国耻"的开端。', content: '<p class="mb-4">1839年，英国向中国走私鸦片。当中国没收鸦片时，英国宣战。中国战败，被迫开放通商口岸并将香港岛割让给英国。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 鸦片战争。' }
+        }
+      },,
+      {
+        id: 'tiongkok-cheng-ho',
+        langs: {
+          id: { title: 'Armada Harta Laksamana Cheng Ho', desc: 'Ekspedisi maritim raksasa yang mendahului pelayaran Eropa.', content: '<p class="mb-4">Tujuh dekade sebelum Columbus, Laksamana Zheng He (Cheng Ho) dari Dinasti Ming memimpin armada kapal kayu terbesar di dunia—beberapa kapalnya berukuran lebih dari 120 meter. Ia melakukan 7 pelayaran melintasi Samudra Hindia hingga ke Afrika Timur (1405-1433).</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'National Geographic — Zheng He.' },
+          en: { title: 'Zheng He\'s Treasure Fleet', desc: 'Massive maritime expeditions predating European voyages.', content: '<p class="mb-4">Seven decades before Columbus, Admiral Zheng He led the world\'s largest wooden fleet—some ships over 120 meters long—on 7 voyages across the Indian Ocean to East Africa (1405-1433).</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'Nat Geo — Zheng He.' },
+          ja: { title: '鄭和の宝船艦隊', desc: 'ヨーロッパの航海に先駆けた大規模な海洋遠征。', content: '<p class="mb-4">コロンブスより70年前、明の鄭和提督は世界最大の木造艦隊を率いて、インド洋を越えて東アフリカまでの7回の航海を行いました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 鄭和。' },
+          ko: { title: '정화의 원정', desc: '유럽의 항해보다 앞선 대규모 해양 원정.', content: '<p class="mb-4">콜럼버스보다 70년 앞서, 명나라의 정화 제독은 세계 최대의 목조 함대를 이끌고 인도양을 가로질러 동아프리카까지 7차례 항해했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 정화 (명나라).' },
+          zh: { title: '郑和下西洋', desc: '早于欧洲航海的大规模海上远征。', content: '<p class="mb-4">在哥伦布之前70年，明朝海军将领郑和率领当时世界上最大的木制舰队，七次穿越印度洋远达东非。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 郑和下西洋。' }
+        }
+      },,
+      {
+        id: 'tiongkok-empat-penemuan',
+        langs: {
+          id: { title: 'Empat Penemuan Besar', desc: 'Inovasi kuno Tiongkok yang mengubah dunia selamanya.', content: '<p class="mb-4">Peradaban Tiongkok bertanggung jawab atas Empat Penemuan Besar: Pembuatan Kertas (Dinasti Han), Mesin Cetak (Dinasti Tang), Bubuk Mesiu (Dinasti Tang abad ke-9), dan Kompas Magnetik. Keempatnya memacu lompatan besar dalam peradaban global manusia.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Chinese Inventions.' },
+          en: { title: 'Four Great Inventions', desc: 'Ancient Chinese innovations that forever changed the world.', content: '<p class="mb-4">China is responsible for the Four Great Inventions: Papermaking, Printing, Gunpowder, and the Magnetic Compass. All four spurred massive leaps in global human civilization.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Inventions.' },
+          ja: { title: '四大発明', desc: '世界を永遠に変えた古代中国の革新。', content: '<p class="mb-4">中国は四大発明（製紙、印刷、火薬、羅針盤）を生み出し、人類の文明に飛躍的な進歩をもたらしました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 四大発明。' },
+          ko: { title: '4대 발명품', desc: '세계를 영원히 바꾼 고대 중국의 혁신.', content: '<p class="mb-4">중국은 종이, 인쇄술, 화약, 나침반의 4대 발명품을 만들어 인류 문명의 비약적인 발전을 촉진했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 중국의 4대 발명.' },
+          zh: { title: '四大发明', desc: '永远改变世界的古代中国创新。', content: '<p class="mb-4">中国孕育了四大发明：造纸术、印刷术、火药和指南针，极大地推动了全球人类文明的进步。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 四大发明。' }
+        }
+      },,
+      {
+        id: 'tiongkok-han',
+        langs: {
+          id: { title: 'Dinasti Han', desc: 'Zaman konsolidasi kebudayaan Tiongkok yang menjadi identitas bangsa.', content: '<p class="mb-4">Berkuasa lebih dari 400 tahun (202 SM – 220 M), Dinasti Han sangat sukses dan stabil sehingga hingga hari ini mayoritas etnis di Tiongkok secara resmi menyebut diri mereka "Suku Han", dan aksara mereka disebut "Hànzì" (Karakter Han).</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Han Dynasty.' },
+          en: { title: 'Han Dynasty', desc: 'The golden age that cemented Chinese identity.', content: '<p class="mb-4">Ruling for over 400 years (202 BC–220 AD), the Han Dynasty was so influential that today the majority ethnic group in China calls itself the "Han people," and their script "Hànzì" (Han characters).</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Han.' },
+          ja: { title: '漢朝', desc: '中国のアイデンティティを確立した黄金時代。', content: '<p class="mb-4">400年以上（紀元前202年〜紀元220年）統治した漢朝は非常に影響力があり、今日の中国の多数派民族は自らを「漢民族」、文字を「漢字」と呼んでいます。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 漢。' },
+          ko: { title: '한나라', desc: '중국의 정체성을 확립한 황금기.', content: '<p class="mb-4">400년 이상(기원전 202년~서기 220년) 통치한 한나라는 매우 큰 영향을 미쳐 오늘날 중국의 다수 민족은 스스로를 "한족", 문자를 "한자"라고 부릅니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 한나라.' },
+          zh: { title: '汉朝', desc: '巩固了中国认同的黄金时代。', content: '<p class="mb-4">汉朝统治了400多年（公元前202年–公元220年），影响深远，以至于今天中国的大多数民族自称为"汉族"，他们的文字被称为"汉字"。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 汉朝。' }
+        }
+      },,
+      {
+        id: 'tiongkok-jalur-sutra',
+        langs: {
+          id: { title: 'Jalur Sutra', desc: 'Jaringan rute perdagangan kuno yang menghubungkan Timur dan Barat.', content: '<p class="mb-4">Dibuka pertama kali pada masa Dinasti Han (130 SM), Jalur Sutra bukan hanya jalur pertukaran komoditas seperti sutra, rempah, dan kaca, tetapi juga jalur pertukaran agama (Buddha, Islam), budaya, dan penyebaran penyakit antar benua.</p>', sourceDomain: 'unesco.org', sourceSnippet: 'UNESCO — The Silk Roads.' },
+          en: { title: 'The Silk Road', desc: 'Ancient trade network connecting the East and West.', content: '<p class="mb-4">Opened during the Han Dynasty (130 BC), the Silk Road facilitated the exchange of goods like silk and spices, as well as religions (Buddhism), culture, and technologies.</p>', sourceDomain: 'unesco.org', sourceSnippet: 'UNESCO — Silk Road.' },
+          ja: { title: 'シルクロード', desc: '東西を結ぶ古代の貿易ルート網。', content: '<p class="mb-4">漢代（紀元前130年）に開かれ、絹や香辛料のほか、宗教（仏教）、文化、技術の交流を促進しました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — シルクロード。' },
+          ko: { title: '실크로드', desc: '동서양을 연결하는 고대 무역로 네트워크.', content: '<p class="mb-4">한나라(기원전 130년) 때 열린 실크로드는 비단과 향신료뿐만 아니라 종교(불교), 문화, 기술의 교류를 촉진했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 실크로드.' },
+          zh: { title: '丝绸之路', desc: '连接东西方的古代贸易网络。', content: '<p class="mb-4">在汉朝（公元前130年）开通的丝绸之路促进了丝绸、香料等商品的交流，以及宗教（佛教）、文化和技术的传播。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 丝绸之路。' }
+        }
+      },,
+      {
+        id: 'tiongkok-tang',
+        langs: {
+          id: { title: 'Dinasti Tang (Zaman Keemasan)', desc: 'Era paling kosmopolit dan gemilang dalam sejarah peradaban.', content: '<p class="mb-4">Ibu kota Tang, Chang\'an, adalah kota terbesar di dunia yang dihuni oleh satu juta jiwa. Pada era ini, puisi, kesenian, dan penemuan teknologi seperti mesin cetak kayu pertama kali berkembang pesat.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Tang Dynasty.' },
+          en: { title: 'Tang Dynasty (Golden Age)', desc: 'The most cosmopolitan and glorious era in Chinese history.', content: '<p class="mb-4">The capital, Chang\'an, was the world\'s largest city with a million residents. Poetry, art, and inventions like woodblock printing flourished remarkably.</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Tang.' },
+          ja: { title: '唐朝 (黄金時代)', desc: '中国の歴史で最も国際的で輝かしい時代。', content: '<p class="mb-4">首都長安は人口100万人の世界最大の都市でした。詩、芸術、そして木版印刷のような発明が著しく栄えました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 唐。' },
+          ko: { title: '당나라 (황금기)', desc: '중국 역사상 가장 국제적이고 찬란한 시대.', content: '<p class="mb-4">수도 장안은 인구 100만 명의 세계 최대 도시였습니다. 시, 예술, 그리고 목판 인쇄와 같은 발명품이 번성했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 당나라.' },
+          zh: { title: '唐朝 (黄金时代)', desc: '中国历史上最国际化和最辉煌的时代。', content: '<p class="mb-4">首都长安是世界上第一座人口过百万的城市。诗歌、艺术和雕版印刷等发明在这里蓬勃发展。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 唐朝。' }
+        }
+      },,
+      {
+        id: 'tiongkok-terakota',
+        langs: {
+          id: { title: 'Pasukan Terakota Kaisar Qin', desc: 'Pasukan tanah liat ribuan prajurit pelindung kaisar pertama.', content: '<p class="mb-4">Ditemukan secara tidak sengaja oleh petani pada 1974, makam Kaisar Qin Shi Huang (kaisar pertama Tiongkok bersatu) berisi lebih dari 8.000 patung prajurit tanah liat seukuran manusia. Masing-masing memiliki wajah yang unik.</p>', sourceDomain: 'nationalgeographic.com', sourceSnippet: 'National Geographic — Terracotta Army.' },
+          en: { title: 'Terracotta Army', desc: 'Clay army of thousands protecting the First Emperor.', content: '<p class="mb-4">Discovered in 1974, Qin Shi Huang\'s tomb holds over 8,000 life-sized clay soldiers, horses, and chariots, each with uniquely sculpted facial features.</p>', sourceDomain: 'ng.com', sourceSnippet: 'Nat Geo — Terracotta.' },
+          ja: { title: '兵馬俑', desc: '初代皇帝を守る何千人もの粘土の軍隊。', content: '<p class="mb-4">1974年に発見された始皇帝の陵墓には、それぞれ独自の顔を持つ8,000体以上の等身大の粘土の兵士が収められています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 兵馬俑。' },
+          ko: { title: '병마용', desc: '초대 황제를 지키는 수천 명의 점토 군대.', content: '<p class="mb-4">1974년에 발견된 진시황릉에는 각각 고유한 얼굴을 가진 8,000개 이상의 실물 크기 점토 병사가 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 병마용.' },
+          zh: { title: '兵马俑', desc: '保护始皇帝的数千泥土大军。', content: '<p class="mb-4">于1974年发现的秦始皇陵内含有8000多个真人大小的兵马俑，每个都有独特的面部特征。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 兵马俑。' }
+        }
+      },,
+      {
+        id: 'tiongkok-tiga-negara',
+        langs: {
+          id: { title: 'Zaman Tiga Negara (Samkok)', desc: 'Era perpecahan militer legendaris paling terkenal di Tiongkok.', content: '<p class="mb-4">Runtuhnya Dinasti Han memecah Tiongkok menjadi tiga negara yang saling berperang: Wei, Shu, dan Wu (220–280 M). Zaman intrik politik dan taktik militer brilian ini (seperti oleh ahli strategi Zhuge Liang) kelak diabadikan dalam novel epik "Romance of the Three Kingdoms".</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Three Kingdoms Period.' },
+          en: { title: 'Three Kingdoms Period', desc: 'China\'s most famous legendary era of military division.', content: '<p class="mb-4">The fall of the Han split China into three warring states: Wei, Shu, and Wu (220–280 AD). This era of brilliant tactics was immortalized in the epic novel "Romance of the Three Kingdoms".</p>', sourceDomain: 'history.com', sourceSnippet: 'History — Three Kingdoms.' },
+          ja: { title: '三国時代', desc: '中国で最も有名な伝説的な軍事分裂の時代。', content: '<p class="mb-4">漢の滅亡により、中国は魏、蜀、呉の3つの国に分裂しました（220〜280年）。この時代は後に『三国志演義』として不朽の名作となりました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 三国時代 (中国)。' },
+          ko: { title: '삼국 시대', desc: '중국에서 가장 유명한 전설적인 군사 분열의 시대.', content: '<p class="mb-4">한나라의 멸망으로 중국은 위, 촉, 오 세 나라로 분열되었습니다(220~280년). 이 시대는 나중에 서사 소설 "삼국지연의"로 영원히 기억되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 삼국 시대 (중국).' },
+          zh: { title: '三国时期', desc: '中国最著名的传奇军事分裂时代。', content: '<p class="mb-4">汉朝的覆灭使中国分裂为魏、蜀、吴三个交战国（220–280年）。这个充满辉煌战术的时代在史诗小说《三国演义》中名垂千古。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 三国时期。' }
+        }
+      },,
+      {
+        id: 'tiongkok-xinhai',
+        langs: {
+          id: { title: 'Revolusi Xinhai (1911)', desc: 'Runtuhnya sistem kekaisaran berusia ribuan tahun dan lahirnya Republik.', content: '<p class="mb-4">Dipimpin secara spiritual oleh dr. Sun Yat-sen, revolusi ini menggulingkan kaisar terakhir Tiongkok, Puyi (Dinasti Qing), pada tahun 1911. Peristiwa ini mengakhiri lebih dari 2.000 tahun pemerintahan monarki imperial di Tiongkok.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Chinese Revolution 1911.' },
+          en: { title: 'Xinhai Revolution (1911)', desc: 'The collapse of the millennia-old imperial system.', content: '<p class="mb-4">Led spiritually by Dr. Sun Yat-sen, this revolution overthrew the last emperor, Puyi (Qing Dynasty), ending over 2,000 years of imperial monarchic rule in China.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Xinhai Revolution.' },
+          ja: { title: '辛亥革命 (1911)', desc: '数千年に及ぶ帝政の崩壊。', content: '<p class="mb-4">孫文が主導したこの革命は、最後の皇帝溥儀（清朝）を打倒し、中国における2000年以上の君主制の支配を終わらせました。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia — 辛亥革命。' },
+          ko: { title: '신해혁명 (1911)', desc: '수천 년에 걸친 제국주의 체제의 붕괴.', content: '<p class="mb-4">쑨원이 주도한 이 혁명은 마지막 황제 푸이(청나라)를 타도하여 중국에서 2000년 이상 이어진 군주제 통치를 끝냈습니다.</p>', 고: 'Wikipedia — 신해혁명.' },
+          zh: { title: '辛亥革命 (1911)', desc: '长达数千年的帝国制度的崩溃。', content: '<p class="mb-4">由孙中山领导的这场革命推翻了末代皇帝溥仪（清朝），结束了中国两千多年的君主专制统治。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 辛亥革命。' }
         }
       }
     ]

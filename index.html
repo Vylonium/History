@@ -162,7 +162,23 @@
   &copy; 2026 Wikybook. <span id="footerText">Seluruh hak cipta dilindungi.</span>
 </footer>
 
-<script src="data.js"></script>
+<script src="data_indonesia.js"></script>
+<script src="data_jepang.js"></script>
+<script src="data_mesir.js"></script>
+<script src="data_romawi.js"></script>
+<script src="data_tiongkok.js"></script>
+<script src="data_inggris.js"></script>
+<script src="data_prancis.js"></script>
+<script src="data_jerman.js"></script>
+<script src="data_spanyol.js"></script>
+<script src="data_portugal.js"></script>
+<script>
+// Merge semua file data per negara ke dalam satu object 'countries'
+(function() {
+  if (typeof window.countryDataFiles === 'undefined') window.countryDataFiles = {};
+  window.countries = window.countryDataFiles;
+})();
+</script>
 <script>
 // =============================================
 // STATE

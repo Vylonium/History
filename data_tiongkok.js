@@ -1,0 +1,31 @@
+// Wikybook — Data historis: tiongkok
+// File ini di-generate otomatis. Jangan edit manual.
+
+if (typeof window.countryDataFiles === 'undefined') window.countryDataFiles = {};
+
+window.countryDataFiles['tiongkok'] = {
+    names: { id: 'Tiongkok', en: 'China', ja: '中国', ko: '중국', zh: '中国' },
+    flag: '🇨🇳',
+    articles: [
+      {
+        id: 'tiongkok-tembok',
+        langs: {
+          id: { title: 'Tembok Besar Tiongkok', desc: 'Salah satu proyek konstruksi terbesar dalam sejarah manusia, dibangun selama lebih dari 2.000 tahun untuk melindungi dari invasi utara.', content: '<p class="mb-4">Tembok Besar Tiongkok adalah serangkaian tembok dan benteng yang dibangun di seluruh wilayah utara Tiongkok. Pembangunan dimulai sejak abad ke-7 SM dan berlanjut hingga Dinasti Ming (1368–1644 M).</p><p class="mb-4">Panjang totalnya mencapai lebih dari 21.000 km — cukup untuk mengelilingi Bumi setengah kali. Dibangun oleh jutaan pekerja paksa, termasuk tentara, petani, dan tahanan. Diperkirakan ratusan ribu pekerja meninggal saat pembangunan dan dimakamkan di dalam tembok.</p><p class="mb-4">UNESCO menetapkan Tembok Besar sebagai Warisan Dunia pada 1987. Meski mitos "terlihat dari luar angkasa" tidak benar, Tembok Besar tetap menjadi simbol ketekunan dan kekuatan peradaban Tiongkok.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Tembok Besar Tiongkok.' },
+          en: { title: 'Great Wall of China', desc: 'One of the largest construction projects in human history, built over 2,000 years to protect against northern invasions.', content: '<p class="mb-4">The Great Wall of China is a series of walls and fortifications built across northern China. Construction started in the 7th century BC and continued through the Ming Dynasty (1368–1644 CE).</p><p class="mb-4">Its total length exceeds 21,000 km — enough to wrap around Earth half a time. Built by millions of forced laborers including soldiers, farmers, and prisoners. Hundreds of thousands are estimated to have died and been buried within the wall.</p><p class="mb-4">UNESCO designated the Great Wall a World Heritage Site in 1987. Though the myth of seeing it from space is untrue, it remains a symbol of Chinese civilization\'s perseverance and strength.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Great Wall of China.' },
+          ja: { title: '万里の長城', desc: '北方からの侵略を防ぐために2000年以上かけて建設された、人類史上最大の建設プロジェクトの一つ。', content: '<p class="mb-4">万里の長城は中国北部に建設された一連の城壁と要塞です。建設は紀元前7世紀に始まり、明朝（1368–1644年）まで続きました。</p><p class="mb-4">総延長は21,000km以上に及び、地球を半周できる長さです。ユネスコは1987年に世界遺産に指定しました。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 万里の長城。' },
+          ko: { title: '만리장성', desc: '북방 침략으로부터 보호하기 위해 2000년 이상에 걸쳐 건설된 인류 역사상 가장 큰 건설 프로젝트 중 하나.', content: '<p class="mb-4">만리장성은 중국 북부에 건설된 일련의 성벽과 요새입니다. 건설은 기원전 7세기에 시작되어 명나라(1368–1644년)까지 계속되었습니다.</p><p class="mb-4">총 길이는 21,000km를 초과하며, 지구를 반 바퀴 돌 수 있는 길이입니다. 유네스코는 1987년 세계문화유산으로 지정했습니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 만리장성.' },
+          zh: { title: '万里长城', desc: '为抵御北方入侵而历时2000多年建造的人类历史上最大的建设工程之一。', content: '<p class="mb-4">万里长城是建于中国北部的一系列城墙和要塞。建设从公元前7世纪开始，一直持续到明朝（1368–1644年）。</p><p class="mb-4">其总长度超过21,000公里，足以绕地球半圈。联合国教科文组织于1987年将其列为世界遗产。尽管从太空看见长城的说法是神话，但它仍然是中华文明坚韧与力量的象征。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 万里长城。' }
+        }
+      },
+      {
+        id: 'tiongkok-dinasti-tang',
+        langs: {
+          id: { title: 'Dinasti Tang — Zaman Keemasan', desc: 'Era paling gemilang Tiongkok dalam seni, sastra, teknologi, dan perdagangan internasional (618–907 M).', content: '<p class="mb-4">Dinasti Tang (618–907 M) dianggap sebagai zaman keemasan peradaban Tiongkok. Ibu kotanya, Chang\'an (kini Xi\'an), adalah kota terbesar dan paling kosmopolit di dunia dengan populasi lebih dari 1 juta jiwa — pusat Jalur Sutra yang ramai.</p><p class="mb-4">Di era Tang, puisi Tiongkok mencapai puncaknya. Li Bai dan Du Fu adalah dua penyair terbesar yang karya-karyanya masih dipelajari hingga kini. Percetakan blok kayu juga pertama kali berkembang di era ini.</p><p class="mb-4">Tang juga dikenal toleran secara agama — Islam, Kristen Nestorian, Zoroastrianisme, dan Buddha berkembang berdampingan di Chang\'an. Wanita di era Tang menikmati kebebasan yang luar biasa untuk zamannya.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Dinasti Tang Tiongkok.' },
+          en: { title: 'Tang Dynasty — The Golden Age', desc: 'China\'s most glorious era in arts, literature, technology, and international trade (618–907 CE).', content: '<p class="mb-4">The Tang Dynasty (618–907 CE) is considered the golden age of Chinese civilization. Its capital Chang\'an (now Xi\'an) was the world\'s largest and most cosmopolitan city with a population over 1 million — the bustling center of the Silk Road.</p><p class="mb-4">In the Tang era, Chinese poetry reached its peak. Li Bai and Du Fu are the two greatest poets whose works are still studied today. Block printing also first developed in this era.</p><p class="mb-4">Tang was also religiously tolerant — Islam, Nestorian Christianity, Zoroastrianism, and Buddhism flourished together in Chang\'an.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — Tang Dynasty China.' },
+          ja: { title: '唐朝 — 黄金時代', desc: '芸術、文学、技術、国際貿易における中国最も輝かしい時代（618–907年）。', content: '<p class="mb-4">唐朝（618–907年）は中国文明の黄金時代とされています。首都の長安（現在の西安）は人口100万人以上を擁する世界最大かつ最も国際色豊かな都市で、シルクロードの中心でした。</p><p class="mb-4">唐代には中国詩が頂点に達しました。李白と杜甫は現在も学ばれる最大の詩人です。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 唐朝。' },
+          ko: { title: '당나라 — 황금 시대', desc: '예술, 문학, 기술 및 국제 무역에서 중국의 가장 찬란한 시대(618–907년).', content: '<p class="mb-4">당나라(618–907년)는 중국 문명의 황금시대로 여겨집니다. 수도 장안(현재의 시안)은 인구 100만 명 이상의 세계 최대의 국제적인 도시로 실크로드의 중심지였습니다.</p><p class="mb-4">당나라 시대에 중국 시가 정점에 달했습니다. 이백과 두보는 오늘날까지 연구되는 최대의 시인입니다.</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 당나라.' },
+          zh: { title: '唐朝 — 黄金时代', desc: '中国在艺术、文学、技术和国际贸易方面最辉煌的时代（618–907年）。', content: '<p class="mb-4">唐朝（618–907年）被认为是中华文明的黄金时代。其首都长安（今西安）是世界上最大、最具国际性的城市，人口超过100万，是丝绸之路的繁荣中心。</p><p class="mb-4">唐代中国诗歌达到顶峰。李白和杜甫是至今仍被研究的两位最伟大的诗人。雕版印刷也在这一时代首次发展起来。</p>', sourceDomain: 'britannica.com', sourceSnippet: 'Britannica — 唐朝。' }
+        }
+      }
+    ]
+  };

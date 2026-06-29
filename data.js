@@ -102,7 +102,7 @@ const countries = {
           ko: { title: '네덜란드 동인도 회사 (VOC)', 기: '군도의 향신료를 독점한 세계 최초의 다국적 기업.', content: '<p class="mb-4">1602년에 설립된 네덜란드 동인도 회사(VOC)는 자체 군대를 보유하고 향신료 독점을 위해 군도를 식민지화한 세계 최초의 다국적 기업이었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 네덜란드 동인도 회사.' },
           zh: { title: '荷兰东印度公司 (VOC)', desc: '垄断群岛香料的世界第一家跨国公司。', content: '<p class="mb-4">成立于1602年的荷兰东印度公司（VOC）是世界上第一家跨国公司，拥有自己的军队并为了香料垄断而殖民群岛。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 荷兰东印度公司。' }
         }
-      },
+      }
     ]
   },
 
@@ -209,7 +209,7 @@ const countries = {
           ko: { title: '센고쿠 시대', desc: '군벌(다이묘) 간의 유혈 내전 시대.', content: '<p class="mb-4">15세기부터 17세기까지 지속된 이 시대는 일본의 사회적 격변과 끊임없는 군사적 충돌의 시기로 오다 노부나가와 같은 전설적인 인물들이 등장했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 센고쿠 시대.' },
           zh: { title: '战国时代', desc: '军阀（大名）之间血腥内战的时代。', content: '<p class="mb-4">从15世纪持续到17世纪，这是日本社会动荡和军事冲突不断的时期，织田信长等传奇人物由此崛起。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 日本战国时代。' }
         }
-      },
+      }
     ]
   },
 
@@ -423,7 +423,7 @@ const countries = {
           ko: { title: '포에니 전쟁과 한니발', desc: '지중해를 둘러싼 로마와 카르타고의 생존 전쟁.', content: '<p class="mb-4">제2차 포에니 전쟁(기원전 218년)에서 카르타고의 장군 한니발은 코끼리를 이끌고 알프스를 넘어 이탈리아를 침공했습니다. 결국 로마가 승리했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 포에니 전쟁.' },
           zh: { title: '布匿战争与汉尼拔', desc: '罗马与迦太基争夺地中海的生存之战。', content: '<p class="mb-4">在第二次布匿战争（公元前218年）中，迦太基将军汉尼拔率领大象越过阿尔卑斯山入侵意大利。罗马最终获胜并摧毁了迦太基。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 布匿战争。' }
         }
-      },
+      }
     ]
   },
 

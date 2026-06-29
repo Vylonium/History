@@ -42,7 +42,7 @@ const countries = {
           ko: { title: '반둥 불바다 사건', desc: '연합군의 도시 사용을 막기 위한 청야 전술.', content: '<p class="mb-4">1946년 3월 23일, 약 20만 명의 반둥 주민들이 연합군의 군사 기지화를 막기 위해 7시간 만에 자신의 집에 불을 지르고 산으로 대피했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 반둥 불바다.' },
           zh: { title: '万隆火海事件', desc: '为防止盟军利用该城市而采取的焦土战略。', content: '<p class="mb-4">1946年3月23日，约20万万隆居民在7小时内烧毁了自己的家园并撤退到山区，以防止盟军将该市用作军事基地。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 万隆火海事件。' }
         }
-      },,
+      },
       {
         id: 'indonesia-borobudur',
         langs: {
@@ -52,7 +52,7 @@ const countries = {
           ko: { title: '보로부두르 사원', desc: '샤일렌드라 왕조가 세운 세계 최대의 불교 사원.', content: '<p class="mb-4">9세기에 지어진 중부 자바의 보로부두르는 열반으로 가는 여정을 묘사한 2,672개의 부조 패널과 504개의 불상을 특징으로 하는 세계 최대의 불교 기념물입니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 보로부두르.' },
           zh: { title: '婆罗浮屠', desc: '由夏连特拉王朝建造的世界上最大的佛教寺庙。', content: '<p class="mb-4">建于9世纪的中爪哇婆罗浮屠是世界上最大的佛教纪念碑，拥有2672块浮雕面板和504尊佛像。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 婆罗浮屠。' }
         }
-      },,
+      },
       {
         id: 'indonesia-budi-utomo',
         langs: {
@@ -62,7 +62,7 @@ const countries = {
           ko: { title: '부디 우토모와 민족 각성', desc: '인도네시아 민족 운동의 탄생을 알리는 최초의 현대적 조직.', content: '<p class="mb-4">1908년 5월 20일 의대생들이 설립한 부디 우토모는 군도 최초의 현대적인 조직이었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 부디 우토모.' },
           zh: { title: '至善社与民族觉醒', desc: '标志着印度尼西亚民族运动诞生的第一个现代组织。', content: '<p class="mb-4">至善社由医学生于1908年5月20日成立，是群岛上的第一个现代组织。这一天现在被定为民族觉醒日。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 至善社。' }
         }
-      },,
+      },
       {
         id: 'indonesia-kaa',
         langs: {
@@ -82,7 +82,7 @@ const countries = {
           ko: { title: '1883년 크라카토아 화산 폭발', desc: '인류 역사상 가장 큰 소리를 낸 화산 폭발.', content: '<p class="mb-4">1883년 8월 26일, 크라카토아는 히로시마 원자폭탄의 13,000배 위력으로 폭발했습니다. 그 소리는 4,800km 떨어진 곳에서도 들렸습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 크라카토아.' },
           zh: { title: '1883年喀拉喀托火山爆发', desc: '产生人类历史上最大声音的火山爆发。', content: '<p class="mb-4">1883年8月26日，喀拉喀托火山爆发，威力相当于13000颗广岛原子弹，远在4800公里外都能听到声音。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 喀拉喀托火山爆发。' }
         }
-      },,
+      },
       {
         id: 'indonesia-sumpah-pemuda',
         langs: {
@@ -92,7 +92,7 @@ const countries = {
           ko: { title: '1928년 청년의 맹세', desc: '국가 정체성을 통합한 독립 운동의 주요 이정표.', content: '<p class="mb-4">1928년 10월 28일, 군도 전역의 청년들이 하나의 조국, 하나의 민족, 하나의 언어인 인도네시아어를 맹세했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 청년의 맹세.' },
           zh: { title: '1928年青年誓言', desc: '团结民族认同的独立运动的重要里程碑。', content: '<p class="mb-4">1928年10月28日，来自群岛各地的青年宣誓：一个祖国、一个民族、一种语言：印度尼西亚语。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 青年誓言。' }
         }
-      },,
+      },
       {
         id: 'indonesia-voc',
         langs: {
@@ -149,7 +149,7 @@ const countries = {
           ko: { title: '에도 시대 문화 (우키요에 및 게이샤)', desc: '고립 기간 동안 일본 전통 대중 문화의 번성.', content: '<p class="mb-4">도쿠가와(에도) 치하의 긴 평화 기간 동안 대중 예술이 번성했습니다. 여기에는 가부키 극장, 게이샤, "가나가와 해변의 높은 파도 아래"와 같은 우키요에 목판화가 포함됩니다。</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 에도 시대.' },
           zh: { title: '江户时代文化 (浮世绘与艺伎)', desc: '孤立时期日本传统流行文化的繁荣。', content: '<p class="mb-4">在德川（江户）的长期和平期间，大众艺术繁荣发展。这包括歌舞伎、艺伎和《神奈川冲浪里》等浮世绘木版画。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 江户时代。' }
         }
-      },,
+      },
       {
         id: 'jepang-fukushima',
         langs: {
@@ -169,7 +169,7 @@ const countries = {
           ko: { title: '헤이안 시대와 겐지 이야기', desc: '일본 궁정 문화의 황금기와 세계 최초의 소설.', content: '<p class="mb-4">헤이안 시대(794–1185)는 예술과 시로 유명합니다. 귀족 여성 무라사키 시키부는 이곳에서 세계 최초의 심리 소설로 여겨지는 "겐지 이야기"를 썼습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 헤이안 시대.' },
           zh: { title: '平安时代与源氏物语', desc: '日本宫廷文化的黄金时代和世界第一部小说。', content: '<p class="mb-4">平安时代（794–1185）以其艺术和诗歌闻名。贵族妇女紫式部在这里写下了《源氏物语》，被广泛认为是世界上第一部心理小说。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 平安时代。' }
         }
-      },,
+      },
       {
         id: 'jepang-kamikaze',
         langs: {
@@ -179,7 +179,7 @@ const countries = {
           ko: { title: '카미카제 태풍', desc: '몽골 제국의 침략으로부터 일본을 구한 신풍.', content: '<p class="mb-4">1274년과 1281년 쿠빌라이 칸은 일본을 정복하기 위해 거대한 함대를 보냈습니다. 두 함대 모두 일본인들이 "카미카제"(신풍)라고 부르는 거대한 태풍에 의해 파괴되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 여몽연합군의 일본 원정.' },
           zh: { title: '神风台风', desc: '从蒙古帝国入侵中拯救日本的神圣之风。', content: '<p class="mb-4">1274年和1281年，忽必烈汗派遣庞大舰队征服日本。两支舰队都被日本人称为"神风"的猛烈台风摧毁。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 元日战争。' }
         }
-      },,
+      },
       {
         id: 'jepang-russo',
         langs: {
@@ -189,7 +189,7 @@ const countries = {
           ko: { title: '러일 전쟁 (1904-1905)', desc: '근대 아시아 국가가 유럽 강대국을 상대로 거둔 첫 승리.', content: '<p class="mb-4">일본은 쓰시마 해전에서 러시아 발트 함대를 전멸시켜 세계를 놀라게 했습니다. 근대에 아시아 국가가 유럽 강대국을 격파한 것은 이번이 처음이었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 러일 전쟁.' },
           zh: { title: '日俄战争 (1904-1905)', desc: '现代亚洲首次战胜欧洲强国。', content: '<p class="mb-4">日本在对马海战中歼灭了俄罗斯波罗的海舰队，震惊了世界。这是现代亚洲国家首次击败欧洲大国。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 日俄战争。' }
         }
-      },,
+      },
       {
         id: 'jepang-sekigahara',
         langs: {
@@ -199,7 +199,7 @@ const countries = {
           ko: { title: '세키가하라 전투', desc: '도쿠가와 아래 일본을 통일한 1600년의 서사적인 전투.', content: '<p class="mb-4">1600년 10월 21일 벌어진 전투에서 도쿠가와 이에야스의 동군이 서군을 격파했습니다. 이 승리로 내전이 끝나고 260년간의 도쿠가와 막부가 시작되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 세키가하라 전투.' },
           zh: { title: '关原之战', desc: '1600年将日本统一在德川统治下的史诗般战役。', content: '<p class="mb-4">发生于1600年10月21日，德川家康的东军击败了西军。这场胜利结束了内战，开启了长达260年的德川幕府时代。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 关原之战。' }
         }
-      },,
+      },
       {
         id: 'jepang-sengoku',
         langs: {
@@ -256,7 +256,7 @@ const countries = {
           ko: { title: '아크나톤과 일신교', desc: '이집트 종교를 일시적으로 바꾼 급진적인 파라오.', content: '<p class="mb-4">아크나톤(투탕카멘의 아버지)은 전통적인 다신교를 폐지하고 유일신 아톤(태양 원반)을 숭배하게 했습니다. 그의 사후 오래된 종교가 회복되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 아크나톤.' },
           zh: { title: '阿肯那顿与一神教', desc: '短暂改变埃及宗教的激进法老。', content: '<p class="mb-4">阿肯那顿法老废除了传统的多神教，强迫埃及人崇拜唯一的神：阿顿（太阳圆盘）。他死后，旧宗教被恢复。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 阿肯那顿。' }
         }
-      },,
+      },
       {
         id: 'mesir-alexandria',
         langs: {
@@ -266,7 +266,7 @@ const countries = {
           ko: { title: '알렉산드리아 도서관', desc: '고대 세계 최대의 지식 중심지.', content: '<p class="mb-4">프톨레마이오스 왕조(기원전 285년경)에 건설되었으며 최대 50만 권의 파피루스 두루마리를 소장했습니다. 여기서 에라토스테네스는 지구의 둘레를 정확하게 계산했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 알렉산드리아 도서관.' },
           zh: { title: '亚历山大图书馆', desc: '古代世界最大的知识中心。', content: '<p class="mb-4">建于托勒密王朝（约公元前285年），馆藏多达50万卷纸莎草纸。在这里，埃拉托色尼准确计算出了地球的周长。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 亚历山大图书馆。' }
         }
-      },,
+      },
       {
         id: 'mesir-hatshepsut',
         langs: {
@@ -276,7 +276,7 @@ const countries = {
           ko: { title: '여성 파라오 하트셉수트', desc: '고대 이집트에서 가장 성공적인 여성 통치자.', content: '<p class="mb-4">기원전 15세기에 통치한 하트셉수트는 자신을 파라오(여왕이 아닌 왕)로 선포하고 가짜 수염을 달았습니다. 그녀는 웅장한 데이르 엘-바하리 신전을 지었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 하트셉수트.' },
           zh: { title: '女法老哈特谢普苏特', desc: '古埃及最成功的女性统治者。', content: '<p class="mb-4">在公元前15世纪统治，哈特谢普苏特宣布自己为法老（国王，而不是女王）并戴着假胡须。她建造了宏伟的代尔巴哈里神庙。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 哈特谢普苏特。' }
         }
-      },,
+      },
       {
         id: 'mesir-lembah-raja',
         langs: {
@@ -286,7 +286,7 @@ const countries = {
           ko: { title: '왕가의 계곡', desc: '신왕국 시대 파라오들의 비밀 지하 무덤.', content: '<p class="mb-4">피라미드를 약탈하는 도굴꾼들을 피하기 위해 파라오들은 테베(현 룩소르)의 마른 절벽에 파낸 암굴 무덤에 비밀리에 묻혔습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 왕가의 계곡.' },
           zh: { title: '帝王谷', desc: '新王国时期法老们的秘密地下陵墓。', content: '<p class="mb-4">为了躲避经常掠夺金字塔的盗墓者，法老们被秘密埋葬在底比斯（今卢克索）干燥悬崖上开凿的岩陵中。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 帝王谷。' }
         }
-      },,
+      },
       {
         id: 'mesir-mumi',
         langs: {
@@ -296,7 +296,7 @@ const countries = {
           ko: { title: '미라 제작 과정', desc: '사후 세계에서 영원한 삶을 위한 시신 보존 기술.', content: '<p class="mb-4">고대 이집트인들은 영혼이 사후 세계에서 살아남으려면 육체가 온전해야 한다고 믿었습니다. 장기(심장 제외)를 제거하고 나트론 소금으로 70일 동안 건조시켰습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 미라.' },
           zh: { title: '木乃伊制作过程', desc: '为了在来世获得永生的遗体保存技术。', content: '<p class="mb-4">古埃及人相信，为了让灵魂在来世存活，肉体必须保持完整。内脏（除心脏外）被取出，身体用泡碱盐干燥70天。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 木乃伊。' }
         }
-      },,
+      },
       {
         id: 'mesir-nil',
         langs: {
@@ -306,7 +306,7 @@ const countries = {
           ko: { title: '나일강: 이집트의 생명선', desc: '고대 이집트 문명의 토대가 된 세계에서 가장 긴 강.', content: '<p class="mb-4">나일강이 없었다면 이집트는 사막이었을 것입니다. 매년 발생하는 홍수로 비옥한 검은 흙이 쌓여 파라오 제국 전체를 유지하는 대규모 농업이 가능했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 나일강.' },
           zh: { title: '尼罗河：埃及的命脉', desc: '奠定古埃及文明基础的世界最长河流。', content: '<p class="mb-4">如果没有尼罗河，埃及将是一片沙漠。其每年的洪水带来了肥沃的黑色淤泥，使得大规模农业成为可能，维持了整个法老帝国。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 尼罗河。' }
         }
-      },,
+      },
       {
         id: 'mesir-suez',
         langs: {
@@ -353,7 +353,7 @@ const countries = {
           ko: { title: '로마의 수도교', desc: '고대 거대 도시를 유지한 첨단 수도 시스템.', content: '<p class="mb-4">로마인들은 뛰어난 기술자였으며 중력을 이용하여 공중 목욕탕과 가정에 담수를 공급하기 위해 수백 킬로미터의 수도교를 건설했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 로마 수도.' },
           zh: { title: '罗马高架渠', desc: '维持古代大都市的先进供水系统。', content: '<p class="mb-4">罗马人是优秀的工程师，他们利用重力建造了数百公里的高架渠，为公共浴池和家庭供应淡水。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 罗马高架渠。' }
         }
-      },,
+      },
       {
         id: 'romawi-augustus',
         langs: {
@@ -363,7 +363,7 @@ const countries = {
           ko: { title: '아우구스투스와 팍스 로마나', desc: '로마의 초대 황제와 200년의 평화 시대.', content: '<p class="mb-4">옥타비아누스(아우구스투스)는 기원전 27년 로마 제국을 세우고 유례없는 안정기인 "팍스 로마나"(로마의 평화)를 시작했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 아우구스투스.' },
           zh: { title: '奥古斯都与罗马和平', desc: '罗马第一位皇帝和200年的和平时代。', content: '<p class="mb-4">屋大维（奥古斯都）在公元前27年建立了罗马帝国，开启了史无前例的稳定时期——"罗马和平"。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 奥古斯都。' }
         }
-      },,
+      },
       {
         id: 'romawi-keruntuhan',
         langs: {
@@ -373,7 +373,7 @@ const countries = {
           ko: { title: '서로마 제국의 멸망', desc: '1000년 지속된 제국의 종말.', content: '<p class="mb-4">수세기에 걸친 경제 위기와 게르만족의 침략 이후, 476년 야만인 왕 오도아케르가 마지막 황제 로물루스 아우구스투스를 폐위시키면서 서로마 제국은 멸망했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 서로마 제국.' },
           zh: { title: '西罗马帝国的灭亡', desc: '1000年帝国的终结。', content: '<p class="mb-4">经过几个世纪的经济危机和日耳曼人入侵，西罗马帝国在公元476年蛮族国王奥多亚塞废黜最后一位皇帝罗慕路斯·奥古斯都后灭亡。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 西罗马帝国。' }
         }
-      },,
+      },
       {
         id: 'romawi-konstantin',
         langs: {
@@ -383,7 +383,7 @@ const countries = {
           ko: { title: '콘스탄티누스 대제', desc: '기독교를 받아들인 최초의 로마 황제.', content: '<p class="mb-4">콘스탄티누스는 밀라노 칙령(313년)을 통해 기독교를 합법화했습니다. 또한 제국의 수도를 로마에서 비잔티움(콘스탄티노폴리스)으로 옮겼습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 콘스탄티누스 1세.' },
           zh: { title: '君士坦丁大帝', desc: '第一位接受基督教的罗马皇帝。', content: '<p class="mb-4">君士坦丁通过《米兰敕令》（公元313年）使基督教合法化。他还将帝国首都从罗马迁至拜占庭（君士坦丁堡）。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 君士坦丁大帝。' }
         }
-      },,
+      },
       {
         id: 'romawi-legiun',
         langs: {
@@ -393,7 +393,7 @@ const countries = {
           ko: { title: '로마 군단', desc: '고대 세계에서 가장 규율 잡힌 군사 조직.', content: '<p class="mb-4">로마의 정복은 고도로 훈련된 직업 군대인 군단에 의존했습니다. 그들은 방패를 이용한 "테스투도(거북이)" 진형과 같은 고도의 전술을 개척했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 로마 군단.' },
           zh: { title: '罗马军团', desc: '古代世界最纪律严明的军事机器。', content: '<p class="mb-4">罗马的征服在很大程度上依赖于军团——训练有素的职业军队。他们开创了先进的战术，如"龟甲阵"盾牌编队。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 罗马军团。' }
         }
-      },,
+      },
       {
         id: 'romawi-pantheon',
         langs: {
@@ -413,7 +413,7 @@ const countries = {
           ko: { title: '폼페이의 최후', desc: '화산재에 의해 시간이 멈춘 로마 도시.', content: '<p class="mb-4">기원후 79년 베수비오 화산이 폭발했을 때 폼페이는 화산재 아래 묻혔습니다. 발굴된 이 도시는 고대 로마 일상 생활의 가장 생생한 모습을 제공합니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 폼페이.' },
           zh: { title: '庞贝城的毁灭', desc: '被火山灰冻结在时间里的罗马城市。', content: '<p class="mb-4">公元79年维苏威火山爆发时，庞贝城被埋在火山灰下。发掘出的这座城市提供了古罗马日常生活的生动画面。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 庞贝城。' }
         }
-      },,
+      },
       {
         id: 'romawi-punic',
         langs: {
@@ -460,7 +460,7 @@ const countries = {
           ko: { title: '아편 전쟁', desc: '청 제국의 "굴욕의 세기" 시작.', content: '<p class="mb-4">1839년 영국은 중국에 아편을 밀수했습니다. 중국이 이를 몰수하자 영국은 전쟁을 선포했고 승리한 영국은 홍콩을 할양받았습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 아편 전쟁.' },
           zh: { title: '鸦片战争', desc: '清帝国"百年国耻"的开端。', content: '<p class="mb-4">1839年，英国向中国走私鸦片。当中国没收鸦片时，英国宣战。中国战败，被迫开放通商口岸并将香港岛割让给英国。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 鸦片战争。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-cheng-ho',
         langs: {
@@ -470,7 +470,7 @@ const countries = {
           ko: { title: '정화의 원정', desc: '유럽의 항해보다 앞선 대규모 해양 원정.', content: '<p class="mb-4">콜럼버스보다 70년 앞서, 명나라의 정화 제독은 세계 최대의 목조 함대를 이끌고 인도양을 가로질러 동아프리카까지 7차례 항해했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 정화 (명나라).' },
           zh: { title: '郑和下西洋', desc: '早于欧洲航海的大规模海上远征。', content: '<p class="mb-4">在哥伦布之前70年，明朝海军将领郑和率领当时世界上最大的木制舰队，七次穿越印度洋远达东非。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 郑和下西洋。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-empat-penemuan',
         langs: {
@@ -480,7 +480,7 @@ const countries = {
           ko: { title: '4대 발명품', desc: '세계를 영원히 바꾼 고대 중국의 혁신.', content: '<p class="mb-4">중국은 종이, 인쇄술, 화약, 나침반의 4대 발명품을 만들어 인류 문명의 비약적인 발전을 촉진했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 중국의 4대 발명.' },
           zh: { title: '四大发明', desc: '永远改变世界的古代中国创新。', content: '<p class="mb-4">中国孕育了四大发明：造纸术、印刷术、火药和指南针，极大地推动了全球人类文明的进步。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 四大发明。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-han',
         langs: {
@@ -490,7 +490,7 @@ const countries = {
           ko: { title: '한나라', desc: '중국의 정체성을 확립한 황금기.', content: '<p class="mb-4">400년 이상(기원전 202년~서기 220년) 통치한 한나라는 매우 큰 영향을 미쳐 오늘날 중국의 다수 민족은 스스로를 "한족", 문자를 "한자"라고 부릅니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 한나라.' },
           zh: { title: '汉朝', desc: '巩固了中国认同的黄金时代。', content: '<p class="mb-4">汉朝统治了400多年（公元前202年–公元220年），影响深远，以至于今天中国的大多数民族自称为"汉族"，他们的文字被称为"汉字"。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 汉朝。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-jalur-sutra',
         langs: {
@@ -500,7 +500,7 @@ const countries = {
           ko: { title: '실크로드', desc: '동서양을 연결하는 고대 무역로 네트워크.', content: '<p class="mb-4">한나라(기원전 130년) 때 열린 실크로드는 비단과 향신료뿐만 아니라 종교(불교), 문화, 기술의 교류를 촉진했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 실크로드.' },
           zh: { title: '丝绸之路', desc: '连接东西方的古代贸易网络。', content: '<p class="mb-4">在汉朝（公元前130年）开通的丝绸之路促进了丝绸、香料等商品的交流，以及宗教（佛教）、文化和技术的传播。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 丝绸之路。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-tang',
         langs: {
@@ -510,7 +510,7 @@ const countries = {
           ko: { title: '당나라 (황금기)', desc: '중국 역사상 가장 국제적이고 찬란한 시대.', content: '<p class="mb-4">수도 장안은 인구 100만 명의 세계 최대 도시였습니다. 시, 예술, 그리고 목판 인쇄와 같은 발명품이 번성했습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 당나라.' },
           zh: { title: '唐朝 (黄金时代)', desc: '中国历史上最国际化和最辉煌的时代。', content: '<p class="mb-4">首都长安是世界上第一座人口过百万的城市。诗歌、艺术和雕版印刷等发明在这里蓬勃发展。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 唐朝。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-terakota',
         langs: {
@@ -520,7 +520,7 @@ const countries = {
           ko: { title: '병마용', desc: '초대 황제를 지키는 수천 명의 점토 군대.', content: '<p class="mb-4">1974년에 발견된 진시황릉에는 각각 고유한 얼굴을 가진 8,000개 이상의 실물 크기 점토 병사가 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 병마용.' },
           zh: { title: '兵马俑', desc: '保护始皇帝的数千泥土大军。', content: '<p class="mb-4">于1974年发现的秦始皇陵内含有8000多个真人大小的兵马俑，每个都有独特的面部特征。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 兵马俑。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-tiga-negara',
         langs: {
@@ -530,7 +530,7 @@ const countries = {
           ko: { title: '삼국 시대', desc: '중국에서 가장 유명한 전설적인 군사 분열의 시대.', content: '<p class="mb-4">한나라의 멸망으로 중국은 위, 촉, 오 세 나라로 분열되었습니다(220~280년). 이 시대는 나중에 서사 소설 "삼국지연의"로 영원히 기억되었습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia — 삼국 시대 (중국).' },
           zh: { title: '三国时期', desc: '中国最著名的传奇军事分裂时代。', content: '<p class="mb-4">汉朝的覆灭使中国分裂为魏、蜀、吴三个交战国（220–280年）。这个充满辉煌战术的时代在史诗小说《三国演义》中名垂千古。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia — 三国时期。' }
         }
-      },,
+      },
       {
         id: 'tiongkok-xinhai',
         langs: {

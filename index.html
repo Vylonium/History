@@ -150,15 +150,6 @@
     }
   }
   </script>
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-32K4RH4DKN"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-32K4RH4DKN');
-  </script>
-  <!-- End Google Analytics -->
 </head>
 
 <noscript><div style="padding:20px;font-family:sans-serif"><h1>Wikybook — Ensiklopedia Sejarah Dunia</h1><p>Ensiklopedia sejarah dalam 5 bahasa: Indonesia, English, 日本語, 한국어, 中文. Aktifkan JavaScript untuk pengalaman terbaik.</p>
@@ -472,9 +463,15 @@ function makeHeader(backFn, backLabel) {
 }
 
 // BERANDA — semua artikel campur
-function renderHome(searchQuery) {
+function renderHome(searchQuery, skipPush) {
   currentView = 'home';
   searchQuery = searchQuery || '';
+  if (!skipPush) {
+    const url = searchQuery ? ('/?q=' + encodeURIComponent(searchQuery)) : '/';
+    if (location.pathname + location.search !== url) {
+      history.pushState({view:'home', q: searchQuery}, '', url);
+    }
+  }
   const u = ui();
   let all = getAllArticles();
 
@@ -516,9 +513,15 @@ function renderHome(searchQuery) {
 }
 
 // HALAMAN NEGARA — daftar artikel negara itu
-function renderCountry(countryId) {
+function renderCountry(countryId, skipPush) {
   currentView = 'country';
   currentCountryId = countryId;
+  if (!skipPush) {
+    const url = '/' + countryId;
+    if (location.pathname !== url) {
+      history.pushState({view:'country', countryId: countryId}, '', url);
+    }
+  }
   const c = countries[countryId];
   if (!c) { renderHome(); return; }
   const u = ui();
@@ -552,10 +555,16 @@ function renderCountry(countryId) {
 }
 
 // HALAMAN ARTIKEL — isi artikel lengkap
-function renderArticle(countryId, articleId) {
+function renderArticle(countryId, articleId, skipPush) {
   currentView = 'article';
   currentCountryId = countryId;
   currentArticleId = articleId;
+  if (!skipPush) {
+    const url = '/' + countryId + '/' + articleId;
+    if (location.pathname !== url) {
+      history.pushState({view:'article', countryId: countryId, articleId: articleId}, '', url);
+    }
+  }
 
   const c = countries[countryId];
   if (!c) { renderHome(); return; }
@@ -590,7 +599,12 @@ function renderArticle(countryId, articleId) {
 }
 
 // TENTANG
-function renderAbout() {
+function renderAbout(skipPush) {
+  if (!skipPush) {
+    if (location.pathname !== '/about') {
+      history.pushState({view:'about'}, '', '/about');
+    }
+  }
   currentView = 'about';
   const u = ui();
   
@@ -712,9 +726,43 @@ function updateCards(searchQuery) {
 // =============================================
 // INIT
 // =============================================
+// =============================================
+// ROUTER — parse URL saat load & popstate
+// =============================================
+function parseAndRender(skipPush) {
+  const path = location.pathname.replace(/\/+$/, '') || '/';
+  const parts = path.split('/').filter(Boolean); // hapus empty strings
+  const search = new URLSearchParams(location.search);
+  const q = search.get('q') || '';
+
+  if (parts.length === 0 || path === '/') {
+    renderHome(q, skipPush || true);
+  } else if (parts.length === 1) {
+    if (parts[0] === 'about') {
+      renderAbout(skipPush || true);
+    } else {
+      renderCountry(parts[0], skipPush || true);
+    }
+  } else if (parts.length >= 2) {
+    renderArticle(parts[0], parts[1], skipPush || true);
+  } else {
+    renderHome('', true);
+  }
+}
+
+window.addEventListener('popstate', function(e) {
+  parseAndRender(true);
+});
+
 function init() {
   updateSidebarUI();
-  renderHome();
+  // Handle GitHub Pages SPA redirect
+  var redirect = sessionStorage.getItem('spa_redirect');
+  if (redirect && redirect !== '/') {
+    sessionStorage.removeItem('spa_redirect');
+    history.replaceState(null, '', redirect);
+  }
+  parseAndRender(false);
 }
 
 init();

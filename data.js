@@ -443,4 +443,212 @@ const countries = {
       }
     ]
   }
+,
+  'dunia': {
+    names: { id: 'Sejarah Dunia', en: 'World History', ja: '世界史', ko: '세계사', zh: '世界历史' },
+    flag: '🌍',
+    articles: [
+
+      {
+        id: 'world-apollo11',
+        langs: {
+          id: {
+            title: 'Apollo 11 — Manusia Pertama di Bulan',
+            desc: 'Misi luar angkasa paling bersejarah saat Neil Armstrong dan Buzz Aldrin mendarat di Bulan pada 20 Juli 1969.',
+            content: '<p class="mb-4">Pada 20 Juli 1969 pukul 20:17 UTC, wahana pendaratan <em>Eagle</em> misi Apollo 11 menyentuh permukaan Bulan di kawasan <strong>Sea of Tranquility</strong>. Neil Armstrong menjadi manusia pertama yang menginjakkan kaki di Bulan, diikuti Buzz Aldrin, sementara Michael Collins mengorbit di atas.</p><p class="mb-4">Armstrong mengucapkan kata-kata ikonik: <em>"That\'s one small step for man, one giant leap for mankind."</em> Momen ini disaksikan oleh sekitar 600 juta orang di seluruh dunia melalui siaran televisi langsung — sepertiga populasi Bumi saat itu.</p><p class="mb-4">Program Apollo merupakan respons langsung terhadap <strong>Space Race</strong> antara Amerika Serikat dan Uni Soviet. Presiden Kennedy pada 1961 berjanji mengirim manusia ke Bulan sebelum akhir dekade — dan janji itu terpenuhi delapan tahun kemudian.</p><p class="mb-4">Selama 21 jam 36 menit di permukaan Bulan, Armstrong dan Aldrin mengumpulkan 21,5 kg sampel batuan dan tanah lunar, memasang bendera Amerika, serta menempatkan retroreflektor laser yang hingga kini masih digunakan ilmuwan untuk mengukur jarak Bumi-Bulan.</p><p class="mb-4">Misi Apollo 11 adalah puncak dari upaya 400.000 insinyur, ilmuwan, dan teknisi selama delapan tahun dengan total biaya sekitar USD 25,4 miliar — setara lebih dari USD 170 miliar di nilai uang saat ini.</p>',
+            sourceDomain: 'nasa.gov',
+            sourceSnippet: 'NASA — Apollo 11 Mission Overview. | Space.com — Apollo 11: The First Moon Landing. | Smithsonian National Air and Space Museum.'
+          },
+          en: {
+            title: 'Apollo 11 — First Humans on the Moon',
+            desc: 'The most historic space mission when Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969.',
+            content: '<p class="mb-4">On July 20, 1969 at 20:17 UTC, the <em>Eagle</em> lunar module of Apollo 11 touched down on the Moon\'s <strong>Sea of Tranquility</strong>. Neil Armstrong became the first human to walk on the Moon, followed by Buzz Aldrin, while Michael Collins orbited above.</p><p class="mb-4">Armstrong\'s iconic words: <em>"That\'s one small step for man, one giant leap for mankind"</em> were heard by approximately 600 million people worldwide via live television — roughly one-third of Earth\'s population at the time.</p><p class="mb-4">The Apollo program was a direct response to the <strong>Space Race</strong> between the United States and Soviet Union. President Kennedy pledged in 1961 to send humans to the Moon before the decade\'s end — fulfilled eight years later.</p><p class="mb-4">During 21 hours 36 minutes on the lunar surface, the astronauts collected 21.5 kg of rock and soil samples, planted the American flag, and placed a laser retroreflector still used by scientists today to measure the Earth-Moon distance.</p><p class="mb-4">Apollo 11 was the culmination of efforts by 400,000 engineers, scientists, and technicians over eight years, costing approximately USD 25.4 billion — equivalent to over USD 170 billion in today\'s money.</p>',
+            sourceDomain: 'nasa.gov',
+            sourceSnippet: 'NASA — Apollo 11 Mission Overview. | Space.com — First Moon Landing. | Smithsonian National Air and Space Museum.'
+          },
+          ja: {
+            title: 'アポロ11号 — 月面に立った最初の人類',
+            desc: '1969年7月20日、ニール・アームストロングとバズ・オルドリンが月に着陸した歴史的な宇宙ミッション。',
+            content: '<p class="mb-4">1969年7月20日20時17分UTC、アポロ11号の着陸船<em>イーグル</em>が月の<strong>静かの海</strong>に着陸しました。ニール・アームストロングが月面を歩いた最初の人間となり、バズ・オルドリンが続きました。</p><p class="mb-4">アームストロングの名言「<em>これは一人の人間にとっては小さな一歩だが、人類にとっては偉大な飛躍だ</em>」は、約6億人が生中継で目撃しました。</p><p class="mb-4">アポロ計画は、米ソ宇宙開発競争への直接的な回答でした。ケネディ大統領は1961年に10年以内に人類を月に送ると誓い、8年後に実現しました。</p>',
+            sourceDomain: 'nasa.gov',
+            sourceSnippet: 'NASA — アポロ11号ミッション概要。| JAXA — 月探査の歴史。'
+          },
+          ko: {
+            title: '아폴로 11호 — 달에 첫발을 내딛은 인류',
+            desc: '1969년 7월 20일 닐 암스트롱과 버즈 올드린이 달에 착륙한 가장 역사적인 우주 임무.',
+            content: '<p class="mb-4">1969년 7월 20일 20시 17분 UTC, 아폴로 11호의 달 착륙선 <em>이글</em>이 달의 <strong>고요의 바다</strong>에 착륙했습니다. 닐 암스트롱이 달 표면을 걸은 최초의 인간이 되었고, 버즈 올드린이 뒤를 이었습니다.</p><p class="mb-4">암스트롱의 명언 "<em>이것은 한 인간에게는 작은 발걸음이지만, 인류에게는 위대한 도약이다</em>"는 전 세계 약 6억 명이 생방송으로 목격했습니다.</p><p class="mb-4">아폴로 계획은 미소 우주 경쟁에 대한 직접적인 응답이었습니다. 케네디 대통령은 1961년 10년 내에 인류를 달에 보내겠다고 약속했고 8년 후 실현되었습니다.</p>',
+            sourceDomain: 'nasa.gov',
+            sourceSnippet: 'NASA — 아폴로 11호 미션 개요. | 한국항공우주연구원 — 달 탐사 역사.'
+          },
+          zh: {
+            title: '阿波罗11号 — 人类首次登月',
+            desc: '1969年7月20日，尼尔·阿姆斯特朗和巴兹·奥尔德林登上月球的最具历史意义的太空任务。',
+            content: '<p class="mb-4">1969年7月20日20时17分UTC，阿波罗11号的登月舱<em>鹰号</em>降落在月球的<strong>静海</strong>。尼尔·阿姆斯特朗成为第一个踏上月球的人，巴兹·奥尔德林紧随其后。</p><p class="mb-4">阿姆斯特朗的名言："<em>这是个人的一小步，却是人类的一大步</em>"，被全球约6亿人通过现场直播所见证。</p><p class="mb-4">阿波罗计划是美苏太空竞赛的直接回应。肯尼迪总统1961年承诺在10年内将人类送上月球，8年后实现。</p>',
+            sourceDomain: 'nasa.gov',
+            sourceSnippet: 'NASA — 阿波罗11号任务概述。| 中国国家航天局 — 月球探测历史。'
+          }
+        }
+      },
+      {
+        id: 'world-berlin-wall',
+        langs: {
+          id: {
+            title: 'Runtuhnya Tembok Berlin (1989)',
+            desc: 'Momen bersejarah saat Tembok Berlin runtuh pada 9 November 1989 dan mengakhiri Perang Dingin di Eropa.',
+            content: '<p class="mb-4">Tembok Berlin dibangun oleh Jerman Timur (DDR) pada 13 Agustus 1961, membelah kota Berlin menjadi dua bagian: Berlin Barat yang dikuasai Sekutu Barat, dan Berlin Timur di bawah Uni Soviet. Tembok ini bukan sekadar batas kota — ia menjadi simbol paling nyata dari <strong>Tirai Besi</strong> yang memisahkan Eropa Barat dari Blok Timur.</p><p class="mb-4">Selama 28 tahun keberadaannya, sekitar <strong>5.000 orang mencoba melarikan diri</strong> melewati tembok ini. Diperkirakan 140 orang tewas dalam usaha pelarian tersebut — ditembak penjaga perbatasan DDR yang memiliki perintah menembak siapapun yang berusaha menyeberang.</p><p class="mb-4">Pada malam 9 November 1989, seorang juru bicara pemerintah DDR mengumumkan secara keliru bahwa warga boleh melintasi perbatasan "segera, tanpa penundaan." Ribuan warga Berlin Timur langsung bergerak ke pos pemeriksaan. Penjaga perbatasan yang kewalahan akhirnya membuka gerbang tanpa kekerasan.</p><p class="mb-4">Warga dari kedua sisi mulai memukuli tembok dengan palu dan kapak dalam euforia kolektif. Adegan ini disiarkan langsung oleh televisi seluruh dunia. Dalam beberapa jam, Tembok Berlin yang selama hampir tiga dekade menjadi simbol penindasan, runtuh oleh tangan rakyatnya sendiri.</p><p class="mb-4">Runtuhnya Tembok Berlin menjadi katalis reunifikasi Jerman pada 3 Oktober 1990 dan menandai berakhirnya Perang Dingin. Uni Soviet secara resmi bubar pada 26 Desember 1991 — hanya dua tahun setelah malam bersejarah di Berlin.</p>',
+            sourceDomain: 'history.com',
+            sourceSnippet: 'History.com — The Fall of the Berlin Wall. | BBC News — Berlin Wall: How it fell. | Bundeszentrale für politische Bildung.'
+          },
+          en: {
+            title: 'Fall of the Berlin Wall (1989)',
+            desc: 'The historic moment the Berlin Wall fell on November 9, 1989, ending the Cold War in Europe.',
+            content: '<p class="mb-4">The Berlin Wall was built by East Germany (DDR) on August 13, 1961, dividing Berlin into two: West Berlin under Western Allies, and East Berlin under the Soviet Union. The Wall became the most visible symbol of the <strong>Iron Curtain</strong> separating Western Europe from the Eastern Bloc.</p><p class="mb-4">During its 28 years of existence, approximately <strong>5,000 people attempted to escape</strong> across the wall. An estimated 140 people died in escape attempts — shot by DDR border guards who had shoot-on-sight orders.</p><p class="mb-4">On the night of November 9, 1989, a DDR government spokesman mistakenly announced that citizens could cross the border "immediately, without delay." Thousands of East Berliners immediately moved to checkpoints. Overwhelmed border guards eventually opened the gates without violence.</p><p class="mb-4">Citizens from both sides began hammering at the wall with picks and hammers in collective euphoria, broadcast live worldwide. Within hours, the Berlin Wall — a symbol of oppression for nearly three decades — was torn down by the hands of its own people.</p>',
+            sourceDomain: 'history.com',
+            sourceSnippet: 'History.com — The Fall of the Berlin Wall. | BBC News — Berlin Wall: How it fell. | German Federal Agency for Civic Education.'
+          },
+          ja: {
+            title: 'ベルリンの壁崩壊（1989年）',
+            desc: '1989年11月9日、ベルリンの壁が崩壊し、ヨーロッパの冷戦が終結した歴史的瞬間。',
+            content: '<p class="mb-4">ベルリンの壁は1961年8月13日に東ドイツによって建設され、ベルリンを二つに分断しました。<strong>鉄のカーテン</strong>の最も目に見えるシンボルとなりました。</p><p class="mb-4">28年間の存在の間、約5,000人が壁を越えて逃亡を試みました。推定140人が国境警備員に射殺されました。</p><p class="mb-4">1989年11月9日夜、東ドイツ政府のスポークスマンが誤って「即時、遅滞なく」国境を越えられると発表。数千人の東ベルリン市民が検問所に押し寄せ、圧倒された警備員が暴力なしにゲートを開けました。</p>',
+            sourceDomain: 'history.com',
+            sourceSnippet: 'History.com — ベルリンの壁崩壊。| BBC — 冷戦の終結。'
+          },
+          ko: {
+            title: '베를린 장벽 붕괴 (1989년)',
+            desc: '1989년 11월 9일 베를린 장벽이 무너지며 유럽의 냉전이 끝난 역사적 순간.',
+            content: '<p class="mb-4">베를린 장벽은 1961년 8월 13일 동독에 의해 건설되어 베를린을 둘로 나눴습니다. <strong>철의 장막</strong>의 가장 가시적인 상징이 되었습니다.</p><p class="mb-4">28년 동안 약 5,000명이 장벽을 넘으려 했으며 추정 140명이 사살되었습니다.</p><p class="mb-4">1989년 11월 9일 밤, 동독 대변인이 실수로 즉시 국경을 넘을 수 있다고 발표했습니다. 수천 명의 동베를린 시민들이 검문소로 몰려들었고 압도된 경비원들이 평화적으로 문을 열었습니다.</p>',
+            sourceDomain: 'history.com',
+            sourceSnippet: 'History.com — 베를린 장벽 붕괴. | BBC News — 냉전의 종식.'
+          },
+          zh: {
+            title: '柏林墙倒塌 (1989年)',
+            desc: '1989年11月9日柏林墙倒塌、欧洲冷战结束的历史性时刻。',
+            content: '<p class="mb-4">柏林墙于1961年8月13日由东德建造，将柏林一分为二。它成为分隔西欧与东方阵营的<strong>铁幕</strong>最直观的象征。</p><p class="mb-4">在其存在的28年间，约5,000人尝试越墙逃跑，估计有140人被边境卫兵射杀。</p><p class="mb-4">1989年11月9日晚，东德政府发言人错误宣布公民可以"立即、不延迟地"穿越边境。数千名东柏林人涌向检查站，不知所措的边境卫兵最终和平地打开了大门。</p>',
+            sourceDomain: 'history.com',
+            sourceSnippet: 'History.com — 柏林墙倒塌。| BBC中文 — 冷战终结。'
+          }
+        }
+      },
+      {
+        id: 'world-black-death',
+        langs: {
+          id: {
+            title: 'Wabah Hitam (Black Death) 1347–1351',
+            desc: 'Pandemi paling mematikan dalam sejarah manusia yang memusnahkan sepertiga hingga setengah populasi Eropa.',
+            content: '<p class="mb-4">Wabah Hitam atau <em>Black Death</em> adalah pandemi paling destruktif dalam sejarah umat manusia. Disebabkan oleh bakteri <strong>Yersinia pestis</strong> yang dibawa oleh kutu tikus, wabah ini pertama kali dilaporkan di Tiongkok sekitar 1330-an, lalu menyebar ke barat melalui jalur perdagangan.</p><p class="mb-4">Wabah tiba di Eropa melalui pelabuhan Sisilia pada Oktober 1347, dibawa oleh kapal dagang Genova dari Laut Hitam. Penyebarannya mengerikan — dalam waktu 3 tahun, wabah ini menjangkau seluruh daratan Eropa, dari Mediterania hingga Skandinavia.</p><p class="mb-4">Perkiraan korban jiwa antara <strong>75–200 juta orang di seluruh dunia</strong>, dengan Eropa kehilangan 30–60% populasinya. Beberapa kota seperti Florence dan Hamburg kehilangan lebih dari separuh penduduknya. Populasi Eropa baru pulih ke tingkat sebelum wabah sekitar tahun 1500 — 150 tahun kemudian.</p><p class="mb-4">Dampak sosialnya sangat besar. Kekurangan tenaga kerja masif pasca-wabah melemahkan sistem feodalisme — petani menuntut upah lebih tinggi dan kebebasan bergerak. Gereja Katolik, yang tidak mampu menjelaskan atau menghentikan wabah, kehilangan otoritasnya di mata banyak orang Eropa.</p><p class="mb-4">Black Death juga mendorong kemajuan ilmu kedokteran. Observasi sistematis terhadap gejala dan pola penyebaran wabah menjadi fondasi epidemiologi modern. Praktik karantina pertama kali diterapkan di Ragusa (Dubrovnik) pada 1377 — sistem yang masih digunakan hingga pandemi COVID-19.</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Encyclopaedia Britannica — Black Death. | WHO — History of Epidemics. | National Geographic — The Black Death. | The Lancet — Plague: ancient and new.'
+          },
+          en: {
+            title: 'The Black Death 1347–1351',
+            desc: 'The deadliest pandemic in human history that wiped out one-third to half of Europe\'s population.',
+            content: '<p class="mb-4">The Black Death was the most destructive pandemic in human history, caused by the bacterium <strong>Yersinia pestis</strong> carried by rat fleas. It was first reported in China around the 1330s, then spread westward via trade routes.</p><p class="mb-4">The plague arrived in Europe through Sicilian ports in October 1347, brought by Genoese trading ships from the Black Sea. Its spread was terrifying — within 3 years it reached all of Europe, from the Mediterranean to Scandinavia.</p><p class="mb-4">Estimated death toll: <strong>75–200 million worldwide</strong>, with Europe losing 30–60% of its population. Some cities like Florence lost over half their inhabitants. European population did not recover to pre-plague levels until around 1500 — 150 years later.</p><p class="mb-4">Its social impact was immense. The massive labor shortage weakened feudalism — peasants demanded higher wages and freedom of movement. The Catholic Church, unable to explain or stop the plague, lost authority in many Europeans\' eyes.</p><p class="mb-4">The Black Death also drove medical advances. Systematic observation of symptoms and spread patterns became the foundation of modern epidemiology. Quarantine was first practiced in Ragusa (Dubrovnik) in 1377 — a system still used during COVID-19.</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Encyclopaedia Britannica — Black Death. | WHO — History of Epidemics. | National Geographic — The Black Death. | The Lancet — Plague: ancient and new.'
+          },
+          ja: {
+            title: '黒死病（ペスト）1347–1351年',
+            desc: 'ヨーロッパの人口の3分の1から半分を死滅させた人類史上最も壊滅的なパンデミック。',
+            content: '<p class="mb-4">黒死病は<strong>エルシニア・ペスティス</strong>菌によって引き起こされた人類史上最も壊滅的なパンデミックです。1330年代頃に中国で最初に報告され、貿易ルートを通じて西方に広まりました。</p><p class="mb-4">推定死者数は<strong>世界で7500万～2億人</strong>で、ヨーロッパは人口の30～60%を失いました。ヨーロッパの人口が回復したのは約1500年頃、150年後のことでした。</p><p class="mb-4">1377年にラグーサ（ドゥブロヴニク）で初めて実施された検疫制度は、COVID-19パンデミックでも使用されているシステムです。</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Britannica — 黒死病。| WHO — 疫病の歴史。| National Geographic — ペスト。'
+          },
+          ko: {
+            title: '흑사병 1347–1351년',
+            desc: '유럽 인구의 3분의 1에서 절반을 앗아간 인류 역사상 가장 치명적인 전염병.',
+            content: '<p class="mb-4">흑사병은 쥐벼룩이 옮기는 <strong>예르시니아 페스티스</strong> 세균에 의한 인류 역사상 가장 파괴적인 전염병입니다. 1330년대 중국에서 처음 보고된 후 무역로를 통해 서쪽으로 퍼졌습니다.</p><p class="mb-4">추정 사망자 수는 <strong>전 세계 7,500만~2억 명</strong>으로 유럽은 인구의 30~60%를 잃었습니다. 유럽 인구가 회복된 것은 약 1500년경, 150년 후였습니다.</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Britannica — 흑사병. | WHO — 전염병의 역사. | National Geographic — 흑사병.'
+          },
+          zh: {
+            title: '黑死病 1347–1351年',
+            desc: '消灭了欧洲三分之一到一半人口的人类历史上最致命的瘟疫。',
+            content: '<p class="mb-4">黑死病由鼠蚤传播的<strong>鼠疫杆菌</strong>引起，是人类历史上最具破坏性的瘟疫。1330年代首先在中国报告，随后通过贸易路线向西传播。</p><p class="mb-4">估计全球死亡人数为<strong>7,500万至2亿人</strong>，欧洲损失了30-60%的人口。欧洲人口直到约1500年才恢复，整整150年后。</p><p class="mb-4">1377年在拉古萨（杜布罗夫尼克）首次实施的隔离制度，正是新冠疫情期间仍在使用的系统。</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Britannica — 黑死病。| WHO — 流行病历史。| National Geographic — 黑死病。'
+          }
+        }
+      },
+      {
+        id: 'world-french-revolution',
+        langs: {
+          id: {
+            title: 'Revolusi Prancis (1789–1799)',
+            desc: 'Revolusi yang menggulingkan monarki Prancis, menggalakkan ide kebebasan dan kesetaraan, serta mengubah tatanan politik dunia.',
+            content: '<p class="mb-4">Revolusi Prancis (1789–1799) adalah salah satu peristiwa paling transformatif dalam sejarah modern. Dimulai dari krisis keuangan parah Kerajaan Prancis, ketidakpuasan kaum borjuis dan rakyat miskin terhadap sistem feodal yang menindas, serta pengaruh ide-ide Pencerahan (<em>Enlightenment</em>) tentang kebebasan dan kesetaraan.</p><p class="mb-4">Penyerbuan <strong>Penjara Bastille</strong> pada 14 Juli 1789 menjadi simbol pemberontakan rakyat. Bastille adalah penjara kerajaan yang melambangkan tirani monarki absolut. Tanggal ini kini diperingati sebagai <em>Bastille Day</em>, hari nasional Prancis.</p><p class="mb-4">Revolusi melahirkan <strong>Deklarasi Hak-Hak Manusia dan Warga Negara</strong> (1789), dokumen fundamental yang menyatakan bahwa semua manusia dilahirkan bebas dan setara. Dokumen ini menjadi inspirasi bagi konstitusi dan deklarasi hak asasi manusia di seluruh dunia.</p><p class="mb-4">Fase paling berdarah adalah <strong>Reign of Terror</strong> (1793–1794) di bawah Maximilien Robespierre. Sekitar 17.000 orang dieksekusi secara resmi dengan guillotine, termasuk Raja Louis XVI dan Ratu Marie Antoinette, sementara 40.000 lainnya tewas dalam penjara atau tanpa pengadilan.</p><p class="mb-4">Revolusi berakhir dengan naiknya Napoleon Bonaparte yang mengambil alih kekuasaan pada November 1799 melalui kudeta. Napoleon kemudian menyebarkan ide-ide revolusioner Prancis — kebebasan, kesetaraan, dan nasionalisme — ke seluruh Eropa melalui kampanye militernya, mengubah peta politik benua itu selamanya.</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Encyclopaedia Britannica — French Revolution. | History.com — French Revolution. | Musée de la Révolution française. | Stanford Encyclopedia of Philosophy — Enlightenment.'
+          },
+          en: {
+            title: 'The French Revolution (1789–1799)',
+            desc: 'The revolution that overthrew the French monarchy, promoted liberty and equality, and transformed world political order.',
+            content: '<p class="mb-4">The French Revolution (1789–1799) was one of the most transformative events in modern history. It arose from severe financial crisis, bourgeois and poor people\'s discontent with the oppressive feudal system, and Enlightenment ideas of liberty and equality.</p><p class="mb-4">The storming of the <strong>Bastille</strong> on July 14, 1789 became the symbol of popular revolt. Bastille Day is now France\'s national holiday.</p><p class="mb-4">The Revolution produced the <strong>Declaration of the Rights of Man and Citizen</strong> (1789), declaring all humans free and equal — inspiring constitutions worldwide.</p><p class="mb-4">The bloodiest phase was the <strong>Reign of Terror</strong> (1793–1794) under Robespierre. Around 17,000 people were officially executed by guillotine, including King Louis XVI and Queen Marie Antoinette.</p><p class="mb-4">The Revolution ended with Napoleon Bonaparte seizing power in November 1799, then spreading revolutionary ideals — liberty, equality, nationalism — across Europe through military campaigns.</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Encyclopaedia Britannica — French Revolution. | History.com — French Revolution. | Musée de la Révolution française.'
+          },
+          ja: {
+            title: 'フランス革命（1789–1799年）',
+            desc: 'フランス君主制を打倒し、自由と平等の理念を推進し、世界の政治秩序を変えた革命。',
+            content: '<p class="mb-4">フランス革命（1789–1799年）は近代史で最も変革的な出来事の一つです。深刻な財政危機、封建制度への不満、啓蒙主義の自由と平等の理念から生まれました。</p><p class="mb-4">1789年7月14日の<strong>バスティーユ監獄</strong>襲撃が民衆反乱の象徴となりました。この日はフランスの国民の祝日「バスティーユの日」として今も祝われます。</p><p class="mb-4"><strong>恐怖政治</strong>（1793–1794年）ではルイ16世とマリー・アントワネットを含む約17,000人がギロチンで処刑されました。</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Britannica — フランス革命。| History.com — フランス革命。'
+          },
+          ko: {
+            title: '프랑스 혁명 (1789–1799년)',
+            desc: '프랑스 군주제를 무너뜨리고 자유와 평등을 촉진하며 세계 정치 질서를 변혁한 혁명.',
+            content: '<p class="mb-4">프랑스 혁명(1789–1799년)은 근대사에서 가장 변혁적인 사건 중 하나입니다. 심각한 재정 위기, 봉건 제도에 대한 불만, 계몽주의의 자유와 평등 사상에서 비롯되었습니다.</p><p class="mb-4">1789년 7월 14일 <strong>바스티유 감옥</strong> 습격이 민중 봉기의 상징이 되었습니다. 이날은 프랑스 국경일 "바스티유의 날"로 지금도 기념됩니다.</p><p class="mb-4"><strong>공포정치</strong>(1793–1794년)에서 루이 16세와 마리 앙투아네트를 포함해 약 17,000명이 단두대로 처형되었습니다.</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Britannica — 프랑스 혁명. | History.com — 프랑스 혁명.'
+          },
+          zh: {
+            title: '法国大革命 (1789–1799年)',
+            desc: '推翻法国君主制、促进自由平等、改变世界政治秩序的革命。',
+            content: '<p class="mb-4">法国大革命（1789–1799年）是近代史上最具变革性的事件之一。源于严重的财政危机、对封建制度的不满以及启蒙运动关于自由与平等的思想。</p><p class="mb-4">1789年7月14日攻占<strong>巴士底狱</strong>成为民众起义的象征。这一天如今是法国国庆节。</p><p class="mb-4"><strong>恐怖统治</strong>（1793–1794年）中，包括路易十六和玛丽·安托瓦内特在内的约17,000人被送上断头台。</p>',
+            sourceDomain: 'britannica.com',
+            sourceSnippet: 'Britannica — 法国大革命。| History.com — 法国大革命。'
+          }
+        }
+      },
+      {
+        id: 'world-silk-road',
+        langs: {
+          id: {
+            title: 'Jalur Sutra — Jaringan Perdagangan Dunia Kuno',
+            desc: 'Jaringan rute perdagangan sepanjang 6.400 km yang menghubungkan Tiongkok dengan Mediterania dan mengubah peradaban dunia.',
+            content: '<p class="mb-4">Jalur Sutra (<em>Silk Road</em>) adalah jaringan rute perdagangan darat dan laut yang membentang lebih dari 6.400 km dari Chang\'an (Tiongkok) hingga Konstantinopel dan Roma. Aktif selama lebih dari 1.400 tahun (abad ke-2 SM hingga abad ke-15 M), Jalur Sutra bukan sekadar jalan dagang — ia adalah jembatan peradaban.</p><p class="mb-4">Komoditas utama yang diperdagangkan adalah sutra Tiongkok yang sangat dihargai di Barat, rempah-rempah dari India dan Asia Tenggara, kaca dan anggur dari Romawi, serta emas dan perak. Nama "Jalur Sutra" sendiri baru diberikan oleh geograf Jerman Ferdinand von Richthofen pada 1877.</p><p class="mb-4">Yang lebih penting dari komoditas fisik adalah pertukaran <strong>ide, teknologi, dan budaya</strong>. Melalui Jalur Sutra, agama Buddha menyebar dari India ke Tiongkok dan Asia Timur. Islam menyebar ke Asia Tengah dan Asia Tenggara. Teknik pembuatan kertas dan bubuk mesiu dari Tiongkok sampai ke Eropa, mengubah sejarah dunia.</p><p class="mb-4">Penjelajah Venesia <strong>Marco Polo</strong> (1271–1295) adalah salah satu traveler paling terkenal di Jalur Sutra. Perjalanannya ke istana Kubilai Khan di Tiongkok dan kisahnya dalam buku <em>Il Milione</em> menginspirasi generasi penjelajah Eropa, termasuk Christopher Columbus.</p><p class="mb-4">Jalur Sutra melemah setelah Kekaisaran Ottoman menutup rute darat ke Asia pada abad ke-15, mendorong Eropa mencari jalur laut ke Asia — yang akhirnya menghasilkan <strong>Age of Exploration</strong> dan perubahan peta dunia secara fundamental. UNESCO menetapkan Jalur Sutra sebagai Warisan Dunia pada 2014.</p>',
+            sourceDomain: 'unesco.org',
+            sourceSnippet: 'UNESCO — Silk Roads World Heritage. | National Geographic — The Silk Road. | Smithsonian Magazine — Secrets of the Silk Road. | Marco Polo — Il Milione (The Travels of Marco Polo).'
+          },
+          en: {
+            title: 'The Silk Road — Ancient World Trade Network',
+            desc: 'A 6,400 km trade route network connecting China with the Mediterranean that transformed world civilization.',
+            content: '<p class="mb-4">The Silk Road was a land and sea trade route network stretching over 6,400 km from Chang\'an (China) to Constantinople and Rome. Active for over 1,400 years (2nd century BC to 15th century AD), it was not merely a trade route — it was a bridge between civilizations.</p><p class="mb-4">Main traded commodities included Chinese silk (highly prized in the West), spices from India and Southeast Asia, glass and wine from Rome, and gold and silver. The name "Silk Road" was coined by German geographer Ferdinand von Richthofen in 1877.</p><p class="mb-4">More important than physical goods was the exchange of <strong>ideas, technology, and culture</strong>. Buddhism spread from India to China and East Asia. Islam spread to Central and Southeast Asia. Chinese papermaking and gunpowder techniques reached Europe, transforming world history.</p><p class="mb-4">Venetian explorer <strong>Marco Polo</strong> (1271–1295) was the Silk Road\'s most famous traveler. His journey to Kublai Khan\'s court and his book <em>Il Milione</em> inspired European explorers including Christopher Columbus.</p><p class="mb-4">The Silk Road declined after the Ottoman Empire closed land routes to Asia in the 15th century, pushing Europe to find sea routes — ultimately producing the <strong>Age of Exploration</strong>. UNESCO designated the Silk Roads as World Heritage in 2014.</p>',
+            sourceDomain: 'unesco.org',
+            sourceSnippet: 'UNESCO — Silk Roads World Heritage. | National Geographic — The Silk Road. | Smithsonian Magazine — Secrets of the Silk Road.'
+          },
+          ja: {
+            title: 'シルクロード — 古代世界の交易網',
+            desc: '中国と地中海を結ぶ6,400kmの交易路ネットワークが世界文明を変えた。',
+            content: '<p class="mb-4">シルクロードは長安（中国）からコンスタンティノープルとローマまで6,400km以上に及ぶ陸海の交易路ネットワークでした。1,400年以上（紀元前2世紀〜15世紀）にわたって活動し、単なる交易路ではなく文明の橋でした。</p><p class="mb-4">仏教はインドから中国・東アジアへ、イスラムは中央アジア・東南アジアへ広まりました。中国の製紙術と火薬がヨーロッパに伝わり世界史を変えました。</p><p class="mb-4">ヴェネツィアの探検家<strong>マルコ・ポーロ</strong>（1271–1295年）はシルクロードで最も有名な旅行者で、その著書<em>東方見聞録</em>はコロンブスを含む多くのヨーロッパ探検家に影響を与えました。</p>',
+            sourceDomain: 'unesco.org',
+            sourceSnippet: 'UNESCO — シルクロード世界遺産。| National Geographic — シルクロード。'
+          },
+          ko: {
+            title: '실크로드 — 고대 세계 무역망',
+            desc: '중국과 지중해를 연결하는 6,400km의 교역로 네트워크가 세계 문명을 변혁시켰다.',
+            content: '<p class="mb-4">실크로드는 장안(중국)에서 콘스탄티노플과 로마까지 6,400km 이상 뻗은 육해상 교역로 네트워크였습니다. 1,400년 이상(기원전 2세기~15세기) 활동하며 단순한 무역로가 아닌 문명의 다리였습니다.</p><p class="mb-4">불교는 인도에서 중국과 동아시아로, 이슬람은 중앙아시아와 동남아시아로 전파되었습니다. 중국의 제지술과 화약이 유럽에 전달되어 세계사를 바꾸었습니다.</p><p class="mb-4">베네치아 탐험가 <strong>마르코 폴로</strong>(1271–1295년)는 실크로드의 가장 유명한 여행자로, 그의 저서 <em>동방견문록</em>은 콜럼버스를 포함한 유럽 탐험가들에게 영감을 주었습니다.</p>',
+            sourceDomain: 'unesco.org',
+            sourceSnippet: 'UNESCO — 실크로드 세계유산. | National Geographic — 실크로드.'
+          },
+          zh: {
+            title: '丝绸之路 — 古代世界贸易网络',
+            desc: '连接中国与地中海的6,400公里贸易路线网络改变了世界文明。',
+            content: '<p class="mb-4">丝绸之路是从长安（中国）延伸到君士坦丁堡和罗马超过6,400公里的陆海贸易路线网络。活跃超过1,400年（公元前2世纪至15世纪），不仅是贸易路线，更是文明之桥。</p><p class="mb-4">佛教从印度传播到中国和东亚，伊斯兰教传播到中亚和东南亚。中国的造纸术和火药传到欧洲，改变了世界历史。</p><p class="mb-4">威尼斯探险家<strong>马可·波罗</strong>（1271–1295年）是丝绸之路最著名的旅行者，其著作<em>马可·波罗游记</em>激励了包括哥伦布在内的欧洲探险家。联合国教科文组织于2014年将丝绸之路列为世界遗产。</p>',
+            sourceDomain: 'unesco.org',
+            sourceSnippet: 'UNESCO — 丝绸之路世界遗产。| National Geographic — 丝绸之路。| 史密森尼杂志 — 丝绸之路的秘密。'
+          }
+        }
+      }
+    ]
+  }
 };

@@ -13,23 +13,24 @@
   <meta name="language" content="Indonesian">
   
   <!-- Canonical URL (Ganti dengan URL asli jika sudah ada domain) -->
-  <link rel="canonical" href="https://wikybook.com/">
+  <link rel="sitemap" type="application/xml" href="https://hypeemart.my.id/sitemap.xml">
+  <link rel="canonical" href="https://hypeemart.my.id/">
 
   <!-- Hreflang for Multi-language Support (SEO Internasional) -->
-  <link rel="alternate" hreflang="id" href="https://wikybook.com/" />
-  <link rel="alternate" hreflang="en" href="https://wikybook.com/?lang=en" />
-  <link rel="alternate" hreflang="ja" href="https://wikybook.com/?lang=ja" />
-  <link rel="alternate" hreflang="ko" href="https://wikybook.com/?lang=ko" />
-  <link rel="alternate" hreflang="zh" href="https://wikybook.com/?lang=zh" />
-  <link rel="alternate" hreflang="x-default" href="https://wikybook.com/" />
+  <link rel="alternate" hreflang="id" href="https://hypeemart.my.id/" />
+  <link rel="alternate" hreflang="en" href="https://hypeemart.my.id/?lang=en" />
+  <link rel="alternate" hreflang="ja" href="https://hypeemart.my.id/?lang=ja" />
+  <link rel="alternate" hreflang="ko" href="https://hypeemart.my.id/?lang=ko" />
+  <link rel="alternate" hreflang="zh" href="https://hypeemart.my.id/?lang=zh" />
+  <link rel="alternate" hreflang="x-default" href="https://hypeemart.my.id/" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://wikybook.com/">
+  <meta property="og:url" content="https://hypeemart.my.id/">
   <meta property="og:title" content="Wikybook - Ensiklopedia Sejarah Dunia">
   <meta property="og:description" content="Wikybook adalah ensiklopedia sejarah dunia interaktif. Temukan informasi lengkap tentang peradaban kuno, kerajaan Nusantara, tokoh sejarah, dan peristiwa penting dunia.">
   <!-- Ganti URL gambar di bawah dengan URL gambar banner yang sesungguhnya -->
-  <meta property="og:image" content="logo.png"> 
+  <meta property="og:image" content="https://hypeemart.my.id/logo.png"> 
   <meta property="og:site_name" content="Wikybook">
   <meta property="og:locale" content="id_ID">
   <meta property="og:locale:alternate" content="en_US">
@@ -39,12 +40,13 @@
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://wikybook.com/">
+  <meta property="twitter:url" content="https://hypeemart.my.id/">
   <meta property="twitter:title" content="Wikybook - Ensiklopedia Sejarah Dunia">
   <meta property="twitter:description" content="Wikybook adalah ensiklopedia sejarah dunia interaktif. Temukan informasi lengkap tentang peradaban kuno, kerajaan Nusantara, tokoh sejarah, dan peristiwa penting dunia.">
-  <meta property="twitter:image" content="logo.png">
+  <meta property="twitter:image" content="https://hypeemart.my.id/logo.png">
 
   <!-- Favicon & PWA basics -->
+  <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" sizes="180x180" href="logo.png">
   <link rel="icon" type="image/png" sizes="32x32" href="logo.png">
   <meta name="theme-color" content="#ffffff">
@@ -55,11 +57,11 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Wikybook",
-    "url": "https://wikybook.com/",
+    "url": "https://hypeemart.my.id/",
     "description": "Ensiklopedia sejarah dunia yang interaktif.",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://wikybook.com/?q={search_term_string}",
+      "target": "https://hypeemart.my.id/?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   }
@@ -86,8 +88,118 @@
     .fade-in { animation: fadeIn 0.35s ease-out; }
     @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
   </style>
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"CollectionPage",
+    "name":"Wikybook — Daftar Artikel Sejarah",
+    "url":"https://hypeemart.my.id/",
+    "description":"Kumpulan 46 artikel sejarah dunia dalam 5 bahasa.",
+    "mainEntity":{
+      "@type":"ItemList",
+      "numberOfItems":46,
+      "itemListElement":[
+        {"@type":"ListItem","position":1,"name":"Kerajaan Majapahit","description":"Kerajaan Hindu-Buddha terbesar di Nusantara yang menyatukan hampir seluruh Asia Tenggara di bawah sa","url":"https://hypeemart.my.id/#indonesia-majapahit"},
+        {"@type":"ListItem","position":2,"name":"Proklamasi Kemerdekaan 1945","description":"Detik-detik bersejarah ketika Soekarno-Hatta memproklamasikan kemerdekaan Indonesia pada 17 Agustus ","url":"https://hypeemart.my.id/#indonesia-proklamasi"},
+        {"@type":"ListItem","position":3,"name":"Kerajaan Sriwijaya","description":"Kerajaan maritim terbesar Asia Tenggara yang menguasai jalur perdagangan Selat Malaka selama 7 abad.","url":"https://hypeemart.my.id/#indonesia-sriwijaya"},
+        {"@type":"ListItem","position":4,"name":"Candi Borobudur","description":"Candi Buddha terbesar di dunia yang dibangun oleh Dinasti Syailendra pada abad ke-8 di Jawa Tengah.","url":"https://hypeemart.my.id/#indonesia-borobudur"},
+        {"@type":"ListItem","position":5,"name":"Perang Diponegoro 1825–1830","description":"Perang terbesar melawan kolonial Belanda yang dipimpin Pangeran Diponegoro selama lima tahun penuh p","url":"https://hypeemart.my.id/#indonesia-diponegoro"},
+        {"@type":"ListItem","position":6,"name":"VOC dan Kolonialisme Belanda di Nusantara","description":"Perusahaan dagang VOC yang menjadi instrumen utama penjajahan Belanda di Nusantara selama dua abad.","url":"https://hypeemart.my.id/#indonesia-voc"},
+        {"@type":"ListItem","position":7,"name":"Kerajaan Tarumanegara","description":"Kerajaan Hindu tertua di Pulau Jawa yang berdiri pada abad ke-4 di Jawa Barat dengan bukti prasasti ","url":"https://hypeemart.my.id/#indonesia-tarumanegara"},
+        {"@type":"ListItem","position":8,"name":"Kesultanan Mataram Islam","description":"Kerajaan Islam terkuat di Jawa yang mencapai puncaknya di bawah Sultan Agung pada abad ke-17.","url":"https://hypeemart.my.id/#indonesia-mataram-islam"},
+        {"@type":"ListItem","position":9,"name":"Era Samurai dan Keshogunan","description":"Masa kejayaan para ksatria samurai yang mendominasi politik dan budaya Jepang selama berabad-abad.","url":"https://hypeemart.my.id/#jepang-samurai"},
+        {"@type":"ListItem","position":10,"name":"Restorasi Meiji","description":"Transformasi revolusioner Jepang dari negara feodal menjadi kekuatan industri modern dalam waktu sin","url":"https://hypeemart.my.id/#jepang-meiji"},
+        {"@type":"ListItem","position":11,"name":"Bom Atom Hiroshima & Nagasaki","description":"Tragedi kemanusiaan terbesar dalam sejarah peperangan modern yang mengakhiri Perang Dunia II.","url":"https://hypeemart.my.id/#jepang-hiroshima"},
+        {"@type":"ListItem","position":12,"name":"Piramida Agung Giza","description":"Satu-satunya dari Tujuh Keajaiban Dunia Kuno yang masih berdiri, dibangun sekitar 2560 SM.","url":"https://hypeemart.my.id/#mesir-piramida"},
+        {"@type":"ListItem","position":13,"name":"Para Firaun Legendaris","description":"Kisah Ramses II, Tutankhamun, dan Cleopatra — para penguasa Mesir yang namanya abadi dalam sejarah.","url":"https://hypeemart.my.id/#mesir-firaun"},
+        {"@type":"ListItem","position":14,"name":"Hieroglif — Tulisan Suci Mesir","description":"Sistem tulisan piktografis yang digunakan selama 3.500 tahun dan menjadi kunci memahami peradaban Me","url":"https://hypeemart.my.id/#mesir-hieroglif"},
+        {"@type":"ListItem","position":15,"name":"Piramida Djoser dan Imhotep","description":"Piramida bertingkat pertama di dunia yang dibangun Imhotep untuk Firaun Djoser sekitar 2630 SM di Sa","url":"https://hypeemart.my.id/#mesir-djoser"},
+        {"@type":"ListItem","position":16,"name":"Firaun Ramses II - Penguasa Terbesar Mesir","description":"Firaun Ramses II atau Ramses yang Agung yang memerintah Mesir 66 tahun dan meninggalkan warisan pera","url":"https://hypeemart.my.id/#mesir-ramses-ii"},
+        {"@type":"ListItem","position":17,"name":"Julius Caesar","description":"Jenderal dan diktator Roma yang mengubah Republik menjadi cikal bakal Kekaisaran dan namanya abadi s","url":"https://hypeemart.my.id/#romawi-julius-caesar"},
+        {"@type":"ListItem","position":18,"name":"Colosseum — Arena Raksasa Roma","description":"Amfiteater terbesar sepanjang masa yang menampung 80.000 penonton untuk pertarungan gladiator yang l","url":"https://hypeemart.my.id/#romawi-colosseum"},
+        {"@type":"ListItem","position":19,"name":"Tembok Besar Tiongkok","description":"Salah satu proyek konstruksi terbesar dalam sejarah manusia, dibangun selama lebih dari 2.000 tahun ","url":"https://hypeemart.my.id/#tiongkok-tembok"},
+        {"@type":"ListItem","position":20,"name":"Dinasti Tang — Zaman Keemasan","description":"Era paling gemilang Tiongkok dalam seni, sastra, teknologi, dan perdagangan internasional (618–907 M","url":"https://hypeemart.my.id/#tiongkok-dinasti-tang"},
+        {"@type":"ListItem","position":21,"name":"Norman Conquest 1066","description":"Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#inggris-norman-conquest-1066"},
+        {"@type":"ListItem","position":22,"name":"Magna Carta 1215","description":"Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#inggris-magna-carta-1215"},
+        {"@type":"ListItem","position":23,"name":"British Empire","description":"Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#inggris-british-empire"},
+        {"@type":"ListItem","position":24,"name":"Industrial Revolution","description":"Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#inggris-industrial-revolution"},
+        {"@type":"ListItem","position":25,"name":"World War II Churchill","description":"Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#inggris-world-war-ii-churchill"},
+        {"@type":"ListItem","position":26,"name":"French Revolution","description":"Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#prancis-french-revolution"},
+        {"@type":"ListItem","position":27,"name":"Napoleon Bonaparte","description":"Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#prancis-napoleon-bonaparte"},
+        {"@type":"ListItem","position":28,"name":"Charlemagne","description":"Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#prancis-charlemagne"},
+        {"@type":"ListItem","position":29,"name":"Hundred Years War","description":"Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#prancis-hundred-years-war"},
+        {"@type":"ListItem","position":30,"name":"Louis XIV Versailles","description":"Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#prancis-louis-xiv-versailles"},
+        {"@type":"ListItem","position":31,"name":"Revolusi Prancis (1789–1799)","description":"Revolusi yang menggulingkan monarki Prancis dan mengubah tatanan politik dunia.","url":"https://hypeemart.my.id/#prancis-revolusi"},
+        {"@type":"ListItem","position":32,"name":"Holy Roman Empire","description":"Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#jerman-holy-roman-empire"},
+        {"@type":"ListItem","position":33,"name":"Martin Luther Reformation","description":"Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#jerman-martin-luther-reformation"},
+        {"@type":"ListItem","position":34,"name":"Otto von Bismarck","description":"Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#jerman-otto-von-bismarck"},
+        {"@type":"ListItem","position":35,"name":"Weimar Republic","description":"Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#jerman-weimar-republic"},
+        {"@type":"ListItem","position":36,"name":"Berlin Wall","description":"Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#jerman-berlin-wall"},
+        {"@type":"ListItem","position":37,"name":"Spanish Reconquista","description":"Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#spanyol-spanish-reconquista"},
+        {"@type":"ListItem","position":38,"name":"Columbus 1492","description":"Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#spanyol-columbus-1492"},
+        {"@type":"ListItem","position":39,"name":"Spanish Armada","description":"Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#spanyol-spanish-armada"},
+        {"@type":"ListItem","position":40,"name":"Spanish Inquisition","description":"Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#spanyol-spanish-inquisition"},
+        {"@type":"ListItem","position":41,"name":"Felipe II Empire","description":"Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#spanyol-felipe-ii-empire"},
+        {"@type":"ListItem","position":42,"name":"Vasco da Gama","description":"Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#portugal-vasco-da-gama"},
+        {"@type":"ListItem","position":43,"name":"Portuguese Empire","description":"Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#portugal-portuguese-empire"},
+        {"@type":"ListItem","position":44,"name":"Henry the Navigator","description":"Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#portugal-henry-the-navigator"},
+        {"@type":"ListItem","position":45,"name":"Treaty of Tordesillas","description":"Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#portugal-treaty-of-tordesillas"},
+        {"@type":"ListItem","position":46,"name":"Battle of Alcacer Quibir","description":"Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.","url":"https://hypeemart.my.id/#portugal-battle-of-alcacer-quibir"}
+      ]
+    }
+  }
+  </script>
 </head>
 
+<noscript><div style="padding:20px;font-family:sans-serif"><h1>Wikybook — Ensiklopedia Sejarah Dunia</h1><p>Ensiklopedia sejarah dalam 5 bahasa: Indonesia, English, 日本語, 한국어, 中文. Aktifkan JavaScript untuk pengalaman terbaik.</p>
+<article id="indonesia-majapahit" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Kerajaan Majapahit</h2><h3>Majapahit Empire</h3><p itemprop="description">Kerajaan Hindu-Buddha terbesar di Nusantara yang menyatukan hampir seluruh Asia Tenggara di bawah satu panji.</p><p>The greatest Hindu-Buddhist kingdom in the archipelago that united almost all of Southeast Asia.</p></article>
+<article id="indonesia-proklamasi" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Proklamasi Kemerdekaan 1945</h2><h3>Independence Proclamation 1945</h3><p itemprop="description">Detik-detik bersejarah ketika Soekarno-Hatta memproklamasikan kemerdekaan Indonesia pada 17 Agustus 1945.</p><p>The historic moment when Sukarno-Hatta proclaimed Indonesian independence on August 17, 1945.</p></article>
+<article id="indonesia-sriwijaya" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Kerajaan Sriwijaya</h2><h3>Srivijaya Empire</h3><p itemprop="description">Kerajaan maritim terbesar Asia Tenggara yang menguasai jalur perdagangan Selat Malaka selama 7 abad.</p><p>The greatest maritime empire of Southeast Asia that controlled the Strait of Malacca trade routes for 7 centuries.</p></article>
+<article id="indonesia-borobudur" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Candi Borobudur</h2><h3>Borobudur Temple</h3><p itemprop="description">Candi Buddha terbesar di dunia yang dibangun oleh Dinasti Syailendra pada abad ke-8 di Jawa Tengah.</p><p>The world\</p></article>
+<article id="indonesia-diponegoro" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Perang Diponegoro 1825–1830</h2><h3>Diponegoro War 1825–1830</h3><p itemprop="description">Perang terbesar melawan kolonial Belanda yang dipimpin Pangeran Diponegoro selama lima tahun penuh perlawanan.</p><p>The largest war against Dutch colonialism, led by Prince Diponegoro for five years of fierce resistance.</p></article>
+<article id="indonesia-voc" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">VOC dan Kolonialisme Belanda di Nusantara</h2><h3>VOC and Dutch Colonialism in the Archipelago</h3><p itemprop="description">Perusahaan dagang VOC yang menjadi instrumen utama penjajahan Belanda di Nusantara selama dua abad.</p><p>The Dutch East India Company, the primary instrument of Dutch colonialism in the archipelago for two centuries.</p></article>
+<article id="indonesia-tarumanegara" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Kerajaan Tarumanegara</h2><h3>Kingdom of Tarumanegara</h3><p itemprop="description">Kerajaan Hindu tertua di Pulau Jawa yang berdiri pada abad ke-4 di Jawa Barat dengan bukti prasasti tertua di Indonesia.</p><p>The oldest Hindu kingdom in Java, founded in the 4th century in West Java with the oldest inscriptions found in Indonesia.</p></article>
+<article id="indonesia-mataram-islam" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Kesultanan Mataram Islam</h2><h3>Islamic Mataram Sultanate</h3><p itemprop="description">Kerajaan Islam terkuat di Jawa yang mencapai puncaknya di bawah Sultan Agung pada abad ke-17.</p><p>The most powerful Islamic kingdom in Java that reached its peak under Sultan Agung in the 17th century.</p></article>
+<article id="jepang-samurai" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Era Samurai dan Keshogunan</h2><h3>Samurai Era & Shogunate</h3><p itemprop="description">Masa kejayaan para ksatria samurai yang mendominasi politik dan budaya Jepang selama berabad-abad.</p><p>The golden age of samurai warriors who dominated Japanese politics and culture for centuries.</p></article>
+<article id="jepang-meiji" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Restorasi Meiji</h2><h3>Meiji Restoration</h3><p itemprop="description">Transformasi revolusioner Jepang dari negara feodal menjadi kekuatan industri modern dalam waktu singkat.</p><p>Japan\</p></article>
+<article id="jepang-hiroshima" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Bom Atom Hiroshima & Nagasaki</h2><h3>Hiroshima & Nagasaki Atomic Bombs</h3><p itemprop="description">Tragedi kemanusiaan terbesar dalam sejarah peperangan modern yang mengakhiri Perang Dunia II.</p><p>The greatest humanitarian tragedy in modern warfare history that ended World War II.</p></article>
+<article id="mesir-piramida" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Piramida Agung Giza</h2><h3>Great Pyramid of Giza</h3><p itemprop="description">Satu-satunya dari Tujuh Keajaiban Dunia Kuno yang masih berdiri, dibangun sekitar 2560 SM.</p><p>The only surviving Wonder of the Ancient World, built around 2560 BC.</p></article>
+<article id="mesir-firaun" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Para Firaun Legendaris</h2><h3>Legendary Pharaohs</h3><p itemprop="description">Kisah Ramses II, Tutankhamun, dan Cleopatra — para penguasa Mesir yang namanya abadi dalam sejarah.</p><p>The stories of Ramses II, Tutankhamun, and Cleopatra — Egyptian rulers whose names are immortalized in history.</p></article>
+<article id="mesir-hieroglif" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Hieroglif — Tulisan Suci Mesir</h2><h3>Hieroglyphs — Sacred Egyptian Writing</h3><p itemprop="description">Sistem tulisan piktografis yang digunakan selama 3.500 tahun dan menjadi kunci memahami peradaban Mesir Kuno.</p><p>The pictographic writing system used for 3,500 years that became the key to understanding Ancient Egyptian civilization.</p></article>
+<article id="mesir-djoser" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Piramida Djoser dan Imhotep</h2><h3>Pyramid of Djoser and Imhotep</h3><p itemprop="description">Piramida bertingkat pertama di dunia yang dibangun Imhotep untuk Firaun Djoser sekitar 2630 SM di Saqqara.</p><p>The world\</p></article>
+<article id="mesir-ramses-ii" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Firaun Ramses II - Penguasa Terbesar Mesir</h2><h3>Pharaoh Ramesses II - Greatest Ruler of Egypt</h3><p itemprop="description">Firaun Ramses II atau Ramses yang Agung yang memerintah Mesir 66 tahun dan meninggalkan warisan peradaban yang luar biasa.</p><p>Ramesses II, known as Ramesses the Great, who ruled Egypt for 66 years and left an extraordinary civilizational legacy.</p></article>
+<article id="romawi-julius-caesar" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Julius Caesar</h2><h3>Julius Caesar</h3><p itemprop="description">Jenderal dan diktator Roma yang mengubah Republik menjadi cikal bakal Kekaisaran dan namanya abadi sepanjang masa.</p><p>Rome\</p></article>
+<article id="romawi-colosseum" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Colosseum — Arena Raksasa Roma</h2><h3>Colosseum — Arena Raksasa Roma</h3><p itemprop="description">Amfiteater terbesar sepanjang masa yang menampung 80.000 penonton untuk pertarungan gladiator yang legendaris.</p><p>Amfiteater terbesar sepanjang masa yang menampung 80.000 penonton untuk pertarungan gladiator yang legendaris.</p></article>
+<article id="tiongkok-tembok" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Tembok Besar Tiongkok</h2><h3>Great Wall of China</h3><p itemprop="description">Salah satu proyek konstruksi terbesar dalam sejarah manusia, dibangun selama lebih dari 2.000 tahun untuk melindungi dari invasi utara.</p><p>One of the largest construction projects in human history, built over 2,000 years to protect against northern invasions.</p></article>
+<article id="tiongkok-dinasti-tang" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Dinasti Tang — Zaman Keemasan</h2><h3>Tang Dynasty — The Golden Age</h3><p itemprop="description">Era paling gemilang Tiongkok dalam seni, sastra, teknologi, dan perdagangan internasional (618–907 M).</p><p>China\</p></article>
+<article id="inggris-norman-conquest-1066" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Norman Conquest 1066</h2><h3>Norman Conquest 1066</h3><p itemprop="description">Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.</p><p>A defining moment in the history of England/Britain that shaped its civilization.</p></article>
+<article id="inggris-magna-carta-1215" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Magna Carta 1215</h2><h3>Magna Carta 1215</h3><p itemprop="description">Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.</p><p>A defining moment in the history of England/Britain that shaped its civilization.</p></article>
+<article id="inggris-british-empire" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">British Empire</h2><h3>British Empire</h3><p itemprop="description">Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.</p><p>A defining moment in the history of England/Britain that shaped its civilization.</p></article>
+<article id="inggris-industrial-revolution" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Industrial Revolution</h2><h3>Industrial Revolution</h3><p itemprop="description">Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.</p><p>A defining moment in the history of England/Britain that shaped its civilization.</p></article>
+<article id="inggris-world-war-ii-churchill" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">World War II Churchill</h2><h3>World War II Churchill</h3><p itemprop="description">Peristiwa penting dalam sejarah Inggris yang membentuk peradaban kawasan.</p><p>A defining moment in the history of England/Britain that shaped its civilization.</p></article>
+<article id="prancis-french-revolution" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">French Revolution</h2><h3>French Revolution</h3><p itemprop="description">Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.</p><p>A defining moment in the history of France that shaped its civilization.</p></article>
+<article id="prancis-napoleon-bonaparte" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Napoleon Bonaparte</h2><h3>Napoleon Bonaparte</h3><p itemprop="description">Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.</p><p>A defining moment in the history of France that shaped its civilization.</p></article>
+<article id="prancis-charlemagne" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Charlemagne</h2><h3>Charlemagne</h3><p itemprop="description">Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.</p><p>A defining moment in the history of France that shaped its civilization.</p></article>
+<article id="prancis-hundred-years-war" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Hundred Years War</h2><h3>Hundred Years War</h3><p itemprop="description">Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.</p><p>A defining moment in the history of France that shaped its civilization.</p></article>
+<article id="prancis-louis-xiv-versailles" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Louis XIV Versailles</h2><h3>Louis XIV Versailles</h3><p itemprop="description">Peristiwa penting dalam sejarah Prancis yang membentuk peradaban kawasan.</p><p>A defining moment in the history of France that shaped its civilization.</p></article>
+<article id="prancis-revolusi" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Revolusi Prancis (1789–1799)</h2><h3>The French Revolution (1789–1799)</h3><p itemprop="description">Revolusi yang menggulingkan monarki Prancis dan mengubah tatanan politik dunia.</p><p>The revolution that overthrew the French monarchy and transformed world political order.</p></article>
+<article id="jerman-holy-roman-empire" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Holy Roman Empire</h2><h3>Holy Roman Empire</h3><p itemprop="description">Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Germany that shaped its civilization.</p></article>
+<article id="jerman-martin-luther-reformation" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Martin Luther Reformation</h2><h3>Martin Luther Reformation</h3><p itemprop="description">Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Germany that shaped its civilization.</p></article>
+<article id="jerman-otto-von-bismarck" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Otto von Bismarck</h2><h3>Otto von Bismarck</h3><p itemprop="description">Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Germany that shaped its civilization.</p></article>
+<article id="jerman-weimar-republic" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Weimar Republic</h2><h3>Weimar Republic</h3><p itemprop="description">Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Germany that shaped its civilization.</p></article>
+<article id="jerman-berlin-wall" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Berlin Wall</h2><h3>Berlin Wall</h3><p itemprop="description">Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Germany that shaped its civilization.</p></article>
+<article id="spanyol-spanish-reconquista" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Spanish Reconquista</h2><h3>Spanish Reconquista</h3><p itemprop="description">Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Spain that shaped its civilization.</p></article>
+<article id="spanyol-columbus-1492" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Columbus 1492</h2><h3>Columbus 1492</h3><p itemprop="description">Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Spain that shaped its civilization.</p></article>
+<article id="spanyol-spanish-armada" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Spanish Armada</h2><h3>Spanish Armada</h3><p itemprop="description">Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Spain that shaped its civilization.</p></article>
+<article id="spanyol-spanish-inquisition" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Spanish Inquisition</h2><h3>Spanish Inquisition</h3><p itemprop="description">Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Spain that shaped its civilization.</p></article>
+<article id="spanyol-felipe-ii-empire" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Felipe II Empire</h2><h3>Felipe II Empire</h3><p itemprop="description">Peristiwa penting dalam sejarah Spanyol yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Spain that shaped its civilization.</p></article>
+<article id="portugal-vasco-da-gama" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Vasco da Gama</h2><h3>Vasco da Gama</h3><p itemprop="description">Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Portugal that shaped its civilization.</p></article>
+<article id="portugal-portuguese-empire" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Portuguese Empire</h2><h3>Portuguese Empire</h3><p itemprop="description">Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Portugal that shaped its civilization.</p></article>
+<article id="portugal-henry-the-navigator" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Henry the Navigator</h2><h3>Henry the Navigator</h3><p itemprop="description">Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Portugal that shaped its civilization.</p></article>
+<article id="portugal-treaty-of-tordesillas" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Treaty of Tordesillas</h2><h3>Treaty of Tordesillas</h3><p itemprop="description">Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Portugal that shaped its civilization.</p></article>
+<article id="portugal-battle-of-alcacer-quibir" itemscope itemtype="https://schema.org/Article"><h2 itemprop="name">Battle of Alcacer Quibir</h2><h3>Battle of Alcacer Quibir</h3><p itemprop="description">Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.</p><p>A defining moment in the history of Portugal that shaped its civilization.</p></article>
+</div></noscript>
 <body class="bg-white text-gray-900 font-sans antialiased min-h-screen flex flex-col selection:bg-gray-200 selection:text-black">
 
 <!-- Overlay Sidebar -->

@@ -570,12 +570,24 @@ function renderArticle(countryId, articleId) {
     '<span class="ml-3 font-medium text-sm group-hover:text-gray-900 transition-colors">' + u.source + '</span>' +
     '<svg id="sourceIconArrow" class="w-5 h-5 ml-auto text-gray-400 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>' +
     '</div>' +
-    '<div id="sourceDetails" class="hidden mt-4">' +
-    '<div class="p-4 border border-gray-200 rounded-[0.5rem] bg-gray-50 flex items-start sm:items-center flex-col sm:flex-row gap-4">' +
-    '<img src="https://www.google.com/s2/favicons?domain=' + item.sourceDomain + '&sz=64" class="w-12 h-12 rounded border border-gray-200 flex-shrink-0 bg-white" onerror="this.style.display=\'none\'">' +
-    '<div><div class="font-bold text-gray-900 text-sm">' + item.sourceDomain + '</div>' +
-    '<div class="text-xs text-gray-500 mt-1.5 leading-relaxed">' + item.sourceSnippet + '</div></div>' +
-    '</div></div></div>';
+    '<div id="sourceDetails" class="hidden mt-4 flex flex-col gap-3">' +
+    (function() {
+      var sources = item.sourceSnippet.split(' | ');
+      return sources.map(function(src) {
+        src = src.trim();
+        // Ekstrak domain dari snippet (misal: 'NASA.gov — ...' atau 'nasa.gov')
+        var domain = item.sourceDomain;
+        // Coba deteksi domain dari teks snippet
+        var domainMatch = src.match(/([a-zA-Z0-9\-]+\.(?:com|gov|org|net|edu|id|co|io|fr|de|jp|uk|au|ca))/i);
+        if (domainMatch) domain = domainMatch[1].toLowerCase();
+        return '<div class="p-4 border border-gray-200 rounded-[0.5rem] bg-gray-50 flex items-start gap-3">' +
+          '<img src="https://www.google.com/s2/favicons?domain=' + domain + '&sz=64" class="w-10 h-10 rounded border border-gray-200 flex-shrink-0 bg-white mt-0.5" onerror="this.style.display=none">' +
+          '<div><div class="font-bold text-gray-900 text-sm">' + domain + '</div>' +
+          '<div class="text-xs text-gray-500 mt-1 leading-relaxed">' + src + '</div></div>' +
+          '</div>';
+      }).join('');
+    })() +
+    '</div></div>';
 
   window.scrollTo(0, 0);
 }

@@ -1,10 +1,10 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hypeemart.my.id/sitemap.xml
-
 User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
 Allow: /
+
+Sitemap: https://hypeemart.my.id/sitemap.xml

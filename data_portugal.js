@@ -4,59 +4,389 @@
 if (typeof window.countryDataFiles === 'undefined') window.countryDataFiles = {};
 
 window.countryDataFiles['portugal'] = {
-    names: { id: 'Portugal', en: 'Portugal', ja: 'ポルトガル', ko: '포르투갈', zh: '葡萄牙' },
-    flag: '🇵🇹',
-    articles: [
-      {
-        id: 'portugal-vasco-da-gama',
-        langs: {
-          id: { title: 'Vasco da Gama', desc: 'Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.', content: '<p class="mb-4">Vasco da Gama adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Vasco da Gama masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Vasco da Gama sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Vasco da Gama. | Encyclopaedia Britannica — Vasco da Gama. | National Geographic — Vasco da Gama.' },
-          en: { title: 'Vasco da Gama', desc: 'A defining moment in the history of Portugal that shaped its civilization.', content: '<p class="mb-4">Vasco da Gama stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Vasco da Gama from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Vasco da Gama endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Vasco da Gama. | Encyclopaedia Britannica — Vasco da Gama. | National Geographic — Vasco da Gama.' },
-          ja: { title: 'Vasco da Gama', desc: 'ポルトガルの歴史を形成した重要な出来事。', content: '<p class="mb-4">Vasco da Gamaはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはVasco da Gamaを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Vasco da Gamaの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Vasco da Gama. | Encyclopaedia Britannica — Vasco da Gama. | National Geographic — Vasco da Gama.' },
-          ko: { title: 'Vasco da Gama', desc: '포르투갈의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Vasco da Gama은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Vasco da Gama을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Vasco da Gama의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Vasco da Gama. | Encyclopaedia Britannica — Vasco da Gama. | National Geographic — Vasco da Gama.' },
-          zh: { title: 'Vasco da Gama', desc: '塑造葡萄牙历史的重要事件。', content: '<p class="mb-4">Vasco da Gama是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Vasco da Gama，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Vasco da Gama的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Vasco da Gama. | Encyclopaedia Britannica — Vasco da Gama. | National Geographic — Vasco da Gama.' },
-        }
-      },
-      {
-        id: 'portugal-portuguese-empire',
-        langs: {
-          id: { title: 'Portuguese Empire', desc: 'Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.', content: '<p class="mb-4">Portuguese Empire adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Portuguese Empire masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Portuguese Empire sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Portuguese Empire. | Encyclopaedia Britannica — Portuguese Empire. | National Geographic — Portuguese Empire.' },
-          en: { title: 'Portuguese Empire', desc: 'A defining moment in the history of Portugal that shaped its civilization.', content: '<p class="mb-4">Portuguese Empire stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Portuguese Empire from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Portuguese Empire endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Portuguese Empire. | Encyclopaedia Britannica — Portuguese Empire. | National Geographic — Portuguese Empire.' },
-          ja: { title: 'Portuguese Empire', desc: 'ポルトガルの歴史を形成した重要な出来事。', content: '<p class="mb-4">Portuguese Empireはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはPortuguese Empireを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Portuguese Empireの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Portuguese Empire. | Encyclopaedia Britannica — Portuguese Empire. | National Geographic — Portuguese Empire.' },
-          ko: { title: 'Portuguese Empire', desc: '포르투갈의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Portuguese Empire은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Portuguese Empire을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Portuguese Empire의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Portuguese Empire. | Encyclopaedia Britannica — Portuguese Empire. | National Geographic — Portuguese Empire.' },
-          zh: { title: 'Portuguese Empire', desc: '塑造葡萄牙历史的重要事件。', content: '<p class="mb-4">Portuguese Empire是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Portuguese Empire，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Portuguese Empire的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Portuguese Empire. | Encyclopaedia Britannica — Portuguese Empire. | National Geographic — Portuguese Empire.' },
-        }
-      },
-      {
-        id: 'portugal-henry-the-navigator',
-        langs: {
-          id: { title: 'Henry the Navigator', desc: 'Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.', content: '<p class="mb-4">Henry the Navigator adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Henry the Navigator masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Henry the Navigator sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Henry the Navigator. | Encyclopaedia Britannica — Henry the Navigator. | National Geographic — Henry the Navigator.' },
-          en: { title: 'Henry the Navigator', desc: 'A defining moment in the history of Portugal that shaped its civilization.', content: '<p class="mb-4">Henry the Navigator stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Henry the Navigator from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Henry the Navigator endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Henry the Navigator. | Encyclopaedia Britannica — Henry the Navigator. | National Geographic — Henry the Navigator.' },
-          ja: { title: 'Henry the Navigator', desc: 'ポルトガルの歴史を形成した重要な出来事。', content: '<p class="mb-4">Henry the Navigatorはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはHenry the Navigatorを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Henry the Navigatorの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Henry the Navigator. | Encyclopaedia Britannica — Henry the Navigator. | National Geographic — Henry the Navigator.' },
-          ko: { title: 'Henry the Navigator', desc: '포르투갈의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Henry the Navigator은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Henry the Navigator을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Henry the Navigator의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Henry the Navigator. | Encyclopaedia Britannica — Henry the Navigator. | National Geographic — Henry the Navigator.' },
-          zh: { title: 'Henry the Navigator', desc: '塑造葡萄牙历史的重要事件。', content: '<p class="mb-4">Henry the Navigator是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Henry the Navigator，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Henry the Navigator的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Henry the Navigator. | Encyclopaedia Britannica — Henry the Navigator. | National Geographic — Henry the Navigator.' },
-        }
-      },
-      {
-        id: 'portugal-treaty-of-tordesillas',
-        langs: {
-          id: { title: 'Treaty of Tordesillas', desc: 'Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.', content: '<p class="mb-4">Treaty of Tordesillas adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Treaty of Tordesillas masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Treaty of Tordesillas sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Treaty of Tordesillas. | Encyclopaedia Britannica — Treaty of Tordesillas. | National Geographic — Treaty of Tordesillas.' },
-          en: { title: 'Treaty of Tordesillas', desc: 'A defining moment in the history of Portugal that shaped its civilization.', content: '<p class="mb-4">Treaty of Tordesillas stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Treaty of Tordesillas from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Treaty of Tordesillas endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Treaty of Tordesillas. | Encyclopaedia Britannica — Treaty of Tordesillas. | National Geographic — Treaty of Tordesillas.' },
-          ja: { title: 'Treaty of Tordesillas', desc: 'ポルトガルの歴史を形成した重要な出来事。', content: '<p class="mb-4">Treaty of Tordesillasはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはTreaty of Tordesillasを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Treaty of Tordesillasの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Treaty of Tordesillas. | Encyclopaedia Britannica — Treaty of Tordesillas. | National Geographic — Treaty of Tordesillas.' },
-          ko: { title: 'Treaty of Tordesillas', desc: '포르투갈의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Treaty of Tordesillas은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Treaty of Tordesillas을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Treaty of Tordesillas의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Treaty of Tordesillas. | Encyclopaedia Britannica — Treaty of Tordesillas. | National Geographic — Treaty of Tordesillas.' },
-          zh: { title: 'Treaty of Tordesillas', desc: '塑造葡萄牙历史的重要事件。', content: '<p class="mb-4">Treaty of Tordesillas是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Treaty of Tordesillas，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Treaty of Tordesillas的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Treaty of Tordesillas. | Encyclopaedia Britannica — Treaty of Tordesillas. | National Geographic — Treaty of Tordesillas.' },
-        }
-      },
-      {
-        id: 'portugal-battle-of-alcacer-quibir',
-        langs: {
-          id: { title: 'Battle of Alcacer Quibir', desc: 'Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.', content: '<p class="mb-4">Battle of Alcacer Quibir adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Battle of Alcacer Quibir masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Battle of Alcacer Quibir sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Battle of Alcacer Quibir. | Encyclopaedia Britannica — Battle of Alcacer Quibir. | National Geographic — Battle of Alcacer Quibir.' },
-          en: { title: 'Battle of Alcacer Quibir', desc: 'A defining moment in the history of Portugal that shaped its civilization.', content: '<p class="mb-4">Battle of Alcacer Quibir stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Battle of Alcacer Quibir from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Battle of Alcacer Quibir endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Battle of Alcacer Quibir. | Encyclopaedia Britannica — Battle of Alcacer Quibir. | National Geographic — Battle of Alcacer Quibir.' },
-          ja: { title: 'Battle of Alcacer Quibir', desc: 'ポルトガルの歴史を形成した重要な出来事。', content: '<p class="mb-4">Battle of Alcacer Quibirはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはBattle of Alcacer Quibirを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Battle of Alcacer Quibirの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Battle of Alcacer Quibir. | Encyclopaedia Britannica — Battle of Alcacer Quibir. | National Geographic — Battle of Alcacer Quibir.' },
-          ko: { title: 'Battle of Alcacer Quibir', desc: '포르투갈의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Battle of Alcacer Quibir은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Battle of Alcacer Quibir을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Battle of Alcacer Quibir의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Battle of Alcacer Quibir. | Encyclopaedia Britannica — Battle of Alcacer Quibir. | National Geographic — Battle of Alcacer Quibir.' },
-          zh: { title: 'Battle of Alcacer Quibir', desc: '塑造葡萄牙历史的重要事件。', content: '<p class="mb-4">Battle of Alcacer Quibir是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Battle of Alcacer Quibir，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Battle of Alcacer Quibir的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Battle of Alcacer Quibir. | Encyclopaedia Britannica — Battle of Alcacer Quibir. | National Geographic — Battle of Alcacer Quibir.' },
+  names: {
+    id: "Portugal",
+    en: "Portugal",
+    ja: "ポルトガル",
+    ko: "포르투갈",
+    zh: "葡萄牙"
+  },
+  flag: "🇵🇹",
+  articles: [
+    {
+      id: "portugal-vasco-da-gama",
+      langs: {
+        id: {
+          title: "Vasco da Gama",
+          desc: "Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Vasco da Gama adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Vasco da Gama masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Vasco da Gama sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Vasco%20da%20Gama&fulltext=1",
+          sourceSnippet: "Wikipedia — Vasco da Gama",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Vasco%20da%20Gama",
+          sourceSnippet2: "Encyclopaedia Britannica — Vasco da Gama",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Vasco%20da%20Gama",
+          sourceSnippet3: "National Geographic — Vasco da Gama"
+        },
+        en: {
+          title: "Vasco da Gama",
+          desc: "A defining moment in the history of Portugal that shaped its civilization.",
+          content: "<p class=\"mb-4\">Vasco da Gama stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Vasco da Gama from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Vasco da Gama endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Vasco%20da%20Gama&fulltext=1",
+          sourceSnippet: "Wikipedia — Vasco da Gama",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Vasco%20da%20Gama",
+          sourceSnippet2: "Encyclopaedia Britannica — Vasco da Gama",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Vasco%20da%20Gama",
+          sourceSnippet3: "National Geographic — Vasco da Gama"
+        },
+        ja: {
+          title: "Vasco da Gama",
+          desc: "ポルトガルの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Vasco da Gamaはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはVasco da Gamaを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Vasco da Gamaの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Vasco%20da%20Gama&fulltext=1",
+          sourceSnippet: "Wikipedia — Vasco da Gama",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Vasco%20da%20Gama",
+          sourceSnippet2: "Encyclopaedia Britannica — Vasco da Gama",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Vasco%20da%20Gama",
+          sourceSnippet3: "National Geographic — Vasco da Gama"
+        },
+        ko: {
+          title: "Vasco da Gama",
+          desc: "포르투갈의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Vasco da Gama은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Vasco da Gama을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Vasco da Gama의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Vasco%20da%20Gama&fulltext=1",
+          sourceSnippet: "Wikipedia — Vasco da Gama",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Vasco%20da%20Gama",
+          sourceSnippet2: "Encyclopaedia Britannica — Vasco da Gama",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Vasco%20da%20Gama",
+          sourceSnippet3: "National Geographic — Vasco da Gama"
+        },
+        zh: {
+          title: "Vasco da Gama",
+          desc: "塑造葡萄牙历史的重要事件。",
+          content: "<p class=\"mb-4\">Vasco da Gama是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Vasco da Gama，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Vasco da Gama的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Vasco%20da%20Gama&fulltext=1",
+          sourceSnippet: "Wikipedia — Vasco da Gama",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Vasco%20da%20Gama",
+          sourceSnippet2: "Encyclopaedia Britannica — Vasco da Gama",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Vasco%20da%20Gama",
+          sourceSnippet3: "National Geographic — Vasco da Gama"
         }
       }
-    ]
-  }
-};;
+    },
+    {
+      id: "portugal-portuguese-empire",
+      langs: {
+        id: {
+          title: "Portuguese Empire",
+          desc: "Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Portuguese Empire adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Portuguese Empire masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Portuguese Empire sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Portuguese%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Portuguese Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Portuguese%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Portuguese Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Portuguese%20Empire",
+          sourceSnippet3: "National Geographic — Portuguese Empire"
+        },
+        en: {
+          title: "Portuguese Empire",
+          desc: "A defining moment in the history of Portugal that shaped its civilization.",
+          content: "<p class=\"mb-4\">Portuguese Empire stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Portuguese Empire from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Portuguese Empire endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Portuguese%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Portuguese Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Portuguese%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Portuguese Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Portuguese%20Empire",
+          sourceSnippet3: "National Geographic — Portuguese Empire"
+        },
+        ja: {
+          title: "Portuguese Empire",
+          desc: "ポルトガルの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Portuguese Empireはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはPortuguese Empireを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Portuguese Empireの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Portuguese%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Portuguese Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Portuguese%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Portuguese Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Portuguese%20Empire",
+          sourceSnippet3: "National Geographic — Portuguese Empire"
+        },
+        ko: {
+          title: "Portuguese Empire",
+          desc: "포르투갈의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Portuguese Empire은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Portuguese Empire을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Portuguese Empire의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Portuguese%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Portuguese Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Portuguese%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Portuguese Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Portuguese%20Empire",
+          sourceSnippet3: "National Geographic — Portuguese Empire"
+        },
+        zh: {
+          title: "Portuguese Empire",
+          desc: "塑造葡萄牙历史的重要事件。",
+          content: "<p class=\"mb-4\">Portuguese Empire是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Portuguese Empire，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Portuguese Empire的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Portuguese%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Portuguese Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Portuguese%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Portuguese Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Portuguese%20Empire",
+          sourceSnippet3: "National Geographic — Portuguese Empire"
+        }
+      }
+    },
+    {
+      id: "portugal-henry-the-navigator",
+      langs: {
+        id: {
+          title: "Henry the Navigator",
+          desc: "Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Henry the Navigator adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Henry the Navigator masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Henry the Navigator sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Henry%20the%20Navigator&fulltext=1",
+          sourceSnippet: "Wikipedia — Henry the Navigator",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Henry%20the%20Navigator",
+          sourceSnippet2: "Encyclopaedia Britannica — Henry the Navigator",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Henry%20the%20Navigator",
+          sourceSnippet3: "National Geographic — Henry the Navigator"
+        },
+        en: {
+          title: "Henry the Navigator",
+          desc: "A defining moment in the history of Portugal that shaped its civilization.",
+          content: "<p class=\"mb-4\">Henry the Navigator stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Henry the Navigator from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Henry the Navigator endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Henry%20the%20Navigator&fulltext=1",
+          sourceSnippet: "Wikipedia — Henry the Navigator",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Henry%20the%20Navigator",
+          sourceSnippet2: "Encyclopaedia Britannica — Henry the Navigator",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Henry%20the%20Navigator",
+          sourceSnippet3: "National Geographic — Henry the Navigator"
+        },
+        ja: {
+          title: "Henry the Navigator",
+          desc: "ポルトガルの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Henry the Navigatorはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはHenry the Navigatorを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Henry the Navigatorの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Henry%20the%20Navigator&fulltext=1",
+          sourceSnippet: "Wikipedia — Henry the Navigator",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Henry%20the%20Navigator",
+          sourceSnippet2: "Encyclopaedia Britannica — Henry the Navigator",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Henry%20the%20Navigator",
+          sourceSnippet3: "National Geographic — Henry the Navigator"
+        },
+        ko: {
+          title: "Henry the Navigator",
+          desc: "포르투갈의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Henry the Navigator은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Henry the Navigator을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Henry the Navigator의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Henry%20the%20Navigator&fulltext=1",
+          sourceSnippet: "Wikipedia — Henry the Navigator",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Henry%20the%20Navigator",
+          sourceSnippet2: "Encyclopaedia Britannica — Henry the Navigator",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Henry%20the%20Navigator",
+          sourceSnippet3: "National Geographic — Henry the Navigator"
+        },
+        zh: {
+          title: "Henry the Navigator",
+          desc: "塑造葡萄牙历史的重要事件。",
+          content: "<p class=\"mb-4\">Henry the Navigator是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Henry the Navigator，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Henry the Navigator的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Henry%20the%20Navigator&fulltext=1",
+          sourceSnippet: "Wikipedia — Henry the Navigator",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Henry%20the%20Navigator",
+          sourceSnippet2: "Encyclopaedia Britannica — Henry the Navigator",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Henry%20the%20Navigator",
+          sourceSnippet3: "National Geographic — Henry the Navigator"
+        }
+      }
+    },
+    {
+      id: "portugal-treaty-of-tordesillas",
+      langs: {
+        id: {
+          title: "Treaty of Tordesillas",
+          desc: "Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Treaty of Tordesillas adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Treaty of Tordesillas masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Treaty of Tordesillas sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Treaty%20of%20Tordesillas&fulltext=1",
+          sourceSnippet: "Wikipedia — Treaty of Tordesillas",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Treaty%20of%20Tordesillas",
+          sourceSnippet2: "Encyclopaedia Britannica — Treaty of Tordesillas",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Treaty%20of%20Tordesillas",
+          sourceSnippet3: "National Geographic — Treaty of Tordesillas"
+        },
+        en: {
+          title: "Treaty of Tordesillas",
+          desc: "A defining moment in the history of Portugal that shaped its civilization.",
+          content: "<p class=\"mb-4\">Treaty of Tordesillas stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Treaty of Tordesillas from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Treaty of Tordesillas endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Treaty%20of%20Tordesillas&fulltext=1",
+          sourceSnippet: "Wikipedia — Treaty of Tordesillas",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Treaty%20of%20Tordesillas",
+          sourceSnippet2: "Encyclopaedia Britannica — Treaty of Tordesillas",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Treaty%20of%20Tordesillas",
+          sourceSnippet3: "National Geographic — Treaty of Tordesillas"
+        },
+        ja: {
+          title: "Treaty of Tordesillas",
+          desc: "ポルトガルの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Treaty of Tordesillasはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはTreaty of Tordesillasを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Treaty of Tordesillasの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Treaty%20of%20Tordesillas&fulltext=1",
+          sourceSnippet: "Wikipedia — Treaty of Tordesillas",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Treaty%20of%20Tordesillas",
+          sourceSnippet2: "Encyclopaedia Britannica — Treaty of Tordesillas",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Treaty%20of%20Tordesillas",
+          sourceSnippet3: "National Geographic — Treaty of Tordesillas"
+        },
+        ko: {
+          title: "Treaty of Tordesillas",
+          desc: "포르투갈의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Treaty of Tordesillas은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Treaty of Tordesillas을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Treaty of Tordesillas의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Treaty%20of%20Tordesillas&fulltext=1",
+          sourceSnippet: "Wikipedia — Treaty of Tordesillas",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Treaty%20of%20Tordesillas",
+          sourceSnippet2: "Encyclopaedia Britannica — Treaty of Tordesillas",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Treaty%20of%20Tordesillas",
+          sourceSnippet3: "National Geographic — Treaty of Tordesillas"
+        },
+        zh: {
+          title: "Treaty of Tordesillas",
+          desc: "塑造葡萄牙历史的重要事件。",
+          content: "<p class=\"mb-4\">Treaty of Tordesillas是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Treaty of Tordesillas，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Treaty of Tordesillas的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Treaty%20of%20Tordesillas&fulltext=1",
+          sourceSnippet: "Wikipedia — Treaty of Tordesillas",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Treaty%20of%20Tordesillas",
+          sourceSnippet2: "Encyclopaedia Britannica — Treaty of Tordesillas",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Treaty%20of%20Tordesillas",
+          sourceSnippet3: "National Geographic — Treaty of Tordesillas"
+        }
+      }
+    },
+    {
+      id: "portugal-battle-of-alcacer-quibir",
+      langs: {
+        id: {
+          title: "Battle of Alcacer Quibir",
+          desc: "Peristiwa penting dalam sejarah Portugal yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Battle of Alcacer Quibir adalah salah satu momen paling berpengaruh dalam sejarah Portugal. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Battle of Alcacer Quibir masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Battle of Alcacer Quibir sebagai bagian tak terpisahkan dari identitas kolektif bangsa Portugal.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Battle%20of%20Alcacer%20Quibir&fulltext=1",
+          sourceSnippet: "Wikipedia — Battle of Alcacer Quibir",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet2: "Encyclopaedia Britannica — Battle of Alcacer Quibir",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet3: "National Geographic — Battle of Alcacer Quibir"
+        },
+        en: {
+          title: "Battle of Alcacer Quibir",
+          desc: "A defining moment in the history of Portugal that shaped its civilization.",
+          content: "<p class=\"mb-4\">Battle of Alcacer Quibir stands as one of the most consequential events in the long history of Portugal. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Battle of Alcacer Quibir from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Battle of Alcacer Quibir endures in the cultural memory and national identity of the people of Portugal, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Battle%20of%20Alcacer%20Quibir&fulltext=1",
+          sourceSnippet: "Wikipedia — Battle of Alcacer Quibir",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet2: "Encyclopaedia Britannica — Battle of Alcacer Quibir",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet3: "National Geographic — Battle of Alcacer Quibir"
+        },
+        ja: {
+          title: "Battle of Alcacer Quibir",
+          desc: "ポルトガルの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Battle of Alcacer Quibirはポルトガルの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはBattle of Alcacer Quibirを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Battle of Alcacer Quibirの遺産はポルトガルの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Battle%20of%20Alcacer%20Quibir&fulltext=1",
+          sourceSnippet: "Wikipedia — Battle of Alcacer Quibir",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet2: "Encyclopaedia Britannica — Battle of Alcacer Quibir",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet3: "National Geographic — Battle of Alcacer Quibir"
+        },
+        ko: {
+          title: "Battle of Alcacer Quibir",
+          desc: "포르투갈의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Battle of Alcacer Quibir은(는) 포르투갈의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Battle of Alcacer Quibir을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Battle of Alcacer Quibir의 유산은 포르투갈 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Battle%20of%20Alcacer%20Quibir&fulltext=1",
+          sourceSnippet: "Wikipedia — Battle of Alcacer Quibir",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet2: "Encyclopaedia Britannica — Battle of Alcacer Quibir",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet3: "National Geographic — Battle of Alcacer Quibir"
+        },
+        zh: {
+          title: "Battle of Alcacer Quibir",
+          desc: "塑造葡萄牙历史的重要事件。",
+          content: "<p class=\"mb-4\">Battle of Alcacer Quibir是葡萄牙漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Battle of Alcacer Quibir，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Battle of Alcacer Quibir的遗产延续在葡萄牙人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Battle%20of%20Alcacer%20Quibir&fulltext=1",
+          sourceSnippet: "Wikipedia — Battle of Alcacer Quibir",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet2: "Encyclopaedia Britannica — Battle of Alcacer Quibir",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Battle%20of%20Alcacer%20Quibir",
+          sourceSnippet3: "National Geographic — Battle of Alcacer Quibir"
+        }
+      }
+    }
+  ]
+};

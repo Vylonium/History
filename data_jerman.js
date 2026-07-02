@@ -4,68 +4,464 @@
 if (typeof window.countryDataFiles === 'undefined') window.countryDataFiles = {};
 
 window.countryDataFiles['jerman'] = {
-    names: { id: 'Jerman', en: 'Germany', ja: 'ドイツ', ko: '독일', zh: '德国' },
-    flag: '🇩🇪',
-    articles: [
-      {
-        id: 'jerman-holy-roman-empire',
-        langs: {
-          id: { title: 'Holy Roman Empire', desc: 'Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.', content: '<p class="mb-4">Holy Roman Empire adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Holy Roman Empire masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Holy Roman Empire sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Holy Roman Empire.' },
-          en: { title: 'Holy Roman Empire', desc: 'A defining moment in the history of Germany that shaped its civilization.', content: '<p class="mb-4">Holy Roman Empire stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Holy Roman Empire from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Holy Roman Empire endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Holy Roman Empire.' },
-          ja: { title: 'Holy Roman Empire', desc: 'ドイツの歴史を形成した重要な出来事。', content: '<p class="mb-4">Holy Roman Empireはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはHoly Roman Empireを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Holy Roman Empireの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Holy Roman Empire.' },
-          ko: { title: 'Holy Roman Empire', desc: '독일의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Holy Roman Empire은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Holy Roman Empire을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Holy Roman Empire의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Holy Roman Empire.' },
-          zh: { title: 'Holy Roman Empire', desc: '塑造德国历史的重要事件。', content: '<p class="mb-4">Holy Roman Empire是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Holy Roman Empire，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Holy Roman Empire的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Holy Roman Empire.' },
-        }
-      },
-      {
-        id: 'jerman-martin-luther-reformation',
-        langs: {
-          id: { title: 'Martin Luther Reformation', desc: 'Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.', content: '<p class="mb-4">Martin Luther Reformation adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Martin Luther Reformation masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Martin Luther Reformation sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Martin Luther Reformation.' },
-          en: { title: 'Martin Luther Reformation', desc: 'A defining moment in the history of Germany that shaped its civilization.', content: '<p class="mb-4">Martin Luther Reformation stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Martin Luther Reformation from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Martin Luther Reformation endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Martin Luther Reformation.' },
-          ja: { title: 'Martin Luther Reformation', desc: 'ドイツの歴史を形成した重要な出来事。', content: '<p class="mb-4">Martin Luther Reformationはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはMartin Luther Reformationを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Martin Luther Reformationの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Martin Luther Reformation.' },
-          ko: { title: 'Martin Luther Reformation', desc: '독일의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Martin Luther Reformation은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Martin Luther Reformation을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Martin Luther Reformation의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Martin Luther Reformation.' },
-          zh: { title: 'Martin Luther Reformation', desc: '塑造德国历史的重要事件。', content: '<p class="mb-4">Martin Luther Reformation是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Martin Luther Reformation，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Martin Luther Reformation的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Martin Luther Reformation.' },
-        }
-      },
-      {
-        id: 'jerman-otto-von-bismarck',
-        langs: {
-          id: { title: 'Otto von Bismarck', desc: 'Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.', content: '<p class="mb-4">Otto von Bismarck adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Otto von Bismarck masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Otto von Bismarck sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Otto von Bismarck.' },
-          en: { title: 'Otto von Bismarck', desc: 'A defining moment in the history of Germany that shaped its civilization.', content: '<p class="mb-4">Otto von Bismarck stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Otto von Bismarck from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Otto von Bismarck endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Otto von Bismarck.' },
-          ja: { title: 'Otto von Bismarck', desc: 'ドイツの歴史を形成した重要な出来事。', content: '<p class="mb-4">Otto von Bismarckはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはOtto von Bismarckを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Otto von Bismarckの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Otto von Bismarck.' },
-          ko: { title: 'Otto von Bismarck', desc: '독일의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Otto von Bismarck은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Otto von Bismarck을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Otto von Bismarck의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Otto von Bismarck.' },
-          zh: { title: 'Otto von Bismarck', desc: '塑造德国历史的重要事件。', content: '<p class="mb-4">Otto von Bismarck是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Otto von Bismarck，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Otto von Bismarck的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Otto von Bismarck.' },
-        }
-      },
-      {
-        id: 'jerman-weimar-republic',
-        langs: {
-          id: { title: 'Weimar Republic', desc: 'Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.', content: '<p class="mb-4">Weimar Republic adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Weimar Republic masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Weimar Republic sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Weimar Republic.' },
-          en: { title: 'Weimar Republic', desc: 'A defining moment in the history of Germany that shaped its civilization.', content: '<p class="mb-4">Weimar Republic stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Weimar Republic from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Weimar Republic endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Weimar Republic.' },
-          ja: { title: 'Weimar Republic', desc: 'ドイツの歴史を形成した重要な出来事。', content: '<p class="mb-4">Weimar Republicはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはWeimar Republicを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Weimar Republicの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Weimar Republic.' },
-          ko: { title: 'Weimar Republic', desc: '독일의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Weimar Republic은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Weimar Republic을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Weimar Republic의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Weimar Republic.' },
-          zh: { title: 'Weimar Republic', desc: '塑造德国历史的重要事件。', content: '<p class="mb-4">Weimar Republic是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Weimar Republic，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Weimar Republic的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Weimar Republic.' },
-        }
-      },
-      {
-        id: 'jerman-berlin-wall',
-        langs: {
-          id: { title: 'Berlin Wall', desc: 'Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.', content: '<p class="mb-4">Berlin Wall adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class="mb-4">Para sejarawan dari berbagai era mencatat bahwa dampak dari Berlin Wall masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class="mb-4">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Berlin Wall sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>', sourceDomain: 'id.wikipedia.org', sourceSnippet: 'Wikipedia Indonesia — Berlin Wall.' },
-          en: { title: 'Berlin Wall', desc: 'A defining moment in the history of Germany that shaped its civilization.', content: '<p class="mb-4">Berlin Wall stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class="mb-4">Scholars across generations have examined Berlin Wall from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class="mb-4">The legacy of Berlin Wall endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>', sourceDomain: 'en.wikipedia.org', sourceSnippet: 'Wikipedia — Berlin Wall.' },
-          ja: { title: 'Berlin Wall', desc: 'ドイツの歴史を形成した重要な出来事。', content: '<p class="mb-4">Berlin Wallはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class="mb-4">歴史家たちはBerlin Wallを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class="mb-4">Berlin Wallの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>', sourceDomain: 'ja.wikipedia.org', sourceSnippet: 'Wikipedia Japan — Berlin Wall.' },
-          ko: { title: 'Berlin Wall', desc: '독일의 역사를 형성한 중요한 사건.', content: '<p class="mb-4">Berlin Wall은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class="mb-4">역사학자들은 다양한 각도에서 Berlin Wall을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class="mb-4">Berlin Wall의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>', sourceDomain: 'ko.wikipedia.org', sourceSnippet: 'Wikipedia Korea — Berlin Wall.' },
-          zh: { title: 'Berlin Wall', desc: '塑造德国历史的重要事件。', content: '<p class="mb-4">Berlin Wall是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class="mb-4">历史学家从多个角度研究了Berlin Wall，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class="mb-4">Berlin Wall的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>', sourceDomain: 'zh.wikipedia.org', sourceSnippet: 'Wikipedia China — Berlin Wall.' },
-        }
-      },
-      {
-        id: 'jerman-berlin-wall',
-        langs: {
-          id: { title: 'Runtuhnya Tembok Berlin (1989)', desc: 'Momen bersejarah saat Tembok Berlin runtuh pada 9 November 1989 dan mengakhiri Perang Dingin di Eropa.', content: '<p class="mb-4">Tembok Berlin dibangun oleh Jerman Timur (DDR) pada 13 Agustus 1961, membelah kota Berlin menjadi dua bagian. Selama 28 tahun, tembok ini menjadi simbol paling nyata dari <strong>Tirai Besi</strong> yang memisahkan Eropa Barat dari Blok Timur.</p><p class="mb-4">Sekitar <strong>5.000 orang mencoba melarikan diri</strong> melewati tembok ini selama keberadaannya. Diperkirakan 140 orang tewas ditembak penjaga perbatasan yang memiliki perintah menembak langsung.</p><p class="mb-4">Pada malam 9 November 1989, juru bicara DDR mengumumkan secara keliru bahwa warga boleh melintasi perbatasan "segera, tanpa penundaan." Ribuan warga Berlin Timur bergerak ke pos pemeriksaan dan penjaga yang kewalahan membuka gerbang tanpa kekerasan.</p><p class="mb-4">Warga dari kedua sisi mulai memukuli tembok dalam euforia kolektif yang disiarkan langsung di seluruh dunia. Dalam hitungan jam, tembok simbol penindasan itu runtuh oleh tangan rakyatnya sendiri.</p><p class="mb-4">Runtuhnya Tembok Berlin menjadi katalis reunifikasi Jerman pada 3 Oktober 1990 dan menandai berakhirnya Perang Dingin. Uni Soviet bubar pada 26 Desember 1991.</p>', sourceDomain: 'history.com', sourceSnippet: 'History.com — The Fall of the Berlin Wall. | BBC News — Berlin Wall: How it fell. | Bundeszentrale für politische Bildung — Mauerfall 1989.' },
-          en: { title: 'Fall of the Berlin Wall (1989)', desc: 'The historic moment the Berlin Wall fell on November 9, 1989, ending the Cold War in Europe.', content: '<p class="mb-4">The Berlin Wall was built by East Germany (DDR) on August 13, 1961, dividing Berlin in two. For 28 years it stood as the most visible symbol of the <strong>Iron Curtain</strong>.</p><p class="mb-4">Around <strong>5,000 people attempted to escape</strong> across the wall; an estimated 140 died, shot by border guards with shoot-on-sight orders.</p><p class="mb-4">On November 9, 1989, a DDR spokesman mistakenly announced citizens could cross "immediately, without delay." Thousands rushed checkpoints; overwhelmed guards opened the gates peacefully.</p><p class="mb-4">Citizens hammered at the wall in collective euphoria, broadcast live worldwide — the symbol of oppression fell by the hands of its own people.</p><p class="mb-4">German reunification followed on October 3, 1990. The Soviet Union dissolved December 26, 1991.</p>', sourceDomain: 'history.com', sourceSnippet: 'History.com — The Fall of the Berlin Wall. | BBC News — Berlin Wall: How it fell. | German Federal Agency for Civic Education.' },
-          ja: { title: 'ベルリンの壁崩壊（1989年）', desc: '1989年11月9日、ベルリンの壁が崩壊しヨーロッパの冷戦が終結した歴史的瞬間。', content: '<p class="mb-4">ベルリンの壁は1961年8月13日に東ドイツが建設し、<strong>鉄のカーテン</strong>の最も目に見えるシンボルとなりました。</p><p class="mb-4">28年間で約5,000人が逃亡を試み、推定140人が射殺されました。</p><p class="mb-4">1989年11月9日夜、東ドイツ政府が誤って国境を開放すると発表。圧倒された警備員が平和的にゲートを開け、市民が壁を打ち壊しました。</p>', sourceDomain: 'history.com', sourceSnippet: 'History.com — ベルリンの壁崩壊。| BBC — 冷戦の終結。 | Encyclopaedia Britannica — ベルリンの壁崩壊。| BBC — 冷戦の終結。 | Smithsonian Magazine — ベルリンの壁崩壊。| BBC — 冷戦の終結。' },
-          ko: { title: '베를린 장벽 붕괴 (1989년)', desc: '1989년 11월 9일 베를린 장벽이 무너지며 유럽의 냉전이 끝난 역사적 순간.', content: '<p class="mb-4">베를린 장벽은 1961년 8월 13일 동독이 건설했으며 <strong>철의 장막</strong>의 가장 가시적인 상징이었습니다.</p><p class="mb-4">28년 동안 약 5,000명이 탈출을 시도했고 140명이 사살되었습니다.</p><p class="mb-4">1989년 11월 9일 밤 동독 대변인이 실수로 국경 개방을 발표했고, 압도된 경비원들이 평화적으로 문을 열었습니다.</p>', sourceDomain: 'history.com', sourceSnippet: 'History.com — 베를린 장벽 붕괴. | BBC News — 냉전의 종식.' },
-          zh: { title: '柏林墙倒塌 (1989年)', desc: '1989年11月9日柏林墙倒塌、欧洲冷战结束的历史性时刻。', content: '<p class="mb-4">柏林墙于1961年8月13日由东德建造，成为<strong>铁幕</strong>最直观的象征。</p><p class="mb-4">28年间约5,000人尝试越墙，估计140人被卫兵击毙。</p><p class="mb-4">1989年11月9日晚，东德发言人误宣布开放边境，压不住的卫兵和平开门，市民欣喜若狂地砸毁了这堵墙。</p>', sourceDomain: 'history.com', sourceSnippet: 'History.com — 柏林墙倒塌。| BBC中文 — 冷战终结。 | Encyclopaedia Britannica — 柏林墙倒塌。| BBC中文 — 冷战终结。 | Smithsonian Magazine — 柏林墙倒塌。| BBC中文 — 冷战终结。' }
+  names: {
+    id: "Jerman",
+    en: "Germany",
+    ja: "ドイツ",
+    ko: "독일",
+    zh: "德国"
+  },
+  flag: "🇩🇪",
+  articles: [
+    {
+      id: "jerman-holy-roman-empire",
+      langs: {
+        id: {
+          title: "Holy Roman Empire",
+          desc: "Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Holy Roman Empire adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Holy Roman Empire masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Holy Roman Empire sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Holy%20Roman%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Holy Roman Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Holy%20Roman%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Holy Roman Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Holy%20Roman%20Empire",
+          sourceSnippet3: "National Geographic — Holy Roman Empire"
+        },
+        en: {
+          title: "Holy Roman Empire",
+          desc: "A defining moment in the history of Germany that shaped its civilization.",
+          content: "<p class=\"mb-4\">Holy Roman Empire stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Holy Roman Empire from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Holy Roman Empire endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Holy%20Roman%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Holy Roman Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Holy%20Roman%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Holy Roman Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Holy%20Roman%20Empire",
+          sourceSnippet3: "National Geographic — Holy Roman Empire"
+        },
+        ja: {
+          title: "Holy Roman Empire",
+          desc: "ドイツの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Holy Roman Empireはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはHoly Roman Empireを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Holy Roman Empireの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Holy%20Roman%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Holy Roman Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Holy%20Roman%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Holy Roman Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Holy%20Roman%20Empire",
+          sourceSnippet3: "National Geographic — Holy Roman Empire"
+        },
+        ko: {
+          title: "Holy Roman Empire",
+          desc: "독일의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Holy Roman Empire은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Holy Roman Empire을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Holy Roman Empire의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Holy%20Roman%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Holy Roman Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Holy%20Roman%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Holy Roman Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Holy%20Roman%20Empire",
+          sourceSnippet3: "National Geographic — Holy Roman Empire"
+        },
+        zh: {
+          title: "Holy Roman Empire",
+          desc: "塑造德国历史的重要事件。",
+          content: "<p class=\"mb-4\">Holy Roman Empire是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Holy Roman Empire，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Holy Roman Empire的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Holy%20Roman%20Empire&fulltext=1",
+          sourceSnippet: "Wikipedia — Holy Roman Empire",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Holy%20Roman%20Empire",
+          sourceSnippet2: "Encyclopaedia Britannica — Holy Roman Empire",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Holy%20Roman%20Empire",
+          sourceSnippet3: "National Geographic — Holy Roman Empire"
         }
       }
-    ]
-  };
+    },
+    {
+      id: "jerman-martin-luther-reformation",
+      langs: {
+        id: {
+          title: "Martin Luther Reformation",
+          desc: "Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Martin Luther Reformation adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Martin Luther Reformation masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Martin Luther Reformation sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Martin%20Luther%20Reformation&fulltext=1",
+          sourceSnippet: "Wikipedia — Martin Luther Reformation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Martin%20Luther%20Reformation",
+          sourceSnippet2: "Encyclopaedia Britannica — Martin Luther Reformation",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Martin%20Luther%20Reformation",
+          sourceSnippet3: "National Geographic — Martin Luther Reformation"
+        },
+        en: {
+          title: "Martin Luther Reformation",
+          desc: "A defining moment in the history of Germany that shaped its civilization.",
+          content: "<p class=\"mb-4\">Martin Luther Reformation stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Martin Luther Reformation from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Martin Luther Reformation endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Martin%20Luther%20Reformation&fulltext=1",
+          sourceSnippet: "Wikipedia — Martin Luther Reformation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Martin%20Luther%20Reformation",
+          sourceSnippet2: "Encyclopaedia Britannica — Martin Luther Reformation",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Martin%20Luther%20Reformation",
+          sourceSnippet3: "National Geographic — Martin Luther Reformation"
+        },
+        ja: {
+          title: "Martin Luther Reformation",
+          desc: "ドイツの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Martin Luther Reformationはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはMartin Luther Reformationを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Martin Luther Reformationの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Martin%20Luther%20Reformation&fulltext=1",
+          sourceSnippet: "Wikipedia — Martin Luther Reformation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Martin%20Luther%20Reformation",
+          sourceSnippet2: "Encyclopaedia Britannica — Martin Luther Reformation",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Martin%20Luther%20Reformation",
+          sourceSnippet3: "National Geographic — Martin Luther Reformation"
+        },
+        ko: {
+          title: "Martin Luther Reformation",
+          desc: "독일의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Martin Luther Reformation은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Martin Luther Reformation을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Martin Luther Reformation의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Martin%20Luther%20Reformation&fulltext=1",
+          sourceSnippet: "Wikipedia — Martin Luther Reformation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Martin%20Luther%20Reformation",
+          sourceSnippet2: "Encyclopaedia Britannica — Martin Luther Reformation",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Martin%20Luther%20Reformation",
+          sourceSnippet3: "National Geographic — Martin Luther Reformation"
+        },
+        zh: {
+          title: "Martin Luther Reformation",
+          desc: "塑造德国历史的重要事件。",
+          content: "<p class=\"mb-4\">Martin Luther Reformation是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Martin Luther Reformation，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Martin Luther Reformation的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Martin%20Luther%20Reformation&fulltext=1",
+          sourceSnippet: "Wikipedia — Martin Luther Reformation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Martin%20Luther%20Reformation",
+          sourceSnippet2: "Encyclopaedia Britannica — Martin Luther Reformation",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Martin%20Luther%20Reformation",
+          sourceSnippet3: "National Geographic — Martin Luther Reformation"
+        }
+      }
+    },
+    {
+      id: "jerman-otto-von-bismarck",
+      langs: {
+        id: {
+          title: "Otto von Bismarck",
+          desc: "Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Otto von Bismarck adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Otto von Bismarck masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Otto von Bismarck sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Otto%20von%20Bismarck&fulltext=1",
+          sourceSnippet: "Wikipedia — Otto von Bismarck",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Otto%20von%20Bismarck",
+          sourceSnippet2: "Encyclopaedia Britannica — Otto von Bismarck",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Otto%20von%20Bismarck",
+          sourceSnippet3: "National Geographic — Otto von Bismarck"
+        },
+        en: {
+          title: "Otto von Bismarck",
+          desc: "A defining moment in the history of Germany that shaped its civilization.",
+          content: "<p class=\"mb-4\">Otto von Bismarck stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Otto von Bismarck from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Otto von Bismarck endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Otto%20von%20Bismarck&fulltext=1",
+          sourceSnippet: "Wikipedia — Otto von Bismarck",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Otto%20von%20Bismarck",
+          sourceSnippet2: "Encyclopaedia Britannica — Otto von Bismarck",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Otto%20von%20Bismarck",
+          sourceSnippet3: "National Geographic — Otto von Bismarck"
+        },
+        ja: {
+          title: "Otto von Bismarck",
+          desc: "ドイツの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Otto von Bismarckはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはOtto von Bismarckを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Otto von Bismarckの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Otto%20von%20Bismarck&fulltext=1",
+          sourceSnippet: "Wikipedia — Otto von Bismarck",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Otto%20von%20Bismarck",
+          sourceSnippet2: "Encyclopaedia Britannica — Otto von Bismarck",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Otto%20von%20Bismarck",
+          sourceSnippet3: "National Geographic — Otto von Bismarck"
+        },
+        ko: {
+          title: "Otto von Bismarck",
+          desc: "독일의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Otto von Bismarck은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Otto von Bismarck을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Otto von Bismarck의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Otto%20von%20Bismarck&fulltext=1",
+          sourceSnippet: "Wikipedia — Otto von Bismarck",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Otto%20von%20Bismarck",
+          sourceSnippet2: "Encyclopaedia Britannica — Otto von Bismarck",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Otto%20von%20Bismarck",
+          sourceSnippet3: "National Geographic — Otto von Bismarck"
+        },
+        zh: {
+          title: "Otto von Bismarck",
+          desc: "塑造德国历史的重要事件。",
+          content: "<p class=\"mb-4\">Otto von Bismarck是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Otto von Bismarck，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Otto von Bismarck的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Otto%20von%20Bismarck&fulltext=1",
+          sourceSnippet: "Wikipedia — Otto von Bismarck",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Otto%20von%20Bismarck",
+          sourceSnippet2: "Encyclopaedia Britannica — Otto von Bismarck",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Otto%20von%20Bismarck",
+          sourceSnippet3: "National Geographic — Otto von Bismarck"
+        }
+      }
+    },
+    {
+      id: "jerman-weimar-republic",
+      langs: {
+        id: {
+          title: "Weimar Republic",
+          desc: "Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Weimar Republic adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Weimar Republic masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Weimar Republic sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Weimar%20Republic&fulltext=1",
+          sourceSnippet: "Wikipedia — Weimar Republic",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Weimar%20Republic",
+          sourceSnippet2: "Encyclopaedia Britannica — Weimar Republic",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Weimar%20Republic",
+          sourceSnippet3: "National Geographic — Weimar Republic"
+        },
+        en: {
+          title: "Weimar Republic",
+          desc: "A defining moment in the history of Germany that shaped its civilization.",
+          content: "<p class=\"mb-4\">Weimar Republic stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Weimar Republic from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Weimar Republic endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Weimar%20Republic&fulltext=1",
+          sourceSnippet: "Wikipedia — Weimar Republic",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Weimar%20Republic",
+          sourceSnippet2: "Encyclopaedia Britannica — Weimar Republic",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Weimar%20Republic",
+          sourceSnippet3: "National Geographic — Weimar Republic"
+        },
+        ja: {
+          title: "Weimar Republic",
+          desc: "ドイツの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Weimar Republicはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはWeimar Republicを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Weimar Republicの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Weimar%20Republic&fulltext=1",
+          sourceSnippet: "Wikipedia — Weimar Republic",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Weimar%20Republic",
+          sourceSnippet2: "Encyclopaedia Britannica — Weimar Republic",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Weimar%20Republic",
+          sourceSnippet3: "National Geographic — Weimar Republic"
+        },
+        ko: {
+          title: "Weimar Republic",
+          desc: "독일의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Weimar Republic은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Weimar Republic을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Weimar Republic의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Weimar%20Republic&fulltext=1",
+          sourceSnippet: "Wikipedia — Weimar Republic",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Weimar%20Republic",
+          sourceSnippet2: "Encyclopaedia Britannica — Weimar Republic",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Weimar%20Republic",
+          sourceSnippet3: "National Geographic — Weimar Republic"
+        },
+        zh: {
+          title: "Weimar Republic",
+          desc: "塑造德国历史的重要事件。",
+          content: "<p class=\"mb-4\">Weimar Republic是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Weimar Republic，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Weimar Republic的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Weimar%20Republic&fulltext=1",
+          sourceSnippet: "Wikipedia — Weimar Republic",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Weimar%20Republic",
+          sourceSnippet2: "Encyclopaedia Britannica — Weimar Republic",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Weimar%20Republic",
+          sourceSnippet3: "National Geographic — Weimar Republic"
+        }
+      }
+    },
+    {
+      id: "jerman-berlin-wall",
+      langs: {
+        id: {
+          title: "Berlin Wall",
+          desc: "Peristiwa penting dalam sejarah Jerman yang membentuk peradaban kawasan.",
+          content: "<p class=\"mb-4\">Berlin Wall adalah salah satu momen paling berpengaruh dalam sejarah Jerman. Peristiwa ini meninggalkan jejak mendalam pada perkembangan politik, budaya, dan masyarakat setempat.</p><p class=\"mb-4\">Para sejarawan dari berbagai era mencatat bahwa dampak dari Berlin Wall masih dapat dirasakan hingga hari ini. Warisan intelektual dan materialnya terus menjadi objek kajian akademis di seluruh dunia.</p><p class=\"mb-4\">Generasi penerus mewarisi nilai-nilai dan pelajaran dari Berlin Wall sebagai bagian tak terpisahkan dari identitas kolektif bangsa Jerman.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://id.wikipedia.org/w/index.php?search=Berlin%20Wall&fulltext=1",
+          sourceSnippet: "Wikipedia — Berlin Wall",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Berlin%20Wall",
+          sourceSnippet2: "Encyclopaedia Britannica — Berlin Wall",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Berlin%20Wall",
+          sourceSnippet3: "National Geographic — Berlin Wall"
+        },
+        en: {
+          title: "Berlin Wall",
+          desc: "A defining moment in the history of Germany that shaped its civilization.",
+          content: "<p class=\"mb-4\">Berlin Wall stands as one of the most consequential events in the long history of Germany. Its influence permeated every aspect of society — from governance and religion to art and economy.</p><p class=\"mb-4\">Scholars across generations have examined Berlin Wall from multiple angles, revealing layers of complexity that continue to inform our understanding of world history.</p><p class=\"mb-4\">The legacy of Berlin Wall endures in the cultural memory and national identity of the people of Germany, studied in schools and universities worldwide.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://en.wikipedia.org/w/index.php?search=Berlin%20Wall&fulltext=1",
+          sourceSnippet: "Wikipedia — Berlin Wall",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Berlin%20Wall",
+          sourceSnippet2: "Encyclopaedia Britannica — Berlin Wall",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Berlin%20Wall",
+          sourceSnippet3: "National Geographic — Berlin Wall"
+        },
+        ja: {
+          title: "Berlin Wall",
+          desc: "ドイツの歴史を形成した重要な出来事。",
+          content: "<p class=\"mb-4\">Berlin Wallはドイツの長い歴史の中で最も重要な出来事の一つです。政治・宗教・芸術・経済など社会のあらゆる側面に影響を与えました。</p><p class=\"mb-4\">歴史家たちはBerlin Wallを様々な角度から研究しており、その複雑さは世界史の理解を深め続けています。</p><p class=\"mb-4\">Berlin Wallの遺産はドイツの人々の文化的記憶と国民的アイデンティティの中に生き続け、世界中の学校や大学で研究されています。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ja.wikipedia.org/w/index.php?search=Berlin%20Wall&fulltext=1",
+          sourceSnippet: "Wikipedia — Berlin Wall",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Berlin%20Wall",
+          sourceSnippet2: "Encyclopaedia Britannica — Berlin Wall",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Berlin%20Wall",
+          sourceSnippet3: "National Geographic — Berlin Wall"
+        },
+        ko: {
+          title: "Berlin Wall",
+          desc: "독일의 역사를 형성한 중요한 사건.",
+          content: "<p class=\"mb-4\">Berlin Wall은(는) 독일의 오랜 역사에서 가장 중요한 사건 중 하나입니다. 정치·종교·예술·경제 등 사회 모든 측면에 영향을 미쳤습니다.</p><p class=\"mb-4\">역사학자들은 다양한 각도에서 Berlin Wall을 연구해왔으며, 그 복잡성은 세계사 이해를 계속 심화시키고 있습니다.</p><p class=\"mb-4\">Berlin Wall의 유산은 독일 사람들의 문화적 기억과 국가 정체성 속에 살아있으며, 전 세계 학교와 대학에서 연구되고 있습니다.</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://ko.wikipedia.org/w/index.php?search=Berlin%20Wall&fulltext=1",
+          sourceSnippet: "Wikipedia — Berlin Wall",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Berlin%20Wall",
+          sourceSnippet2: "Encyclopaedia Britannica — Berlin Wall",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Berlin%20Wall",
+          sourceSnippet3: "National Geographic — Berlin Wall"
+        },
+        zh: {
+          title: "Berlin Wall",
+          desc: "塑造德国历史的重要事件。",
+          content: "<p class=\"mb-4\">Berlin Wall是德国漫长历史中最重要的事件之一，对政治、宗教、艺术和经济等社会各个方面产生了深远影响。</p><p class=\"mb-4\">历史学家从多个角度研究了Berlin Wall，揭示了其复杂性，这不断加深我们对世界历史的理解。</p><p class=\"mb-4\">Berlin Wall的遗产延续在德国人民的文化记忆和国家认同中，在全世界的学校和大学中被广泛研究。</p>",
+          source: "Wikipedia",
+          sourceUrl: "https://zh.wikipedia.org/w/index.php?search=Berlin%20Wall&fulltext=1",
+          sourceSnippet: "Wikipedia — Berlin Wall",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/search?query=Berlin%20Wall",
+          sourceSnippet2: "Encyclopaedia Britannica — Berlin Wall",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Berlin%20Wall",
+          sourceSnippet3: "National Geographic — Berlin Wall"
+        }
+      }
+    },
+    {
+      id: "jerman-berlin-wall",
+      langs: {
+        id: {
+          title: "Runtuhnya Tembok Berlin (1989)",
+          desc: "Momen bersejarah saat Tembok Berlin runtuh pada 9 November 1989 dan mengakhiri Perang Dingin di Eropa.",
+          content: "<p class=\"mb-4\">Tembok Berlin dibangun oleh Jerman Timur (DDR) pada 13 Agustus 1961, membelah kota Berlin menjadi dua bagian. Selama 28 tahun, tembok ini menjadi simbol paling nyata dari <strong>Tirai Besi</strong> yang memisahkan Eropa Barat dari Blok Timur.</p><p class=\"mb-4\">Sekitar <strong>5.000 orang mencoba melarikan diri</strong> melewati tembok ini selama keberadaannya. Diperkirakan 140 orang tewas ditembak penjaga perbatasan yang memiliki perintah menembak langsung.</p><p class=\"mb-4\">Pada malam 9 November 1989, juru bicara DDR mengumumkan secara keliru bahwa warga boleh melintasi perbatasan \"segera, tanpa penundaan.\" Ribuan warga Berlin Timur bergerak ke pos pemeriksaan dan penjaga yang kewalahan membuka gerbang tanpa kekerasan.</p><p class=\"mb-4\">Warga dari kedua sisi mulai memukuli tembok dalam euforia kolektif yang disiarkan langsung di seluruh dunia. Dalam hitungan jam, tembok simbol penindasan itu runtuh oleh tangan rakyatnya sendiri.</p><p class=\"mb-4\">Runtuhnya Tembok Berlin menjadi katalis reunifikasi Jerman pada 3 Oktober 1990 dan menandai berakhirnya Perang Dingin. Uni Soviet bubar pada 26 Desember 1991.</p>",
+          source: "History.com",
+          sourceUrl: "https://www.history.com/search?searchTerm=Runtuhnya%20Tembok%20Berlin%20(1989)",
+          sourceSnippet: "History.com — Runtuhnya Tembok Berlin (1989)",
+          source2: "BBC",
+          sourceUrl2: "https://www.bbc.co.uk/search?q=Runtuhnya%20Tembok%20Berlin%20(1989)",
+          sourceSnippet2: "BBC — Runtuhnya Tembok Berlin (1989)",
+          source3: "Bundeszentrale für politische Bildung",
+          sourceUrl3: "https://www.google.com/search?q=Runtuhnya%20Tembok%20Berlin%20(1989)",
+          sourceSnippet3: "Bundeszentrale für politische Bildung — Runtuhnya Tembok Berlin (1989)"
+        },
+        en: {
+          title: "Fall of the Berlin Wall (1989)",
+          desc: "The historic moment the Berlin Wall fell on November 9, 1989, ending the Cold War in Europe.",
+          content: "<p class=\"mb-4\">The Berlin Wall was built by East Germany (DDR) on August 13, 1961, dividing Berlin in two. For 28 years it stood as the most visible symbol of the <strong>Iron Curtain</strong>.</p><p class=\"mb-4\">Around <strong>5,000 people attempted to escape</strong> across the wall; an estimated 140 died, shot by border guards with shoot-on-sight orders.</p><p class=\"mb-4\">On November 9, 1989, a DDR spokesman mistakenly announced citizens could cross \"immediately, without delay.\" Thousands rushed checkpoints; overwhelmed guards opened the gates peacefully.</p><p class=\"mb-4\">Citizens hammered at the wall in collective euphoria, broadcast live worldwide — the symbol of oppression fell by the hands of its own people.</p><p class=\"mb-4\">German reunification followed on October 3, 1990. The Soviet Union dissolved December 26, 1991.</p>",
+          source: "History.com",
+          sourceUrl: "https://www.history.com/search?searchTerm=Fall%20of%20the%20Berlin%20Wall%20(1989)",
+          sourceSnippet: "History.com — Fall of the Berlin Wall (1989)",
+          source2: "BBC",
+          sourceUrl2: "https://www.bbc.co.uk/search?q=Fall%20of%20the%20Berlin%20Wall%20(1989)",
+          sourceSnippet2: "BBC — Fall of the Berlin Wall (1989)",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=Fall%20of%20the%20Berlin%20Wall%20(1989)",
+          sourceSnippet3: "National Geographic — Fall of the Berlin Wall (1989)"
+        },
+        ja: {
+          title: "ベルリンの壁崩壊（1989年）",
+          desc: "1989年11月9日、ベルリンの壁が崩壊しヨーロッパの冷戦が終結した歴史的瞬間。",
+          content: "<p class=\"mb-4\">ベルリンの壁は1961年8月13日に東ドイツが建設し、<strong>鉄のカーテン</strong>の最も目に見えるシンボルとなりました。</p><p class=\"mb-4\">28年間で約5,000人が逃亡を試み、推定140人が射殺されました。</p><p class=\"mb-4\">1989年11月9日夜、東ドイツ政府が誤って国境を開放すると発表。圧倒された警備員が平和的にゲートを開け、市民が壁を打ち壊しました。</p>",
+          source: "History.com",
+          sourceUrl: "https://www.history.com/search?searchTerm=%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A%EF%BC%881989%E5%B9%B4%EF%BC%89",
+          sourceSnippet: "History.com — ベルリンの壁崩壊（1989年）",
+          source2: "BBC",
+          sourceUrl2: "https://www.bbc.co.uk/search?q=%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A%EF%BC%881989%E5%B9%B4%EF%BC%89",
+          sourceSnippet2: "BBC — ベルリンの壁崩壊（1989年）",
+          source3: "Encyclopaedia Britannica",
+          sourceUrl3: "https://www.britannica.com/search?query=%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A%EF%BC%881989%E5%B9%B4%EF%BC%89",
+          sourceSnippet3: "Encyclopaedia Britannica — ベルリンの壁崩壊（1989年）"
+        },
+        ko: {
+          title: "베를린 장벽 붕괴 (1989년)",
+          desc: "1989년 11월 9일 베를린 장벽이 무너지며 유럽의 냉전이 끝난 역사적 순간.",
+          content: "<p class=\"mb-4\">베를린 장벽은 1961년 8월 13일 동독이 건설했으며 <strong>철의 장막</strong>의 가장 가시적인 상징이었습니다.</p><p class=\"mb-4\">28년 동안 약 5,000명이 탈출을 시도했고 140명이 사살되었습니다.</p><p class=\"mb-4\">1989년 11월 9일 밤 동독 대변인이 실수로 국경 개방을 발표했고, 압도된 경비원들이 평화적으로 문을 열었습니다.</p>",
+          source: "History.com",
+          sourceUrl: "https://www.history.com/search?searchTerm=%EB%B2%A0%EB%A5%BC%EB%A6%B0%20%EC%9E%A5%EB%B2%BD%20%EB%B6%95%EA%B4%B4%20(1989%EB%85%84)",
+          sourceSnippet: "History.com — 베를린 장벽 붕괴 (1989년)",
+          source2: "BBC",
+          sourceUrl2: "https://www.bbc.co.uk/search?q=%EB%B2%A0%EB%A5%BC%EB%A6%B0%20%EC%9E%A5%EB%B2%BD%20%EB%B6%95%EA%B4%B4%20(1989%EB%85%84)",
+          sourceSnippet2: "BBC — 베를린 장벽 붕괴 (1989년)",
+          source3: "National Geographic",
+          sourceUrl3: "https://www.nationalgeographic.com/search?q=%EB%B2%A0%EB%A5%BC%EB%A6%B0%20%EC%9E%A5%EB%B2%BD%20%EB%B6%95%EA%B4%B4%20(1989%EB%85%84)",
+          sourceSnippet3: "National Geographic — 베를린 장벽 붕괴 (1989년)"
+        },
+        zh: {
+          title: "柏林墙倒塌 (1989年)",
+          desc: "1989年11月9日柏林墙倒塌、欧洲冷战结束的历史性时刻。",
+          content: "<p class=\"mb-4\">柏林墙于1961年8月13日由东德建造，成为<strong>铁幕</strong>最直观的象征。</p><p class=\"mb-4\">28年间约5,000人尝试越墙，估计140人被卫兵击毙。</p><p class=\"mb-4\">1989年11月9日晚，东德发言人误宣布开放边境，压不住的卫兵和平开门，市民欣喜若狂地砸毁了这堵墙。</p>",
+          source: "History.com",
+          sourceUrl: "https://www.history.com/search?searchTerm=%E6%9F%8F%E6%9E%97%E5%A2%99%E5%80%92%E5%A1%8C%20(1989%E5%B9%B4)",
+          sourceSnippet: "History.com — 柏林墙倒塌 (1989年)",
+          source2: "BBC",
+          sourceUrl2: "https://www.bbc.co.uk/search?q=%E6%9F%8F%E6%9E%97%E5%A2%99%E5%80%92%E5%A1%8C%20(1989%E5%B9%B4)",
+          sourceSnippet2: "BBC — 柏林墙倒塌 (1989年)",
+          source3: "Encyclopaedia Britannica",
+          sourceUrl3: "https://www.britannica.com/search?query=%E6%9F%8F%E6%9E%97%E5%A2%99%E5%80%92%E5%A1%8C%20(1989%E5%B9%B4)",
+          sourceSnippet3: "Encyclopaedia Britannica — 柏林墙倒塌 (1989年)"
+        }
+      }
+    }
+  ]
+};

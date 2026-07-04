@@ -613,5 +613,469 @@ window.countryDataFiles['indonesia'] = {
         }
       }
     }
+      ,
+    {
+      id: "indonesia-kutai-prasasti-yupa",
+      langs: {
+        id: {
+          title: "Kerajaan Kutai: Kerajaan Hindu Tertua di Nusantara",
+          desc: "Kerajaan Kutai Martapura yang berdiri sekitar abad ke-4 M di Kalimantan Timur merupakan kerajaan bercorak Hindu tertua di Nusantara, dibuktikan melalui tujuh prasasti Yupa yang mencatat kedermawanan Raja Mulawarman.",
+          content: "<p class=\"mb-4\">Kerajaan Kutai Martapura berdiri di wilayah hulu Sungai Mahakam, Kalimantan Timur, sekitar abad ke-4 Masehi, menjadikannya kerajaan bercorak Hindu tertua yang keberadaannya tercatat di wilayah Nusantara, jauh mendahului kerajaan-kerajaan besar lain seperti Sriwijaya maupun Majapahit yang baru muncul berabad-abad kemudian.</p><p class=\"mb-4\">Bukti keberadaan kerajaan ini ditemukan melalui tujuh prasasti Yupa, tugu batu peringatan berbahasa Sanskerta dengan aksara Pallawa yang ditemukan di kawasan Muara Kaman, mencatat berbagai upacara kurban dan kedermawanan yang dilakukan penguasa kerajaan tersebut kepada para brahmana.</p><p class=\"mb-4\">Prasasti Yupa mencatat silsilah tiga generasi penguasa Kutai, dimulai dari Kudungga yang disebut sebagai pendiri wangsa (dinasti) kerajaan, dilanjutkan putranya Aswawarman yang dijuluki \"wangsakerta\" (pembentuk keluarga) karena dianggap sebagai raja pertama yang benar-benar menerapkan sistem pemerintahan bercorak Hindu, hingga akhirnya cucunya Mulawarman yang membawa kerajaan tersebut ke puncak kejayaannya.</p><p class=\"mb-4\">Raja Mulawarman tercatat dalam prasasti Yupa sebagai penguasa yang sangat dermawan, konon menghadiahkan 20.000 ekor sapi kepada para brahmana dalam sebuah upacara besar di tempat suci bernama Waprakeswara, sebuah tindakan yang dalam tradisi Hindu dianggap sebagai bentuk kesalehan dan legitimasi kekuasaan tertinggi seorang raja.</p><p class=\"mb-4\">Keberadaan Kerajaan Kutai membuktikan bahwa pengaruh budaya dan agama Hindu dari India telah menyebar ke wilayah Nusantara jauh lebih awal dari perkiraan sebelumnya, sekaligus menunjukkan bahwa masyarakat pesisir Kalimantan pada masa itu telah terlibat aktif dalam jaringan perdagangan maritim yang menghubungkan Nusantara dengan India dan wilayah Asia lainnya.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Prasasti Yupa Kutai",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kutai",
+          sourceSnippet2: "Encyclopaedia Britannica — Kutai kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2220/the-kutai-kingdom-earliest-hindu-state-in-indone/",
+          sourceSnippet3: "World History Encyclopedia — The Kutai Kingdom"
+        },
+        en: {
+          title: "The Kutai Kingdom: The Oldest Hindu Kingdom in the Archipelago",
+          desc: "The Kutai Martapura Kingdom, established around the 4th century CE in East Kalimantan, is the oldest recorded Hindu-influenced kingdom in the Indonesian archipelago, evidenced by seven Yupa inscriptions recording King Mulawarman's generosity.",
+          content: "<p class=\"mb-4\">The Kutai Martapura Kingdom was established in the upper Mahakam River region of East Kalimantan around the 4th century CE, making it the oldest recorded Hindu-influenced kingdom in the Indonesian archipelago, predating major later kingdoms such as Srivijaya and Majapahit by several centuries.</p><p class=\"mb-4\">Evidence of this kingdom's existence was found through seven Yupa inscriptions, Sanskrit memorial stone pillars written in Pallava script discovered in the Muara Kaman area, recording various sacrificial ceremonies and acts of generosity performed by the kingdom's rulers toward Brahmin priests.</p><p class=\"mb-4\">The Yupa inscriptions record three generations of Kutai rulers, beginning with Kudungga, referred to as the founder of the royal dynasty, followed by his son Aswawarman dubbed \"wangsakerta\" (dynasty founder) for being considered the first king to genuinely implement a Hindu-influenced system of governance, until finally his grandson Mulawarman brought the kingdom to its peak of glory.</p><p class=\"mb-4\">King Mulawarman is recorded in the Yupa inscriptions as an exceptionally generous ruler, reportedly gifting 20,000 cattle to Brahmin priests during a grand ceremony at a sacred site called Waprakeswara, an act considered in Hindu tradition to represent piety and the highest legitimacy of a king's power.</p><p class=\"mb-4\">The existence of the Kutai Kingdom proves that Hindu cultural and religious influence from India had spread to the Indonesian archipelago much earlier than previously estimated, while also demonstrating that coastal Kalimantan communities of that era were actively involved in maritime trade networks connecting the archipelago with India and other Asian regions.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Yupa Inscriptions of Kutai",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kutai",
+          sourceSnippet2: "Encyclopaedia Britannica — Kutai kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2220/the-kutai-kingdom-earliest-hindu-state-in-indone/",
+          sourceSnippet3: "World History Encyclopedia — The Kutai Kingdom"
+        },
+        ja: {
+          title: "クタイ王国：群島最古のヒンドゥー王国",
+          desc: "東カリマンタンで4世紀頃に建国されたクタイ・マルタプラ王国は、ムラワルマン王の寛大さを記録した7つのユパ碑文によって証明される、インドネシア群島最古のヒンドゥー教影響を受けた王国である。",
+          content: "<p class=\"mb-4\">クタイ・マルタプラ王国は4世紀頃、東カリマンタンのマハカム川上流域に建国され、スリヴィジャヤやマジャパヒトなど後の主要王国よりも数世紀早い、インドネシア群島最古の記録されたヒンドゥー教影響王国となりました。</p><p class=\"mb-4\">この王国の存在の証拠は、ムアラ・カマン地域で発見されたパッラヴァ文字によるサンスクリット語の記念石柱である7つのユパ碑文を通じて発見され、王国の統治者がバラモン僧侶に対して行った様々な犠牲の儀式と寛大な行為を記録しています。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — クタイのユパ碑文",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kutai",
+          sourceSnippet2: "Encyclopaedia Britannica — クタイ王国"
+        },
+        ko: {
+          title: "쿠타이 왕국: 군도 최고(最古)의 힌두 왕국",
+          desc: "동칼리만탄에서 4세기경 건국된 쿠타이 마르타푸라 왕국은 물라와르만 왕의 관대함을 기록한 7개의 유파 비문을 통해 증명되는, 인도네시아 군도에서 가장 오래된 기록된 힌두 영향 왕국이다.",
+          content: "<p class=\"mb-4\">쿠타이 마르타푸라 왕국은 4세기경 동칼리만탄의 마하캄 강 상류 지역에 건국되어, 스리위자야와 마자파힛 같은 후대의 주요 왕국들보다 몇 세기 앞선, 인도네시아 군도에서 가장 오래된 기록된 힌두 영향 왕국이 되었습니다.</p><p class=\"mb-4\">이 왕국의 존재에 대한 증거는 무아라 카만 지역에서 발견된, 팔라바 문자로 쓰인 산스크리트어 기념 석주인 7개의 유파 비문을 통해 발견되었으며, 왕국의 통치자들이 브라만 사제들에게 행한 various 희생 의식과 관대한 행위를 기록하고 있습니다.</p><p class=\"mb-4\">유파 비문은 쿠타이 통치자 3대의 계보를 기록하고 있으며, 왕조의 창시자로 언급되는 쿠둥가로 시작하여, 힌두 영향 통치 체제를 진정으로 시행한 최초의 왕으로 여겨져 \"왕사케르타\"(왕조 창시자)라 불린 그의 아들 아스와와르만이 뒤를 이었고, 마침내 그의 손자 물라와르만이 왕국을 전성기로 이끌었습니다.</p><p class=\"mb-4\">물라와르만 왕은 유파 비문에서 매우 관대한 통치자로 기록되어 있으며, 바프라케스와라라는 성지에서 열린 대규모 의식에서 브라만 사제들에게 2만 마리의 소를 선물했다고 전해지는데, 이는 힌두 전통에서 왕의 권력의 경건함과 최고 정당성을 나타내는 것으로 여겨지는 행위였습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 쿠타이 유파 비문",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kutai",
+          sourceSnippet2: "Encyclopaedia Britannica — 쿠타이 왕국"
+        },
+        zh: {
+          title: "古戴王国：群岛最古老的印度教王国",
+          desc: "约公元4世纪在东加里曼丹建立的古戴马打普拉王国是印度尼西亚群岛有记载的最古老的受印度教影响的王国，通过记录穆拉瓦尔曼王慷慨事迹的七块尤帕石碑得以证实。",
+          content: "<p class=\"mb-4\">古戴马打普拉王国约在公元4世纪建立于东加里曼丹马哈坎河上游地区，使其成为印度尼西亚群岛有记载的最古老的受印度教影响的王国，比室利佛逝和满者伯夷等后来的主要王国早了几个世纪。</p><p class=\"mb-4\">该王国存在的证据是通过在慕拉卡曼地区发现的七块尤帕石碑发现的，这些石碑是用帕拉瓦文字书写的梵文纪念石柱，记录了王国统治者向婆罗门祭司举行的various祭祀仪式和慷慨行为。</p><p class=\"mb-4\">尤帕石碑记录了古戴三代统治者的世系，始于被称为王朝创立者的古敦加，其子阿斯瓦瓦尔曼继位，因被视为第一位真正实施印度教影响治理体系的国王而被称为\"望萨克尔塔\"（王朝建立者），最终其孙穆拉瓦尔曼将王国带向巅峰。</p><p class=\"mb-4\">穆拉瓦尔曼王在尤帕石碑中被记录为一位极其慷慨的统治者，据称在名为瓦普拉克斯瓦拉的圣地举行的盛大仪式中向婆罗门祭司赠送了2万头牛，这一行为在印度教传统中被视为虔诚和国王权力最高合法性的体现。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 古戴尤帕石碑",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kutai",
+          sourceSnippet2: "Encyclopaedia Britannica — 古戴王国"
+        }
+      }
+    },
+    {
+      id: "indonesia-kerajaan-demak-islam-jawa",
+      langs: {
+        id: {
+          title: "Kerajaan Demak: Kerajaan Islam Pertama di Pulau Jawa",
+          desc: "Kerajaan Demak berdiri pada akhir abad ke-15 sebagai kerajaan Islam pertama di Jawa, didirikan Raden Patah dan berperan penting menyebarkan Islam ke seluruh Nusantara melalui jaringan Wali Songo.",
+          content: "<p class=\"mb-4\">Kerajaan Demak berdiri sekitar 1478-1500 di pesisir utara Jawa Tengah, didirikan Raden Patah yang menurut berbagai tradisi lokal merupakan putra Raja Brawijaya V dari Majapahit, menandai transisi kekuasaan politik dari kerajaan Hindu-Buddha Majapahit yang tengah melemah menuju kesultanan bercorak Islam pertama di Jawa.</p><p class=\"mb-4\">Raden Patah mendirikan Demak dengan dukungan kuat para ulama penyebar Islam yang dikenal sebagai Wali Songo (Sembilan Wali), termasuk Sunan Ampel yang dianggap sebagai guru spiritual Raden Patah, dengan kerajaan tersebut menjadi pusat penyebaran agama Islam yang sistematis ke seluruh wilayah Jawa dan sekitarnya.</p><p class=\"mb-4\">Demak berkembang menjadi kekuatan maritim dan perdagangan penting di pesisir utara Jawa, memanfaatkan lokasi strategisnya di jalur perdagangan rempah-rempah antara Maluku dan pusat-pusat perdagangan Asia lainnya, sekaligus menjadi kekuatan militer yang disegani dengan melancarkan ekspedisi militer melawan Portugis di Malaka pada awal abad ke-16.</p><p class=\"mb-4\">Masjid Agung Demak, yang menurut tradisi dibangun para Wali Songo dengan menggunakan salah satu tiang utama (saka tatal) hasil karya Sunan Kalijaga, menjadi simbol arsitektur Islam Jawa awal yang memadukan elemen desain lokal dengan pengaruh Islam, dan hingga kini tetap menjadi salah satu masjid tertua dan paling dihormati di Indonesia.</p><p class=\"mb-4\">Kerajaan Demak mengalami kemunduran akibat perebutan kekuasaan internal pascakematian penerus-penerus Raden Patah pada pertengahan abad ke-16, namun warisannya sebagai kerajaan Islam pertama di Jawa serta perannya yang krusial dalam penyebaran Islam melalui jaringan Wali Songo terus membentuk lanskap keagamaan dan budaya Indonesia hingga saat ini.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Masjid Agung Demak",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Demak",
+          sourceSnippet2: "Encyclopaedia Britannica — Demak sultanate",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2225/the-sultanate-of-demak-first-islamic-kingdom-in-j/",
+          sourceSnippet3: "World History Encyclopedia — The Sultanate of Demak"
+        },
+        en: {
+          title: "The Demak Kingdom: The First Islamic Kingdom on the Island of Java",
+          desc: "The Demak Kingdom was established in the late 15th century as the first Islamic kingdom in Java, founded by Raden Patah and playing a crucial role in spreading Islam throughout the archipelago through the Wali Songo network.",
+          content: "<p class=\"mb-4\">The Demak Kingdom was established around 1478-1500 on the northern coast of Central Java, founded by Raden Patah, who according to various local traditions was a son of King Brawijaya V of Majapahit, marking a political power transition from the weakening Hindu-Buddhist Majapahit kingdom to the first Islamic-influenced sultanate in Java.</p><p class=\"mb-4\">Raden Patah established Demak with strong support from Islamic missionary scholars known as the Wali Songo (Nine Saints), including Sunan Ampel, considered Raden Patah's spiritual teacher, with the kingdom becoming a center for the systematic spread of Islam throughout Java and surrounding regions.</p><p class=\"mb-4\">Demak developed into an important maritime and trading power on Java's northern coast, exploiting its strategic location on spice trade routes between the Maluku Islands and other Asian trading centers, while also becoming a formidable military power that launched military expeditions against the Portuguese in Malacca in the early 16th century.</p><p class=\"mb-4\">The Great Mosque of Demak, which according to tradition was built by the Wali Songo using one main pillar (saka tatal) crafted by Sunan Kalijaga, became a symbol of early Javanese Islamic architecture blending local design elements with Islamic influence, and remains one of Indonesia's oldest and most revered mosques to this day.</p><p class=\"mb-4\">The Demak Kingdom experienced decline due to internal power struggles following the death of Raden Patah's successors in the mid-16th century, but its legacy as the first Islamic kingdom in Java and its crucial role in spreading Islam through the Wali Songo network continue to shape Indonesia's religious and cultural landscape to this day.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Great Mosque of Demak",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Demak",
+          sourceSnippet2: "Encyclopaedia Britannica — Demak sultanate",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2225/the-sultanate-of-demak-first-islamic-kingdom-in-j/",
+          sourceSnippet3: "World History Encyclopedia — The Sultanate of Demak"
+        },
+        ja: {
+          title: "ドゥマク王国：ジャワ島初のイスラム王国",
+          desc: "ドゥマク王国は15世紀後半にジャワ初のイスラム王国として建国され、ラデン・パタによって設立され、ワリ・ソンゴのネットワークを通じて群島全体にイスラム教を広める上で重要な役割を果たした。",
+          content: "<p class=\"mb-4\">ドゥマク王国は1478〜1500年頃、中部ジャワ北岸に建国され、様々な地元の伝承によればマジャパヒトのブラウィジャヤ5世王の息子であったラデン・パタによって設立され、衰退しつつあったヒンドゥー・仏教マジャパヒト王国からジャワ初のイスラム教影響を受けたスルタン国への政治権力の移行を示しました。</p><p class=\"mb-4\">ラデン・パタは、ラデン・パタの精神的指導者と見なされるスナン・アンペルを含む、ワリ・ソンゴ（九聖人）として知られるイスラム布教学者たちの強力な支援を得てドゥマクを建国し、この王国はジャワ全域とその周辺地域へのイスラム教の組織的な普及の中心地となりました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — ドゥマク大モスク",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Demak",
+          sourceSnippet2: "Encyclopaedia Britannica — ドゥマク王国"
+        },
+        ko: {
+          title: "드막 왕국: 자바섬 최초의 이슬람 왕국",
+          desc: "드막 왕국은 15세기 후반 자바 최초의 이슬람 왕국으로 건국되어 라덴 파타에 의해 세워졌으며, 왈리 송오 네트워크를 통해 군도 전역에 이슬람교를 전파하는 데 중요한 역할을 했다.",
+          content: "<p class=\"mb-4\">드막 왕국은 1478-1500년경 중부 자바 북부 해안에 건국되었으며, 다양한 지역 전통에 따르면 마자파힛의 브라위자야 5세 왕의 아들이었던 라덴 파타에 의해 설립되어, 쇠퇴하던 힌두-불교 마자파힛 왕국에서 자바 최초의 이슬람 영향 술탄국으로의 정치 권력 이행을 나타냈습니다.</p><p class=\"mb-4\">라덴 파타는 라덴 파타의 영적 스승으로 여겨지는 수난 암펠을 포함한 왈리 송오(아홉 성인)로 알려진 이슬람 선교 학자들의 강력한 지원을 받아 드막을 건국했으며, 이 왕국은 자바 전역과 주변 지역에 이슬람교를 체계적으로 전파하는 중심지가 되었습니다.</p><p class=\"mb-4\">드막은 말루쿠 제도와 다른 아시아 무역 중심지 사이의 향신료 무역로에서의 전략적 위치를 활용하여 자바 북부 해안의 중요한 해상 및 무역 세력으로 발전했으며, 동시에 16세기 초 말라카에서 포르투갈에 맞선 군사 원정을 개시한 강력한 군사 세력이 되었습니다.</p><p class=\"mb-4\">전통에 따르면 수난 칼리자가가 만든 주요 기둥(사카 타탈) 중 하나를 사용해 왈리 송오가 건축했다는 드막 대모스크는 지역 디자인 요소와 이슬람 영향을 혼합한 초기 자바 이슬람 건축의 상징이 되었으며, 오늘날까지 인도네시아에서 가장 오래되고 가장 존경받는 모스크 중 하나로 남아 있습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 드막 대모스크",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Demak",
+          sourceSnippet2: "Encyclopaedia Britannica — 드막 술탄국"
+        },
+        zh: {
+          title: "淡目王国：爪哇岛第一个伊斯兰王国",
+          desc: "淡目王国于15世纪末建立，是爪哇第一个伊斯兰王国，由拉登·帕塔创建，通过哇力宋阿网络在整个群岛传播伊斯兰教方面发挥了关键作用。",
+          content: "<p class=\"mb-4\">淡目王国约在1478-1500年间建立于中爪哇北海岸，由据various当地传统称为满者伯夷布拉维贾亚五世国王之子的拉登·帕塔创建，标志着政治权力从日益衰弱的印度教-佛教满者伯夷王国向爪哇第一个受伊斯兰教影响的苏丹国的过渡。</p><p class=\"mb-4\">拉登·帕塔在被视为拉登·帕塔精神导师的苏南·安佩尔等被称为哇力宋阿（九圣）的伊斯兰传教学者的大力支持下建立了淡目，该王国成为在爪哇及周边地区系统传播伊斯兰教的中心。</p><p class=\"mb-4\">淡目发展成为爪哇北海岸重要的海上和贸易势力，利用其在摩鹿加群岛与其他亚洲贸易中心之间香料贸易路线上的战略位置，同时也成为一支令人生畏的军事力量，于16世纪初对马六甲的葡萄牙人发动了军事远征。</p><p class=\"mb-4\">淡目大清真寺据传统由哇力宋阿使用苏南·卡利加加制作的一根主柱（萨卡塔塔尔）建造，成为融合当地设计元素与伊斯兰影响的早期爪哇伊斯兰建筑的象征，至今仍是印度尼西亚最古老、最受尊崇的清真寺之一。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 淡目大清真寺",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Demak",
+          sourceSnippet2: "Encyclopaedia Britannica — 淡目苏丹国"
+        }
+      }
+    },
+    {
+      id: "indonesia-perang-padri-1803-1837",
+      langs: {
+        id: {
+          title: "Perang Padri (1803-1837): Konflik Reformasi Agama dan Perlawanan Kolonial",
+          desc: "Perang Padri di Sumatra Barat berawal sebagai konflik internal antara kaum Padri pembaharu Islam dan kaum adat, namun berkembang menjadi perang perlawanan panjang melawan intervensi kolonial Belanda selama lebih dari tiga dekade.",
+          content: "<p class=\"mb-4\">Perang Padri dimulai sekitar 1803 sebagai konflik internal di Minangkabau, Sumatra Barat, antara kaum Padri, kelompok ulama pembaharu yang terinspirasi gerakan Wahabi dari Arab Saudi dan berupaya menerapkan syariat Islam secara lebih ketat, melawan kaum adat yang mempertahankan tradisi lokal Minangkabau termasuk praktik-praktik yang dianggap kaum Padri bertentangan dengan ajaran Islam murni.</p><p class=\"mb-4\">Konflik internal tersebut berubah drastis ketika kaum adat yang terdesak meminta bantuan Belanda pada 1821, sebuah keputusan yang mengubah karakter perang dari konflik internal menjadi perlawanan bersama melawan intervensi kolonial, dengan Belanda memanfaatkan kesempatan tersebut untuk memperluas kontrolnya atas wilayah Sumatra Barat yang kaya akan komoditas seperti kopi dan emas.</p><p class=\"mb-4\">Tuanku Imam Bonjol muncul sebagai pemimpin perlawanan paling menonjol dari pihak Padri, memimpin pertahanan benteng Bonjol yang menjadi basis perlawanan utama selama bertahun-tahun, dengan kepemimpinannya yang efektif memaksa Belanda mengerahkan sumber daya militer signifikan untuk menaklukkan wilayah tersebut.</p><p class=\"mb-4\">Setelah dua dekade lebih peperangan yang melelahkan kedua belah pihak, benteng Bonjol akhirnya jatuh ke tangan Belanda pada 1837 melalui kombinasi kekuatan militer dan tipu muslihat diplomatik, dengan Tuanku Imam Bonjol ditangkap dan diasingkan ke berbagai lokasi termasuk Cianjur, Ambon, dan akhirnya Manado hingga wafatnya pada 1864.</p><p class=\"mb-4\">Perang Padri yang berlangsung selama 34 tahun tersebut menandai salah satu perlawanan terpanjang dan paling signifikan terhadap ekspansi kolonial Belanda di Sumatra, sekaligus meninggalkan warisan kompleks mengenai dinamika reformasi keagamaan internal yang berinteraksi dengan tekanan kolonial eksternal, dengan Tuanku Imam Bonjol kini dihormati sebagai Pahlawan Nasional Indonesia.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Benteng Bonjol dan Perang Padri",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Padri-War",
+          sourceSnippet2: "Encyclopaedia Britannica — Padri War",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2230/the-padri-war-1803-1837-sumatra/",
+          sourceSnippet3: "World History Encyclopedia — The Padri War"
+        },
+        en: {
+          title: "The Padri War (1803-1837): Religious Reform Conflict and Colonial Resistance",
+          desc: "The Padri War in West Sumatra began as an internal conflict between reformist Padri Muslims and traditionalist groups, but developed into a lengthy resistance war against Dutch colonial intervention lasting over three decades.",
+          content: "<p class=\"mb-4\">The Padri War began around 1803 as an internal conflict in Minangkabau, West Sumatra, between the Padri, a group of reformist clerics inspired by the Wahhabi movement from Saudi Arabia who sought to more strictly implement Islamic sharia, against traditionalist groups defending local Minangkabau customs including practices the Padri considered contrary to pure Islamic teachings.</p><p class=\"mb-4\">This internal conflict changed drastically when the pressured traditionalist faction requested Dutch assistance in 1821, a decision that transformed the war's character from an internal conflict into joint resistance against colonial intervention, with the Dutch exploiting this opportunity to expand their control over West Sumatra's territory rich in commodities such as coffee and gold.</p><p class=\"mb-4\">Tuanku Imam Bonjol emerged as the most prominent resistance leader from the Padri side, leading the defense of Bonjol fortress, which became the main resistance base for years, with his effective leadership forcing the Dutch to deploy significant military resources to conquer the territory.</p><p class=\"mb-4\">After over two decades of warfare exhausting both sides, Bonjol fortress finally fell to the Dutch in 1837 through a combination of military force and diplomatic trickery, with Tuanku Imam Bonjol captured and exiled to various locations including Cianjur, Ambon, and finally Manado until his death in 1864.</p><p class=\"mb-4\">The Padri War, lasting 34 years, marked one of the longest and most significant resistances against Dutch colonial expansion in Sumatra, while leaving a complex legacy regarding the dynamics of internal religious reform interacting with external colonial pressure, with Tuanku Imam Bonjol now honored as an Indonesian National Hero.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Bonjol Fortress and the Padri War",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Padri-War",
+          sourceSnippet2: "Encyclopaedia Britannica — Padri War",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2230/the-padri-war-1803-1837-sumatra/",
+          sourceSnippet3: "World History Encyclopedia — The Padri War"
+        },
+        ja: {
+          title: "パドリ戦争（1803〜1837年）：宗教改革の対立と植民地への抵抗",
+          desc: "西スマトラのパドリ戦争は改革派パドリ・イスラム教徒と伝統主義派グループの内部対立として始まったが、30年以上続くオランダ植民地介入への長期抵抗戦争へと発展した。",
+          content: "<p class=\"mb-4\">パドリ戦争は1803年頃、西スマトラのミナンカバウにおける内部対立として始まりました。サウジアラビアのワッハーブ運動に触発され、イスラム法をより厳格に施行しようとした改革派聖職者集団パドリと、パドリが純粋なイスラムの教えに反すると見なした慣行を含む地元ミナンカバウの伝統を守る伝統主義派グループとの対立でした。</p><p class=\"mb-4\">この内部対立は、圧迫された伝統主義派が1821年にオランダの支援を要請したことで劇的に変化し、この決定は戦争の性格を内部対立から植民地介入への共同抵抗へと変えました。オランダはこの機会を利用してコーヒーや金など豊富な資源を持つ西スマトラ地域への支配を拡大しました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — ボンジョール要塞とパドリ戦争",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Padri-War",
+          sourceSnippet2: "Encyclopaedia Britannica — パドリ戦争"
+        },
+        ko: {
+          title: "파드리 전쟁 (1803~1837년): 종교개혁 갈등과 식민지 저항",
+          desc: "서수마트라의 파드리 전쟁은 개혁파 파드리 무슬림과 전통주의 그룹 간의 내부 갈등으로 시작되었지만, 30년 넘게 지속된 네덜란드 식민 개입에 맞선 장기 저항 전쟁으로 발전했다.",
+          content: "<p class=\"mb-4\">파드리 전쟁은 1803년경 서수마트라 미낭카바우에서 사우디아라비아의 와하비 운동에 영감을 받아 이슬람 샤리아를 더 엄격하게 시행하려 한 개혁파 성직자 집단 파드리와, 파드리가 순수한 이슬람 가르침에 반한다고 여긴 관행을 포함한 지역 미낭카바우 전통을 지키려는 전통주의 그룹 간의 내부 갈등으로 시작되었습니다.</p><p class=\"mb-4\">이 내부 갈등은 압박받던 전통주의 파벌이 1821년 네덜란드의 지원을 요청하면서 극적으로 변화했으며, 이 결정은 전쟁의 성격을 내부 갈등에서 식민 개입에 맞선 공동 저항으로 바꾸었고, 네덜란드는 이 기회를 이용해 커피와 금 같은 자원이 풍부한 서수마트라 지역에 대한 통제를 확대했습니다.</p><p class=\"mb-4\">투앙쿠 이맘 본졸은 파드리 측에서 가장 두드러진 저항 지도자로 부상하여, 수년간 주요 저항 거점이 된 본졸 요새의 방어를 이끌었으며, 그의 효과적인 지도력은 네덜란드가 그 지역을 정복하기 위해 상당한 군사 자원을 투입하도록 강요했습니다.</p><p class=\"mb-4\">양측을 지치게 한 20년 넘는 전쟁 끝에, 본졸 요새는 군사력과 외교적 술책의 결합을 통해 1837년 마침내 네덜란드에 함락되었으며, 투앙쿠 이맘 본졸은 체포되어 치안주르, 암본, 그리고 마침내 마나도 등 various 지역으로 유배되어 1864년 사망할 때까지 지냈습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 본졸 요새와 파드리 전쟁",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Padri-War",
+          sourceSnippet2: "Encyclopaedia Britannica — 파드리 전쟁"
+        },
+        zh: {
+          title: "帕德里战争（1803-1837年）：宗教改革冲突与殖民抵抗",
+          desc: "西苏门答腊的帕德里战争最初是改革派帕德里穆斯林与传统主义群体之间的内部冲突，后来演变为反抗荷兰殖民干预长达三十多年的持久抵抗战争。",
+          content: "<p class=\"mb-4\">帕德里战争始于约1803年，是西苏门答腊米南加保地区的内部冲突，冲突双方是受沙特阿拉伯瓦哈比运动启发、试图更严格实施伊斯兰教法的改革派神职人员帕德里，以及捍卫当地米南加保传统（包括帕德里认为违背纯正伊斯兰教义的习俗）的传统主义群体。</p><p class=\"mb-4\">这场内部冲突在1821年因受压的传统主义派系请求荷兰援助而发生剧变，这一决定将战争性质从内部冲突转变为共同抵抗殖民干预，荷兰则利用这一机会扩大对盛产咖啡和黄金等商品的西苏门答腊地区的控制。</p><p class=\"mb-4\">杜安库·伊玛目·本佐尔成为帕德里一方最杰出的抵抗领袖，领导本佐尔堡垒的防御，这座堡垒多年来一直是主要的抵抗基地，他有效的领导迫使荷兰调动大量军事资源来征服该地区。</p><p class=\"mb-4\">在使双方都精疲力竭的二十多年战争之后，本佐尔堡垒最终于1837年通过军事力量与外交诡计的结合落入荷兰之手，杜安库·伊玛目·本佐尔被俘并流放至西安珠、安汶等various地点，最终流放至万鸦老，直至1864年去世。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 本佐尔堡垒与帕德里战争",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Padri-War",
+          sourceSnippet2: "Encyclopaedia Britannica — 帕德里战争"
+        }
+      }
+    },
+    {
+      id: "indonesia-sistem-tanam-paksa-cultuurstelsel",
+      langs: {
+        id: {
+          title: "Sistem Tanam Paksa (1830): Eksploitasi Ekonomi Kolonial di Bawah Van den Bosch",
+          desc: "Gubernur Jenderal Johannes van den Bosch memperkenalkan Sistem Tanam Paksa pada 1830, memaksa petani Jawa menanam tanaman ekspor untuk kepentingan keuangan Belanda, menciptakan salah satu era eksploitasi kolonial paling brutal dalam sejarah Indonesia.",
+          content: "<p class=\"mb-4\">Belanda menghadapi krisis keuangan serius pasca Perang Jawa (Perang Diponegoro) 1825-1830 yang menghabiskan biaya militer besar, ditambah kerugian akibat kemerdekaan Belgia dari Kerajaan Belanda pada 1830, mendorong Gubernur Jenderal Johannes van den Bosch memperkenalkan Cultuurstelsel (Sistem Tanam Paksa) untuk memulihkan keuangan negara induk.</p><p class=\"mb-4\">Sistem tersebut mewajibkan petani di Jawa menyisihkan sekitar seperlima lahan pertanian mereka atau menyerahkan waktu kerja setara untuk menanam tanaman ekspor bernilai tinggi seperti kopi, tebu, nila, dan tembakau, dengan hasil panen tersebut harus diserahkan kepada pemerintah kolonial dengan harga yang jauh di bawah nilai pasar.</p><p class=\"mb-4\">Meski secara resmi dirancang sebagai sistem yang \"adil\" dengan kompensasi bagi petani, implementasi di lapangan sangat menyimpang dari rencana awal, dengan pejabat kolonial dan kepala desa lokal seringkali memaksa petani menyerahkan lebih dari seperlima lahan mereka, sementara kegagalan panen akibat cuaca buruk tetap dibebankan sepenuhnya kepada petani tanpa kompensasi yang memadai.</p><p class=\"mb-4\">Sistem Tanam Paksa terbukti sangat menguntungkan bagi keuangan Belanda, menghasilkan keuntungan (batig slot) yang mencapai ratusan juta gulden sepanjang penerapannya dan secara signifikan membantu memulihkan ekonomi Belanda, namun di sisi lain menyebabkan penderitaan luar biasa bagi petani Jawa termasuk kelaparan besar di berbagai wilayah seperti Cirebon dan Demak pada 1840-an yang menewaskan ribuan warga.</p><p class=\"mb-4\">Kritik keras terhadap sistem tersebut, terutama melalui novel terkenal Max Havelaar karya Multatuli (Eduard Douwes Dekker) yang diterbitkan pada 1860, membangkitkan kesadaran publik Belanda mengenai penderitaan rakyat Hindia Belanda, mendorong penghapusan bertahap Sistem Tanam Paksa sepanjang paruh kedua abad ke-19 dan digantikan kebijakan ekonomi liberal yang membuka investasi swasta di Hindia Belanda.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Sistem Tanam Paksa",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Culture-System",
+          sourceSnippet2: "Encyclopaedia Britannica — Culture System (Cultuurstelsel)",
+          source3: "National Archives UK",
+          sourceUrl3: "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/dutch-east-indies/",
+          sourceSnippet3: "National Archives UK — Dutch East Indies colonial history"
+        },
+        en: {
+          title: "The Cultivation System (1830): Colonial Economic Exploitation Under Van den Bosch",
+          desc: "Governor-General Johannes van den Bosch introduced the Cultivation System in 1830, forcing Javanese farmers to grow export crops for Dutch financial benefit, creating one of the most brutal eras of colonial exploitation in Indonesian history.",
+          content: "<p class=\"mb-4\">The Netherlands faced a serious financial crisis following the Java War (Diponegoro War) of 1825-1830 that consumed massive military costs, compounded by losses from Belgium's independence from the Kingdom of the Netherlands in 1830, driving Governor-General Johannes van den Bosch to introduce the Cultuurstelsel (Cultivation System) to restore the mother country's finances.</p><p class=\"mb-4\">This system required Javanese farmers to set aside about one-fifth of their agricultural land or surrender equivalent work time to grow high-value export crops such as coffee, sugar, indigo, and tobacco, with harvest yields required to be surrendered to the colonial government at prices far below market value.</p><p class=\"mb-4\">Though officially designed as a \"fair\" system with compensation for farmers, field implementation deviated significantly from initial plans, with colonial officials and local village heads frequently forcing farmers to surrender more than one-fifth of their land, while crop failures due to bad weather remained entirely borne by farmers without adequate compensation.</p><p class=\"mb-4\">The Cultivation System proved extremely profitable for Dutch finances, generating profits (batig slot) reaching hundreds of millions of guilders throughout its implementation and significantly helping restore the Dutch economy, but on the other hand caused extraordinary suffering for Javanese farmers, including major famines in various regions such as Cirebon and Demak in the 1840s that killed thousands.</p><p class=\"mb-4\">Harsh criticism of this system, particularly through the famous novel Max Havelaar by Multatuli (Eduard Douwes Dekker) published in 1860, raised Dutch public awareness of the suffering of the Dutch East Indies population, driving the gradual abolition of the Cultivation System throughout the latter half of the 19th century, replaced by liberal economic policies opening private investment in the Dutch East Indies.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Cultivation System",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Culture-System",
+          sourceSnippet2: "Encyclopaedia Britannica — Culture System (Cultuurstelsel)",
+          source3: "National Archives UK",
+          sourceUrl3: "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/dutch-east-indies/",
+          sourceSnippet3: "National Archives UK — Dutch East Indies colonial history"
+        },
+        ja: {
+          title: "強制栽培制度（1830年）：ファン・デン・ボスの下での植民地経済搾取",
+          desc: "総督ヨハネス・ファン・デン・ボスは1830年に強制栽培制度を導入し、ジャワの農民にオランダの財政利益のため輸出作物を栽培することを強制し、インドネシア史上最も過酷な植民地搾取の時代の一つを作り出した。",
+          content: "<p class=\"mb-4\">オランダは1825〜1830年のジャワ戦争（ディポネゴロ戦争）後、莫大な軍事費を消費した深刻な財政危機に直面し、さらに1830年のベルギーのオランダ王国からの独立による損失が加わり、総督ヨハネス・ファン・デン・ボスに本国の財政を回復するためカルチュールステルセル（強制栽培制度）を導入させることとなりました。</p><p class=\"mb-4\">この制度は、ジャワの農民に農地の約5分の1を割り当てるか、またはコーヒー、砂糖、インディゴ、タバコなど高価値の輸出作物を栽培するため同等の労働時間を提供することを義務付け、収穫物は市場価値をはるかに下回る価格で植民地政府に引き渡されることが求められました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — 強制栽培制度",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Culture-System",
+          sourceSnippet2: "Encyclopaedia Britannica — 強制栽培制度"
+        },
+        ko: {
+          title: "강제재배제도 (1830년): 반 덴 보스 하의 식민 경제 착취",
+          desc: "총독 요하네스 반 덴 보스는 1830년 강제재배제도를 도입하여 자바 농민들에게 네덜란드의 재정적 이익을 위해 수출 작물을 재배하도록 강요했으며, 이는 인도네시아 역사상 가장 잔혹한 식민 착취 시대 중 하나를 만들어냈다.",
+          content: "<p class=\"mb-4\">네덜란드는 막대한 군사비를 소모한 1825-1830년 자바 전쟁(디포네고로 전쟁) 이후 심각한 재정 위기에 직면했으며, 1830년 벨기에가 네덜란드 왕국에서 독립하면서 발생한 손실까지 더해져, 총독 요하네스 반 덴 보스가 본국의 재정을 회복하기 위해 쿨투르스텔셀(강제재배제도)을 도입하게 만들었습니다.</p><p class=\"mb-4\">이 제도는 자바 농민들에게 농지의 약 5분의 1을 할당하거나 커피, 설탕, 인디고, 담배 같은 고가치 수출 작물을 재배하기 위해 동등한 노동 시간을 제공하도록 요구했으며, 수확물은 시장 가치보다 훨씬 낮은 가격으로 식민 정부에 넘겨져야 했습니다.</p><p class=\"mb-4\">공식적으로는 농민에 대한 보상이 있는 \"공정한\" 제도로 설계되었지만, 현장 시행은 초기 계획에서 크게 벗어났으며, 식민 관리들과 지역 촌장들은 종종 농민들에게 토지의 5분의 1 이상을 넘기도록 강요했고, 악천후로 인한 작황 실패는 적절한 보상 없이 전적으로 농민들이 부담해야 했습니다.</p><p class=\"mb-4\">강제재배제도는 네덜란드 재정에 매우 유리한 것으로 입증되어, 시행 기간 내내 수억 길더에 달하는 이익(바티그 슬롯)을 창출하고 네덜란드 경제 회복에 크게 기여했지만, 다른 한편으로는 1840년대 치르본과 드막 같은 various 지역에서 수천 명이 사망한 대기근을 포함해 자바 농민들에게 엄청난 고통을 초래했습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 강제재배제도",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Culture-System",
+          sourceSnippet2: "Encyclopaedia Britannica — 강제재배제도"
+        },
+        zh: {
+          title: "强制种植制度（1830年）：范登博斯治下的殖民经济剥削",
+          desc: "总督约翰内斯·范登博斯于1830年引入强制种植制度，强迫爪哇农民种植出口作物以谋取荷兰的财政利益，造就了印度尼西亚历史上最残酷的殖民剥削时代之一。",
+          content: "<p class=\"mb-4\">荷兰在耗费巨额军费的1825-1830年爪哇战争（蒂博尼哥罗战争）后面临严重财政危机，加上1830年比利时脱离荷兰王国独立造成的损失，促使总督约翰内斯·范登博斯引入强制种植制度以恢复宗主国财政。</p><p class=\"mb-4\">该制度要求爪哇农民留出约五分之一的农田，或提供等量的劳动时间来种植咖啡、蔗糖、靛蓝和烟草等高价值出口作物，收获成果必须以远低于市场价值的价格交给殖民政府。</p><p class=\"mb-4\">尽管官方将其设计为对农民有补偿的\"公平\"制度，但实际执行与最初计划严重偏离，殖民官员和当地村长经常强迫农民交出超过五分之一的土地，而因恶劣天气造成的歉收则完全由农民承担，得不到充分补偿。</p><p class=\"mb-4\">强制种植制度被证明对荷兰财政极为有利，在实施期间产生了高达数亿荷兰盾的利润（批赤盈余），显著帮助恢复了荷兰经济，但另一方面也给爪哇农民带来了巨大苦难，包括1840年代井里汶和淡目等various地区造成数千人死亡的大饥荒。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 强制种植制度",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Culture-System",
+          sourceSnippet2: "Encyclopaedia Britannica — 强制种植制度"
+        }
+      }
+    },
+    {
+      id: "indonesia-sumpah-pemuda-1928",
+      langs: {
+        id: {
+          title: "Sumpah Pemuda 1928: Ikrar Persatuan yang Menyatukan Bangsa",
+          desc: "Kongres Pemuda II pada 28 Oktober 1928 menghasilkan Sumpah Pemuda, ikrar bersejarah yang menyatukan pemuda dari berbagai daerah dan etnis Nusantara dalam komitmen satu tanah air, satu bangsa, dan satu bahasa Indonesia.",
+          content: "<p class=\"mb-4\">Kongres Pemuda II diselenggarakan pada 27-28 Oktober 1928 di Batavia (kini Jakarta), mempertemukan berbagai organisasi pemuda daerah seperti Jong Java, Jong Sumatranen Bond, Jong Celebes, Jong Ambon, dan lainnya yang sebelumnya bergerak secara terpisah berdasarkan identitas kedaerahan masing-masing, dalam upaya menyatukan visi kebangsaan yang lebih luas.</p><p class=\"mb-4\">Kongres tersebut merupakan kelanjutan dari Kongres Pemuda I pada 1926 yang belum berhasil menghasilkan kesepakatan konkret mengenai persatuan pemuda Indonesia, dengan tokoh-tokoh muda seperti Soegondo Djojopoespito sebagai ketua kongres serta Mohammad Yamin yang berperan penting merumuskan konsep persatuan bangsa, bahasa, dan tanah air.</p><p class=\"mb-4\">Pada penutupan kongres tanggal 28 Oktober 1928, para peserta mengikrarkan tiga poin Sumpah Pemuda yang menyatakan komitmen mengaku bertumpah darah yang satu, tanah air Indonesia; berbangsa yang satu, bangsa Indonesia; dan menjunjung bahasa persatuan, bahasa Indonesia, sebuah deklarasi yang secara fundamental melampaui sekat-sekat kedaerahan dan etnis yang sebelumnya mendominasi gerakan nasionalis.</p><p class=\"mb-4\">Lagu Indonesia Raya karya W.R. Supratman diperdengarkan untuk pertama kalinya secara instrumental pada penutupan kongres tersebut, kelak menjadi lagu kebangsaan Indonesia, sementara keputusan mengadopsi bahasa Melayu sebagai \"bahasa Indonesia\" turut menjadi keputusan strategis penting yang memudahkan komunikasi lintas etnis di tengah keragaman bahasa daerah Nusantara yang sangat luas.</p><p class=\"mb-4\">Sumpah Pemuda 1928 kini diperingati setiap tahun sebagai Hari Sumpah Pemuda dan dianggap sebagai tonggak penting kedua setelah Kebangkitan Nasional 1908 dalam perjalanan menuju kemerdekaan Indonesia, meletakkan fondasi konseptual persatuan nasional yang melampaui perbedaan suku, agama, dan daerah, sebuah warisan yang terus relevan dalam menjaga persatuan Indonesia yang sangat majemuk hingga saat ini.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Museum Sumpah Pemuda",
+          source2: "Perpustakaan Nasional RI",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "Perpustakaan Nasional RI — Arsip Sumpah Pemuda 1928",
+          source3: "Encyclopaedia Britannica",
+          sourceUrl3: "https://www.britannica.com/place/Indonesia/The-national-revolution",
+          sourceSnippet3: "Encyclopaedia Britannica — Indonesian nationalist movement"
+        },
+        en: {
+          title: "The 1928 Youth Pledge: The Unity Oath That United the Nation",
+          desc: "The Second Youth Congress on October 28, 1928, produced the Youth Pledge, a historic oath uniting youth from various regions and ethnicities of the archipelago in commitment to one homeland, one nation, and one Indonesian language.",
+          content: "<p class=\"mb-4\">The Second Youth Congress was held on October 27-28, 1928, in Batavia (now Jakarta), bringing together various regional youth organizations such as Jong Java, Jong Sumatranen Bond, Jong Celebes, Jong Ambon, and others that had previously operated separately based on their respective regional identities, in an effort to unite a broader national vision.</p><p class=\"mb-4\">This congress was a continuation of the First Youth Congress in 1926, which had not yet succeeded in producing concrete agreement regarding the unity of Indonesian youth, with young figures such as Soegondo Djojopoespito serving as congress chairman and Mohammad Yamin playing an important role formulating the concept of national, linguistic, and homeland unity.</p><p class=\"mb-4\">At the congress's closing on October 28, 1928, participants pledged three points of the Youth Pledge affirming commitment to one bloodshed, the Indonesian homeland; one nation, the Indonesian nation; and upholding the unifying language, the Indonesian language, a declaration that fundamentally transcended the regional and ethnic divisions previously dominating the nationalist movement.</p><p class=\"mb-4\">The song Indonesia Raya composed by W.R. Supratman was played instrumentally for the first time at this congress's closing, later becoming Indonesia's national anthem, while the decision to adopt Malay as \"Indonesian\" also became an important strategic decision facilitating cross-ethnic communication amid the archipelago's extremely diverse regional languages.</p><p class=\"mb-4\">The 1928 Youth Pledge is now commemorated annually as Youth Pledge Day and considered the second important milestone after the 1908 National Awakening on the journey toward Indonesian independence, laying the conceptual foundation for national unity transcending ethnic, religious, and regional differences, a legacy remaining relevant in maintaining Indonesia's highly pluralistic unity to this day.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Youth Pledge Museum",
+          source2: "National Library of Indonesia",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "National Library of Indonesia — 1928 Youth Pledge Archives",
+          source3: "Encyclopaedia Britannica",
+          sourceUrl3: "https://www.britannica.com/place/Indonesia/The-national-revolution",
+          sourceSnippet3: "Encyclopaedia Britannica — Indonesian nationalist movement"
+        },
+        ja: {
+          title: "1928年青年の誓い：国民を統一した統一の誓約",
+          desc: "1928年10月28日の第二回青年会議はユース・プレッジ（青年の誓い）を生み出し、群島の様々な地域と民族の若者を一つの祖国、一つの民族、一つのインドネシア語への commitment で統一した歴史的誓約となった。",
+          content: "<p class=\"mb-4\">第二回青年会議は1928年10月27〜28日、バタビア（現ジャカルタ）で開催され、以前はそれぞれの地域的アイデンティティに基づいて別々に活動していたジョン・ジャワ、ジョン・スマトラネン・ボンド、ジョン・セレベス、ジョン・アンボンなど様々な地域青年組織を集め、より広範な国民的ビジョンを統一する試みでした。</p><p class=\"mb-4\">この会議は1926年の第一回青年会議の続きであり、インドネシア青年の統一に関する具体的な合意にはまだ成功していませんでした。会議議長のスゴンド・ジョジョプスピトや、国家・言語・祖国の統一という概念を策定する上で重要な役割を果たしたモハマッド・ヤミンなどの若い人物たちが参加しました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — 青年の誓い博物館",
+          source2: "インドネシア国立図書館",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "インドネシア国立図書館 — 1928年青年の誓いアーカイブ"
+        },
+        ko: {
+          title: "1928년 청년의 맹세: 국가를 통일시킨 단결의 서약",
+          desc: "1928년 10월 28일 제2차 청년회의는 청년의 맹세를 만들어냈으며, 이는 군도 각 지역과 민족의 청년들을 하나의 조국, 하나의 민족, 하나의 인도네시아어에 대한 헌신으로 통합한 역사적 서약이 되었다.",
+          content: "<p class=\"mb-4\">제2차 청년회의는 1928년 10월 27-28일 바타비아(현 자카르타)에서 개최되었으며, 이전에는 각자의 지역 정체성에 기반해 별도로 활동하던 종 자바, 종 수마트라넨 본드, 종 셀레베스, 종 암본 등 various 지역 청년 조직들을 모아 더 넓은 국가적 비전을 통합하려는 노력이었습니다.</p><p class=\"mb-4\">이 회의는 인도네시아 청년의 단결에 관한 구체적인 합의를 아직 이끌어내지 못했던 1926년 제1차 청년회의의 후속이었으며, 회의 의장을 맡은 수공도 조조푸스피토와 국가, 언어, 조국 통일 개념을 정립하는 데 중요한 역할을 한 모하맛 야민 같은 젊은 인물들이 참여했습니다.</p><p class=\"mb-4\">1928년 10월 28일 회의 폐막식에서 참가자들은 하나의 피, 인도네시아 조국을 인정하고; 하나의 민족, 인도네시아 민족을 인정하며; 통합의 언어인 인도네시아어를 받든다는 청년의 맹세 세 가지 항목을 서약했으며, 이는 이전에 민족주의 운동을 지배했던 지역 및 민족적 분열을 근본적으로 초월한 선언이었습니다.</p><p class=\"mb-4\">W.R. 수프라트만이 작곡한 인도네시아 라야 노래가 이 회의 폐막식에서 처음으로 기악 연주로 울려 퍼졌으며, 훗날 인도네시아 국가가 되었고, 말레이어를 \"인도네시아어\"로 채택하기로 한 결정 역시 군도의 매우 다양한 지역 언어들 속에서 민족 간 소통을 용이하게 한 중요한 전략적 결정이 되었습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 청년의 맹세 박물관",
+          source2: "인도네시아 국립도서관",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "인도네시아 국립도서관 — 1928년 청년의 맹세 기록보관소"
+        },
+        zh: {
+          title: "1928年青年誓言：团结国家的统一誓约",
+          desc: "1928年10月28日第二届青年大会产生了青年誓言，这一历史性誓约将群岛各地区和各民族的青年团结在对同一祖国、同一民族和同一印尼语的承诺之下。",
+          content: "<p class=\"mb-4\">第二届青年大会于1928年10月27-28日在巴达维亚（今雅加达）举行，聚集了此前基于各自地区身份独立活动的爪哇青年会、苏门答腊青年联盟、西里伯斯青年会、安汶青年会等various地区青年组织，力图统一更广泛的民族愿景。</p><p class=\"mb-4\">这次大会是1926年第一届青年大会的延续，当时尚未就印尼青年团结达成具体协议，苏贡多·乔约普斯皮托担任大会主席，穆罕默德·雅明在制定民族、语言和祖国统一概念方面发挥了重要作用等年轻人物参与其中。</p><p class=\"mb-4\">在1928年10月28日大会闭幕式上，与会者宣誓青年誓言的三个要点：承认同一血脉，印度尼西亚祖国；同一民族，印度尼西亚民族；坚持统一的语言，印度尼西亚语，这一宣言从根本上超越了此前主导民族主义运动的地区和民族分歧。</p><p class=\"mb-4\">W.R.苏普拉特曼创作的《伟大的印度尼西亚》歌曲在此次大会闭幕式上首次以器乐形式演奏，后来成为印度尼西亚国歌，而将马来语定为\"印度尼西亚语\"的决定，也成为在群岛极为多样的地方语言中促进跨民族交流的重要战略决策。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 青年誓言博物馆",
+          source2: "印度尼西亚国家图书馆",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "印度尼西亚国家图书馆 — 1928年青年誓言档案"
+        }
+      }
+    },
+    {
+      id: "indonesia-g30s-supersemar-1965-1966",
+      langs: {
+        id: {
+          title: "G30S dan Supersemar: Transisi Kekuasaan Berdarah 1965-1966",
+          desc: "Peristiwa Gerakan 30 September 1965 yang menewaskan enam jenderal TNI Angkatan Darat memicu pergolakan politik besar, berujung pada Surat Perintah Sebelas Maret 1966 yang mengalihkan kekuasaan dari Sukarno kepada Soeharto.",
+          content: "<p class=\"mb-4\">Pada dini hari 1 Oktober 1965, sekelompok pasukan yang menamakan diri Gerakan 30 September (G30S) menculik dan membunuh enam jenderal TNI Angkatan Darat serta seorang perwira lainnya, dengan jasad mereka kemudian ditemukan di sebuah sumur tua di kawasan Lubang Buaya, Jakarta, sebuah peristiwa yang mengguncang stabilitas politik Indonesia secara mendalam.</p><p class=\"mb-4\">Mayor Jenderal Soeharto, yang saat itu menjabat Panglima Komando Cadangan Strategis Angkatan Darat (Kostrad), dengan cepat mengambil alih kendali militer dan berhasil menumpas gerakan tersebut dalam waktu singkat, menuduh Partai Komunis Indonesia (PKI) sebagai dalang di balik peristiwa tersebut meski hingga kini interpretasi historis mengenai peristiwa tersebut masih menjadi subjek perdebatan akademis dan politik.</p><p class=\"mb-4\">Peristiwa G30S memicu gelombang kekerasan massal yang meluas ke seluruh Indonesia sepanjang akhir 1965 hingga awal 1966, dengan operasi militer dan milisi sipil menargetkan anggota dan simpatisan PKI, menewaskan diperkirakan antara 500.000 hingga satu juta orang dalam salah satu tragedi kemanusiaan terbesar dalam sejarah Indonesia modern.</p><p class=\"mb-4\">Ketegangan politik yang terus berlanjut serta melemahnya posisi Presiden Sukarno akibat krisis tersebut berujung pada penandatanganan Surat Perintah Sebelas Maret (Supersemar) pada 11 Maret 1966, sebuah dokumen kontroversial yang memberikan wewenang luas kepada Soeharto untuk memulihkan keamanan dan ketertiban, yang kemudian digunakan sebagai landasan pengambilalihan kekuasaan secara bertahap.</p><p class=\"mb-4\">Soeharto secara resmi menjadi Presiden Republik Indonesia pada 1968 menggantikan Sukarno yang kehilangan seluruh kekuasaan politiknya, mengawali era Orde Baru yang berlangsung selama 32 tahun berikutnya, dengan peristiwa G30S dan Supersemar tetap menjadi salah satu babak paling kompleks dan diperdebatkan dalam historiografi Indonesia modern hingga saat ini.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Peristiwa 1965-1966",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/30-September-Movement",
+          sourceSnippet2: "Encyclopaedia Britannica — 30 September Movement",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/asia/indonesia",
+          sourceSnippet3: "Human Rights Watch — Indonesia's 1965-1966 mass killings"
+        },
+        en: {
+          title: "The G30S Movement and Supersemar: The Bloody Power Transition of 1965-1966",
+          desc: "The September 30th Movement of 1965, which killed six Indonesian Army generals, triggered major political upheaval, culminating in the March 11, 1966 Order that transferred power from Sukarno to Suharto.",
+          content: "<p class=\"mb-4\">In the early morning hours of October 1, 1965, a group of troops calling themselves the September 30th Movement (G30S) kidnapped and killed six Indonesian Army generals along with another officer, with their bodies later found in an old well in the Lubang Buaya area of Jakarta, an event that deeply shook Indonesia's political stability.</p><p class=\"mb-4\">Major General Suharto, then serving as Commander of the Army Strategic Reserve Command (Kostrad), quickly took military control and succeeded in suppressing the movement within a short time, blaming the Indonesian Communist Party (PKI) as the mastermind behind the event, though historical interpretation of this event remains a subject of academic and political debate to this day.</p><p class=\"mb-4\">The G30S event triggered a wave of mass violence spreading throughout Indonesia from late 1965 into early 1966, with military operations and civilian militias targeting PKI members and sympathizers, killing an estimated 500,000 to one million people in one of the greatest humanitarian tragedies in modern Indonesian history.</p><p class=\"mb-4\">Continuing political tension and President Sukarno's weakening position due to this crisis culminated in the signing of the March 11 Order (Supersemar) on March 11, 1966, a controversial document granting Suharto broad authority to restore security and order, which was subsequently used as the basis for a gradual seizure of power.</p><p class=\"mb-4\">Suharto officially became President of the Republic of Indonesia in 1968, replacing Sukarno, who lost all his political power, beginning the New Order era that lasted for the following 32 years, with the G30S and Supersemar events remaining one of the most complex and debated chapters in modern Indonesian historiography to this day.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Documentation of 1965-1966 Events",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/30-September-Movement",
+          sourceSnippet2: "Encyclopaedia Britannica — 30 September Movement",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/asia/indonesia",
+          sourceSnippet3: "Human Rights Watch — Indonesia's 1965-1966 mass killings"
+        },
+        ja: {
+          title: "G30Sとスーパーセマール：1965〜1966年の血なまぐさい権力移行",
+          desc: "1965年の9月30日運動は陸軍将軍6名を殺害し、大規模な政治的混乱を引き起こし、1966年3月11日命令によりスカルノからスハルトへの権力移譲へと至った。",
+          content: "<p class=\"mb-4\">1965年10月1日未明、9月30日運動（G30S）と自称する部隊集団が陸軍将軍6名と他の将校1名を誘拐・殺害し、遺体は後にジャカルタのルバン・ブアヤ地区の古井戸で発見され、インドネシアの政治的安定を大きく揺るがす出来事となりました。</p><p class=\"mb-4\">当時陸軍戦略予備司令部（コストラド）司令官を務めていたスハルト少将は迅速に軍事統制を掌握し、短期間でこの運動を鎮圧することに成功し、インドネシア共産党（PKI）をこの事件の首謀者として非難しましたが、この出来事の歴史的解釈は今日まで学術的・政治的論争の対象となっています。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — 1965〜1966年出来事の記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/30-September-Movement",
+          sourceSnippet2: "Encyclopaedia Britannica — 9月30日運動"
+        },
+        ko: {
+          title: "9월 30일 운동과 수퍼스마르: 1965~1966년의 유혈 권력 이행",
+          desc: "1965년 육군 장성 6명을 살해한 9월 30일 운동은 대규모 정치적 격변을 촉발했으며, 1966년 3월 11일 명령으로 수카르노에서 수하르토로의 권력 이양이 완성되었다.",
+          content: "<p class=\"mb-4\">1965년 10월 1일 새벽, 9월 30일 운동(G30S)이라 자칭하는 부대 집단이 육군 장성 6명과 다른 장교 1명을 납치해 살해했으며, 그들의 시신은 이후 자카르타 루방 부아야 지역의 오래된 우물에서 발견되어 인도네시아의 정치적 안정을 크게 뒤흔든 사건이 되었습니다.</p><p class=\"mb-4\">당시 육군전략예비사령부(코스트라드) 사령관이었던 수하르토 소장은 신속하게 군사 통제권을 장악하여 단기간에 이 운동을 진압하는 데 성공했으며, 인도네시아 공산당(PKI)을 이 사건의 배후로 지목했지만, 이 사건에 대한 역사적 해석은 오늘날까지도 학술적·정치적 논쟁의 대상으로 남아 있습니다.</p><p class=\"mb-4\">G30S 사건은 1965년 말부터 1966년 초에 걸쳐 인도네시아 전역으로 확산된 대규모 폭력의 물결을 촉발했으며, 군사 작전과 민병대가 PKI 당원과 동조자를 표적으로 삼아 현대 인도네시아 역사상 가장 큰 인도주의적 비극 중 하나로 추정 50만 명에서 100만 명이 사망했습니다.</p><p class=\"mb-4\">이 위기로 인한 지속적인 정치적 긴장과 수카르노 대통령의 입지 약화는 1966년 3월 11일 수퍼스마르(3월 11일 명령) 서명으로 이어졌으며, 이는 수하르토에게 안보와 질서 회복을 위한 광범위한 권한을 부여하는 논란의 문서로, 이후 점진적인 권력 장악의 기반으로 사용되었습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 1965-1966년 사건 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/30-September-Movement",
+          sourceSnippet2: "Encyclopaedia Britannica — 9월 30일 운동"
+        },
+        zh: {
+          title: "930运动与三一一命令：1965-1966年血腥权力过渡",
+          desc: "1965年造成六名陆军将领遇害的930运动引发了重大政治动荡，最终导致1966年3月11日命令将权力从苏加诺转移至苏哈托。",
+          content: "<p class=\"mb-4\">1965年10月1日凌晨，一群自称930运动（G30S）的部队绑架并杀害了六名印尼陆军将领和另一名军官，他们的遗体后来在雅加达鳄鱼洞地区的一口古井中被发现，这一事件深深动摇了印度尼西亚的政治稳定。</p><p class=\"mb-4\">时任陆军战略后备司令部（戈斯特拉德）司令的苏哈托少将迅速掌控军事局势，在短时间内成功镇压了这场运动，并指责印度尼西亚共产党（PKI）是这一事件的幕后主谋，尽管对这一事件的历史解读至今仍是学术和政治争论的话题。</p><p class=\"mb-4\">930事件引发了1965年末至1966年初蔓延至印度尼西亚全国的大规模暴力浪潮，军事行动和民间武装以PKI成员和同情者为目标，据估计造成50万至100万人死亡，成为现代印度尼西亚历史上最大的人道主义悲剧之一。</p><p class=\"mb-4\">持续的政治紧张局势以及苏加诺总统因这场危机而地位削弱，最终导致1966年3月11日三一一命令（Supersemar）的签署，这份备受争议的文件赋予苏哈托恢复安全与秩序的广泛权力，此后被用作逐步夺取权力的基础。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 1965-1966年事件文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/30-September-Movement",
+          sourceSnippet2: "Encyclopaedia Britannica — 930运动"
+        }
+      }
+    },
+    {
+      id: "indonesia-reformasi-1998-jatuhnya-soeharto",
+      langs: {
+        id: {
+          title: "Reformasi 1998: Jatuhnya Soeharto dan Kelahiran Era Demokrasi Baru",
+          desc: "Krisis moneter Asia 1997-1998 memicu gelombang demonstrasi mahasiswa besar-besaran yang berujung pada mundurnya Presiden Soeharto setelah 32 tahun berkuasa, mengawali era Reformasi dan demokratisasi Indonesia.",
+          content: "<p class=\"mb-4\">Krisis moneter Asia yang dimulai pada pertengahan 1997 menghantam ekonomi Indonesia dengan sangat parah, menyebabkan nilai tukar rupiah terhadap dolar Amerika Serikat anjlok drastis dari sekitar Rp2.400 menjadi lebih dari Rp16.000 pada puncak krisis, memicu kebangkrutan massal perusahaan, PHK besar-besaran, dan lonjakan harga kebutuhan pokok yang mencekik daya beli masyarakat.</p><p class=\"mb-4\">Ketidakpuasan publik terhadap pemerintahan Soeharto yang telah berkuasa selama 32 tahun semakin memuncak akibat kombinasi krisis ekonomi, praktik korupsi, kolusi, dan nepotisme (KKN) yang meluas, serta represi politik jangka panjang, memicu gelombang demonstrasi mahasiswa besar-besaran di berbagai kota mulai awal 1998.</p><p class=\"mb-4\">Tragedi Trisakti pada 12 Mei 1998, ketika aparat keamanan menembak empat mahasiswa Universitas Trisakti yang tengah berdemonstrasi damai, memicu kemarahan publik yang meluas dan berujung pada kerusuhan besar di Jakarta pada 13-14 Mei 1998, yang menewaskan ratusan orang dan menghancurkan ribuan bangunan, termasuk kekerasan sistematis terhadap komunitas etnis Tionghoa.</p><p class=\"mb-4\">Tekanan yang semakin tak tertahankan, termasuk pendudukan gedung DPR/MPR oleh ribuan mahasiswa serta desersi dukungan politik dari berbagai elemen elit termasuk militer, akhirnya memaksa Presiden Soeharto mengumumkan pengunduran dirinya pada 21 Mei 1998, mengakhiri era Orde Baru yang telah berkuasa selama 32 tahun dan menyerahkan kekuasaan kepada Wakil Presiden B.J. Habibie.</p><p class=\"mb-4\">Reformasi 1998 membuka era demokratisasi Indonesia yang membawa perubahan fundamental termasuk kebebasan pers, pemilihan umum multipartai yang lebih bebas, desentralisasi kekuasaan melalui otonomi daerah, serta pembatasan masa jabatan presiden, meletakkan fondasi bagi sistem demokrasi Indonesia modern yang terus berkembang hingga saat ini meski masih menghadapi berbagai tantangan struktural.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Reformasi 1998",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution-of-1998",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian Reformasi 1998",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and 1998 Reformasi history"
+        },
+        en: {
+          title: "The 1998 Reformasi: The Fall of Suharto and the Birth of a New Democratic Era",
+          desc: "The 1997-1998 Asian financial crisis triggered massive student demonstrations that culminated in President Suharto's resignation after 32 years in power, beginning Indonesia's Reformasi era and democratization.",
+          content: "<p class=\"mb-4\">The Asian financial crisis beginning in mid-1997 hit Indonesia's economy severely, causing the rupiah's exchange rate against the US dollar to plunge drastically from around Rp2,400 to over Rp16,000 at the crisis's peak, triggering mass corporate bankruptcies, massive layoffs, and surging prices of basic necessities that strangled public purchasing power.</p><p class=\"mb-4\">Public dissatisfaction with Suharto's government, which had ruled for 32 years, reached a boiling point due to a combination of economic crisis, widespread corruption, collusion, and nepotism (KKN) practices, and long-term political repression, triggering waves of massive student demonstrations in various cities starting early 1998.</p><p class=\"mb-4\">The Trisakti tragedy on May 12, 1998, when security forces shot four Trisakti University students peacefully demonstrating, triggered widespread public anger that culminated in major riots in Jakarta on May 13-14, 1998, killing hundreds and destroying thousands of buildings, including systematic violence against the ethnic Chinese community.</p><p class=\"mb-4\">Increasingly unbearable pressure, including the occupation of the DPR/MPR parliament building by thousands of students and the desertion of political support from various elite elements including the military, finally forced President Suharto to announce his resignation on May 21, 1998, ending the New Order era that had ruled for 32 years and handing power to Vice President B.J. Habibie.</p><p class=\"mb-4\">The 1998 Reformasi opened Indonesia's democratization era, bringing fundamental changes including press freedom, freer multi-party general elections, decentralization of power through regional autonomy, and presidential term limits, laying the foundation for Indonesia's modern democratic system that continues developing to this day despite still facing various structural challenges.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Documentation of 1998 Reformasi",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution-of-1998",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian Reformasi 1998",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and 1998 Reformasi history"
+        },
+        ja: {
+          title: "1998年改革：スハルトの失脚と新民主主義時代の誕生",
+          desc: "1997〜1998年のアジア金融危機は大規模な学生デモを引き起こし、32年間の権力の後スハルト大統領の辞任へと至り、インドネシアの改革（レフォルマシ）時代と民主化を開始した。",
+          content: "<p class=\"mb-4\">1997年半ばに始まったアジア金融危機はインドネシア経済を深刻に打撃し、ルピアの対米ドル為替レートは約2,400ルピアから危機の最盛期には16,000ルピア以上へと急落し、企業の大量倒産、大規模なレイオフ、そして国民の購買力を圧迫する生活必需品価格の急騰を引き起こしました。</p><p class=\"mb-4\">32年間統治してきたスハルト政権に対する国民の不満は、経済危機、汚職・癒着・縁故主義（KKN）の蔓延、そして長期にわたる政治的弾圧が組み合わさって沸点に達し、1998年初頭から様々な都市で大規模な学生デモの波を引き起こしました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — 1998年改革の記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution-of-1998",
+          sourceSnippet2: "Encyclopaedia Britannica — インドネシア1998年改革"
+        },
+        ko: {
+          title: "1998년 개혁: 수하르토의 몰락과 새로운 민주주의 시대의 탄생",
+          desc: "1997-1998년 아시아 금융위기는 대규모 학생 시위를 촉발했으며, 32년간의 집권 끝에 수하르토 대통령의 사임으로 이어져 인도네시아의 개혁(레포르마시) 시대와 민주화를 시작했다.",
+          content: "<p class=\"mb-4\">1997년 중반 시작된 아시아 금융위기는 인도네시아 경제를 심각하게 강타하여, 루피아화의 미국 달러 대비 환율이 약 2,400루피아에서 위기 정점에는 16,000루피아 이상으로 급격히 폭락했으며, 이는 기업의 대량 파산, 대규모 정리해고, 그리고 국민의 구매력을 옥죄는 생필품 가격 급등을 촉발했습니다.</p><p class=\"mb-4\">32년간 통치해온 수하르토 정부에 대한 국민의 불만은 경제 위기, 만연한 부패·유착·족벌주의(KKN) 관행, 그리고 장기간의 정치적 탄압이 결합되면서 극에 달했으며, 1998년 초부터 various 도시에서 대규모 학생 시위의 물결을 촉발했습니다.</p><p class=\"mb-4\">1998년 5월 12일 트리삭티 비극에서 보안군이 평화적으로 시위하던 트리삭티 대학교 학생 4명을 총으로 쏘아 죽인 사건은 광범위한 대중의 분노를 촉발했으며, 1998년 5월 13-14일 자카르타에서 수백 명이 사망하고 수천 개의 건물이 파괴된 대규모 폭동으로 이어졌으며, 여기에는 중국계 인도네시아인 공동체에 대한 조직적인 폭력도 포함되었습니다.</p><p class=\"mb-4\">수천 명의 학생들에 의한 국회/국민협의회 건물 점거와 군부를 포함한 various 엘리트 요소들로부터의 정치적 지지 이탈을 포함해 점점 더 견딜 수 없어진 압박은 결국 수하르토 대통령이 1998년 5월 21일 사임을 발표하도록 강요했으며, 32년간 통치해온 신질서 시대를 종식시키고 부통령 B.J. 하비비에게 권력을 넘겼습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 1998년 개혁 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution-of-1998",
+          sourceSnippet2: "Encyclopaedia Britannica — 인도네시아 1998년 개혁"
+        },
+        zh: {
+          title: "1998年改革：苏哈托的垮台与新民主时代的诞生",
+          desc: "1997-1998年亚洲金融危机引发了大规模学生示威，最终导致苏哈托总统在执政32年后辞职，开启了印度尼西亚的改革时代与民主化进程。",
+          content: "<p class=\"mb-4\">始于1997年中期的亚洲金融危机严重打击了印度尼西亚经济，导致印尼盾兑美元汇率从约2400盾急剧暴跌至危机顶峰时的超过16000盾，引发企业大规模破产、大规模裁员，以及扼杀民众购买力的基本生活必需品价格飙升。</p><p class=\"mb-4\">公众对已统治32年的苏哈托政府的不满，因经济危机、普遍存在的腐败、勾结和裙带关系（KKN）行为以及长期政治压制的共同作用而达到沸点，从1998年初开始引发various城市大规模学生示威浪潮。</p><p class=\"mb-4\">1998年5月12日的特里萨克蒂悲剧中，安全部队向和平示威的特里萨克蒂大学四名学生开枪，引发广泛的公众愤怒，最终导致1998年5月13-14日雅加达发生重大骚乱，造成数百人死亡，数千座建筑被毁，其中包括针对华裔社群的系统性暴力。</p><p class=\"mb-4\">日益难以承受的压力，包括数千名学生占领国会/人协大厦，以及包括军方在内various精英阶层政治支持的背离，最终迫使苏哈托总统于1998年5月21日宣布辞职，结束了统治32年的新秩序时代，将权力移交给副总统B.J.哈比比。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 1998年改革文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution-of-1998",
+          sourceSnippet2: "Encyclopaedia Britannica — 印度尼西亚1998年改革"
+        }
+      }
+    }
+
   ]
 };

@@ -469,5 +469,473 @@ window.countryDataFiles['india'] = {
         }
       }
     }
+    ,{
+        id: "india-periode-veda-upanishad",
+        langs: {
+          id: {
+            title: "Periode Veda dan Upanishad: Fondasi Peradaban India Kuno",
+            desc: "Periode Veda (1500-500 SM) meletakkan dasar agama, filsafat, dan budaya India yang bertahan ribuan tahun.",
+            content: "<p class=\"mb-4\">Periode Veda (sekitar 1500-500 SM) adalah salah satu babak paling fundamental dalam sejarah India, ketika suku-suku Indo-Arya bermigrasi ke anak benua India dan membawa kitab-kitab suci Veda. Rig Veda, yang tertua dari empat Veda, disusun sekitar 1500-1200 SM dan berisi 1.028 himne yang didedikasikan untuk dewa-dewa alam seperti Agni (api), Indra (hujan dan perang), dan Surya (matahari). Kitab-kitab ini awalnya ditransmisikan secara lisan selama berabad-abad sebelum ditulis, menjadi inti dari agama Hindu dan salah satu teks religius tertua yang masih digunakan hingga saat ini.</p><p class=\"mb-4\">Periode Veda awal ditandai dengan masyarakat pastoral semi-nomaden, di mana suku-suku Arya menggembalakan ternak dan bertani di Lembah Gangga. Struktur sosial varna mulai muncul, yang kemudian berkembang menjadi sistem kasta yang kompleks. Brahmana (pendeta), Kshatriya (prajurit), Vaishya (pedagang), dan Shudra (pekerja) adalah empat varna utama. Ritual pengorbanan (yajna) menjadi pusat kehidupan religius, dilakukan oleh para brahmana dengan detail rumit yang diyakini menjaga keseimbangan kosmik dan kemakmuran kerajaan.</p><p class=\"mb-4\">Periode Veda akhir (1000-500 SM) menyaksikan kemunculan Upanishad, teks filosofis yang merevolusi pemikiran India. Berbeda dari Veda yang berfokus pada ritual, Upanishad mengeksplorasi pertanyaan mendasar: apa hakikat realitas (Brahman)? Apa hakikat diri (Atman)? Bagaimana mencapai pembebasan (moksha) dari siklus kelahiran kembali (samsara)? Konsep karma dan reinkarnasi pertama kali muncul dalam Upanishad, menjadi fondasi filosofis bagi Hindu, Buddha, dan Jainisme.</p><p class=\"mb-4\">Upanishad juga melahirkan konsep yoga dan meditasi. Teks seperti Katha Upanishad dan Mundaka Upanishad menguraikan teknik pengendalian napas dan konsentrasi mental untuk mencapai pencerahan spiritual. Ajaran para rishi seperti Yajnavalkya dan Uddalaka Aruni tercatat dalam dialog-dialog filosofis yang mendalam. Ide-ide dari Upanishad kemudian memengaruhi pemikir dari Schopenhauer hingga Emerson, yang mengagumi kedalaman filosofis India kuno.</p><p class=\"mb-4\">Akhir Periode Veda juga menyaksikan perkembangan Mahabharata dan Ramayana, epik raksasa yang menggabungkan ajaran filosofis dengan kisah heroik. Bhagavad Gita, bagian dari Mahabharata, adalah dialog antara Arjuna dan Krishna yang merangkum esensi ajaran Upanishad dalam konteks etika dan kewajiban. Kitab-kitab ini tidak hanya teks religius tetapi juga ensiklopedia budaya yang mencakup politik, etika, dan seni perang India kuno. Periode Veda menciptakan fondasi peradaban yang memengaruhi lebih dari satu miliar orang dalam tradisi Dharmik.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Vedic-religion",
+            sourceSnippet: "Encyclopaedia Britannica — Vedic religion",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/The_Vedas/",
+            sourceSnippet2: "World History Encyclopedia — The Vedas",
+            source3: "Internet Encyclopedia of Philosophy",
+            sourceUrl3: "https://iep.utm.edu/upanisad/",
+            sourceSnippet3: "Internet Encyclopedia of Philosophy — Upanishads"
+          },
+          en: {
+            title: "The Vedic Period and Upanishads: Foundation of Ancient Indian Civilization",
+            desc: "The Vedic Period (1500-500 BCE) laid the foundations of Indian religion, philosophy, and culture that have endured for millennia.",
+            content: "<p class=\"mb-4\">The Vedic Period (circa 1500-500 BCE) represents one of the most fundamental chapters in Indian history, when Indo-Aryan tribes migrated into the subcontinent bringing the sacred Vedas. The Rig Veda, the oldest of the four Vedas, was composed around 1500-1200 BCE containing 1,028 hymns dedicated to nature deities such as Agni (fire), Indra (rain and war), and Surya (sun). These texts were transmitted orally for centuries before being written down, becoming the core of Hinduism and among the oldest religious texts still in use today.</p><p class=\"mb-4\">The early Vedic period was marked by semi-nomadic pastoral society, with Aryan tribes herding cattle and farming in the Gangetic Plain. The varna social structure began emerging, later developing into the complex caste system. Brahmins (priests), Kshatriyas (warriors), Vaishyas (merchants), and Shudras (laborers) formed the four primary varnas. Sacrificial rituals (yajna) became central to religious life, performed by brahmins with elaborate detail believed to maintain cosmic balance and kingdom prosperity.</p><p class=\"mb-4\">The later Vedic period (1000-500 BCE) witnessed the emergence of the Upanishads, philosophical texts that revolutionized Indian thought. Unlike the ritual-focused Vedas, the Upanishads explored fundamental questions: what is the nature of reality (Brahman)? What is the nature of the self (Atman)? How to achieve liberation (moksha) from the cycle of rebirth (samsara)? The concepts of karma and reincarnation first appeared in the Upanishads, becoming the philosophical foundation for Hinduism, Buddhism, and Jainism.</p><p class=\"mb-4\">The Upanishads also gave birth to concepts of yoga and meditation. Texts like the Katha Upanishad and Mundaka Upanishad outlined techniques of breath control and mental concentration for achieving spiritual enlightenment. Teachings of rishis like Yajnavalkya and Uddalaka Aruni are recorded in profound philosophical dialogues. Ideas from the Upanishads later influenced thinkers from Schopenhauer to Emerson, who admired the philosophical depth of ancient India.</p><p class=\"mb-4\">The end of the Vedic Period also saw the development of the Mahabharata and Ramayana, massive epics combining philosophical teachings with heroic tales. The Bhagavad Gita, part of the Mahabharata, is a dialogue between Arjuna and Krishna that synthesizes Upanishadic teachings within the context of ethics and duty. These texts are not merely religious scriptures but cultural encyclopedias covering ancient Indian politics, ethics, and military arts. The Vedic Period created civilizational foundations that influence over a billion people in the Dharmic traditions.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Vedic-religion",
+            sourceSnippet: "Encyclopaedia Britannica — Vedic religion",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/The_Vedas/",
+            sourceSnippet2: "World History Encyclopedia — The Vedas",
+            source3: "Internet Encyclopedia of Philosophy",
+            sourceUrl3: "https://iep.utm.edu/upanisad/",
+            sourceSnippet3: "Internet Encyclopedia of Philosophy — Upanishads"
+          },
+          ja: {
+            title: "ヴェーダ時代とウパニシャッド：古代インド文明の基盤",
+            desc: "ヴェーダ時代（紀元前1500-500年）は数千年にわたり存続するインドの宗教、哲学、文化の基盤を築いた。",
+            content: "<p class=\"mb-4\">ヴェーダ時代（紀元前1500-500年頃）はインド史上最も基本的な章の一つで、インド・アーリア部族が神聖なヴェーダをもたらしました。最古のリグ・ヴェーダは紀元前1500-1200年頃に編纂され、火（アグニ）、雨と戦争（インドラ）、太陽（スーリヤ）などの自然神に捧げられた1,028の讃歌を含みます。これらのテキストは口承で何世紀も伝えられた後、文書化され、今日も使用される最古の宗教テキストの一つです。</p><p class=\"mb-4\">後期ヴェーダ時代（紀元前1000-500年）にウパニシャッドが登場し、インド思想に革命をもたらしました。実在の本質（ブラフマン）、自己の本質（アートマン）、輪廻（サンサーラ）からの解脱（モークシャ）を探求しました。カルマと輪廻の概念が初めて現れ、ヒンドゥー教、仏教、ジャイナ教の哲学的基盤となりました。</p><p class=\"mb-4\">ウパニシャッドはヨガと瞑想の概念も生み出しました。ヤージュニャヴァルキヤやウッダーラカ・アールニなどのリシの教えは深遠な哲学的対話に記録されています。後世、ショーペンハウアーからエマーソンまでの思想家が古代インドの哲学的深さに影響を受けました。マハーバーラタとラーマーヤナの叙事詩もこの時代に発展しました。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Vedic-religion",
+            sourceSnippet: "Encyclopaedia Britannica — ヴェーダ宗教",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/The_Vedas/",
+            sourceSnippet2: "World History Encyclopedia — ヴェーダ"
+          },
+          ko: {
+            title: "베다 시대와 우파니샤드: 고대 인도 문명의 기초",
+            desc: "베다 시대(기원전 1500-500년)는 수천 년 동안 지속된 인도의 종교, 철학, 문화의 기초를 놓았다.",
+            content: "<p class=\"mb-4\">베다 시대(기원전 1500-500년경)는 인도-아리아 부족이 성스러운 베다를 가져온 인도 역사상 가장 근본적인 장 중 하나입니다. 가장 오래된 리그 베다는 기원전 1500-1200년경에 편찬되어 불(아그니), 비와 전쟁(인드라), 태양(수리야) 등 자연신에게 바쳐진 1,028개의 찬가를 포함합니다. 이 텍스트들은 문서화되기 전 수세기 동안 구전으로 전승되었습니다.</p><p class=\"mb-4\">후기 베다 시대(기원전 1000-500년)에 우파니샤드가 등장하여 인도 사상에 혁명을 일으켰습니다. 실재의 본질(브라만), 자아의 본질(아트만), 윤회(삼사라)로부터의 해탈(목샤)을 탐구했습니다. 카르마와 환생 개념이 처음 등장하여 힌두교, 불교, 자이나교의 철학적 기초가 되었습니다.</p><p class=\"mb-4\">우파니샤드는 요가와 명상의 개념도 탄생시켰습니다. 야즈냐발키야와 웃달라카 아루니 같은 리쉬들의 가르침이 심오한 철학적 대화에 기록되어 있습니다. 후대에 쇼펜하우어부터 에머슨까지의 사상가들이 고대 인도의 철학적 깊이에 영향을 받았습니다.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Vedic-religion",
+            sourceSnippet: "Encyclopaedia Britannica — 베다 종교",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/The_Vedas/",
+            sourceSnippet2: "World History Encyclopedia — 베다"
+          },
+          zh: {
+            title: "吠陀时代与奥义书：古印度文明的基石",
+            desc: "吠陀时代（公元前1500-500年）奠定了延续数千年的印度宗教、哲学和文化基础。",
+            content: "<p class=\"mb-4\">吠陀时代（约公元前1500-500年）是印度历史上最基本的篇章之一，当时印度-雅利安部落带来了神圣的吠陀经典。《梨俱吠陀》是最古老的四部吠陀之一，编于约公元前1500-1200年，包含1028首献给火神阿耆尼、雨与战神因陀罗、太阳神苏利耶等自然神灵的赞歌。这些文本在成书前通过口述传承了数个世纪。</p><p class=\"mb-4\">后期吠陀时代（公元前1000-500年）见证了奥义书的出现，这些哲学文本彻底改变了印度思想。它们探索了实相的本质（梵）、自我的本质（阿特曼）、如何从轮回中解脱等根本问题。业力和轮回的概念首次出现在奥义书中，成为印度教、佛教和耆那教的哲学基础。</p><p class=\"mb-4\">奥义书也诞生了瑜伽和冥想的概念。耶若婆佉和乌达罗迦·阿鲁尼等仙人的教导被记录在深刻的哲学对话中。后来从叔本华到爱默生的思想家都受到古印度哲学深度的影响。《摩诃婆罗多》和《罗摩衍那》史诗也在这一时期发展起来。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Vedic-religion",
+            sourceSnippet: "Encyclopaedia Britannica — 吠陀宗教",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/The_Vedas/",
+            sourceSnippet2: "World History Encyclopedia — 吠陀"
+          }
+        }
+      }
+    ,
+      {
+        id: "india-kesultanan-delhi",
+        langs: {
+          id: {
+            title: "Kesultanan Delhi (1206-1526): Lima Dinasti Islam yang Membentuk India",
+            desc: "Kesultanan Delhi menguasai India utara selama 320 tahun dan memperkenalkan arsitektur Indo-Islam, budaya, dan perdagangan.",
+            content: "<p class=\"mb-4\">Kesultanan Delhi didirikan pada 1206 oleh Qutb-ud-din Aibak, seorang jenderal Turki dari Muhammad Ghori yang menaklukkan India utara. Lima dinasti berturut-turut memerintah Kesultanan: Dinasti Mamluk (1206-1290), Dinasti Khalji (1290-1320), Dinasti Tughlaq (1320-1414), Dinasti Sayyid (1414-1451), dan Dinasti Lodi (1451-1526). Selama 320 tahun, para Sultan Delhi membentuk ulang peta politik, budaya, dan arsitektur India dengan pengaruh Persia, Turki, dan Islam yang mendalam.</p><p class=\"mb-4\">Sultan Alauddin Khalji (1296-1316) adalah salah satu penguasa terkuat Kesultanan. Ekspansi militernya mencapai India selatan untuk pertama kalinya, dan reformasi ekonominya menstabilkan harga pangan di Delhi. Jenderalnya, Malik Kafur, memimpin kampanye militer yang menaklukkan kerajaan-kerajaan Hindu di selatan dan merampas kekayaan besar. Namun, Kesultanan juga menghadapi ancaman eksternal: invasi Mongol yang brutal terjadi beberapa kali selama periode ini, dengan Delhi menjadi benteng pertahanan Islam pertama yang menahan ekspansi Mongol ke selatan.</p><p class=\"mb-4\">Muhammad bin Tughlaq (1325-1351) adalah Sultan paling kontroversial, dikenal karena jenius sekaligus eksentriknya. Ia memindahkan ibu kota dari Delhi ke Daulatabad (Maharashtra) dan kembali lagi, eksperimen mata uang token yang gagal, dan reformasi pajak yang memperburuk petani. Meski dianggap gila oleh sejarawan kontemporer, banyak kebijakannya yang sebenarnya visioner. Pemerintahan Tughlaq juga menghadapi pemberontakan, termasuk kemerdekaan Bengal dan berdirinya Kerajaan Vijayanagara di selatan.</p><p class=\"mb-4\">Arsitektur Kesultanan Delhi menciptakan gaya Indo-Islam yang masih menjadi identitas India. Qutub Minar yang ikonik, dibangun oleh Qutb-ud-din Aibak dan diperluas oleh penggantinya, adalah menara bata tertinggi di dunia pada masanya (73 meter). Kompleks Hauz Khas, makam Sultan Ghari, dan masjid-masjid pertama Delhi menggunakan kembali elemen bangunan Hindu dan Jain yang dihancurkan, menciptakan arsitektur sinkretis unik. Penggunaan lengkungan Islam, kubah, dan kaligrafi bercampur dengan motif bunga India menandai lahirnya tradisi arsitektur baru.</p><p class=\"mb-4\">Kesultanan Delhi akhirnya runtuh pada 1526 ketika Sultan Ibrahim Lodi dikalahkan oleh Babur dalam Pertempuran Panipat Pertama, menandai dimulainya Kekaisaran Mughal. Namun, warisan Kesultanan sangat mendalam: bahasa Urdu lahir dari campuran Persia, Arab, dan Hindi lokal; Sufisme berkembang pesat melalui tarekat Chishti; dan jaringan perdagangan dengan Timur Tengah dan Asia Tengah menghubungkan India dengan jalur sutra. Kesultanan Delhi membuktikan bahwa Islam dan budaya India dapat bersatu menciptakan peradaban baru, membentuk dasar bagi India Mughal dan India modern.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/place/Delhi-sultanate",
+            sourceSnippet: "Encyclopaedia Britannica — Delhi Sultanate",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Delhi_Sultanate/",
+            sourceSnippet2: "World History Encyclopedia — Delhi Sultanate",
+            source3: "The Metropolitan Museum of Art",
+            sourceUrl3: "https://www.metmuseum.org/toah/hd/delh/hd_delh.htm",
+            sourceSnippet3: "The Met — The Delhi Sultanate (1206-1526)"
+          },
+          en: {
+            title: "The Delhi Sultanate (1206-1526): Five Islamic Dynasties That Shaped India",
+            desc: "The Delhi Sultanate ruled northern India for 320 years, introducing Indo-Islamic architecture, culture, and trade.",
+            content: "<p class=\"mb-4\">The Delhi Sultanate was founded in 1206 by Qutb-ud-din Aibak, a Turkish general of Muhammad Ghori who conquered northern India. Five successive dynasties ruled the Sultanate: the Mamluk Dynasty (1206-1290), Khalji Dynasty (1290-1320), Tughlaq Dynasty (1320-1414), Sayyid Dynasty (1414-1451), and Lodi Dynasty (1451-1526). Over 320 years, the Sultans of Delhi reshaped India's political, cultural, and architectural landscape with deep Persian, Turkish, and Islamic influences.</p><p class=\"mb-4\">Sultan Alauddin Khalji (1296-1316) was one of the Sultanate's strongest rulers. His military expansion reached southern India for the first time, and his economic reforms stabilized food prices in Delhi. His general Malik Kafur led military campaigns conquering Hindu kingdoms in the south and seizing enormous wealth. However, the Sultanate also faced external threats: brutal Mongol invasions occurred several times during this period, with Delhi becoming the first Islamic bulwark that halted Mongol expansion southward.</p><p class=\"mb-4\">Muhammad bin Tughlaq (1325-1351) was the most controversial Sultan, known for being both a genius and eccentric. He moved the capital from Delhi to Daulatabad (Maharashtra) and back, failed token currency experiments, and tax reforms that worsened peasant conditions. While considered mad by contemporary historians, many of his policies were actually visionary. The Tughlaq reign also faced rebellions, including Bengal independence and the founding of the Vijayanagara Empire in the south.</p><p class=\"mb-4\">Delhi Sultanate architecture created an Indo-Islamic style that remains part of India's identity. The iconic Qutub Minar, built by Qutb-ud-din Aibak and expanded by successors, was the world's tallest brick minaret at its time (73 meters). The Hauz Khas complex, Sultan Ghari's tomb, and Delhi's first mosques reused elements of destroyed Hindu and Jain buildings, creating unique syncretic architecture. The use of Islamic arches, domes, and calligraphy mixed with Indian floral motifs marked the birth of a new architectural tradition.</p><p class=\"mb-4\">The Delhi Sultanate finally fell in 1526 when Sultan Ibrahim Lodi was defeated by Babur in the First Battle of Panipat, marking the beginning of the Mughal Empire. However, the Sultanate's legacy runs deep: the Urdu language was born from mixing Persian, Arabic, and local Hindi; Sufism flourished through the Chishti order; and trade networks with the Middle East and Central Asia connected India to the silk route. The Delhi Sultanate proved that Islam and Indian culture could unite to create a new civilization, forming the basis for Mughal India and modern India.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/place/Delhi-sultanate",
+            sourceSnippet: "Encyclopaedia Britannica — Delhi Sultanate",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Delhi_Sultanate/",
+            sourceSnippet2: "World History Encyclopedia — Delhi Sultanate",
+            source3: "The Metropolitan Museum of Art",
+            sourceUrl3: "https://www.metmuseum.org/toah/hd/delh/hd_delh.htm",
+            sourceSnippet3: "The Met — The Delhi Sultanate (1206-1526)"
+          },
+          ja: {
+            title: "デリー・スルターン朝（1206-1526年）：インドを形作った五つのイスラム王朝",
+            desc: "デリー・スルターン朝は北インドを320年間支配し、インド・イスラム建築、文化、貿易をもたらした。",
+            content: "<p class=\"mb-4\">1206年、クトゥブッディーン・アイバクによって建国されたデリー・スルターン朝は、マムルーク朝、ハルジー朝、トゥグルク朝、サイイド朝、ローディー朝の五王朝にわたって北インドを統治しました。クトゥブ・ミナールは当時世界最髙の煉瓦ミナレット（73メートル）でした。</p><p class=\"mb-4\">アラーウッディーン・ハルジーは南インドまで版図を拡大し、価格統制改革を実施しました。ムハンマド・ビン・トゥグルクは遷都と通貨改革の失敗で知られています。デリーはモンゴルの侵略を食い止めた最初のイスラム防壁となりました。</p><p class=\"mb-4\">スルターン朝のもとでウルドゥー語が生まれ、チシュティー教団を通じてスーフィズムが栄えました。1526年の第一次パーニーパットの戦いでバーブルに敗れ、ムガル帝国の時代が始まりました。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/place/Delhi-sultanate",
+            sourceSnippet: "Encyclopaedia Britannica — デリー・スルターン朝",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Delhi_Sultanate/",
+            sourceSnippet2: "World History Encyclopedia — デリー・スルターン朝"
+          },
+          ko: {
+            title: "델리 술탄국 (1206-1526년): 인도를 형성한 다섯 이슬람 왕조",
+            desc: "델리 술탄국은 320년간 북인도를 통치하며 인도-이슬람 건축, 문화, 무역을 도입했다.",
+            content: "<p class=\"mb-4\">1206년 쿠트붓딘 아이바크에 의해 건국된 델리 술탄국은 마믈루크, 할지, 투글라크, 사이이드, 로디 다섯 왕조에 걸쳐 북인도를 통치했습니다. 쿠트브 미나르는 당시 세계 최고 벽돌 미너렛(73미터)이었습니다.</p><p class=\"mb-4\">알라웃딘 할지는 남인도까지 영토를 확장하고 가격 통제 개혁을 시행했습니다. 무함마드 빈 투글라크는 천도와 화폐 개혁 실패로 알려져 있습니다. 델리는 몽골 침략을 막아낸 최초의 이슬람 방벽이 되었습니다.</p><p class=\"mb-4\">술탄국 아래에서 우르두어가 탄생하고 치슈티 교단을 통해 수피즘이 번성했습니다. 1526년 제1차 파니파트 전투에서 바부르에게 패배하며 무굴 제국 시대가 시작되었습니다.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/place/Delhi-sultanate",
+            sourceSnippet: "Encyclopaedia Britannica — 델리 술탄국",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Delhi_Sultanate/",
+            sourceSnippet2: "World History Encyclopedia — 델리 술탄국"
+          },
+          zh: {
+            title: "德里苏丹国（1206-1526年）：塑造印度的五个伊斯兰王朝",
+            desc: "德里苏丹国统治北印度320年，引入印度-伊斯兰建筑、文化和贸易。",
+            content: "<p class=\"mb-4\">1206年由库特布丁·艾巴克建立的德里苏丹国历经马穆鲁克、卡尔吉、图格鲁克、赛义德和洛迪五个王朝。库特卜塔是当时世界最高的砖塔（73米）。</p><p class=\"mb-4\">阿拉丁·卡尔吉将版图扩展到南印度并实施价格控制改革。穆罕默德·本·图格鲁克以迁都和货币改革失败著称。德里成为阻挡蒙古南下的第一个伊斯兰堡垒。</p><p class=\"mb-4\">在苏丹国统治下，乌尔都语诞生，契斯提教团推动了苏菲主义繁荣。1526年第一次帕尼帕特战役中被巴布尔击败，莫卧儿帝国时代开启。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/place/Delhi-sultanate",
+            sourceSnippet: "Encyclopaedia Britannica — 德里苏丹国",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Delhi_Sultanate/",
+            sourceSnippet2: "World History Encyclopedia — 德里苏丹国"
+          }
+        }
+      }
+    ,
+      {
+        id: "india-dinasti-chola-maritim",
+        langs: {
+          id: {
+            title: "Dinasti Chola dan Kejayaan Maritim India Selatan (abad ke-9-13)",
+            desc: "Dinasti Chola membangun salah satu kerajaan maritim terbesar di Asia, menguasai Sri Lanka, Asia Tenggara, dan jalur perdagangan Samudra Hindia.",
+            content: "<p class=\"mb-4\">Dinasti Chola (sekitar 300 SM-1279 M), dengan masa keemasannya antara abad ke-9 hingga ke-13, adalah salah satu kerajaan India yang paling luar biasa. Berpusat di Lembah Kaveri di Tamil Nadu modern, Chola membangun kerajaan maritim yang menguasai Sri Lanka, Maladewa, dan sebagian Asia Tenggara. Raja Rajaraja Chola I (985-1014) dan putranya Rajendra Chola I (1014-1044) adalah dua penguasa yang membawa Chola ke puncak kejayaan melalui ekspansi militer dan diplomatik yang agresif.</p><p class=\"mb-4\">Rajaraja Chola I membangun Brihadisvara Temple di Thanjavur, sebuah mahakarya arsitektur Dravida yang didedikasikan untuk Dewa Siwa. Kuil setinggi 66 meter dengan kubah tunggal dari granit seberat 80 ton ini adalah salah satu kuil Hindu terbesar di dunia dan menjadi Situs Warisan Dunia UNESCO. Rajaraja juga menaklukkan Sri Lanka utara dan Kepulauan Maladewa, memperluas kendali Chola atas rute perdagangan laut yang menguntungkan.</p><p class=\"mb-4\">Rajendra Chola I melampaui ayahnya dalam ambisi. Ekspedisi lautnya yang terkenal pada 1025 menyerang Kerajaan Sriwijaya di Sumatra, menunjukkan kekuatan angkatan laut Chola yang mampu beroperasi ribuan kilometer dari pangkalan. Serangan ini, yang tercatat dalam prasasti Chola, menaklukkan pelabuhan-pelabuhan Sriwijaya di Sumatra dan Semenanjung Malaya, membuka jalur perdagangan langsung dengan Tiongkok. Chola mendirikan hubungan diplomatik dengan Dinasti Song Tiongkok, mengirim duta besar pada 1015 dan 1033.</p><p class=\"mb-4\">Angkatan laut Chola adalah kunci kekuasaan mereka. Menguasai pantai Coromandel dan Malabar, Chola mengendalikan perdagangan rempah-rempah, tekstil, dan permata antara Timur Tengah dan Asia Tenggara. Pedagang Tamil mendirikan komunitas di seluruh Asia Tenggara, dan pengaruh budaya Chola menyebar ke kerajaan-kerajaan di Kamboja, Thailand, dan Indonesia. Candi-candi Chola menampilkan seni perunggu yang sangat halus, dengan patung Nataraja (Siwa Menari) menjadi ikon seni India klasik.</p><p class=\"mb-4\">Kemunduran Chola dimulai pada akhir abad ke-12 ketika Pandya dan Hoysala memberontak. Pada 1279, Rajendra Chola III dikalahkan oleh Jatavarman Sundara Pandyan, mengakhiri pemerintahan Chola. Namun, warisan mereka tetap hidup: kuil-kuil Chola di Thanjavur, Gangaikonda Cholapuram, dan Darasuram adalah monumen abadi kejayaan mereka. Sistem administrasi Chola, yang mencatat detail tanah, pajak, dan populasi, adalah salah satu birokrasi paling maju di Asia abad pertengahan. Chola menunjukkan bahwa India bukan hanya kekuatan daratan, tetapi juga kekuatan maritim yang mampu memproyeksikan pengaruh ke seluruh Asia.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Chola-dynasty",
+            sourceSnippet: "Encyclopaedia Britannica — Chola dynasty",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Chola_Dynasty/",
+            sourceSnippet2: "World History Encyclopedia — Chola Dynasty",
+            source3: "UNESCO World Heritage",
+            sourceUrl3: "https://whc.unesco.org/en/list/250/",
+            sourceSnippet3: "UNESCO — Great Living Chola Temples"
+          },
+          en: {
+            title: "The Chola Dynasty and South Indian Maritime Glory (9th-13th century)",
+            desc: "The Cholas built one of Asia's greatest maritime empires, controlling Sri Lanka, Southeast Asia, and Indian Ocean trade routes.",
+            content: "<p class=\"mb-4\">The Chola Dynasty (circa 300 BCE-1279 CE), with its golden age between the 9th and 13th centuries, was one of India's most remarkable kingdoms. Centered in the Kaveri Valley in modern Tamil Nadu, the Cholas built a maritime empire controlling Sri Lanka, the Maldives, and parts of Southeast Asia. King Rajaraja Chola I (985-1014) and his son Rajendra Chola I (1014-1044) brought the Cholas to their peak through aggressive military and diplomatic expansion.</p><p class=\"mb-4\">Rajaraja Chola I built the Brihadisvara Temple in Thanjavur, a Dravidian architectural masterpiece dedicated to Lord Shiva. This 66-meter-tall temple with a single granite dome weighing 80 tons is one of the world's largest Hindu temples and a UNESCO World Heritage Site. Rajaraja also conquered northern Sri Lanka and the Maldives, extending Chola control over lucrative sea trade routes.</p><p class=\"mb-4\">Rajendra Chola I surpassed his father in ambition. His famous naval expedition in 1025 attacked the Srivijaya Kingdom in Sumatra, demonstrating the Chola navy's capability to operate thousands of kilometers from base. The attack, recorded in Chola inscriptions, conquered Srivijayan ports in Sumatra and the Malay Peninsula, opening direct trade routes with China. The Cholas established diplomatic relations with the Song Dynasty, sending ambassadors in 1015 and 1033.</p><p class=\"mb-4\">The Chola navy was key to their power. Controlling the Coromandel and Malabar coasts, the Cholas dominated the spice, textile, and gem trade between the Middle East and Southeast Asia. Tamil merchants established communities throughout Southeast Asia, and Chola cultural influence spread to kingdoms in Cambodia, Thailand, and Indonesia. Chola temples feature exquisite bronze art, with the Nataraja (Dancing Shiva) statue becoming an icon of classical Indian art.</p><p class=\"mb-4\">The Chola decline began in the late 12th century as the Pandyas and Hoysalas rebelled. In 1279, Rajendra Chola III was defeated by Jatavarman Sundara Pandyan, ending Chola rule. However, their legacy lives on: Chola temples in Thanjavur, Gangaikonda Cholapuram, and Darasuram are eternal monuments to their glory. The Chola administrative system, recording details of land, taxes, and population, was among the most advanced bureaucracies in medieval Asia. The Cholas demonstrated that India was not just a land power but also a maritime power capable of projecting influence across Asia.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Chola-dynasty",
+            sourceSnippet: "Encyclopaedia Britannica — Chola dynasty",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Chola_Dynasty/",
+            sourceSnippet2: "World History Encyclopedia — Chola Dynasty",
+            source3: "UNESCO World Heritage",
+            sourceUrl3: "https://whc.unesco.org/en/list/250/",
+            sourceSnippet3: "UNESCO — Great Living Chola Temples"
+          },
+          ja: {
+            title: "チョーラ朝と南インド海洋の栄光（9-13世紀）",
+            desc: "チョーラ朝はアジア最大の海洋帝国の一つを築き、スリランカ、東南アジア、インド洋交易路を支配した。",
+            content: "<p class=\"mb-4\">チョーラ朝（紀元前300年頃-1279年）は、9世紀から13世紀の黄金期にインドで最も注目すべき王国の一つでした。ラージャラージャ1世はタンジャーヴールにブリハディーシュヴァラ寺院（高さ66メートル、80トンの花崗岩ドーム）を建設し、ユネスコ世界遺産に登録されています。</p><p class=\"mb-4\">ラージェンドラ1世の1025年の海軍遠征はスマトラのシュリーヴィジャヤ王国を攻撃し、チョーラの海軍力が基地から数千キロメートル離れて活動できることを示しました。チョーラ朝は宋王朝と外交関係を樹立し、1015年と1033年に大使を派遣しました。</p><p class=\"mb-4\">チョーラ朝はコロマンデル海岸とマラバール海岸を支配し、中東と東南アジア間の香辛料、織物、宝石貿易を掌握しました。タミル商人は東南アジア各地にコミュニティを設立しました。1279年の滅亡後も、その寺院と行政システムは中世アジアで最も進んだものの一つとして記憶されています。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Chola-dynasty",
+            sourceSnippet: "Encyclopaedia Britannica — チョーラ朝",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Chola_Dynasty/",
+            sourceSnippet2: "World History Encyclopedia — チョーラ朝"
+          },
+          ko: {
+            title: "촐라 왕조와 남인도 해양의 영광 (9-13세기)",
+            desc: "촐라 왕조는 아시아 최대 해양 제국 중 하나를 건설하여 스리랑카, 동남아시아, 인도양 무역로를 지배했다.",
+            content: "<p class=\"mb-4\">촐라 왕조(기원전 300년경-1279년)는 9세기부터 13세기까지 황금기를 누린 인도 최고의 왕국 중 하나입니다. 라자라자 1세는 탄자부르에 브리하디슈바라 사원(높이 66미터, 80톤 화강암 돔)을 건설하여 유네스코 세계유산으로 등재했습니다.</p><p class=\"mb-4\">라젠드라 1세의 1025년 해군 원정은 수마트라의 스리비자야 왕국을 공격하여 촐라 해군력이 기지에서 수천 킬로미터 떨어진 곳에서도 작전 가능함을 보여주었습니다. 촐라 왕조는 송나라와 외교 관계를 수립하고 1015년과 1033년에 대사를 파견했습니다.</p><p class=\"mb-4\">촐라 왕조는 코로만델과 말라바르 해안을 지배하며 중동과 동남아시아 간 향신료, 직물, 보석 무역을 장악했습니다. 타밀 상인들은 동남아시아 전역에 공동체를 설립했습니다. 1279년 멸망 후에도 그 사원과 행정 시스템은 중세 아시아에서 가장 진보된 것 중 하나로 기억됩니다.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Chola-dynasty",
+            sourceSnippet: "Encyclopaedia Britannica — 촐라 왕조",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Chola_Dynasty/",
+            sourceSnippet2: "World History Encyclopedia — 촐라 왕조"
+          },
+          zh: {
+            title: "朱罗王朝与南印度的海洋辉煌（9-13世纪）",
+            desc: "朱罗王朝建立了亚洲最大的海洋帝国之一，控制斯里兰卡、东南亚和印度洋贸易路线。",
+            content: "<p class=\"mb-4\">朱罗王朝（约公元前300年-1279年）在9至13世纪的黄金时代是印度最卓越的王国之一。罗阇罗阇一世在坦贾武尔建造了布里哈迪希瓦拉神庙（高66米，80吨花岗岩穹顶），被列为联合国教科文组织世界遗产。</p><p class=\"mb-4\">罗阇因陀罗一世1025年的海军远征攻击了苏门答腊的三佛齐王国，展示了朱罗海军能在数千公里外作战的能力。朱罗王朝与宋朝建立外交关系，于1015年和1033年派遣使节。</p><p class=\"mb-4\">朱罗王朝控制科罗曼德尔和马拉巴尔海岸，主导中东与东南亚之间的香料、纺织品和宝石贸易。泰米尔商人在东南亚各地建立社区。1279年灭亡后，其寺庙和行政体系仍被铭记为中世纪亚洲最先进的之一。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/topic/Chola-dynasty",
+            sourceSnippet: "Encyclopaedia Britannica — 朱罗王朝",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Chola_Dynasty/",
+            sourceSnippet2: "World History Encyclopedia — 朱罗王朝"
+          }
+        }
+      }
+    ,
+      {
+        id: "india-kekaisaran-maratha-shivaji",
+        langs: {
+          id: {
+            title: "Kekaisaran Maratha dan Shivaji: Perlawanan Hindu Terhadap Mughal",
+            desc: "Shivaji mendirikan Kekaisaran Maratha yang menantang dominasi Mughal dan menjadi kekuatan terbesar di India abad ke-18.",
+            content: "<p class=\"mb-4\">Shivaji Bhonsle (1630-1680) adalah salah satu pahlawan terbesar India, pendiri Kekaisaran Maratha yang menantang kekuasaan Mughal dan menciptakan kerajaan Hindu yang independen. Lahir di benteng Shivneri dekat Pune, Shivaji memulai pemberontakannya pada usia 16 tahun dengan merebut Benteng Torna pada 1646. Strateginya yang brilian dalam perang gerilya, yang dikenal sebagai ganimi kava, menggunakan medan pegunungan Ghats Barat untuk mengalahkan pasukan yang jauh lebih besar.</p><p class=\"mb-4\">Pada 1659, Shivaji mengalahkan Afzal Khan, jenderal Bijapur yang dikirim untuk menghancurkannya, dalam pertemuan dramatis di Pratapgarh. Shivaji membunuh Afzal Khan dengan wagh nakh (cakar harimau) saat sang jenderal mencoba mencekiknya. Kemenangan ini membuatnya legendaris. Namun, konfrontasinya dengan Mughal lebih sulit. Pada 1666, Shivaji ditangkap oleh Aurangzeb, namun melarikan diri dari penjara Agra dalam keranjang buah, sebuah pelarian yang menjadi legenda rakyat India.</p><p class=\"mb-4\">Penobatan Shivaji sebagai Chhatrapati (Maharaja) pada 1674 di Benteng Raigad menandai berdirinya Kekaisaran Maratha sebagai kerajaan Hindu yang berdaulat. Upacara penobatan Hindu tradisional yang megah, didampingi oleh pandit dari Varanasi, menegaskan legitimasi Shivaji sebagai raja Hindu. Shivaji membangun angkatan laut Maratha yang mengendalikan pantai Konkan, dan sistem administrasi yang efisien dengan delapan menteri (Ashtapradhan). Pemerintahannya memperkenalkan toleransi beragama, melindungi masjid dan komunitas Muslim sambil membangun kerajaan Hindu.</p><p class=\"mb-4\">Setelah kematian Shivaji dan Aurangzeb, Kekaisaran Maratha di bawah Peshwa (perdana menteri) berkembang menjadi kekuatan dominan di India. Di bawah Baji Rao I (1720-1740), Maratha menaklukkan Gujarat, Malwa, dan Delhi, menjadikan kaisar Mughal sebagai boneka. Pada 1758, kekuatan Maratha mencapai Attock di perbatasan Afghanistan modern. Namun, Kekalahan Ketiga di Panipat pada 1761 melawan invasi Ahmad Shah Durrani menghentikan momentum ekspansi Maratha.</p><p class=\"mb-4\">Meskipun mengalami kemunduran, Maratha pulih dan tetap menjadi kekuatan signifikan hingga Perang Anglo-Maratha dengan Inggris pada awal abad ke-19. Kekaisaran Maratha akhirnya dikalahkan pada 1818, namun warisannya sangat dalam. Shivaji dihormati sebagai simbol perlawanan Hindu, kebanggaan Marathi, dan nasionalisme India. Gerakan kemerdekaan India mengadopsi Shivaji sebagai ikon, dan Maharashtra modern sangat dipengaruhi oleh identitas Maratha. Shivaji tetap menjadi figur yang dipuja di seluruh India, mewakili keberanian melawan tirani dan visi kerajaan yang adil dan berdaulat.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Shivaji",
+            sourceSnippet: "Encyclopaedia Britannica — Shivaji",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Shivaji/",
+            sourceSnippet2: "World History Encyclopedia — Shivaji",
+            source3: "Cultural India — Maratha Empire",
+            sourceUrl3: "https://www.culturalindia.net/indian-history/maratha-empire.html",
+            sourceSnippet3: "Cultural India — Maratha Empire History"
+          },
+          en: {
+            title: "The Maratha Empire and Shivaji: Hindu Resistance Against the Mughals",
+            desc: "Shivaji founded the Maratha Empire that challenged Mughal dominance and became the greatest power in 18th century India.",
+            content: "<p class=\"mb-4\">Shivaji Bhonsle (1630-1680) is one of India's greatest heroes, founder of the Maratha Empire who challenged Mughal power and created an independent Hindu kingdom. Born at Shivneri Fort near Pune, Shivaji began his rebellion at age 16 by capturing Torna Fort in 1646. His brilliant guerrilla warfare strategy, known as ganimi kava, used the mountainous Western Ghats terrain to defeat far larger forces.</p><p class=\"mb-4\">In 1659, Shivaji defeated Afzal Khan, the Bijapur general sent to destroy him, in a dramatic encounter at Pratapgarh. Shivaji killed Afzal Khan with wagh nakh (tiger claws) when the general attempted to strangle him. This victory made him legendary. However, his confrontation with the Mughals was more difficult. In 1666, Shivaji was captured by Aurangzeb but escaped from Agra prison in a fruit basket, an escape that became Indian folklore legend.</p><p class=\"mb-4\">Shivaji's coronation as Chhatrapati (Emperor) in 1674 at Raigad Fort marked the founding of the Maratha Empire as a sovereign Hindu kingdom. The grand traditional Hindu coronation ceremony, attended by pandits from Varanasi, affirmed Shivaji's legitimacy as a Hindu king. Shivaji built a Maratha navy controlling the Konkan coast and an efficient administrative system with eight ministers (Ashtapradhan). His rule introduced religious tolerance, protecting mosques and Muslim communities while building a Hindu kingdom.</p><p class=\"mb-4\">After Shivaji's and Aurangzeb's deaths, the Maratha Empire under the Peshwas (prime ministers) expanded to become India's dominant power. Under Baji Rao I (1720-1740), the Marathas conquered Gujarat, Malwa, and Delhi, reducing the Mughal emperor to a puppet. By 1758, Maratha power reached Attock on the modern Afghanistan border. However, the Third Battle of Panipat in 1761 against Ahmad Shah Durrani's invasion halted the Maratha expansion momentum.</p><p class=\"mb-4\">Despite setbacks, the Marathas recovered and remained a significant power until the Anglo-Maratha Wars with the British in the early 19th century. The Maratha Empire was finally defeated in 1818, but its legacy runs deep. Shivaji is revered as a symbol of Hindu resistance, Marathi pride, and Indian nationalism. India's independence movement adopted Shivaji as an icon, and modern Maharashtra is deeply influenced by Maratha identity. Shivaji remains a venerated figure across India, representing courage against tyranny and the vision of a just and sovereign kingdom.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Shivaji",
+            sourceSnippet: "Encyclopaedia Britannica — Shivaji",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Shivaji/",
+            sourceSnippet2: "World History Encyclopedia — Shivaji",
+            source3: "Cultural India — Maratha Empire",
+            sourceUrl3: "https://www.culturalindia.net/indian-history/maratha-empire.html",
+            sourceSnippet3: "Cultural India — Maratha Empire History"
+          },
+          ja: {
+            title: "マラーター帝国とシヴァージー：ムガル帝国に対するヒンドゥーの抵抗",
+            desc: "シヴァージーはマラーター帝国を建国し、ムガル支配に挑戦して18世紀インド最大の勢力となった。",
+            content: "<p class=\"mb-4\">シヴァージー・ボーンスレー（1630-1680年）はインド最大の英雄の一人で、ムガル帝国に挑戦し独立したヒンドゥー王国を創設しました。1659年、プラタープガルでアフザル・カーンをワグ・ナク（虎の爪）で倒し、伝説となりました。1666年にアウラングゼーブに捕らえられましたが、果物籠でアーグラー刑務所から脱出しました。</p><p class=\"mb-4\">1674年のラーイガド要塞でのチャトラパティ（皇帝）即位式でマラーター帝国が誕生しました。ペーシュワー（首相）の下で拡大し、バージー・ラーオ1世のもとグジャラート、マールワー、デリーを征服しました。1761年の第三次パーニーパットの戦いで拡大が止まりました。</p><p class=\"mb-4\">1818年に最終的に敗北しましたが、シヴァージーはヒンドゥーの抵抗とインド民族主義の象徴として崇拝されています。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Shivaji",
+            sourceSnippet: "Encyclopaedia Britannica — シヴァージー",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Shivaji/",
+            sourceSnippet2: "World History Encyclopedia — シヴァージー"
+          },
+          ko: {
+            title: "마라타 제국과 시바지: 무굴에 맞선 힌두의 저항",
+            desc: "시바지는 마라타 제국을 건국하여 무굴 지배에 도전하고 18세기 인도 최대 세력이 되었다.",
+            content: "<p class=\"mb-4\">시바지 본슬레(1630-1680년)는 인도 최대 영웅 중 한 명으로 무굴 제국에 도전하여 독립된 힌두 왕국을 창건했습니다. 1659년 프라타프가르에서 아프잘 칸을 와그 나크(호랑이 발톱)로 쓰러뜨려 전설이 되었습니다. 1666년 아우랑제브에게 포로가 되었으나 과일 바구니로 아그라 감옥에서 탈출했습니다.</p><p class=\"mb-4\">1674년 라이가드 요새에서 차트라파티(황제) 즉위식으로 마라타 제국이 탄생했습니다. 페슈와(총리) 아래 확장하여 바지 라오 1세 치하에서 구자라트, 말와, 델리를 정복했습니다. 1761년 제3차 파니파트 전투에서 확장이 멈췄습니다.</p><p class=\"mb-4\">1818년 최종 패배했지만 시바지는 힌두 저항과 인도 민족주의의 상징으로 숭배됩니다.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Shivaji",
+            sourceSnippet: "Encyclopaedia Britannica — 시바지",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Shivaji/",
+            sourceSnippet2: "World History Encyclopedia — 시바지"
+          },
+          zh: {
+            title: "马拉塔帝国与希瓦吉：印度教对莫卧儿的抵抗",
+            desc: "希瓦吉建立马拉塔帝国，挑战莫卧儿统治并成为18世纪印度最大的力量。",
+            content: "<p class=\"mb-4\">希瓦吉·邦斯勒（1630-1680年）是印度最伟大的英雄之一，他挑战莫卧儿帝国并创建了独立的印度教王国。1659年在普拉塔普加尔用虎爪杀死阿夫扎尔汗，成为传奇。1666年被奥朗则布俘虏，但藏在水果篮中从阿格拉监狱逃脱。</p><p class=\"mb-4\">1674年在赖加德堡加冕为查特拉帕提（皇帝），马拉塔帝国诞生。在佩什瓦（首相）治下扩张，巴吉·拉奥一世时期征服古吉拉特、马尔瓦和德里。1761年第三次帕尼帕特战役阻止了扩张势头。</p><p class=\"mb-4\">1818年最终失败，但希瓦吉被尊为印度教抵抗和印度民族主义的象征。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Shivaji",
+            sourceSnippet: "Encyclopaedia Britannica — 希瓦吉",
+            source2: "World History Encyclopedia",
+            sourceUrl2: "https://www.worldhistory.org/Shivaji/",
+            sourceSnippet2: "World History Encyclopedia — 希瓦吉"
+          }
+        }
+      }
+    ,
+      {
+        id: "india-pemberontakan-1857",
+        langs: {
+          id: {
+            title: "Pemberontakan 1857: Perang Kemerdekaan Pertama India",
+            desc: "Pemberontakan Sepoy 1857 mengguncang British Raj, mengakhiri kekuasaan EIC, dan melahirkan gerakan nasionalisme India.",
+            content: "<p class=\"mb-4\">Pemberontakan 1857, yang disebut Inggris sebagai Sepoy Mutiny dan nasionalis India sebagai Perang Kemerdekaan Pertama, adalah pemberontakan militer dan sipil besar-besaran melawan kekuasaan British East India Company (EIC). Pemberontakan dimulai pada 10 Mei 1857 di Meerut, ketika tentara India (sepoy) menolak menggunakan selongsong peluru baru yang konon dilumuri lemak sapi dan babi, melanggar keyakinan Hindu dan Muslim. Namun, penyebab pemberontakan sebenarnya jauh lebih dalam dari insiden peluru: pajak yang mencekik, aneksasi kerajaan-kerajaan India di bawah Doctrine of Lapse Lord Dalhousie, dan kebijakan westernisasi yang dipaksakan telah membangkitkan kebencian luas.</p><p class=\"mb-4\">Para sepoy dari Meerut menyebarkan pemberontakan ke Delhi, di mana mereka mengangkat Bahadur Shah Zafar, kaisar Mughal terakhir yang sudah tua, sebagai pemimpin simbolik. Pemberontakan dengan cepat menyebar ke Kanpur, Lucknow, Jhansi, dan Gwalior. Ratu Lakshmibai dari Jhansi muncul sebagai salah satu pemimpin pemberontakan paling ikonik. Janda berusia 29 tahun ini memimpin pasukannya dalam pertempuran, mengenakan baju zirah dan bertempur dengan pedang di kedua tangan. Ia tewas dalam pertempuran pada Juni 1858, tetapi keberaniannya menginspirasi generasi nasionalis India.</p><p class=\"mb-4\">Inggris merespons dengan brutalitas yang mengerikan. Pasukan Inggris merebut kembali Delhi pada September 1857, menghancurkan kota dan membantai ribuan warga sipil. Lucknow dan Kanpur juga ditaklukkan dengan kekejaman yang sama. Bahadur Shah Zafar ditangkap, diadili, dan diasingkan ke Rangoon (Burma), di mana ia meninggal pada 1862, mengakhiri dinasti Mughal yang telah memerintah India selama lebih dari 300 tahun. Setelah pemberontakan, Parlemen Inggris membubarkan EIC pada 1858 dan mengambil alih pemerintahan India langsung di bawah Mahkota Inggris, yang dikenal sebagai British Raj.</p><p class=\"mb-4\">Konsekuensi pemberontakan sangat mendalam. Pemerintah Inggris mengadopsi kebijakan memecah belah dan memerintah (divide and rule), memainkan komunitas Hindu dan Muslim satu sama lain. Reformasi militer memastikan bahwa tentara India tidak akan mampu memberontak lagi. Namun, pemberontakan juga menanam benih nasionalisme India yang akan berkembang menjadi gerakan kemerdekaan abad ke-20. Kaum nasionalis India di kemudian hari, termasuk Gandhi, Nehru, dan Savarkar, memandang 1857 sebagai momen formatif dalam perjuangan kemerdekaan.</p><p class=\"mb-4\">Sejarawan terus memperdebatkan apakah 1857 adalah pemberontakan prajurit, pemberontakan petani, atau perang kemerdekaan sejati. Beberapa menekankan bahwa pemberontakan terbatas pada India utara dan tidak didukung oleh kelas menengah India atau semua kerajaan. Namun, tidak diragukan bahwa 1857 adalah titik balik. The Government of India Act 1858 menggantikan kontrol perusahaan dengan kekuasaan kerajaan langsung, dan Proklamasi Ratu Victoria menjanjikan toleransi beragama dan non-intervensi dalam adat India. Meskipun janji-janji ini sering dilanggar, 1857 secara permanen mengubah hubungan Inggris-India dan meletakkan fondasi bagi gerakan kemerdekaan yang akan berhasil 90 tahun kemudian.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/event/Indian-Mutiny",
+            sourceSnippet: "Encyclopaedia Britannica — Indian Mutiny (1857-58)",
+            source2: "National Army Museum UK",
+            sourceUrl2: "https://www.nam.ac.uk/explore/indian-mutiny",
+            sourceSnippet2: "National Army Museum — Indian Mutiny",
+            source3: "BBC History",
+            sourceUrl3: "https://www.bbc.co.uk/history/british/victorians/indian_rebellion_01.shtml",
+            sourceSnippet3: "BBC History — The Indian Rebellion of 1857"
+          },
+          en: {
+            title: "The 1857 Rebellion: India's First War of Independence",
+            desc: "The Sepoy Mutiny of 1857 shook the British Raj, ended EIC rule, and gave birth to Indian nationalism.",
+            content: "<p class=\"mb-4\">The 1857 Rebellion, called the Sepoy Mutiny by the British and the First War of Independence by Indian nationalists, was a massive military and civilian uprising against British East India Company (EIC) rule. The rebellion began on May 10, 1857, in Meerut, when Indian soldiers (sepoys) refused to use new rifle cartridges reportedly greased with cow and pig fat, violating Hindu and Muslim beliefs. However, the rebellion's true causes ran far deeper than the cartridge incident: crushing taxation, annexation of Indian kingdoms under Lord Dalhousie's Doctrine of Lapse, and imposed westernization policies had aroused widespread resentment.</p><p class=\"mb-4\">The Meerut sepoys spread the rebellion to Delhi, where they proclaimed the aged Bahadur Shah Zafar, the last Mughal emperor, as symbolic leader. The rebellion rapidly spread to Kanpur, Lucknow, Jhansi, and Gwalior. Rani Lakshmibai of Jhansi emerged as one of the rebellion's most iconic leaders. The 29-year-old widow led her troops into battle wearing armor and fighting with swords in both hands. She died in battle in June 1858, but her courage inspired generations of Indian nationalists.</p><p class=\"mb-4\">The British responded with horrifying brutality. British forces recaptured Delhi in September 1857, destroying the city and massacring thousands of civilians. Lucknow and Kanpur were also conquered with equal cruelty. Bahadur Shah Zafar was captured, tried, and exiled to Rangoon (Burma), where he died in 1862, ending the Mughal dynasty that had ruled India for over 300 years. After the rebellion, the British Parliament dissolved the EIC in 1858 and assumed direct governance of India under the British Crown, known as the British Raj.</p><p class=\"mb-4\">The rebellion's consequences were profound. The British government adopted a divide and rule policy, playing Hindu and Muslim communities against each other. Military reforms ensured Indian soldiers could never rebel again. However, the rebellion also planted seeds of Indian nationalism that would grow into the 20th-century independence movement. Later Indian nationalists, including Gandhi, Nehru, and Savarkar, viewed 1857 as a formative moment in the freedom struggle.</p><p class=\"mb-4\">Historians continue debating whether 1857 was a sepoy mutiny, peasant revolt, or true war of independence. Some emphasize the rebellion was limited to northern India and lacked support from the Indian middle class or all kingdoms. However, there is no doubt that 1857 was a turning point. The Government of India Act 1858 replaced company control with direct crown rule, and Queen Victoria's Proclamation promised religious tolerance and non-intervention in Indian customs. Although these promises were often broken, 1857 permanently altered British-Indian relations and laid foundations for the independence movement that would succeed 90 years later.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/event/Indian-Mutiny",
+            sourceSnippet: "Encyclopaedia Britannica — Indian Mutiny (1857-58)",
+            source2: "National Army Museum UK",
+            sourceUrl2: "https://www.nam.ac.uk/explore/indian-mutiny",
+            sourceSnippet2: "National Army Museum — Indian Mutiny",
+            source3: "BBC History",
+            sourceUrl3: "https://www.bbc.co.uk/history/british/victorians/indian_rebellion_01.shtml",
+            sourceSnippet3: "BBC History — The Indian Rebellion of 1857"
+          },
+          ja: {
+            title: "1857年の反乱：インド最初の独立戦争",
+            desc: "1857年のセポイの反乱は英領インド帝国を揺るがし、東インド会社の支配を終わらせ、インド民族主義を生み出した。",
+            content: "<p class=\"mb-4\">1857年の反乱は、1857年5月10日にメーラトで始まりました。インド人兵士（セポイ）が牛と豚の脂肪で潤滑されたと伝えられる新しい銃弾薬莢の使用を拒否したことが直接のきっかけでした。しかし反乱の真の原因はより深く、過酷な課税、失効の原理（Doctrine of Lapse）による藩王国の併合、西洋化政策への反感でした。</p><p class=\"mb-4\">最後のムガル皇帝バハードゥル・シャー・ザファルが象徴的指導者として擁立され、ジャーンシーのラクシュミーバーイー女王が最も象徴的な指導者の一人として登場しました。イギリスは恐ろしい残虐さで対応し、1857年9月にデリーを奪還して数千人を虐殺しました。1858年に東インド会社は解散し、イギリス王室による直接統治が始まりました。</p><p class=\"mb-4\">反乱は分割統治政策と軍事改革をもたらしましたが、同時にインド民族主義の種を蒔きました。ガンディーやネルーは1857年を独立闘争の形成的瞬間と見なしました。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/event/Indian-Mutiny",
+            sourceSnippet: "Encyclopaedia Britannica — インドの反乱",
+            source2: "National Army Museum UK",
+            sourceUrl2: "https://www.nam.ac.uk/explore/indian-mutiny",
+            sourceSnippet2: "国立陸軍博物館 — インドの反乱"
+          },
+          ko: {
+            title: "1857년 반란: 인도 최초의 독립 전쟁",
+            desc: "1857년 세포이 반란은 영국령 인도를 뒤흔들고 동인도회사 지배를 종식시키며 인도 민족주의를 탄생시켰다.",
+            content: "<p class=\"mb-4\">1857년 반란은 1857년 5월 10일 메라트에서 시작되었습니다. 인도 병사(세포이)가 소와 돼지 기름으로 윤활되었다고 전해지는 새 총탄 약협 사용을 거부한 것이 직접적 계기였습니다. 그러나 반란의 진정한 원인은 가혹한 과세, 실효 원리(Doctrine of Lapse)에 의한 토후국 병합, 서구화 정책에 대한 반감이었습니다.</p><p class=\"mb-4\">마지막 무굴 황제 바하두르 샤 자파르가 상징적 지도자로 추대되었고, 잔시의 라크슈미바이 여왕이 가장 상징적인 지도자로 떠올랐습니다. 영국은 끔찍한 잔혹함으로 대응하여 1857년 9월 델리를 탈환하고 수천 명을 학살했습니다. 1858년 동인도회사가 해산되고 영국 왕실의 직접 통치가 시작되었습니다.</p><p class=\"mb-4\">반란은 분할 통치 정책과 군사 개혁을 가져왔지만, 동시에 인도 민족주의의 씨앗을 심었습니다. 간디와 네루는 1857년을 독립 투쟁의 형성적 순간으로 보았습니다.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/event/Indian-Mutiny",
+            sourceSnippet: "Encyclopaedia Britannica — 인도 반란",
+            source2: "National Army Museum UK",
+            sourceUrl2: "https://www.nam.ac.uk/explore/indian-mutiny",
+            sourceSnippet2: "국립육군박물관 — 인도 반란"
+          },
+          zh: {
+            title: "1857年起义：印度第一次独立战争",
+            desc: "1857年印度兵兵变动摇了英属印度，终结东印度公司统治，催生了印度民族主义。",
+            content: "<p class=\"mb-4\">1857年起义于1857年5月10日在密拉特开始。印度士兵（印度兵）拒绝使用据称涂有牛油和猪油的新步枪子弹是直接导火索。但起义的真正原因更深：苛税、失效原则（Doctrine of Lapse）兼并土邦、强制西化政策等引发广泛不满。</p><p class=\"mb-4\">最后一位莫卧儿皇帝巴哈杜尔·沙·扎法尔被拥立为象征性领袖，詹西的拉克什米芭伊女王成为最具标志性的领袖之一。英国以骇人的残暴回应，1857年9月夺回德里并屠杀数千人。1858年东印度公司解散，英国王室直接统治开始。</p><p class=\"mb-4\">起义带来分而治之政策和军事改革，但也播下了印度民族主义的种子。甘地和尼赫鲁将1857年视为独立斗争的形成时刻。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/event/Indian-Mutiny",
+            sourceSnippet: "Encyclopaedia Britannica — 印度兵变",
+            source2: "National Army Museum UK",
+            sourceUrl2: "https://www.nam.ac.uk/explore/indian-mutiny",
+            sourceSnippet2: "国家陆军博物馆 — 印度兵变"
+          }
+        }
+      }
+    ,
+      {
+        id: "india-era-nehru-modernisasi",
+        langs: {
+          id: {
+            title: "Era Nehru dan Modernisasi India (1947-1964)",
+            desc: "Perdana Menteri pertama India, Jawaharlal Nehru, membangun fondasi demokrasi, industrialisasi, dan kebijakan luar negeri India modern.",
+            content: "<p class=\"mb-4\">Jawaharlal Nehru (1889-1964) menjabat sebagai Perdana Menteri India dari kemerdekaan pada 1947 hingga kematiannya pada 1964, periode 17 tahun yang paling formatif dalam sejarah India modern. Lahir dari keluarga Brahmana Kashmir yang kaya, Nehru dididik di Harrow dan Cambridge sebelum kembali ke India dan bergabung dengan gerakan kemerdekaan Gandhi. Sebagai murid Gandhi, Nehru memadukan sosialisme demokratik, sekularisme, dan nasionalisme dalam visinya untuk India merdeka.</p><p class=\"mb-4\">Setelah kemerdekaan yang traumatis dan Partisi, Nehru segera menghadapi krisis besar. Integrasi lebih dari 560 kerajaan pangeran ke dalam Uni India adalah prestasi diplomatiknya yang paling mendesak, diselesaikan bersama Sardar Vallabhbhai Patel. Perang India-Pakistan pertama meletus pada 1947-48 atas Kashmir, menetapkan pola konflik yang berlanjut hingga kini. Nehru menetapkan sekularisme sebagai prinsip dasar negara India, menolak permintaan untuk mendirikan negara Hindu meskipun mayoritas penduduknya Hindu.</p><p class=\"mb-4\">Kebijakan ekonomi Nehru berakar pada model sosialis. Lima Tahun Pertama (1951-56) meluncurkan proyek bendungan besar seperti Bhakra Nangal dan pabrik baja di Bhilai, Rourkela, dan Durgapur, yang dijuluki kuil-kuil India modern. Industrialisasi berbasis sektor publik dan ekonomi campuran menciptakan fondasi industri berat India, meskipun model lisensi raj (birokrasi perizinan) kemudian dikritik karena memperlambat pertumbuhan. Indian Institutes of Technology (IIT) didirikan pada era Nehru untuk menciptakan tenaga teknis elit.</p><p class=\"mb-4\">Dalam kebijakan luar negeri, Nehru adalah arsitek Gerakan Non-Blok, yang didirikan bersama Tito dari Yugoslavia dan Nasser dari Mesir pada Konferensi Bandung 1955. India menolak bergabung dengan blok AS atau Soviet selama Perang Dingin, memilih jalur netral. Namun, Perang Sino-India 1962 adalah pukulan telak bagi reputasi Nehru, ketika Tiongkok menyerang dan mengalahkan pasukan India di perbatasan Himalaya. Kekalahan ini mengguncang kepercayaan Nehru dan mempercepat penurunan kesehatannya.</p><p class=\"mb-4\">Warisan Nehru tetap kontroversial namun sangat besar. Demokrasi India yang bertahan adalah bukti fondasi institusional yang ia letakkan. Industrialisasi Nehru menciptakan basis manufaktur India, sementara kebijakan pendidikannya melahirkan kelas menengah terdidik yang kemudian menggerakkan revolusi IT India. Namun, kebijakan ekonominya yang proteksionis juga menciptakan stagnasi yang baru dibongkar pada reformasi 1991. Dinasti Nehru-Gandhi terus mendominasi politik India melalui putrinya Indira Gandhi dan cucunya Rajiv Gandhi. Apakah dikagumi atau dikritik, Nehru tanpa ragu adalah arsitek India modern.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Jawaharlal-Nehru",
+            sourceSnippet: "Encyclopaedia Britannica — Jawaharlal Nehru",
+            source2: "BBC History",
+            sourceUrl2: "https://www.bbc.co.uk/history/historic_figures/nehru_jawaharlal.shtml",
+            sourceSnippet2: "BBC History — Jawaharlal Nehru (1889-1964)",
+            source3: "LSE South Asia Centre",
+            sourceUrl3: "https://www.lse.ac.uk/south-asia-centre",
+            sourceSnippet3: "LSE — Nehru's Economic Legacy"
+          },
+          en: {
+            title: "The Nehru Era and Modernization of India (1947-1964)",
+            desc: "India's first Prime Minister Jawaharlal Nehru built the foundations of modern Indian democracy, industrialization, and foreign policy.",
+            content: "<p class=\"mb-4\">Jawaharlal Nehru (1889-1964) served as India's Prime Minister from independence in 1947 until his death in 1964, the most formative 17-year period in modern Indian history. Born into a wealthy Kashmiri Brahmin family, Nehru was educated at Harrow and Cambridge before returning to India and joining Gandhi's independence movement. As Gandhi's disciple, Nehru blended democratic socialism, secularism, and nationalism in his vision for independent India.</p><p class=\"mb-4\">After the traumatic independence and Partition, Nehru immediately faced enormous crises. Integrating over 560 princely states into the Indian Union was his most urgent diplomatic achievement, completed together with Sardar Vallabhbhai Patel. The First India-Pakistan War erupted in 1947-48 over Kashmir, establishing a conflict pattern that continues today. Nehru established secularism as India's foundational principle, rejecting demands to create a Hindu state despite the Hindu majority.</p><p class=\"mb-4\">Nehru's economic policy was rooted in the socialist model. The First Five Year Plan (1951-56) launched massive dam projects like Bhakra Nangal and steel plants in Bhilai, Rourkela, and Durgapur, dubbed the temples of modern India. Public sector-based industrialization and mixed economy created India's heavy industry foundation, although the license raj (permit bureaucracy) model was later criticized for slowing growth. The Indian Institutes of Technology (IIT) were founded in the Nehru era to create elite technical manpower.</p><p class=\"mb-4\">In foreign policy, Nehru was the architect of the Non-Aligned Movement, founded together with Tito of Yugoslavia and Nasser of Egypt at the 1955 Bandung Conference. India refused to join either the US or Soviet blocs during the Cold War, choosing neutrality. However, the 1962 Sino-Indian War was a devastating blow to Nehru's reputation, when China attacked and defeated Indian forces on the Himalayan border. This defeat shook Nehru's confidence and accelerated his health decline.</p><p class=\"mb-4\">Nehru's legacy remains controversial yet immense. India's enduring democracy is testimony to the institutional foundations he laid. Nehru's industrialization created India's manufacturing base, while his education policies produced an educated middle class that later drove India's IT revolution. However, his protectionist economic policies also created stagnation only dismantled in the 1991 reforms. The Nehru-Gandhi dynasty continued dominating Indian politics through his daughter Indira Gandhi and grandson Rajiv Gandhi. Whether admired or criticized, Nehru is unquestionably the architect of modern India.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Jawaharlal-Nehru",
+            sourceSnippet: "Encyclopaedia Britannica — Jawaharlal Nehru",
+            source2: "BBC History",
+            sourceUrl2: "https://www.bbc.co.uk/history/historic_figures/nehru_jawaharlal.shtml",
+            sourceSnippet2: "BBC History — Jawaharlal Nehru (1889-1964)",
+            source3: "LSE South Asia Centre",
+            sourceUrl3: "https://www.lse.ac.uk/south-asia-centre",
+            sourceSnippet3: "LSE — Nehru's Economic Legacy"
+          },
+          ja: {
+            title: "ネルー時代とインドの近代化（1947-1964年）",
+            desc: "インド初代首相ジャワハルラール・ネルーは現代インドの民主主義、工業化、外交政策の基盤を築いた。",
+            content: "<p class=\"mb-4\">ジャワハルラール・ネルー（1889-1964年）は、1947年の独立から1964年の死去まで17年間インド首相を務めました。ハーローとケンブリッジで教育を受けた後、ガンディーの独立運動に参加しました。560以上の藩王国の統合は彼の最も緊急な外交的業績でした。</p><p class=\"mb-4\">最初の五カ年計画（1951-56年）でバクラ・ナンガルなどの大規模ダムや製鉄所を建設し、現代インドの寺院と呼ばれました。IIT（インド工科大学）がネルー時代に設立されました。外交では1955年のバンドン会議で非同盟運動を創設しました。</p><p class=\"mb-4\">1962年の中印戦争での敗北は彼の評判に打撃を与えましたが、インドの持続的な民主主義、工業基盤、教育を受けた中産階級はネルーの遺産です。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Jawaharlal-Nehru",
+            sourceSnippet: "Encyclopaedia Britannica — ジャワハルラール・ネルー",
+            source2: "BBC History",
+            sourceUrl2: "https://www.bbc.co.uk/history/historic_figures/nehru_jawaharlal.shtml",
+            sourceSnippet2: "BBC History — ジャワハルラール・ネルー"
+          },
+          ko: {
+            title: "네루 시대와 인도의 근대화 (1947-1964년)",
+            desc: "인도 초대 총리 자와할랄 네루는 현대 인도 민주주의, 산업화, 외교 정책의 기초를 건설했다.",
+            content: "<p class=\"mb-4\">자와할랄 네루(1889-1964년)는 1947년 독립부터 1964년 사망까지 17년간 인도 총리를 역임했습니다. 해로우와 케임브리지에서 교육받은 후 간디의 독립 운동에 참여했습니다. 560개 이상의 토후국 통합이 그의 가장 긴급한 외교적 성취였습니다.</p><p class=\"mb-4\">제1차 5개년 계획(1951-56년)으로 바크라 낭갈 등의 대규모 댐과 제철소를 건설하여 현대 인도의 사원이라 불렸습니다. 네루 시대에 IIT(인도 공과대학교)가 설립되었습니다. 외교에서는 1955년 반둥 회의에서 비동맹 운동을 창설했습니다.</p><p class=\"mb-4\">1962년 중인 전쟁에서의 패배는 그의 평판에 타격을 주었으나, 인도의 지속적 민주주의, 산업 기반, 교육받은 중산층은 네루의 유산입니다.</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Jawaharlal-Nehru",
+            sourceSnippet: "Encyclopaedia Britannica — 자와할랄 네루",
+            source2: "BBC History",
+            sourceUrl2: "https://www.bbc.co.uk/history/historic_figures/nehru_jawaharlal.shtml",
+            sourceSnippet2: "BBC History — 자와할랄 네루"
+          },
+          zh: {
+            title: "尼赫鲁时代与印度现代化（1947-1964年）",
+            desc: "印度首任总理贾瓦哈拉尔·尼赫鲁奠定了现代印度民主、工业化和外交政策的基础。",
+            content: "<p class=\"mb-4\">贾瓦哈拉尔·尼赫鲁（1889-1964年）从1947年独立到1964年去世担任印度总理17年。在哈罗和剑桥接受教育后加入甘地的独立运动。整合560多个土邦是他最紧迫的外交成就。</p><p class=\"mb-4\">第一个五年计划（1951-56年）建设了巴克拉楠加尔等大型水坝和钢铁厂，被称为现代印度的庙宇。印度理工学院（IIT）在尼赫鲁时代创立。外交上在1955年万隆会议上创建了不结盟运动。</p><p class=\"mb-4\">1962年中印战争的失败打击了他的声誉，但印度持久的民主、工业基础、受过教育的中产阶级是尼赫鲁的遗产。</p>",
+            source: "Encyclopaedia Britannica",
+            sourceUrl: "https://www.britannica.com/biography/Jawaharlal-Nehru",
+            sourceSnippet: "Encyclopaedia Britannica — 贾瓦哈拉尔·尼赫鲁",
+            source2: "BBC History",
+            sourceUrl2: "https://www.bbc.co.uk/history/historic_figures/nehru_jawaharlal.shtml",
+            sourceSnippet2: "BBC History — 贾瓦哈拉尔·尼赫鲁"
+          }
+        }
+      }
+    ,
+      {
+        id: "india-ekonomi-abad21",
+        langs: {
+          id: {
+            title: "Kebangkitan Ekonomi India Abad ke-21: Dari Reformasi ke Kekuatan Global",
+            desc: "India bertransformasi dari ekonomi tertutup menjadi kekuatan ekonomi global melalui reformasi 1991 dan ledakan sektor teknologi.",
+            content: "<p class=\"mb-4\">India pada awal abad ke-21 telah bertransformasi dari negara berkembang yang dikenal dengan kemiskinan menjadi kekuatan ekonomi global utama. Reformasi ekonomi 1991 yang diluncurkan oleh Perdana Menteri P.V. Narasimha Rao dan Menteri Keuangan Manmohan Singh membongkar lisensi raj, membuka India untuk investasi asing, dan melepaskan sektor swasta. Krisis neraca pembayaran 1991 memaksa India menggadaikan emasnya ke Bank of England, namun krisis itu menjadi katalis reformasi yang mengubah arah sejarah ekonomi India.</p><p class=\"mb-4\">Sektor teknologi informasi (TI) menjadi andalan pertumbuhan India. Kota-kota seperti Bangalore, Hyderabad, dan Pune muncul sebagai Silicon Valley Asia. Perusahaan seperti Infosys, Wipro, dan TCS menjadi raksasa teknologi global, menyediakan layanan IT dan outsourcing ke perusahaan-perusahaan Fortune 500. Fenomena Y2K pada 1999, di mana pemrogram India bekerja untuk memperbaiki bug komputer global, membuka jalan bagi ekspor jasa TI India yang mencapai USD 190 miliar pada 2024. Revolusi digital India juga melahirkan startup unicorn seperti Flipkart, Paytm, Ola, dan Byju's.</p><p class=\"mb-4\">Pertumbuhan ekonomi India rata-rata 6-7 persen per tahun menjadikannya ekonomi besar dengan pertumbuhan tercepat. Pada 2022, India melampaui Inggris sebagai ekonomi terbesar kelima di dunia. Populasi India yang melampaui Tiongkok pada 2023 menjadi 1,4 miliar menawarkan bonus demografi dengan mayoritas usia produktif muda. Namun, ketimpangan ekonomi juga meningkat: 1 persen terkaya memiliki lebih dari 40 persen kekayaan nasional, sementara ratusan juta masih hidup dalam kemiskinan.</p><p class=\"mb-4\">Pemerintahan Narendra Modi sejak 2014 meluncurkan serangkaian reformasi ambisius. Demonetisasi 2016, meskipun kontroversial, mendorong adopsi pembayaran digital. GST (Goods and Services Tax) 2017 menyatukan pasar India yang terfragmentasi menjadi satu pasar tunggal. Program Make in India berusaha menjadikan India sebagai pusat manufaktur global, menarik investasi dari Apple, Samsung, dan Tesla. Infrastruktur digital India, terutama UPI (Unified Payments Interface), menjadi model global dengan lebih dari 10 miliar transaksi per bulan.</p><p class=\"mb-4\">Tantangan tetap besar: pengangguran kaum muda, krisis pertanian, perubahan iklim, dan ketegangan geopolitik dengan Tiongkok. Namun, India kini diproyeksikan menjadi ekonomi terbesar ketiga pada 2030-an. Keanggotaan BRICS dan G20, kebijakan luar negeri multi-alignment yang menjembatani AS dan Rusia, serta peran India sebagai suara Global South menunjukkan ambisinya. Dari ekonomi lisensi raj yang dilindungi hingga unicorn digital dan misi antariksa, perjalanan ekonomi India abad ke-21 adalah salah satu transformasi paling dramatis dalam sejarah ekonomi global.</p>",
+            source: "World Bank — India",
+            sourceUrl: "https://www.worldbank.org/en/country/india/overview",
+            sourceSnippet: "World Bank — India Overview",
+            source2: "BBC News",
+            sourceUrl2: "https://www.bbc.com/news/world-asia-india-64029396",
+            sourceSnippet2: "BBC News — How India became world's fifth largest economy",
+            source3: "The Economist",
+            sourceUrl3: "https://www.economist.com/special-report/2023/05/04/indias-economic-transformation",
+            sourceSnippet3: "The Economist — India's economic transformation"
+          },
+          en: {
+            title: "India's 21st Century Economic Rise: From Reforms to Global Power",
+            desc: "India transformed from a closed economy into a global economic powerhouse through 1991 reforms and the technology boom.",
+            content: "<p class=\"mb-4\">India at the start of the 21st century has transformed from a developing nation known for poverty into a major global economic power. The 1991 economic reforms launched by Prime Minister P.V. Narasimha Rao and Finance Minister Manmohan Singh dismantled the license raj, opened India to foreign investment, and unleashed the private sector. The 1991 balance of payments crisis forced India to pledge its gold to the Bank of England, but the crisis became the catalyst for reforms that changed India's economic trajectory.</p><p class=\"mb-4\">The information technology (IT) sector became India's growth engine. Cities like Bangalore, Hyderabad, and Pune emerged as Asia's Silicon Valley. Companies like Infosys, Wipro, and TCS became global technology giants, providing IT services and outsourcing to Fortune 500 companies. The 1999 Y2K phenomenon, where Indian programmers worked to fix global computer bugs, paved the way for India's IT services exports reaching USD 190 billion by 2024. India's digital revolution also spawned unicorn startups like Flipkart, Paytm, Ola, and Byju's.</p><p class=\"mb-4\">India's average 6-7 percent annual economic growth made it the fastest-growing major economy. In 2022, India surpassed Britain as the world's fifth-largest economy. India's population surpassing China in 2023 at 1.4 billion offers a demographic dividend with most of the population in productive young age. However, economic inequality also rose: the top 1 percent owned over 40 percent of national wealth, while hundreds of millions still lived in poverty.</p><p class=\"mb-4\">The Narendra Modi government since 2014 launched a series of ambitious reforms. The 2016 demonetization, though controversial, pushed digital payment adoption. The 2017 GST (Goods and Services Tax) unified India's fragmented market into a single market. The Make in India program sought to make India a global manufacturing hub, attracting investment from Apple, Samsung, and Tesla. India's digital infrastructure, especially UPI (Unified Payments Interface), became a global model with over 10 billion monthly transactions.</p><p class=\"mb-4\">Challenges remain enormous: youth unemployment, agricultural crisis, climate change, and geopolitical tensions with China. However, India is now projected to become the world's third-largest economy by the 2030s. BRICS and G20 membership, multi-alignment foreign policy bridging the US and Russia, and India's role as voice of the Global South demonstrate its ambitions. From a protected license raj economy to digital unicorns and space missions, India's 21st-century economic journey represents one of the most dramatic transformations in global economic history.</p>",
+            source: "World Bank — India",
+            sourceUrl: "https://www.worldbank.org/en/country/india/overview",
+            sourceSnippet: "World Bank — India Overview",
+            source2: "BBC News",
+            sourceUrl2: "https://www.bbc.com/news/world-asia-india-64029396",
+            sourceSnippet2: "BBC News — How India became world's fifth largest economy",
+            source3: "The Economist",
+            sourceUrl3: "https://www.economist.com/special-report/2023/05/04/indias-economic-transformation",
+            sourceSnippet3: "The Economist — India's economic transformation"
+          },
+          ja: {
+            title: "21世紀のインド経済の台頭：改革からグローバルパワーへ",
+            desc: "インドは閉鎖経済から1991年の改革とテクノロジーブームを通じてグローバル経済大国に変貌した。",
+            content: "<p class=\"mb-4\">インドは21世紀初頭に貧困で知られた発展途上国から主要なグローバル経済大国へと変貌しました。1991年の経済改革でライセンス・ラージを解体し、外資を開放しました。バンガロール、ハイデラバード、プネーはアジアのシリコンバレーとして台頭し、Infosys、Wipro、TCSがグローバルIT企業となりました。</p><p class=\"mb-4\">年率6-7%の経済成長で、2022年にイギリスを抜いて世界第5位の経済大国となりました。2023年には人口が中国を超え14億人に達し、人口ボーナスを提供しています。2016年の高額紙幣廃止と2017年のGSTがデジタル化と市場統合を推進しました。UPI決済は月間100億件以上の取引を処理するグローバルモデルです。</p><p class=\"mb-4\">インドは2030年代に世界第3位の経済大国になると予測されていますが、若年失業や農業危機などの課題が残ります。</p>",
+            source: "World Bank — India",
+            sourceUrl: "https://www.worldbank.org/en/country/india/overview",
+            sourceSnippet: "世界銀行 — インド概要",
+            source2: "BBC News",
+            sourceUrl2: "https://www.bbc.com/news/world-asia-india-64029396",
+            sourceSnippet2: "BBC News — インドが世界第5位の経済大国になった経緯"
+          },
+          ko: {
+            title: "21세기 인도의 경제적 부상: 개혁에서 글로벌 강국으로",
+            desc: "인도는 폐쇄 경제에서 1991년 개혁과 기술 붐을 통해 글로벌 경제 강국으로 변모했다.",
+            content: "<p class=\"mb-4\">인도는 21세기 초 가난으로 알려진 개발도상국에서 주요 글로벌 경제 강국으로 변모했습니다. 1991년 경제 개혁으로 라이센스 라지를 해체하고 외국인 투자를 개방했습니다. 방갈로르, 하이데라바드, 푸네는 아시아 실리콘밸리로 부상했고 Infosys, Wipro, TCS가 글로벌 IT 기업이 되었습니다.</p><p class=\"mb-4\">연평균 6-7%의 경제 성장으로 2022년 영국을 제치고 세계 5위 경제 대국이 되었습니다. 2023년 인구가 중국을 넘어 14억 명에 달해 인구 보너스를 제공합니다. 2016년 화폐 개혁과 2017년 GST가 디지털화와 시장 통합을 추진했습니다. UPI 결제는 월 100억 건 이상의 거래를 처리하는 글로벌 모델입니다.</p><p class=\"mb-4\">인도는 2030년대 세계 3위 경제 대국이 될 것으로 전망되나 청년 실업과 농업 위기 등 과제가 남아 있습니다.</p>",
+            source: "World Bank — India",
+            sourceUrl: "https://www.worldbank.org/en/country/india/overview",
+            sourceSnippet: "세계은행 — 인도 개요",
+            source2: "BBC News",
+            sourceUrl2: "https://www.bbc.com/news/world-asia-india-64029396",
+            sourceSnippet2: "BBC News — 인도가 세계 5위 경제 대국이 된 과정"
+          },
+          zh: {
+            title: "21世纪印度经济崛起：从改革到全球大国",
+            desc: "印度通过1991年改革和科技繁荣，从封闭经济转变为全球经济强国。",
+            content: "<p class=\"mb-4\">印度在21世纪初从以贫困闻名的发展中国家转变为全球经济大国。1991年经济改革取消了许可证制度，开放外资。班加罗尔、海得拉巴、浦那成为亚洲硅谷，Infosys、Wipro、TCS成为全球IT巨头。</p><p class=\"mb-4\">年均6-7%的经济增长使印度在2022年超越英国成为世界第五大经济体。2023年人口超过中国达14亿，提供人口红利。2016年废钞令和2017年商品服务税推动了数字化和市场统一。UPI支付成为月交易超100亿笔的全球模式。</p><p class=\"mb-4\">印度预计在2030年代成为世界第三大经济体，但青年失业和农业危机等挑战依然存在。</p>",
+            source: "World Bank — India",
+            sourceUrl: "https://www.worldbank.org/en/country/india/overview",
+            sourceSnippet: "世界银行 — 印度概览",
+            source2: "BBC News",
+            sourceUrl2: "https://www.bbc.com/news/world-asia-india-64029396",
+            sourceSnippet2: "BBC News — 印度如何成为世界第五大经济体"
+          }
+        }
+      }
   ]
 };

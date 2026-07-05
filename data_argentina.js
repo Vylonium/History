@@ -469,5 +469,469 @@ window.countryDataFiles['argentina'] = {
         }
       }
     }
-  ]
+    ,
+    {
+      id: "argentina-conquistador-spanyol-1536-1580",
+      langs: {
+        id: {
+          title: "Conquistador Spanyol di Argentina (1536-1580)",
+          desc: "Penaklukan Spanyol di wilayah Argentina berlangsung sulit karena perlawanan suku pribumi dan geografi Pampas yang luas, dengan Buenos Aires didirikan dua kali sebelum berhasil bertahan.",
+          content: "<p class=\"mb-4\">Penaklukan Spanyol di wilayah yang kini menjadi Argentina dimulai ketika Pedro de Mendoza mendirikan pemukiman pertama di Buenos Aires pada 1536, namun pemukiman ini ditinggalkan hanya beberapa tahun kemudian akibat serangan suku pribumi, kelaparan, dan kondisi lingkungan yang keras yang membuat Spanyol harus menunggu puluhan tahun sebelum kembali mendirikan pemukiman permanen.</p><p class=\"mb-4\">Spanyol lebih dulu mendirikan pemukiman permanen di bagian utara Argentina seperti Santiago del Estero pada 1553 dan Cordoba pada 1573, karena wilayah utara yang lebih dekat dengan Peru dan Bolivia yang sudah menjadi pusat kekuasaan Spanyol di Amerika Selatan, sementara Pampas yang luas di selatan lebih sulit dikontrol.</p><p class=\"mb-4\">Buenos Aires akhirnya didirikan kembali secara permanen pada 11 Juni 1580 oleh Juan de Garay, yang membawa kolonis dari Asuncion, Paraguay, untuk membangun kembali pemukiman yang sebelumnya gagal, dengan Buenos Aires yang awalnya merupakan pemukiman kecil yang kurang penting dibandingkan dengan Lima dan Potosi.</p><p class=\"mb-4\">Wilayah Argentina awalnya berada di bawah Vice-Royalty Peru dengan ibu kota di Lima, yang membatasi perdagangan Buenos Aires karena semua perdagangan harus melalui Lima di Pasifik, sebuah kebijakan yang memperlambat perkembangan Buenos Aires hingga akhirnya Spanyol mendirikan Vice-Royalty Rio de la Plata pada 1776 dengan Buenos Aires sebagai ibu kota.</p><p class=\"mb-4\">Penaklukan Spanyol di Argentina berbeda dari penaklukan di Meksiko atau Peru karena tidak ada peradaban besar dengan emas dan perak yang menarik minat Spanyol, sehingga Argentina berkembang lebih lambat sebagai wilayah peternakan dan pertanian, dengan interaksi antara Spanyol dan suku pribumi yang berciri dari konflik dan asimilasi yang menghasilkan budaya gaucho yang khas Argentina.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Colonial-period",
+          sourceSnippet: "Britannica — Argentina colonial period",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2470/spanish-conquest-argentina/",
+          sourceSnippet2: "WHE — Spanish conquest of Argentina",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina colonial history"
+        },
+        en: {
+          title: "Spanish Conquistadors in Argentina (1536-1580)",
+          desc: "The Spanish conquest of Argentine territory was difficult due to indigenous resistance and vast Pampas geography, with Buenos Aires founded twice before succeeding.",
+          content: "<p class=\"mb-4\">The Spanish conquest of the territory now known as Argentina began when Pedro de Mendoza founded the first settlement at Buenos Aires in 1536, but this settlement was abandoned only a few years later due to indigenous attacks, famine, and harsh environmental conditions that forced Spain to wait decades before re-establishing a permanent settlement.</p><p class=\"mb-4\">Spain first established permanent settlements in northern Argentina such as Santiago del Estero in 1553 and Cordoba in 1573, because the northern region was closer to Peru and Bolivia which already served as centers of Spanish power in South America, while the vast Pampas in the south were harder to control.</p><p class=\"mb-4\">Buenos Aires was finally re-established permanently on June 11, 1580, by Juan de Garay, who brought colonists from Asuncion, Paraguay, to rebuild the previously failed settlement, with Buenos Aires initially being a small settlement less important than Lima and Potosi.</p><p class=\"mb-4\">Argentine territory was initially under the Viceroyalty of Peru with capital at Lima, which restricted Buenos Aires trade as all trade had to go through Lima on the Pacific, a policy that slowed Buenos Aires development until Spain eventually created the Viceroyalty of the Rio de la Plata in 1776 with Buenos Aires as capital.</p><p class=\"mb-4\">The Spanish conquest in Argentina differed from conquests in Mexico or Peru because there was no great civilization with gold and silver attracting Spanish interest, so Argentina developed more slowly as a ranching and agricultural territory, with interactions between Spanish and indigenous peoples characterized by conflict and assimilation producing the gaucho culture distinctive to Argentina.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Colonial-period",
+          sourceSnippet: "Britannica — Argentina colonial period",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2470/spanish-conquest-argentina/",
+          sourceSnippet2: "WHE — Spanish conquest of Argentina",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina colonial history"
+        },
+        ja: {
+          title: "アルゼンチンのスペイン征服（1536〜1580年）",
+          desc: "アルゼンチン地域のスペイン征服は先住民の抵抗と広大なパンパスの地理により困難で、ブエノスアイレスは成功する前に二度建国された。",
+          content: "<p class=\"mb-4\">現在アルゼンチンとして知られる地域のスペイン征服は1536年にペドロ・デ・メンドーサがブエノスアイレスに最初の入植地を建設したことから始まりましたが、この入植地は先住民の攻撃、飢饉、過酷な環境条件により数年後に放棄され、スペインは永久的な入植地を再建するまで数十年待たなければなりませんでした。</p><p class=\"mb-4\">スペインはサンティアゴ・デル・エステロ1553年やコルドバ1573年などアルゼンチン北部に最初の永久的入植地を建設しました。北部は南米におけるスペイン権力の中心ですでにあったペルーとボリビアに近かったからで、一方南部の広大なパンパスは制御がより困難でした。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Colonial-period",
+          sourceSnippet: "Britannica — アルゼンチン植民地時代",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2470/spanish-conquest-argentina/",
+          sourceSnippet2: "WHE — アルゼンチンのスペイン征服"
+        },
+        ko: {
+          title: "아르헨티나의 스페인 정복 (1536~1580년)",
+          desc: "아르헨티나 영토의 스페인 정복은 원주민 저항과 광활한 팜파스 지리로 인해 어려웠으며, 부에노스아이레스는 성공하기 전 두 번 건설되었다.",
+          content: "<p class=\"mb-4\">현재 아르헨티나로 알려진 영토의 스페인 정복은 1536년 페드로 데 멘도사가 부에노스아이레스에 최초의 정착지를 건설하면서 시작되었으나 이 정착지는 원주민 공격, 기근, 가혹한 환경 조건으로 인해 몇 년 후 포기되어 스페인은 영구 정착지를 재건하기까지 수십 년을 기다려야 했습니다.</p><p class=\"mb-4\">스페인은 1553년 산티아고 델 에스테로와 1573년 코르도바 등 아르헨티나 북부에 먼저 영구 정착지를 건설했으며, 북부 지역이 남아메리카에서 이미 스페인 세력의 중심지였던 페루와 볼리비아에 더 가까웠기 때문이었고 남부의 광활한 팜파스는 통제가 더 어려웠습니다.</p><p class=\"mb-4\">부에노스아이레스는 1580년 6월 11일 아순시온 파라과이에서 정착민을 데려온 후안 데 가라이에 의해 영구적으로 재건되었으며, 부에노스아이레스는 초기에 리마와 포토시보다 덜 중요한 작은 정착지였습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Colonial-period",
+          sourceSnippet: "Britannica — 아르헨티나 식민 시대",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2470/spanish-conquest-argentina/",
+          sourceSnippet2: "WHE — 아르헨티나의 스페인 정복"
+        },
+        zh: {
+          title: "西班牙征服阿根廷（1536-1580年）",
+          desc: "西班牙对今阿根廷领土的征服因原住民抵抗和广阔的潘帕斯地理而困难重重，布宜诺斯艾利斯在成功之前被建立了两次。",
+          content: "<p class=\"mb-4\">西班牙对今阿根廷领土的征服始于1536年佩德罗·德·门多萨在布宜诺斯艾利斯建立第一个定居点，但由于原住民攻击、饥荒和恶劣的环境条件，这个定居点几年后就被放弃，西班牙不得不等待数十年才重新建立永久定居点。</p><p class=\"mb-4\">西班牙首先在阿根廷北部建立了永久定居点，如1553年的圣地亚哥-德尔埃斯特罗和1573年的科尔多瓦，因为北部地区更靠近已是南美西班牙权力中心的秘鲁和玻利维亚，而南部广阔的潘帕斯更难控制。</p><p class=\"mb-4\">布宜诺斯艾利斯最终于1580年6月11日由从亚松森带来殖民者的胡安·德·加赖永久重建，布宜诺斯艾利斯最初是一个不如利马和波托西重要的小定居点。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Colonial-period",
+          sourceSnippet: "Britannica — 阿根廷殖民时期",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2470/spanish-conquest-argentina/",
+          sourceSnippet2: "WHE — 西班牙征服阿根廷"
+        }
+      }
+    },
+    {
+      id: "argentina-pampas-gaucho-budaya",
+      langs: {
+        id: {
+          title: "Pampas dan Gaucho: Simbol Identitas Argentina",
+          desc: "Pampas yang luas dan gaucho sebagai koboi Amerika Selatan menjadi simbol identitas nasional Argentina yang menggambarkan kemandirian, kebebasan, dan hubungan dengan tanah.",
+          content: "<p class=\"mb-4\">Pampas merupakan dataran luas yang membentang di tengah Argentina, salah satu wilayah pertanian dan peternakan paling subur di dunia, dengan luas sekitar satu juta kilometer persegi yang menjadi jantung ekonomi Argentina sejak era kolonial, menghasilkan daging sapi, gandum, dan jagung yang diekspor ke seluruh dunia.</p><p class=\"mb-4\">Gaucho adalah koboi Amerika Selatan yang hidup di Pampas sejak abad ke-18, berkuda menggembalakan sapi dan kuda di dataran luas tanpa batas, dengan gaya hidup yang mandiri, bebas, dan terhubung dengan alam, menjadi simbol identitas nasional Argentina yang setara dengan koboi Amerika atau samurai Jepang dalam budaya populer dunia.</p><p class=\"mb-4\">Gaucho berkembang dari perpaduan antara Spanyol, pribumi, dan budaya Afro-Argentina, dengan tradisi unik termasuk asado atau barbeku daging sapi Argentina yang menjadi masakan nasional, mate yaitu minuman tradisional dari daun yerba mate yang masih dikonsumsi setiap hari oleh jutaan orang Argentina, serta musik dan tarian folklor seperti malambo.</p><p class=\"mb-4\">Budaya gaucho diangkat menjadi simbol nasional Argentina melalui sastra, terutama melalui epik gaucho Martin Fierro karya Jose Hernandez yang diterbitkan pada 1872 dan dianggap sebagai epik nasional Argentina, serta melalui Don Segundo Sombra karya Ricardo Guiraldes yang memuliakan gaya hidup gaucho sebagai simbol nilai Argentina yang otentik.</p><p class=\"mb-4\">Hingga hari ini budaya gaucho tetap hidup dalam identitas Argentina, dengan festival gaucho tahunan, tradisi rodeo dan doma, serta kebanggaan terhadap masakan asado dan minuman mate yang menjadi bagian tak terpisahkan dari kehidupan sehari-hari Argentina, menjadikan Pampas dan gaucho sebagai warisan budaya yang melampaui sekedar sejarah dan menjadi simbol abadi jiwa Argentina.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/gaucho",
+          sourceSnippet: "Britannica — Gaucho",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2475/pampas-and-gaucho/",
+          sourceSnippet2: "WHE — Pampas and Gaucho culture",
+          source3: "UNESCO Intangible Heritage",
+          sourceUrl3: "https://ich.unesco.org/",
+          sourceSnippet3: "UNESCO — Argentine cultural traditions"
+        },
+        en: {
+          title: "Pampas and Gaucho: Symbols of Argentine Identity",
+          desc: "The vast Pampas and gaucho as South American cowboys became symbols of Argentine national identity depicting independence, freedom, and connection to the land.",
+          content: "<p class=\"mb-4\">The Pampas are vast plains stretching across central Argentina, one of the world's most fertile agricultural and ranching regions, covering about one million square kilometers that became the heart of Argentina's economy since the colonial era, producing beef, wheat, and corn exported worldwide.</p><p class=\"mb-4\">The gaucho was a South American cowboy living on the Pampas since the 18th century, riding horseback herding cattle and horses across boundless plains, with a lifestyle of independence, freedom, and connection to nature, becoming a symbol of Argentine national identity comparable to American cowboys or Japanese samurai in world popular culture.</p><p class=\"mb-4\">The gaucho developed from the blending of Spanish, indigenous, and Afro-Argentine cultures, with unique traditions including asado or Argentine beef barbecue that became the national cuisine, mate a traditional drink from yerba mate leaves still consumed daily by millions of Argentines, and folkloric music and dance like malambo.</p><p class=\"mb-4\">Gaucho culture was elevated to Argentine national symbol through literature, especially through the gaucho epic Martin Fierro by Jose Hernandez published in 1872 and considered Argentina's national epic, and through Don Segundo Sombra by Ricardo Guiraldes glorifying the gaucho lifestyle as a symbol of authentic Argentine values.</p><p class=\"mb-4\">To this day gaucho culture remains alive in Argentine identity, with annual gaucho festivals, rodeo and doma traditions, and pride in asado cuisine and mate drink that are inseparable parts of daily Argentine life, making the Pampas and gaucho a cultural heritage that transcends mere history and becomes an enduring symbol of the Argentine soul.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/gaucho",
+          sourceSnippet: "Britannica — Gaucho",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2475/pampas-and-gaucho/",
+          sourceSnippet2: "WHE — Pampas and Gaucho culture",
+          source3: "UNESCO Intangible Heritage",
+          sourceUrl3: "https://ich.unesco.org/",
+          sourceSnippet3: "UNESCO — Argentine cultural traditions"
+        },
+        ja: {
+          title: "パンパスとガウチョ：アルゼンチンアイデンティティの象徴",
+          desc: "広大なパンパスと南米のカウボーイとしてのガウチョは独立、自由、土地とのつながりを描写するアルゼンチン国民的アイデンティティの象徴となった。",
+          content: "<p class=\"mb-4\">パンパスはアルゼンチン中央部に広がる広大な平原で、世界で最も肥沃な農業・牧畜地域の一つであり、植民地時代以来アルゼンチン経済の中心となり、牛肉、小麦、トウモロコシを世界に輸出する約100万平方キロメートルの地域です。</p><p class=\"mb-4\">ガウチョは18世紀以来パンパスに住む南米のカウボーイで、果てしない平原で馬に乗って牛や馬を放牧し、独立、自由、自然とのつながりのあるライフスタイルで、世界のポップカルチャーにおけるアメリカのカウボーイや日本の侍に相当するアルゼンチン国民的アイデンティティの象徴となりました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/gaucho",
+          sourceSnippet: "Britannica — ガウチョ",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2475/pampas-and-gaucho/",
+          sourceSnippet2: "WHE — パンパスとガウチョ文化"
+        },
+        ko: {
+          title: "팜파스와 가우초: 아르헨티나 정체성의 상징",
+          desc: "광활한 팜파스와 남미 카우보이인 가우초는 독립, 자유, 토지와의 연결을 묘사하는 아르헨티나 국가 정체성의 상징이 되었다.",
+          content: "<p class=\"mb-4\">팜파스는 아르헨티나 중부에 펼쳐진 광활한 평원으로 세계에서 가장 비옥한 농업 및 목축 지역 중 하나이며, 식민 시대 이후 아르헨티나 경제의 심장이 되어 소고기, 밀, 옥수수를 전 세계에 수출하는 약 100만 제곱킬로미터의 지역입니다.</p><p class=\"mb-4\">가우초는 18세기 이후 팜파스에 살던 남미 카우보이로, 끝없는 평원에서 말을 타고 소와 말을 몰았으며, 독립, 자유, 자연과의 연결이라는 라이프스타일로 세계 대중 문화에서 미국 카우보이나 일본 사무라이에 해당하는 아르헨티나 국가 정체성의 상징이 되었습니다.</p><p class=\"mb-4\">가우초는 스페인, 원주민, 아프로아르헨티나 문화의 융합에서 발전했으며, 아르헨티나 국가 요리가 된 아사도 즉 아르헨티나 소고기 바비큐, 수백만 아르헨티나인이 매일 소비하는 예르바 마테 잎의 전통 음료 마테, 말람보와 같은 민속 음악과 춤을 포함한 독특한 전통을 가졌습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/gaucho",
+          sourceSnippet: "Britannica — 가우초",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2475/pampas-and-gaucho/",
+          sourceSnippet2: "WHE — 팜파스와 가우초 문화"
+        },
+        zh: {
+          title: "潘帕斯与高乔：阿根廷身份的象征",
+          desc: "广阔的潘帕斯和作为南美牛仔的高乔成为描绘独立、自由和与土地联系的阿根廷国家身份象征。",
+          content: "<p class=\"mb-4\">潘帕斯是横跨阿根廷中部的广阔平原，世界上最肥沃的农业和牧场之一，面积约一百万平方公里，自殖民时代以来成为阿根廷经济的核心，生产出口全世界的牛肉、小麦和玉米。</p><p class=\"mb-4\">高乔是18世纪以来生活在潘帕斯的南美牛仔，在无边的平原上骑马放牧牛和马，以独立、自由和与自然联系的生活方式，成为世界流行文化中可与美洲牛仔或日本武士相提并论的阿根廷国家身份象征。</p><p class=\"mb-4\">高乔从西班牙、原住民和非洲裔阿根廷文化的融合中发展而来，拥有独特传统包括成为国家菜肴的阿根廷烤肉asado、数百万阿根廷人每天饮用的马黛茶，以及如malambo等民间音乐和舞蹈。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/gaucho",
+          sourceSnippet: "Britannica — 高乔",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2475/pampas-and-gaucho/",
+          sourceSnippet2: "WHE — 潘帕斯与高乔文化"
+        }
+      }
+    },
+    {
+      id: "argentina-imigrasi-massal-1880-1930",
+      langs: {
+        id: {
+          title: "Imigrasi Massal ke Argentina (1880-1930)",
+          desc: "Argentina menerima jutaan imigran dari Eropa terutama Italia dan Spanyol, yang mengubah demografi dan budaya Argentina menjadi salah satu negara paling kosmopolitan di Amerika Latin.",
+          content: "<p class=\"mb-4\">Argentina menerima gelombang imigrasi massal terbesar dalam sejarahnya antara 1880 hingga 1930, dengan perkiraan lebih dari enam juta imigran tiba di Argentina dari Eropa, terutama dari Italia yang menyumbang sekitar setengah dari total imigran, diikuti oleh Spanyol, serta kelompok signifikan dari Jerman, Prancis, Polandia, Rusia, dan Ottoman.</p><p class=\"mb-4\">Imigrasi massal ini didorong oleh kebijakan pemerintah Argentina yang secara aktif mendorong imigrasi Eropa untuk mengisi Pampas yang luas dan mengembangkan pertanian, serta oleh kondisi ekonomi di Eropa yang sulit akibat revolusi industri, pengangguran, dan penganiayaan politik serta religius yang mendorong jutaan orang Eropa mencari kehidupan baru di Amerika.</p><p class=\"mb-4\">Imigran Italia yang dikenal sebagai tano membentuk komunitas terbesar dan pengaruh mereka pada budaya Argentina sangat mendalam, dengan bahasa Argentina-Spanyol yang dipengaruhi oleh dialek Italia, masakan Argentina yang mengadopsi pasta dan pizza sebagai makanan nasional, serta tradisi kopi dan gelato yang menjadi bagian dari kehidupan sehari-hari Buenos Aires.</p><p class=\"mb-4\">Buenos Aires berkembang menjadi salah satu kota paling kosmopolitan di dunia dengan neighborhood seperti La Boca yang terkenal sebagai pemukiman imigran Genoa Italia, serta budaya tango yang lahir dari perpaduan budaya imigran Eropa, Afro-Argentina, dan tradisi lokal di pinggiran kota Buenos Aires yang menjadi salah satu warisan budaya Argentina paling terkenal di dunia.</p><p class=\"mb-4\">Imigrasi massal ini secara fundamental mengubah identitas Argentina yang sebelumnya berpenduduk sedikit dan mayoritas pribumi menjadi negara dengan populasi yang didominasi keturunan Eropa, dengan Argentina yang pada awal abad ke-20 memiliki salah satu populasi dengan tingkat literasi tertinggi dan standar hidup tertinggi di dunia, sebelum kemunduran ekonomi di paruh kedua abad ke-20 mengubah nasib negara ini.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Immigration",
+          sourceSnippet: "Britannica — Argentina immigration",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2480/argentine-immigration/",
+          sourceSnippet2: "WHE — Argentine mass immigration",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina immigration history"
+        },
+        en: {
+          title: "Mass Immigration to Argentina (1880-1930)",
+          desc: "Argentina received millions of European immigrants mainly from Italy and Spain, transforming its demographics and culture into one of Latin America's most cosmopolitan nations.",
+          content: "<p class=\"mb-4\">Argentina received the largest wave of mass immigration in its history between 1880 and 1930, with an estimated over six million immigrants arriving in Argentina from Europe, mainly from Italy contributing about half of total immigrants, followed by Spain, as well as significant groups from Germany, France, Poland, Russia, and the Ottoman Empire.</p><p class=\"mb-4\">This mass immigration was driven by Argentine government policies actively encouraging European immigration to populate the vast Pampas and develop agriculture, and by difficult economic conditions in Europe due to the industrial revolution, unemployment, and political and religious persecution driving millions of Europeans to seek new lives in the Americas.</p><p class=\"mb-4\">Italian immigrants known as tano formed the largest community and their influence on Argentine culture was profound, with Argentine Spanish influenced by Italian dialects, Argentine cuisine adopting pasta and pizza as national foods, and coffee and gelato traditions becoming part of daily Buenos Aires life.</p><p class=\"mb-4\">Buenos Aires developed into one of the world's most cosmopolitan cities with neighborhoods like La Boca famous as a Genoese Italian immigrant settlement, and tango culture born from the fusion of European immigrant, Afro-Argentine, and local traditions in Buenos Aires suburbs becoming one of Argentina's most famous cultural heritages worldwide.</p><p class=\"mb-4\">This mass immigration fundamentally transformed Argentina's identity from a sparsely populated mostly indigenous nation to a country with a European-descended majority, with Argentina in the early 20th century having one of the world's most literate populations and highest living standards, before economic decline in the second half of the 20th century changed the nation's fate.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Immigration",
+          sourceSnippet: "Britannica — Argentina immigration",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2480/argentine-immigration/",
+          sourceSnippet2: "WHE — Argentine mass immigration",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina immigration history"
+        },
+        ja: {
+          title: "アルゼンチンへの大量移民（1880〜1930年）",
+          desc: "アルゼンチンは主にイタリアとスペインから数百万人のヨーロッパ移民を受け入れ、人口統計と文化を中南米で最も国際的な国の一つに変えた。",
+          content: "<p class=\"mb-4\">アルゼンチンは1880年から1930年の間に歴史上最大の大量移民の波を受け入れ、推定600万人以上の移民がヨーロッパからアルゼンチンに到着し、主にイタリアが総移民の約半分を占め、次いでスペイン、そしてドイツ、フランス、ポーランド、ロシア、オスマン帝国からの重要なグループが続きました。</p><p class=\"mb-4\">この大量移民は広大なパンパスに人を配置し農業を発展させるためにヨーロッパ移民を積極的に奨励するアルゼンチン政府の政策と、産業革命、失業、政治的・宗教的迫害により数百万人のヨーロッパ人がアメリカで新生活を求めることを推進したヨーロッパの困難な経済状況によって推進されました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Immigration",
+          sourceSnippet: "Britannica — アルゼンチン移民",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2480/argentine-immigration/",
+          sourceSnippet2: "WHE — アルゼンチン大量移民"
+        },
+        ko: {
+          title: "아르헨티나 대량 이민 (1880~1930년)",
+          desc: "아르헨티나는 주로 이탈리아와 스페인에서 수백만 유럽 이민자를 받아들여 인구 통계와 문화를 라틴아메리카에서 가장 국제적인 국가 중 하나로 변화시켰다.",
+          content: "<p class=\"mb-4\">아르헨티나는 1880년부터 1930년 사이 역사상 가장 큰 대량 이민의 물결을 받아들였으며, 추정 600만 명 이상의 이민자가 유럽에서 아르헨티나에 도착했고 주로 이탈리아가 전체 이민자의 약 절반을 차지했으며 다음으로 스페인, 그리고 독일, 프랑스, 폴란드, 러시아, 오스만 제국에서 중요한 그룹이 이어졌습니다.</p><p class=\"mb-4\">이 대량 이민은 광활한 팜파스에 인구를 채우고 농업을 발전시키기 위해 유럽 이민을 적극 장려하는 아르헨티나 정부 정책과, 산업혁명, 실업, 정치적·종교적 박해로 인해 수백만 유럽인이 아메리카에서 새 삶을 찾도록 한 유럽의 어려운 경제 상황에 의해 추진되었습니다.</p><p class=\"mb-4\">tano로 알려진 이탈리아 이민자가 가장 큰 공동체를 형성했으며 아르헨티나 문화에 대한 영향은 심대하여 아르헨티나 스페인어가 이탈리아 방언의 영향을 받고 아르헨티나 요리가 파스타와 피자를 국가 음식으로 채택했으며 커피와 젤라토 전통이 부에노스아이레스 일상의 일부가 되었습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Immigration",
+          sourceSnippet: "Britannica — 아르헨티나 이민",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2480/argentine-immigration/",
+          sourceSnippet2: "WHE — 아르헨티나 대량 이민"
+        },
+        zh: {
+          title: "阿根廷的大规模移民（1880-1930年）",
+          desc: "阿根廷接收了数百万主要来自意大利和西班牙的欧洲移民，将其人口结构和文化转变为拉丁美洲最具国际性的国家之一。",
+          content: "<p class=\"mb-4\">阿根廷在1880年至1930年间接收了历史上最大规模的移民浪潮，估计超过六百万移民从欧洲抵达阿根廷，主要来自占总移民约一半的意大利，其次是西班牙，以及来自德国、法国、波兰、俄罗斯和奥斯曼帝国的重要群体。</p><p class=\"mb-4\">这一大规模移民由阿根廷政府积极鼓励欧洲移民以填充广阔的潘帕斯和发展农业的政策，以及欧洲因工业革命、失业和政治宗教迫害而困难的经济条件推动数百万欧洲人在美洲寻求新生活所推动。</p><p class=\"mb-4\">被称为tano的意大利移民形成了最大的社区，他们对阿根廷文化的影响深远，阿根廷西班牙语受意大利方言影响，阿根廷菜肴将意面和披萨采纳为国食，咖啡和意式冰淇淋传统成为布宜诺斯艾利斯日常生活的一部分。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/Immigration",
+          sourceSnippet: "Britannica — 阿根廷移民",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2480/argentine-immigration/",
+          sourceSnippet2: "WHE — 阿根廷大规模移民"
+        }
+      }
+    },
+    {
+      id: "argentina-era-keemasan-1880-1920",
+      langs: {
+        id: {
+          title: "Era Keemasan Argentina (1880-1920): Salah Satu Negara Terkaya di Dunia",
+          desc: "Antara 1880-1920 Argentina menjadi salah satu negara terkaya di dunia berdasarkan ekspor daging dan gandum Pampas, dengan standar hidup setara dengan Prancis dan Jerman.",
+          content: "<p class=\"mb-4\">Era Keemasan Argentina berlangsung dari sekitar 1880 hingga 1920, ketika Argentina mengalami pertumbuhan ekonomi yang luar biasa berdasarkan ekspor komoditas pertanian dan peternakan dari Pampas, dengan daging sapi beku dan gandum sebagai produk utama yang diekspor ke Eropa yang sedang berkembang pesat akibat revolusi industri.</p><p class=\"mb-4\">Argentina pada periode ini menjadi salah satu negara terkaya di dunia dengan PDB per kapita yang masuk dalam sepuluh terbesar dunia, setara dengan Prancis, Jerman, dan Australia, dan lebih tinggi dari Italia, Spanyol, dan Swedia, sebuah pencapaian ekonomi yang membuat Argentina dianggap sebagai model pembangunan dan potensi kekuatan dunia.</p><p class=\"mb-4\">Buenos Aires berkembang menjadi salah satu kota terbesar dan terkaya di dunia, dengan arsitektur Eropa yang megah yang dijuluki Paris of South America, pembangunan jaringan kereta api terbesar di Amerika Latin yang menghubungkan Pampas dengan pelabuhan Buenos Aires, serta pembangunan Teatro Colon yang menjadi salah satu gedung opera terbaik di dunia.</p><p class=\"mb-4\">Kekayaan Argentina didukung oleh investasi masif dari Inggris yang membiayai pembangunan kereta api dan infrastruktur, serta oleh imigrasi massal Eropa yang menyediakan tenaga kerja dan keterampilan, dengan Argentina yang menjadi salah satu penerima investasi asing terbesar di dunia pada periode ini.</p><p class=\"mb-4\">Era Keemasan berakhir secara bertahap setelah Perang Dunia I yang mengganggu perdagangan internasional, kemudian Depresi Besar 1929 yang menghancurkan ekspor komoditas Argentina, dengan Argentina yang tidak pernah lagi mencapai tingkat kemakmuran relatif yang sama, dan ketimpangan struktural dalam kepemilikan tanah Pampas yang sebagian besar dimiliki oleh segelintir elite yang menjadi salah satu akar masalah ketidaksetaraan yang berlanjut hingga hari ini.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/The-export-economy",
+          sourceSnippet: "Britannica — Argentina export economy golden age",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2485/argentine-golden-age/",
+          sourceSnippet2: "WHE — Argentine Golden Age",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina economic history"
+        },
+        en: {
+          title: "Argentina's Golden Age (1880-1920): One of the World's Wealthiest Nations",
+          desc: "Between 1880-1920 Argentina became one of the world's wealthiest nations based on Pampas meat and wheat exports, with living standards comparable to France and Germany.",
+          content: "<p class=\"mb-4\">Argentina's Golden Age lasted from about 1880 to 1920, when Argentina experienced extraordinary economic growth based on agricultural and ranching commodity exports from the Pampas, with frozen beef and wheat as main products exported to a rapidly industrializing Europe.</p><p class=\"mb-4\">Argentina in this period became one of the world's wealthiest nations with GDP per capita among the world's top ten, comparable to France, Germany, and Australia, and higher than Italy, Spain, and Sweden, an economic achievement that made Argentina regarded as a development model and potential world power.</p><p class=\"mb-4\">Buenos Aires developed into one of the world's largest and wealthiest cities, with magnificent European architecture nicknamed the Paris of South America, construction of Latin America's largest railway network connecting the Pampas with Buenos Aires port, and the building of Teatro Colon becoming one of the world's finest opera houses.</p><p class=\"mb-4\">Argentina's wealth was supported by massive British investment financing railway and infrastructure construction, and by mass European immigration providing labor and skills, with Argentina becoming one of the world's largest recipients of foreign investment in this period.</p><p class=\"mb-4\">The Golden Age ended gradually after World War I disrupted international trade, then the Great Depression of 1929 destroyed Argentine commodity exports, with Argentina never again reaching the same relative prosperity level, and structural inequality in Pampas land ownership mostly held by a small elite becoming one root of persistent inequality to this day.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/The-export-economy",
+          sourceSnippet: "Britannica — Argentina export economy golden age",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2485/argentine-golden-age/",
+          sourceSnippet2: "WHE — Argentine Golden Age",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina economic history"
+        },
+        ja: {
+          title: "アルゼンチン黄金時代（1880〜1920年）：世界で最も豊かな国の一つ",
+          desc: "1880年から1920年の間、アルゼンチンはパンパスの肉と小麦の輸出に基づいて世界で最も豊かな国の一つとなり、生活水準はフランスやドイツに匹敵した。",
+          content: "<p class=\"mb-4\">アルゼンチンの黄金時代は約1880年から1920年まで続き、アルゼンチンはパンパスからの農業・牧畜商品の輸出に基づいて非凡な経済成長を遂げ、冷凍牛肉と小麦が急速に工業化するヨーロッパに輸出される主要製品でした。</p><p class=\"mb-4\">この時期のアルゼンチンは世界で最も豊かな国の一つとなり、一人当たりGDPが世界のトップテンに入り、フランス、ドイツ、オーストラリアに匹敵し、イタリア、スペイン、スウェーデンより高く、アルゼンチンを開発モデルと潜在的な世界強国と見なさせる経済的達成でした。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/The-export-economy",
+          sourceSnippet: "Britannica — アルゼンチン輸出経済黄金時代",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2485/argentine-golden-age/",
+          sourceSnippet2: "WHE — アルゼンチン黄金時代"
+        },
+        ko: {
+          title: "아르헨티나 황금기 (1880~1920년): 세계에서 가장 부유한 국가 중 하나",
+          desc: "1880년에서 1920년 사이 아르헨티나는 팜파스의 육류와 밀 수출에 기반하여 세계에서 가장 부유한 국가 중 하나가 되었으며, 생활 수준은 프랑스와 독일에 필적했다.",
+          content: "<p class=\"mb-4\">아르헨티나의 황금기는 약 1880년부터 1920년까지 지속되었으며, 아르헨티나는 팜파스의 농업 및 목축 상품 수출에 기반한 비범한 경제 성장을 경험했고 냉동 쇠고기와 밀이 급속히 산업화하는 유럽에 수출되는 주요 제품이었습니다.</p><p class=\"mb-4\">이 시기 아르헨티나는 세계에서 가장 부유한 국가 중 하나가 되었으며 1인당 GDP가 세계 상위 10위 안에 들어 프랑스, 독일, 호주에 필적하고 이탈리아, 스페인, 스웨덴보다 높았으며, 아르헨티나를 개발 모델과 잠재적 세계 강국으로 간주하게 한 경제적 성취였습니다.</p><p class=\"mb-4\">부에노스아이레스는 세계에서 가장 크고 부유한 도시 중 하나로 발전했으며 남미의 파리라는 별명의 웅장한 유럽 건축, 팜파스와 부에노스아이레스 항구를 연결하는 라틴아메리카 최대의 철도망 건설, 세계 최고의 오페라 하우스 중 하나가 된 테아트로 콜론 건설로 특징지어졌습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/The-export-economy",
+          sourceSnippet: "Britannica — 아르헨티나 수출 경제 황금기",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2485/argentine-golden-age/",
+          sourceSnippet2: "WHE — 아르헨티나 황금기"
+        },
+        zh: {
+          title: "阿根廷黄金时代（1880-1920年）：世界最富国家之一",
+          desc: "在1880至1920年间，阿根廷基于潘帕斯的肉类和小麦出口成为世界最富国家之一，生活水平与法国和德国相当。",
+          content: "<p class=\"mb-4\">阿根廷的黄金时代约从1880年持续到1920年，阿根廷基于潘帕斯的农业和畜牧业商品出口经历了非凡的经济增长，冷冻牛肉和小麦作为主要产品出口到快速工业化的欧洲。</p><p class=\"mb-4\">这一时期阿根廷成为世界最富国家之一，人均GDP位列世界前十，与法国、德国和澳大利亚相当，高于意大利、西班牙和瑞典，这一经济成就使阿根廷被视为发展模式和潜在的世界强国。</p><p class=\"mb-4\">布宜诺斯艾利斯发展为世界最大和最富裕的城市之一，以被称为\"南美巴黎\"的宏伟欧洲建筑、连接潘帕斯与布宜诺斯艾利斯港的拉丁美洲最大铁路网以及成为世界最佳歌剧院之一的科隆剧院的建设为特征。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Argentina/The-export-economy",
+          sourceSnippet: "Britannica — 阿根廷出口经济黄金时代",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2485/argentine-golden-age/",
+          sourceSnippet2: "WHE — 阿根廷黄金时代"
+        }
+      }
+    },
+    {
+      id: "argentina-evita-peron-1919-1952",
+      langs: {
+        id: {
+          title: "Evita Peron (1919-1952): Ikon Perempuan Argentina",
+          desc: "Eva Peron atau Evita dari akar yang sederhana menjadi ibu negara yang dicintai rakyat, memperjuangkan hak perempuan dan kaum pekerja sebelum wafat muda di usia 33 tahun.",
+          content: "<p class=\"mb-4\">Eva Duarte de Peron atau yang dikenal sebagai Evita lahir pada 1919 dari keluarga miskin di pedesaan Argentina, seorang aktris muda yang naik menjadi ibu negara ketika menikah dengan Juan Peron pada 1945, sebuah perjalanan dari kemiskinan ke kekuasaan yang menjadi salah satu kisah paling ikonik dalam sejarah Argentina.</p><p class=\"mb-4\">Evita sebagai ibu negara mengubah peran tradisional dengan aktif terlibat dalam politik, mendirikan Fundación Eva Peron yang membantu jutaan rakyat miskin Argentina dengan distribusi bantuan sosial, pembangunan rumah, sekolah, dan rumah sakit, serta menjadi suara bagi kaum pekerja atau descamisados yang menjadi basis dukungan Peronisme.</p><p class=\"mb-4\">Pencapaian politik Evita yang paling signifikan adalah kampanye untuk hak pilih perempuan yang berhasil pada 1947 ketika presiden Peron menandatangani undang-undang yang memberikan hak pilih penuh kepada perempuan Argentina untuk pertama kalinya, sebuah pencapaian yang membuat Evita dianggap sebagai pionir feminisme Argentina meski pendekatannya berbeda dari feminisme Barat.</p><p class=\"mb-4\">Evita wafat pada 26 Juli 1952 di usia hanya 33 tahun akibat kanker serviks, kematiannya memicu mourning massal terbesar dalam sejarah Argentina dengan jutaan rakyat berbaris untuk memberi penghormatan terakhir, dan ia secara resmi dinyatakan sebagai Spiritual Leader of the Nation, sebuah gelar yang belum pernah diberikan kepada siapapun sebelumnya dalam sejarah Argentina.</p><p class=\"mb-4\">Warisan Evita tetap hidup hingga hari ini melalui musikal Evita karya Andrew Lloyd Webber yang menjadi salah satu musikal tersukses di dunia, serta melalui citranya yang tetap menjadi simbol perjuangan sosial dan kekuatan perempuan dalam politik Argentina, dengan jutaan rakyat Argentina yang masih menganggap Evita sebagai santa pelindung yang pengorbanannya untuk kaum miskin tidak akan dilupakan.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Eva-Peron",
+          sourceSnippet: "Britannica — Eva Peron",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2490/eva-peron/",
+          sourceSnippet2: "WHE — Eva Peron",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-35252335",
+          sourceSnippet3: "BBC News — Evita Peron legacy"
+        },
+        en: {
+          title: "Evita Peron (1919-1952): Icon of Argentine Women",
+          desc: "Eva Peron or Evita rose from humble roots to become a beloved first lady championing women's rights and workers before dying young at age 33.",
+          content: "<p class=\"mb-4\">Eva Duarte de Peron known as Evita was born in 1919 to a poor family in rural Argentina, a young actress who rose to become first lady when she married Juan Peron in 1945, a journey from poverty to power that became one of the most iconic stories in Argentine history.</p><p class=\"mb-4\">Evita as first lady transformed the traditional role by actively engaging in politics, founding the Eva Peron Foundation that helped millions of poor Argentines with distribution of social aid, housing, schools, and hospitals construction, and becoming the voice of workers or descamisados who became the Peronist support base.</p><p class=\"mb-4\">Evita's most significant political achievement was the campaign for women's suffrage that succeeded in 1947 when President Peron signed the law granting full voting rights to Argentine women for the first time, an achievement making Evita regarded as a pioneer of Argentine feminism though her approach differed from Western feminism.</p><p class=\"mb-4\">Evita died on July 26, 1952, at only 33 years old from cervical cancer, her death triggering the largest mass mourning in Argentine history with millions lining up to pay final respects, and she was officially declared Spiritual Leader of the Nation, a title never before given to anyone in Argentine history.</p><p class=\"mb-4\">Evita's legacy lives on today through the musical Evita by Andrew Lloyd Webber that became one of the world's most successful musicals, and through her image that remains a symbol of social struggle and women's power in Argentine politics, with millions of Argentines still considering Evita a patron saint whose sacrifice for the poor will not be forgotten.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Eva-Peron",
+          sourceSnippet: "Britannica — Eva Peron",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2490/eva-peron/",
+          sourceSnippet2: "WHE — Eva Peron",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-35252335",
+          sourceSnippet3: "BBC News — Evita Peron legacy"
+        },
+        ja: {
+          title: "エビータ・ペロン（1919〜1952年）：アルゼンチン女性のアイコン",
+          desc: "エバ・ペロンすなわちエビータは恵まれない背景から愛されるファーストレディとなり女性の権利と労働者のために闘い33歳の若さで死去した。",
+          content: "<p class=\"mb-4\">エバ・ドゥアルテ・デ・ペロンすなわちエビータは1919年にアルゼンチンの農村の貧しい家庭に生まれ、1945年にフアン・ペロンと結婚したときにファーストレディとなった若い女優で、貧困から権力への旅はアルゼンチン史上最も象徴的な物語の一つとなりました。</p><p class=\"mb-4\">ファーストレディとしてのエビータは政治に積極的に関与することで伝統的な役割を変え、エバ・ペロン財団を設立して数百万人の貧しいアルゼンチン人に社会援助の分配、住宅、学校、病院の建設で助け、ペロン主義の支持基盤となった労働者すなわちdescamisadosの声となりました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Eva-Peron",
+          sourceSnippet: "Britannica — エバ・ペロン",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2490/eva-peron/",
+          sourceSnippet2: "WHE — エバ・ペロン"
+        },
+        ko: {
+          title: "에비타 페론 (1919~1952년): 아르헨티나 여성의 아이콘",
+          desc: "에바 페론 즉 에비타는 빈한한 배경에서 사랑받는 영부인이 되어 여성 권리와 노동자를 위해 투쟁하다 33세의 나이로 사망했다.",
+          content: "<p class=\"mb-4\">에바 두아르테 데 페론 즉 에비타는 1919년 아르헨티나 농촌의 가난한 가정에서 태어나 1945년 후안 페론과 결혼했을 때 영부인이 된 젊은 배우로, 가난에서 권력으로의 여정은 아르헨티나 역사에서 가장 상징적인 이야기 중 하나가 되었습니다.</p><p class=\"mb-4\">영부인으로서 에비타는 정치에 적극 참여하여 전통적 역할을 변화시키고 에바 페론 재단을 설립하여 수백만 가난한 아르헨티나인에게 사회 원조 분배, 주택, 학교, 병원 건설로 도움을 주었으며 페론주의 지지 기반이 된 노동자 즉 descamisados의 목소리가 되었습니다.</p><p class=\"mb-4\">에비타의 가장 중요한 정치적 성취는 1947년 페론 대통령이 아르헨티나 여성에게 처음으로 완전한 투표권을 부여하는 법률에 서명하면서 성공한 여성 참정권 캠페인이었으며, 이 성취로 에비타는 아르헨티나 페미니즘의 선구자로 간주되었지만 그녀의 접근 방식은 서양 페미니즘과 달랐습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Eva-Peron",
+          sourceSnippet: "Britannica — 에바 페론",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2490/eva-peron/",
+          sourceSnippet2: "WHE — 에바 페론"
+        },
+        zh: {
+          title: "贝隆夫人伊娃（1919-1952年）：阿根廷女性的偶像",
+          desc: "伊娃·贝隆即贝隆夫人从卑微出身成为受人爱戴的第一夫人，为妇女权利和工人奋斗，33岁英年早逝。",
+          content: "<p class=\"mb-4\">伊娃·杜阿尔特·德·贝隆即贝隆夫人于1919年出生在阿根廷农村的一个贫寒家庭，是一位年轻女演员，1945年与胡安·贝隆结婚后成为第一夫人，从贫穷到权力的旅程成为阿根廷历史上最具标志性的故事之一。</p><p class=\"mb-4\">作为第一夫人，贝隆夫人通过积极参与政治改变了传统角色，创建埃娃·贝隆基金会帮助数百万贫困阿根廷人分发社会援助、建设住房、学校和医院，并成为佩隆主义支持基础的工人即无衫者的声音。</p><p class=\"mb-4\">贝隆夫人最重要的政治成就是1947年成功的妇女选举权运动，贝隆总统签署法律首次赋予阿根廷妇女完全投票权，这一成就使贝隆夫人被视为阿根廷女权主义的先驱，尽管她的方式与西方女权主义不同。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Eva-Peron",
+          sourceSnippet: "Britannica — 伊娃·贝隆",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2490/eva-peron/",
+          sourceSnippet2: "WHE — 伊娃·贝隆"
+        }
+      }
+    },
+    {
+      id: "argentina-hipolito-yrigoyen-universal-suffrage-1916",
+      langs: {
+        id: {
+          title: "Hipolito Yrigoyen dan Hak Pilih Universal (1916)",
+          desc: "Hipolito Yrigoyen dari Uni Radikal Sipil menjadi presiden pertama yang terpilih melalui hak pilih universal pria pada 1916, mengakhiri dominasi elit konservatif Argentina.",
+          content: "<p class=\"mb-4\">Hipolito Yrigoyen dari Uni Radikal Sipil atau Union Civica Radikal menjadi presiden Argentina pada 1916 setelah undang-undang hak pilih universal laki-laki Saez-Pena yang disahkan pada 1912, sebuah pemilu yang mengakhiri dominasi politik elite konservatif Argentina yang berkuasa sejak 1880-an yang dikenal sebagai era Conservative Republic atau Oligarchic Republic.</p><p class=\"mb-4\">Yrigoyen adalah pemimpin yang karismatik dan misterius yang dikenal sebagai el peludo atau si berbulu karena rambutnya yang lebat dan jarang tampil di publik, yang memimpin Uni Radikal Sipil dengan platform anti-oligarki dan pro-demokrasi yang menarik dukungan dari kelas menengah dan pekerja yang merasa diabaikan oleh elite konservatif yang menguasai politik Argentina selama dekade.</p><p class=\"mb-4\">Sebagai presiden, Yrigoyen memperluas hak pilih dan partisipasi politik, melakukan investasi publik dalam pendidikan dan infrastruktur, serta mengambil sikap nasionalis dalam kebijakan luar negeri dengan mempertahankan netralitas Argentina dalam Perang Dunia I, sebuah kebijakan yang kontroversial namun mencerminkan keinginan Argentina untuk independen dari kekuatan Eropa.</p><p class=\"mb-4\">Yrigoyen terpilih kembali pada 1928 namun masa kekuasaannya yang kedua ditandai oleh ketidakstabilan ekonomi akibat Depresi Besar 1929 yang menghancurkan ekspor Argentina, serta tuduhan korupsi dan otoritarianisme yang memicu ketidakpuasan luas di kalangan militer dan masyarakat.</p><p class=\"mb-4\">Yrigoyen digulingkan oleh kudeta militer pertama dalam sejarah Argentina pada 6 September 1930 yang dilakukan oleh Jenderal Jose Felix Uriburu, sebuah kudeta yang mengakhiri era demokrasi Argentina dan memulai periode yang dikenal sebagai Decada Infame atau Dekade Tercela yang ditandai oleh kecurangan pemilu dan korupsi, sekaligus menjadi presiden Argentina pertama yang digulingkan oleh militer dalam pola intervensi militer yang kelak berulang dalam sejarah Argentina.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Hipolito-Yrigoyen",
+          sourceSnippet: "Britannica — Hipolito Yrigoyen",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2495/yrigoyen-argentina/",
+          sourceSnippet2: "WHE — Yrigoyen and Argentina",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina political history"
+        },
+        en: {
+          title: "Hipolito Yrigoyen and Universal Suffrage (1916)",
+          desc: "Hipolito Yrigoyen of the Radical Civic Union became the first president elected through universal male suffrage in 1916, ending the dominance of Argentina's conservative elite.",
+          content: "<p class=\"mb-4\">Hipolito Yrigoyen of the Radical Civic Union or Union Civica Radikal became president of Argentina in 1916 after the Saez-Pena universal male suffrage law enacted in 1912, an election ending the political dominance of Argentina's conservative elite in power since the 1880s known as the Conservative Republic or Oligarchic Republic era.</p><p class=\"mb-4\">Yrigoyen was a charismatic and mysterious leader known as el peludo or the hairy one for his thick hair and rare public appearances, who led the Radical Civic Union with an anti-oligarchic and pro-democracy platform attracting support from middle classes and workers feeling neglected by the conservative elite dominating Argentine politics for decades.</p><p class=\"mb-4\">As president, Yrigoyen expanded suffrage and political participation, made public investments in education and infrastructure, and took a nationalist stance in foreign policy maintaining Argentina's neutrality in World War I, a controversial policy reflecting Argentina's desire for independence from European powers.</p><p class=\"mb-4\">Yrigoyen was re-elected in 1928 but his second term was marked by economic instability from the 1929 Great Depression destroying Argentine exports, as well as accusations of corruption and authoritarianism sparking widespread dissatisfaction among military and society.</p><p class=\"mb-4\">Yrigoyen was overthrown by the first military coup in Argentine history on September 6, 1930, by General Jose Felix Uriburu, a coup ending Argentina's democratic era and beginning the period known as the Infamous Decade marked by electoral fraud and corruption, while becoming the first Argentine president overthrown by the military in a pattern of military intervention that would recur in Argentine history.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Hipolito-Yrigoyen",
+          sourceSnippet: "Britannica — Hipolito Yrigoyen",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2495/yrigoyen-argentina/",
+          sourceSnippet2: "WHE — Yrigoyen and Argentina",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet3: "BBC News — Argentina political history"
+        },
+        ja: {
+          title: "イポリト・イリゴージェンと普通選挙（1916年）",
+          desc: "急進市民同盟のイポリト・イリゴージェンは1916年に普通選挙で選ばれた初の大統領となり、アルゼンチンの保守エリートの支配を終わらせた。",
+          content: "<p class=\"mb-4\">急進市民同盟のイポリト・イリゴージェンは1912年に制定されたサエンス・ペーニャ法による男子普通選挙後の1916年にアルゼンチンの大統領となり、この選挙は1880年代以来権力を握っていた保守エリートの政治的支配を終わらせ、保守共和国または寡頭共和国時代として知られる時代を終わらせました。</p><p class=\"mb-4\">イリゴージェンは豊かな髪とまれな公の appearance でエル・ペルードすなわち毛深い者として知られるカリスマ的で神秘的な指導者であり、反寡頭制と民主賛成の綱領で急進市民同盟を率い、数十年間アルゼンチン政治を支配していた保守エリートに疎外されていると感じた中産階級と労働者からの支持を集めました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Hipolito-Yrigoyen",
+          sourceSnippet: "Britannica — イポリト・イリゴージェン",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2495/yrigoyen-argentina/",
+          sourceSnippet2: "WHE — イリゴージェンとアルゼンチン"
+        },
+        ko: {
+          title: "이폴리토 이리고옌과 보통선거 (1916년)",
+          desc: "급진시민연합의 이폴리토 이리고옌은 1916년 보통선거로 선출된 최초의 대통령이 되어 아르헨티나 보수 엘리트의 지배를 종식시켰다.",
+          content: "<p class=\"mb-4\">급진시민연합의 이폴리토 이리고옌은 1912년 제정된 사엔스 페냐 보통남성선거법 이후 1916년 아르헨티나 대통령이 되었으며, 이 선거는 1880년대부터 권력을 잡고 있던 보수 엘리트의 정치적 지배를 종식시켜 보수 공화국 또는 과두 공화국 시대로 알려진 시대를 끝냈습니다.</p><p class=\"mb-4\">이리고옌은 풍성한 머리와 드문 공개 출연으로 엘 펠루도 즉 털이 많은 자로 알려진 카리스마적이고 신비로운 지도자로, 반과두제 및 친민주주의 강령으로 급진시민연합을 이끌고 수십 년간 아르헨티나 정치를 지배한 보수 엘리트에 의해 소외된 중산층과 노동자의 지지를 끌어모았습니다.</p><p class=\"mb-4\">대통령으로서 이리고옌은 선거권과 정치 참여를 확대하고 교육 및 인프라에 공공 투자를 했으며 외교 정책에서 제1차 세계대전 중 아르헨티나의 중립을 유지하는 민족주의적 입장을 취했고, 이는 유럽 강국으로부터의 독립에 대한 아르헨티나의 열망을 반영하는 논란의 정책이었습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Hipolito-Yrigoyen",
+          sourceSnippet: "Britannica — 이폴리토 이리고옌",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2495/yrigoyen-argentina/",
+          sourceSnippet2: "WHE — 이리고옌과 아르헨티나"
+        },
+        zh: {
+          title: "伊里戈延与普选权（1916年）",
+          desc: "激进公民联盟的伊里戈延于1916年成为通过男性普选权选出的首位总统，结束了阿根廷保守精英的统治。",
+          content: "<p class=\"mb-4\">激进公民联盟的伊里戈延在1912年颁布的萨恩斯-佩尼亚男性普选法之后于1916年成为阿根廷总统，这一选举结束了自1880年代以来掌权的保守精英的政治统治，终结了被称为保守共和国或寡头共和国的时代。</p><p class=\"mb-4\">伊里戈延是一位因浓密头发和罕见的公开露面而被称为el peludo即多毛者的魅力四射且神秘的领导人，他以反寡头和亲民主的纲领领导激进公民联盟，吸引了几十年来被统治阿根廷政治的保守精英忽视的中产阶级和工人的支持。</p><p class=\"mb-4\">作为总统，伊里戈延扩大了选举权和政治参与，在教育和基础设施方面进行公共投资，并在外交政策中采取民族主义立场维持阿根廷在第一次世界大战中的中立，这一有争议的政策反映了阿根廷对独立于欧洲强国的渴望。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Hipolito-Yrigoyen",
+          sourceSnippet: "Britannica — 伊里戈延",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2495/yrigoyen-argentina/",
+          sourceSnippet2: "WHE — 伊里戈延与阿根廷"
+        }
+      }
+    },
+    {
+      id: "argentina-kirchnerismo-2003-2015",
+      langs: {
+        id: {
+          title: "Kirchnerismo (2003-2015): Kembalinya Peronisme Kiri",
+          desc: "Era Kirchner dengan Nestor dan Cristina Fernandez de Kirchner memimpin Argentina selama 12 tahun dengan kebijakan kiri-Peronis yang memulihkan ekonomi pasca-krisis 2001.",
+          content: "<p class=\"mb-4\">Kirchnerismo merujuk pada era pemerintahan Nestor Kirchner yang menjadi presiden pada 2003 dan istrinya Cristina Fernandez de Kirchner yang memimpin dari 2007 hingga 2015, sebuah periode 12 tahun di mana Argentina dipimpin oleh pasangan suami-istri dengan kebijakan kiri-Peronis yang mengembalikan negara dari krisis ekonomi 2001 yang paling parah dalam sejarah Argentina.</p><p class=\"mb-4\">Nestor Kirchner yang terpilih pada 2003 dengan hanya 22 persen suara setelah presiden Carlos Menem mengundurkan diri dari balot kedua, membawa Argentina keluar dari krisis 2001 dengan kebijakan restrukturisasi utang yang berani, mengambil sikap keras terhadap IMF, serta mengembalikan pertumbuhan ekonomi Argentina yang mencapai rata-rata 8 persen per tahun antara 2003 hingga 2007.</p><p class=\"mb-4\">Cristina Fernandez de Kirchner yang terpilih pada 2007 melanjutkan kebijakan suaminya dengan nasionalisasi perusahaan minyak YPF dari Spanyol pada 2012, memperluas program sosial dan subsidi, serta melegalisasi pernikahan sesama jenis pada 2010 yang menjadikan Argentina negara pertama di Amerika Latin yang melegalisasi pernikahan sesama jenis, sebuah pencapaian progresif yang menonjol di kawasan yang konservatif.</p><p class=\"mb-4\">Era Kirchnerismo juga ditandai oleh konflik dengan media oposisi terutama Grupo Clarin yang merupakan konglomerat media terbesar Argentina, sengketa dengan Inggris mengenai Kepulauan Falkland atau Malvinas, serta tuduhan korupsi dan otoritarianisme dari para kritikus yang menuduh Kirchner meng konsolidasikan kekuasaan secara berlebihan.</p><p class=\"mb-4\">Kirchnerismo berakhir pada 2015 ketikan Mauricio Macri dari koalisi centrist Cambiemos memenangkan pemilu presiden, mengakhiri 12 tahun pemerintahan Kirchner, namun warisan Kirchnerismo tetap kuat dengan Cristina Fernandez de Kirchner yang kemudian menjadi wakil presiden Argentina pada 2019-2023 di bawah Alberto Fernandez, menunjukkan ketahanan Gerakan Kirchner sebagai kekuatan politik utama Argentina.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Nestor-Kirchner",
+          sourceSnippet: "Britannica — Nestor Kirchner",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet2: "BBC News — Kirchnerismo Argentina",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2500/kirchnerismo-argentina/",
+          sourceSnippet3: "WHE — Kirchnerismo in Argentina"
+        },
+        en: {
+          title: "Kirchnerismo (2003-2015): Return of Left Peronism",
+          desc: "The Kirchner era with Nestor and Cristina Fernandez de Kirchner leading Argentina for 12 years with left-Peronist policies recovering the economy post-2001 crisis.",
+          content: "<p class=\"mb-4\">Kirchnerismo refers to the era of government of Nestor Kirchner who became president in 2003 and his wife Cristina Fernandez de Kirchner who led from 2007 to 2015, a 12-year period in which Argentina was led by a husband-wife pair with left-Peronist policies that brought the nation back from the 2001 economic crisis, the worst in Argentine history.</p><p class=\"mb-4\">Nestor Kirchner elected in 2003 with only 22 percent of the vote after president Carlos Menem withdrew from the second round, brought Argentina out of the 2001 crisis with bold debt restructuring policies, a hard stance against the IMF, and restoring Argentine economic growth averaging 8 percent per year between 2003 and 2007.</p><p class=\"mb-4\">Cristina Fernandez de Kirchner elected in 2007 continued her husband's policies with the nationalization of the oil company YPF from Spain in 2012, expanding social programs and subsidies, and legalizing same-sex marriage in 2010 making Argentina the first Latin American country to legalize same-sex marriage, a progressive achievement standing out in a conservative region.</p><p class=\"mb-4\">The Kirchnerismo era was also marked by conflict with opposition media especially Grupo Clarin, Argentina's largest media conglomerate, disputes with Britain over the Falkland or Malvinas Islands, and accusations of corruption and authoritarianism from critics accusing Kirchner of excessively consolidating power.</p><p class=\"mb-4\">Kirchnerismo ended in 2015 when Mauricio Macri of the centrist Cambiemos coalition won the presidential election, ending 12 years of Kirchner government, but the Kirchnerismo legacy remained strong with Cristina Fernandez de Kirchner later becoming vice president of Argentina in 2019-2023 under Alberto Fernandez, showing the Kirchner movement's resilience as a major Argentine political force.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Nestor-Kirchner",
+          sourceSnippet: "Britannica — Nestor Kirchner",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet2: "BBC News — Kirchnerismo Argentina",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2500/kirchnerismo-argentina/",
+          sourceSnippet3: "WHE — Kirchnerismo in Argentina"
+        },
+        ja: {
+          title: "キルチネル主義（2003〜2015年）：左派ペロニズムの回帰",
+          desc: "ネストル・キルチネルとクリスティナ・フェルナンデス・デ・キルチネルが12年間アルゼンチンを率い2001年危機後の経済を回復した左派ペロニズム政策の時代。",
+          content: "<p class=\"mb-4\">キルチネル主義は2003年に大統領となったネストル・キルチネルと2007年から2015年まで率いた妻クリスティナ・フェルナンデス・デ・キルチネルの政権時代を指し、アルゼンチン史上最悪の2001年経済危機から国家を回復させた左派ペロニズム政策で夫婦が12年間アルゼンチンを率いた期間でした。</p><p class=\"mb-4\">2003年にカルロス・メネム大統領が第2ラウンドから撤退した後わずか22パーセントの票で選出されたネストル・キルチネルは大胆な債務再構築政策とIMFに対する強硬姿勢で2001年危機からアルゼンチンを脱出させ2003年から2007年の間年平均8パーセントのアルゼンチン経済成長を回復しました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Nestor-Kirchner",
+          sourceSnippet: "Britannica — ネストル・キルチネル",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet2: "BBC News — キルチネル主義アルゼンチン"
+        },
+        ko: {
+          title: "키르치네리스모 (2003~2015년): 좌파 페로니즘의 귀환",
+          desc: "네스토르 키르치네르와 크리스티나 페르난데스 데 키르치네르가 12년간 아르헨티나를 이끌며 2001년 위기 이후 경제를 회복한 좌파 페로니즘 정책의 시대.",
+          content: "<p class=\"mb-4\">키르치네리스모는 2003년 대통령이 된 네스토르 키르치네르와 2007년부터 2015년까지 이끈 아내 크리스티나 페르난데스 데 키르치네르의 정부 시대를指하며, 아르헨티나 역사상 최악의 2001년 경제 위기에서 국가를 회복시킨 좌파 페로니즘 정책으로 부부가 12년간 아르헨티나를 이끈 기간이었습니다.</p><p class=\"mb-4\">2003년 카를로스 메넴 대통령이 2라운드에서 철수한 후 단 22퍼센트의 득표로 선출된 네스토르 키르치네르는 대담한 부채 재구조화 정책과 IMF에 대한 강경 입장으로 2001년 위기에서 아르헨티나를 탈출시키고 2003년부터 2007년 사이 연평균 8퍼센트의 아르헨티나 경제 성장을 회복했습니다.</p><p class=\"mb-4\">2007년 선출된 크리스티나 페르난데스 데 키르치네르는 2012년 스페인으로부터 석유 회사 YPF를 국유화하고 사회 프로그램과 보조금을 확대했으며 2010년 동성결혼을 합법화하여 아르헨티나를 동성결혼을 합법화한 최초의 라틴아메리카 국가로 만들었고 보수적인 지역에서 두드러지는 진보적 성취였습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Nestor-Kirchner",
+          sourceSnippet: "Britannica — 네스토르 키르치네르",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet2: "BBC News — 키르치네리스모 아르헨티나"
+        },
+        zh: {
+          title: "基什内尔主义（2003-2015年）：左翼庇隆主义的回归",
+          desc: "基什内尔夫妇内斯托尔和克里斯蒂娜·费尔南德斯·德·基什内尔领导阿根廷12年，以左翼庇隆主义政策在2001年危机后恢复经济。",
+          content: "<p class=\"mb-4\">基什内尔主义指2003年成为总统的内斯托尔·基什内尔和2007年至2015年领导阿根廷的妻子克里斯蒂娜·费尔南德斯·德·基什内尔的政府时代，这是一个夫妇以左翼庇隆主义政策从阿根廷历史上最严重的2001年经济危机中恢复国家的12年时期。</p><p class=\"mb-4\">2003年以仅22%的选票在卡洛斯·梅内姆总统从第二轮退出后当选的内斯托尔·基什内尔以大胆的债务重组政策和对IMF的强硬立场带领阿根廷走出2001年危机，并在2003年至2007年间恢复阿根廷经济年均8%的增长。</p><p class=\"mb-4\">2007年当选的克里斯蒂娜·费尔南德斯·德·基什内尔延续丈夫的政策，于2012年将西班牙的石油公司YPF国有化，扩大社会项目和补贴，并于2010年将同性婚姻合法化，使阿根廷成为第一个将同性婚姻合法化的拉丁美洲国家，这在保守地区是一项突出的进步成就。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Nestor-Kirchner",
+          sourceSnippet: "Britannica — 内斯托尔·基什内尔",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-latin-america-16580560",
+          sourceSnippet2: "BBC News — 基什内尔主义阿根廷"
+        }
+      }
+    }
+
+    ]
 };

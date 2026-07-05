@@ -449,5 +449,469 @@ window.countryDataFiles['mesir'] = {
         }
       }
     }
-  ]
+    ,
+    {
+      id: "mesir-kleopatra-akhir-ptolemaik-30-sm",
+      langs: {
+        id: {
+          title: "Kleopatra VII dan Akhir Dinasti Ptolemaik (30 SM)",
+          desc: "Kleopatra VII sebagai firaun terakhir Mesir Kuno yang terkenal dengan hubungannya dengan Julius Caesar dan Mark Antony, serta kejatuhannya yang menandai berakhirnya peradaban Mesir Kuno.",
+          content: "<p class=\"mb-4\">Kleopatra VII Thea Philopator adalah firaun terakhir Mesir Kuno dari Dinasti Ptolemaik yang berkuasa dari 51 SM hingga kematiannya pada 30 SM, seorang wanita keturunan Yunani Makedonia yang menjadi salah satu tokoh paling terkenal dalam sejarah dunia karena kecerdasan politiknya, penguasaan tujuh bahasa, serta hubungan dramatisnya dengan Julius Caesar dan Mark Antony.</p><p class=\"mb-4\">Kleopatra memerintah Mesir yang saat itu merupakan salah satu kerajaan terkaya di dunia dengan Alexandria sebagai pusat ilmu pengetahuan dan kebudayaan Hellenistik, namun Mesir berada di bawah bayang-bayang Kekaisaran Romawi yang terus berkembang, sehingga Kleopatra berusaha mempertahankan kemerdekaan Mesir melalui aliansi dengan para pemimpin Romawi yang paling berkuasa.</p><p class=\"mb-4\">Hubungan Kleopatra dengan Julius Caesar menghasilkan seorang putra bernama Caesarion, dan setelah pembunuhan Caesar pada 44 SM, Kleopatra bersekutu dengan Mark Antony yang kemudian menjadi kekasihnya, sebuah aliansi politik dan romantis yang melahirkan tiga anak dan ambisi untuk membangun kekaisaran timur yang menantang Roma.</p><p class=\"mb-4\">Aliansi Kleopatra dan Antony berakhir dengan kekalahan telak oleh Octavianus yang kelak menjadi Kaisar Augustus, dalam Pertempuran Actium pada 31 SM di mana armada gabungan Mesir dan Antony dihancurkan, menyebabkan Antony dan Kleopatra melarikan diri ke Alexandria.</p><p class=\"mb-4\">Kleopatra meninggal pada Agustus 30 SM, secara tradisional diyakini dengan cara bunuh diri melalui gigitan ular asp, meskipun sejarawan modern memperdebatkan penyebab kematiannya, dengan kematiannya menandai berakhirnya Dinasti Ptolemaik dan peradaban Mesir Kuno yang telah berlangsung selama lebih dari 3.000 tahun, menjadikan Mesir sebagai provinsi Kekaisaran Romawi.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+          sourceSnippet: "Britannica — Cleopatra VII",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2400/cleopatra-vii/",
+          sourceSnippet2: "WHE — Cleopatra VII",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-africa-49276926",
+          sourceSnippet3: "BBC News — Cleopatra and ancient Egypt"
+        },
+        en: {
+          title: "Cleopatra VII and the End of the Ptolemaic Dynasty (30 BCE)",
+          desc: "Cleopatra VII as the last pharaoh of ancient Egypt, famous for her relationships with Julius Caesar and Mark Antony, and her fall marking the end of ancient Egyptian civilization.",
+          content: "<p class=\"mb-4\">Cleopatra VII Thea Philopator was the last pharaoh of ancient Egypt from the Ptolemaic Dynasty who ruled from 51 BCE until her death in 30 BCE, a woman of Macedonian Greek descent who became one of the most famous figures in world history for her political intelligence, mastery of seven languages, and her dramatic relationships with Julius Caesar and Mark Antony.</p><p class=\"mb-4\">Cleopatra ruled Egypt, then one of the wealthiest kingdoms in the world with Alexandria as the center of Hellenistic learning and culture, but Egypt was under the shadow of the expanding Roman Empire, so Cleopatra sought to maintain Egyptian independence through alliances with the most powerful Roman leaders.</p><p class=\"mb-4\">Cleopatra's relationship with Julius Caesar produced a son named Caesarion, and after Caesar's assassination in 44 BCE, Cleopatra allied with Mark Antony who became her lover, a political and romantic alliance that produced three children and ambitions to build an eastern empire challenging Rome.</p><p class=\"mb-4\">The alliance of Cleopatra and Antony ended with crushing defeat by Octavian who would become Emperor Augustus, at the Battle of Actium in 31 BCE where the combined Egyptian and Antony fleet was destroyed, causing Antony and Cleopatra to flee to Alexandria.</p><p class=\"mb-4\">Cleopatra died in August 30 BCE, traditionally believed by suicide through an asp bite, although modern historians debate the cause of her death, with her death marking the end of the Ptolemaic Dynasty and ancient Egyptian civilization that had lasted for more than 3,000 years, making Egypt a province of the Roman Empire.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+          sourceSnippet: "Britannica — Cleopatra VII",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2400/cleopatra-vii/",
+          sourceSnippet2: "WHE — Cleopatra VII",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-africa-49276926",
+          sourceSnippet3: "BBC News — Cleopatra and ancient Egypt"
+        },
+        ja: {
+          title: "クレオパトラ7世とプトレマイオス朝の終焉（紀元前30年）",
+          desc: "古代エジプト最後のファラオであるクレオパトラ7世はユリウス・カエサルとマルクス・アントニウスとの関係で有名であり、彼女の没落は古代エジプト文明の終焉を告げた。",
+          content: "<p class=\"mb-4\">クレオパトラ7世テア・フィロパトルは紀元前51年から紀元前30年の死まで統治したプトレマイオス朝最後のファラオであり、マケドニア系ギリシャ人の血を引く女性で、その政治的才智、7言語の習熟、ユリウス・カエサルとマルクス・アントニウスとの劇的な関係により世界史上最も有名な人物の一人となりました。</p><p class=\"mb-4\">クレオパトラは当時世界で最も豊かな王国の一つであり、ヘレニズムの学問と文化の中心であったアレクサンドリアを持つエジプトを統治しましたが、エジプトは拡大するローマ帝国の影の下にあり、クレオパトラは最も強力なローマの指導者たちとの同盟を通じてエジプトの独立を維持しようとしました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+          sourceSnippet: "Britannica — クレオパトラ7世",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2400/cleopatra-vii/",
+          sourceSnippet2: "WHE — クレオパトラ7世"
+        },
+        ko: {
+          title: "클레오파트라 7세와 프톨레마이오스 왕조의 종말 (기원전 30년)",
+          desc: "고대 이집트 최후의 파라오인 클레오파트라 7세는 율리우스 카이사르와 마르쿠스 안토니우스와의 관계로 유명하며, 그녀의 몰락은 고대 이집트 문명의 종말을 알렸다.",
+          content: "<p class=\"mb-4\">클레오파트라 7세 테아 필로파토르는 기원전 51년부터 기원전 30년 사망까지 통치한 프톨레마이오스 왕조 최후의 파라오로, 마케도니아계 그리스인 혈통의 여성으로 정치적 지혜, 7개 언어 구사, 율리우스 카이사르 및 마르쿠스 안토니우스와의 극적인 관계로 세계 역사상 가장 유명한 인물 중 한 명이 되었습니다.</p><p class=\"mb-4\">클레오파트라는 당시 세계에서 가장 부유한 왕국 중 하나이며 헬레니즘 학문과 문화의 중심지인 알렉산드리아를 가진 이집트를 통치했으나, 이집트는 팽창하는 로마 제국의 그림자 아래 있었고 클레오파트라는 가장 강력한 로마 지도자들과의 동맹을 통해 이집트의 독립을 유지하려 했습니다.</p><p class=\"mb-4\">클레오파트라와 율리우스 카이사르의 관계에서 카이사리온이라는 아들이 태어났고, 기원전 44년 카이사르 암살 후 클레오파트라는 연인이 된 마르쿠스 안토니우스와 동맹을 맺었으며, 이 정치적이고 로맨틱한 동맹은 세 자녀를 낳고 로마에 도전하는 동방 제국을 건설하려는 야망을 낳았습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+          sourceSnippet: "Britannica — 클레오파트라 7세",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2400/cleopatra-vii/",
+          sourceSnippet2: "WHE — 클레오파트라 7세"
+        },
+        zh: {
+          title: "克娄巴特拉七世与托勒密王朝的终结（公元前30年）",
+          desc: "克娄巴特拉七世作为古埃及最后一位法老，因与尤利乌斯·凯撒和马克·安东尼的关系而闻名，她的陨落标志着古埃及文明的终结。",
+          content: "<p class=\"mb-4\">克娄巴特拉七世·忒亚·菲洛帕托尔是托勒密王朝最后一位法老，自公元前51年统治至公元前30年去世，这位马其顿希腊裔女性因政治智慧、精通七种语言以及与尤利乌斯·凯撒和马克·安东尼的戏剧性关系而成为世界历史上最著名的人物之一。</p><p class=\"mb-4\">克娄巴特拉统治的埃及当时是世界上最富有的王国之一，亚历山大城是希腊化学问和文化的中心，但埃及处于不断扩张的罗马帝国阴影之下，因此克娄巴特拉试图通过与最强大的罗马领导人结盟来维护埃及的独立。</p><p class=\"mb-4\">克娄巴特拉与尤利乌斯·凯撒的关系生下了一个儿子凯撒里昂，凯撒于公元前44年被暗杀后，克娄巴特拉与成为她恋人的马克·安东尼结盟，这一政治和浪漫联盟产生了三个孩子和建立挑战罗马的东方帝国的野心。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+          sourceSnippet: "Britannica — 克娄巴特拉七世",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2400/cleopatra-vii/",
+          sourceSnippet2: "WHE — 克娄巴特拉七世"
+        }
+      }
+    },
+    {
+      id: "mesir-penaklukan-arab-islam-639-642",
+      langs: {
+        id: {
+          title: "Penaklukan Arab Islam atas Mesir (639-642 M)",
+          desc: "Pasukan Arab Muslim di bawah Amr ibn al-As menaklukkan Mesir dari Kekaisaran Romawi Timur, mengubah Mesir menjadi wilayah Islam dan mengakhiri 600 tahun kekuasaan Romawi.",
+          content: "<p class=\"mb-4\">Penaklukan Arab atas Mesir dimulai pada 639 Masehi ketika pasukan Muslim di bawah komando Amr ibn al-As yang berjumlah sekitar 4.000 orang memasuki wilayah Mesir dari Palestina, pada masa kekhalifahan Umar ibn al-Khattab, menghadapi Mesir yang saat itu berada di bawah kekuasaan Kekaisaran Romawi Timur atau Bizantium.</p><p class=\"mb-4\">Pasukan Muslim yang awalnya kecil bertumbuh menjadi sekitar 15.000 orang dengan bantuan pasukan tambahan dari Khalifah Umar, dan secara bertahap merebut benteng-benteng Romawi di Delta Nil, dengan Benteng Babylon yang menjadi pertahanan terakhir Romawi jatuh setelah pengepungan berbulan-bulan pada 640.</p><p class=\"mb-4\">Ibu kota Alexandria yang merupakan pusat kebudayaan dan ekonomi Mesir serta rumah bagi Perpustakaan Alexandria yang terkenal, menyerah secara damai pada 642 setelah perundingan yang menjamin keamanan penduduk dan kebebasan beragama, menandai berakhirnya kekuasaan Romawi di Mesir yang telah berlangsung selama sekitar 600 tahun sejak penaklukan Augustus pada 30 SM.</p><p class=\"mb-4\">Penaklukan Arab mengubah Mesir secara fundamental, dengan bahasa Arab yang secara bertahap menggantikan bahasa Koptik dan Yunani sebagai bahasa administrasi dan kebudayaan, serta Islam yang menggantikan Kekristenan sebagai agama mayoritas dalam beberapa abad berikutnya, sebuah transformasi budaya dan religius yang masih membentuk identitas Mesir hingga hari ini.</p><p class=\"mb-4\">Mesir di bawah kekuasaan Islam berkembang menjadi salah satu pusat peradaban Islam terbesar, dengan kota Fustat yang didirikan Amr ibn al-As sebagai ibu kota baru yang kelak berkembang menjadi Kairo, serta menjadi pusat ilmu pengetahuan Islam dengan universitas Al-Azhar yang didirikan pada 970 dan masih beroperasi hingga saat ini sebagai salah satu universitas tertua di dunia.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Egypt/The-Islamic-period",
+          sourceSnippet: "Britannica — Egypt Islamic conquest",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2405/islamic-conquest-of-egypt/",
+          sourceSnippet2: "WHE — Islamic conquest of Egypt",
+          source3: "Al-Azhar University",
+          sourceUrl3: "https://www.alazhar.edu.sa/",
+          sourceSnippet3: "Al-Azhar — History of Islamic Egypt"
+        },
+        en: {
+          title: "The Arab Islamic Conquest of Egypt (639-642 CE)",
+          desc: "Arab Muslim forces under Amr ibn al-As conquered Egypt from the Eastern Roman Empire, transforming Egypt into an Islamic territory and ending 600 years of Roman rule.",
+          content: "<p class=\"mb-4\">The Arab conquest of Egypt began in 639 CE when Muslim forces under the command of Amr ibn al-As numbering about 4,000 entered Egyptian territory from Palestine, during the caliphate of Umar ibn al-Khattab, facing Egypt then under the rule of the Eastern Roman or Byzantine Empire.</p><p class=\"mb-4\">The initially small Muslim force grew to about 15,000 with additional troops from Caliph Umar, and gradually captured Roman fortresses in the Nile Delta, with the Fortress of Babylon, the last Roman stronghold, falling after months of siege in 640.</p><p class=\"mb-4\">The capital Alexandria, the center of Egyptian culture and economy and home to the famous Library of Alexandria, surrendered peacefully in 642 after negotiations guaranteeing inhabitants' safety and religious freedom, marking the end of Roman rule in Egypt that had lasted about 600 years since Augustus's conquest in 30 BCE.</p><p class=\"mb-4\">The Arab conquest transformed Egypt fundamentally, with the Arabic language gradually replacing Coptic and Greek as the language of administration and culture, and Islam replacing Christianity as the majority religion over the following centuries, a cultural and religious transformation that still shapes Egyptian identity to this day.</p><p class=\"mb-4\">Egypt under Islamic rule developed into one of the greatest centers of Islamic civilization, with the city of Fustat founded by Amr ibn al-As as the new capital that would later develop into Cairo, and becoming a center of Islamic learning with Al-Azhar University founded in 970 that still operates today as one of the oldest universities in the world.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Egypt/The-Islamic-period",
+          sourceSnippet: "Britannica — Egypt Islamic conquest",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2405/islamic-conquest-of-egypt/",
+          sourceSnippet2: "WHE — Islamic conquest of Egypt",
+          source3: "Al-Azhar University",
+          sourceUrl3: "https://www.alazhar.edu.sa/",
+          sourceSnippet3: "Al-Azhar — History of Islamic Egypt"
+        },
+        ja: {
+          title: "アラブ・イスラームのエジプト征服（639〜642年）",
+          desc: "アムル・イブン・アル＝アース率いるアラブ・ムスリム軍が東ローマ帝国からエジプトを征服し、エジプトをイスラーム圏とし、600年のローマ支配を終わらせた。",
+          content: "<p class=\"mb-4\">エジプトのアラブ征服は639年にアムル・イブン・アル＝アースの指揮下で約4,000人のムスリム軍がパレスチナからエジプト領に侵入したことから始まり、ウマル・イブン・アル＝ハッターブのカリフ時代で、当時エジプトは東ローマ帝国の支配下にありました。</p><p class=\"mb-4\">最初は小さかったムスリム軍はカリフ・ウマルからの追加兵力で約15,000人に成長し、ナイル・デルタのローマ要塞を徐々に攻略し、最後のローマ拠点であるバビロン要塞は640年に数か月の包囲の後に陥落しました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Egypt/The-Islamic-period",
+          sourceSnippet: "Britannica — エジプト・イスラーム征服",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2405/islamic-conquest-of-egypt/",
+          sourceSnippet2: "WHE — エジプトのイスラーム征服"
+        },
+        ko: {
+          title: "아랍 이슬람의 이집트 정복 (639~642년)",
+          desc: "아므르 이븐 알아스 휘하 아랍 무슬림 군대가 동로마 제국에서 이집트를 정복하여 이집트를 이슬람 영토로 변화시키고 600년의 로마 지배를 종식시켰다.",
+          content: "<p class=\"mb-4\">이집트의 아랍 정복은 639년 아므르 이븐 알아스의 지휘 아래 약 4,000명의 무슬림 군대가 팔레스타인에서 이집트 영토에 진입하면서 시작되었으며, 우마르 이븐 알카타브의 칼리프 시대에 당시 동로마 제국의 지배 아래 있던 이집트를面对했습니다.</p><p class=\"mb-4\">처음에 작았던 무슬림 군대는 칼리프 우마르의 추가 병력으로 약 15,000명으로 성장했고, 나일 삼각주의 로마 요새를 점진적으로 점령했으며, 마지막 로마 거점인 바빌론 요새는 640년 수개월의 포위 끝에 함락되었습니다.</p><p class=\"mb-4\">이집트 문화와 경제의 중심이자 유명한 알렉산드리아 도서관의 본거지인 수도 알렉산드리아는 주민의 안전과 종교의 자유를 보장하는 협상 후 642년 평화적으로 항복하여, 기원전 30년 아우구스투스의 정복 이후 약 600년간 지속된 이집트의 로마 지배의 종말을 알렸습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Egypt/The-Islamic-period",
+          sourceSnippet: "Britannica — 이집트 이슬람 정복",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2405/islamic-conquest-of-egypt/",
+          sourceSnippet2: "WHE — 이집트의 이슬람 정복"
+        },
+        zh: {
+          title: "阿拉伯伊斯兰征服埃及（639-642年）",
+          desc: "阿姆尔·伊本·阿斯率领的阿拉伯穆斯林军队从东罗马帝国征服了埃及，将埃及变为伊斯兰领土并结束了600年的罗马统治。",
+          content: "<p class=\"mb-4\">阿拉伯对埃及的征服始于639年，阿姆尔·伊本·阿斯指挥下约4,000名穆斯林军队从巴勒斯坦进入埃及领土，在欧麦尔·伊本·哈塔卜哈里发时期，面对当时处于东罗马或拜占庭帝国统治下的埃及。</p><p class=\"mb-4\">最初规模较小的穆斯林军队在哈里发欧麦尔的增援下增至约15,000人，逐步攻占尼罗河三角洲的罗马要塞，最后的罗马据点巴比伦要塞在640年经过数月围攻后陷落。</p><p class=\"mb-4\">埃及文化和经济中心以及著名的亚历山大图书馆所在地的首都亚历山大城，在保证居民安全和宗教自由的谈判后于642年和平投降，标志着自公元前30年奥古斯都征服以来持续约600年的罗马在埃及统治的终结。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Egypt/The-Islamic-period",
+          sourceSnippet: "Britannica — 埃及伊斯兰征服",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2405/islamic-conquest-of-egypt/",
+          sourceSnippet2: "WHE — 埃及的伊斯兰征服"
+        }
+      }
+    },
+    {
+      id: "mesir-salahuddin-ayyubi-perang-salib-1174-1193",
+      langs: {
+        id: {
+          title: "Salahuddin Al-Ayyubi dan Perang Salib (1174-1193)",
+          desc: "Salahuddin Al-Ayyubi yang menyatukan dunia Islam dan merebut Yerusalem dari Tentara Salib pada 1187 menjadi salah satu pemimpin paling dihormati dalam sejarah dunia.",
+          content: "<p class=\"mb-4\">Salahuddin Yusuf ibn Ayyub atau dikenal sebagai Saladin di Barat, adalah seorang pemimpin Muslim Kurdi yang mendirikan Dinasti Ayyubiyah dan menjadi sultan Mesir serta Suriah dari 1174 hingga kematiannya pada 1193, terkenal karena keberaniannya menyatukan dunia Islam yang terpecah dan merebut kembali Yerusalem dari tangan Tentara Salib.</p><p class=\"mb-4\">Puncak pencapaian Salahuddin adalah Pertempuran Hattin pada 4 Juli 1187 di mana pasukannya mengalahkan pasukan Kerajaan Yerusalem secara telak, kemudian merebut kembali kota Yerusalem yang telah berada di bawah kekuasaan Tentara Salib selama 88 tahun sejak 1099, dengan Salahuddin memasuki Yerusalem secara damai dan menjamin keamanan penduduk Kristen yang diperbolehkan pergi setelah membayar tebusan.</p><p class=\"mb-4\">Kehancuran Yerusalem memicu Perang Salib Ketiga yang dikenal sebagai Kings Crusade, yang melibatkan raja-raja Eropa paling berkuasa yaitu Richard the Lionheart dari Inggris, Philippe II dari Prancis, dan Friedrich Barbarossa dari Kekaisaran Romawi Suci, dengan pertempuran antara Salahuddin dan Richard yang menjadi salah satu rivalitas militer paling legendaris dalam sejarah.</p><p class=\"mb-4\">Perang Salib Ketiga berakhir dengan Perjanjian Ramla pada 1192 di mana Yerusalem tetap di bawah kekuasaan Muslim namun peziarah Kristen diperbolehkan mengunjungi kota suci, sebuah perjanjian yang menunjukkan kemampuan diplomasi dan toleransi Salahuddin yang bahkan diakui oleh musuh-musuh Kristen-nya sebagai prajurit yang terhormat.</p><p class=\"mb-4\">Salahuddin wafat pada 4 Maret 1193 di Damaskus, meninggalkan kekaisaran yang membentang dari Mesir hingga Iraq, dan warisannya sebagai pemimpin yang adil, dermawan, dan terhormat terus dihormati oleh baik dunia Islam maupun Barat hingga hari ini, dengan namanya menjadi simbol kesatriaan dan toleransi yang melampaui batas agama dan peradaban.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Saladin",
+          sourceSnippet: "Britannica — Saladin",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2410/saladin/",
+          sourceSnippet2: "WHE — Saladin",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-middle-east-49278005",
+          sourceSnippet3: "BBC News — Saladin and Crusades"
+        },
+        en: {
+          title: "Saladin and the Crusades (1174-1193)",
+          desc: "Saladin who unified the Islamic world and recaptured Jerusalem from the Crusaders in 1187 became one of the most respected leaders in world history.",
+          content: "<p class=\"mb-4\">Salahuddin Yusuf ibn Ayyub or known as Saladin in the West, was a Kurdish Muslim leader who founded the Ayyubid Dynasty and became sultan of Egypt and Syria from 1174 until his death in 1193, famous for his courage in unifying the divided Islamic world and recapturing Jerusalem from the Crusaders.</p><p class=\"mb-4\">Saladin's peak achievement was the Battle of Hattin on July 4, 1187, where his forces decisively defeated the Kingdom of Jerusalem's army, then recaptured the city of Jerusalem that had been under Crusader control for 88 years since 1099, with Saladin entering Jerusalem peacefully and guaranteeing the safety of Christian residents who were allowed to leave after paying ransom.</p><p class=\"mb-4\">The fall of Jerusalem triggered the Third Crusade known as the Kings Crusade, involving Europe's most powerful kings: Richard the Lionheart of England, Philippe II of France, and Friedrich Barbarossa of the Holy Roman Empire, with the battles between Saladin and Richard becoming one of the most legendary military rivalries in history.</p><p class=\"mb-4\">The Third Crusade ended with the Treaty of Ramla in 1192 where Jerusalem remained under Muslim control but Christian pilgrims were allowed to visit the holy city, a treaty showing Saladin's diplomatic ability and tolerance that was acknowledged even by his Christian enemies as an honorable warrior.</p><p class=\"mb-4\">Saladin died on March 4, 1193, in Damascus, leaving an empire stretching from Egypt to Iraq, and his legacy as a just, generous, and honorable leader continues to be respected by both the Islamic and Western worlds to this day, with his name becoming a symbol of chivalry and tolerance transcending religious and civilizational boundaries.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Saladin",
+          sourceSnippet: "Britannica — Saladin",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2410/saladin/",
+          sourceSnippet2: "WHE — Saladin",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-middle-east-49278005",
+          sourceSnippet3: "BBC News — Saladin and Crusades"
+        },
+        ja: {
+          title: "サラーフッディーンと十字軍（1174〜1193年）",
+          desc: "イスラーム世界を統一し1187年に十字軍からエルサレムを奪還したサラーフッディーンは世界史上最も尊敬される指導者の一人となった。",
+          content: "<p class=\"mb-4\">サラーフッディーン・ユースフ・イブン・アイユーブまたは西洋でサラディンとして知られる人物は、アイユーブ朝を創設し1174年の死までエジプトとシリアのスルタンとなったクルド系ムスリムの指導者で、分裂したイスラーム世界を統一し十字軍からエルサレムを奪還する勇気で有名でした。</p><p class=\"mb-4\">サラディンの最大の業績は1187年7月4日のハッティンの戦いで、彼の軍隊がエルサレム王国の軍隊を決定的に打ち破り、1099年から88年間十字軍の支配下にあったエルサレム市を奪還し、サラディンは平和的にエルサレムに入城し身代金を支払った後にキリスト教住民の安全と出国を保証しました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Saladin",
+          sourceSnippet: "Britannica — サラディン",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2410/saladin/",
+          sourceSnippet2: "WHE — サラディン"
+        },
+        ko: {
+          title: "살라딘과 십자군 (1174~1193년)",
+          desc: "이슬람 세계를 통일하고 1187년 십자군에서 예루살렘을 탈환한 살라딘은 세계 역사상 가장 존경받는 지도자 중 한 명이 되었다.",
+          content: "<p class=\"mb-4\">살라흐 앗딘 유수프 이븐 아이유브 또는 서양에서 살라딘으로 알려진 인물은 아이유브 왕조를 세우고 1174년부터 1193년 사망까지 이집트와 시리아의 술탄이 된 쿠르드계 무슬림 지도자로, 분열된 이슬람 세계를 통일하고 십자군에서 예루살렘을 탈환하는 용기로 유명했습니다.</p><p class=\"mb-4\">살라딘의 최고 성취는 1187년 7월 4일 하틴 전투에서 그의 군대가 예루살렘 왕국의 군대를 결정적으로 격파하고, 1099년부터 88년간 십자군의 통제 아래 있던 예루살렘시를 탈환했으며, 살라딘은 평화적으로 예루살렘에 입성하고 몸값을 지불한 후 떠나는 기독교 주민의 안전을 보장했습니다.</p><p class=\"mb-4\">예루살렘의 함락은 잉글랜드의 사자왕 리처드, 프랑스의 필리프 2세, 신성 로마 제국의 프리드리히 바르바로사 등 유럽 최고의 왕들이 참여한 제3차 십자군을 촉발했으며, 살라딘과 리처드 간의 전투는 역사상 가장 전설적인 군사적 라이벌 관계 중 하나가 되었습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Saladin",
+          sourceSnippet: "Britannica — 살라딘",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2410/saladin/",
+          sourceSnippet2: "WHE — 살라딘"
+        },
+        zh: {
+          title: "萨拉丁与十字军（1174-1193年）",
+          desc: "统一伊斯兰世界并于1187年从十字军手中夺回耶路撒冷的萨拉丁成为世界历史上最受尊敬的领袖之一。",
+          content: "<p class=\"mb-4\">萨拉丁·优素福·伊本·阿尤布或西方所称的Saladin，是一位库尔德穆斯林领袖，他建立了阿尤布王朝并于1174年至1193年去世期间担任埃及和叙利亚的苏丹，以统一分裂的伊斯兰世界并从十字军手中夺回耶路撒冷的勇气而闻名。</p><p class=\"mb-4\">萨拉丁的巅峰成就是1187年7月4日的哈丁战役，他的军队决定性地击败了耶路撒冷王国的军队，随后夺回了自1099年以来被十字军控制88年的耶路撒冷城，萨拉丁和平进入耶路撒冷并保证在支付赎金后可以离开的基督教居民的安全。</p><p class=\"mb-4\">耶路撒冷的陷落引发了涉及欧洲最强大国王——英格兰的狮心王理查、法国的腓力二世和神圣罗马帝国的腓特烈·巴巴罗萨的第三次十字军东征，萨拉丁与理查之间的战斗成为历史上最传奇的军事对决之一。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Saladin",
+          sourceSnippet: "Britannica — 萨拉丁",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2410/saladin/",
+          sourceSnippet2: "WHE — 萨拉丁"
+        }
+      }
+    },
+    {
+      id: "mesir-terowongan-suez-1869",
+      langs: {
+        id: {
+          title: "Terowongan Suez (1869): Jalur Laut yang Mengubah Dunia",
+          desc: "Terowongan Suez yang dibuka pada 1869 menghubungkan Laut Mediterania dengan Laut Merah, mempersingkat rute Eropa-Asia dan menjadi salah satu jalur pelayaran tersibuk di dunia.",
+          content: "<p class=\"mb-4\">Terowongan Suez yang dibangun selama sepuluh tahun dari 1859 hingga 1869 menghubungkan Laut Mediterania di Port Said dengan Laut Merah di Suez, menjadi salah satu infrastruktur maritim terpenting dalam sejarah dunia yang mempersingkat rute pelayaran antara Eropa dan Asia sekitar 7.000 kilometer tanpa perlu mengelilingi Afrika.</p><p class=\"mb-4\">Pembangunan terowongan ini diprakarsai oleh Ferdinand de Lesseps, seorang diplomat Prancis yang mendapatkan konsesi dari Said Pasha, penguasa Mesir, dengan pembangunan yang mempekerjakan jutaan pekerja Mesir dalam kondisi yang sangat keras, dengan perkiraan puluhan ribu pekerja meninggal akibat kolera dan kelelahan selama dekade pembangunan.</p><p class=\"mb-4\">Terowongan Suez secara resmi dibuka pada 17 November 1869 dengan upacara megah yang dihadiri oleh kepala-kepala negara Eropa termasuk Permaisuri Eugenie dari Prancis, dengan biaya pembangunan yang membengkak secara luar biasa mengakibatkan Mesir terjebak dalam utang luar negeri yang massive, yang kelak menjadi salah satu penyebab Mesir jatuh di bawah kendali Inggris pada 1882.</p><p class=\"mb-4\">Terowongan Suez memiliki nilai strategis yang luar biasa, menjadi jalur pelayaran tersibuk di dunia dengan sekitar 12 persen perdagangan global melewati terowongan ini, sehingga menjadi sumber konflik geopolitik berulang termasuk Krisis Suez 1956 ketika Mesir menasionalisasi terowongan dan Inggris-Prancis-Israel menyerang Mesir untuk merebutnya kembali.</p><p class=\"mb-4\">Hingga hari ini Terowongan Suez tetap menjadi salah satu jalur pelayaran terpenting di dunia yang dikelola oleh pemerintah Mesir, dengan perluasan terowongan yang selesai pada 2015 memungkinkan kapal melewati dua arah secara bersamaan, meski insiden seperti terkaitnya kapal Ever Given pada Maret 2021 yang memblokir terowongan selama enam hari menunjukkan betapa pentingnya jalur ini bagi perdagangan global.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Suez-Canal",
+          sourceSnippet: "Britannica — Suez Canal",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-56581155",
+          sourceSnippet2: "BBC News — Suez Canal and Ever Given",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2415/suez-canal/",
+          sourceSnippet3: "WHE — Suez Canal"
+        },
+        en: {
+          title: "The Suez Canal (1869): Sea Route That Changed the World",
+          desc: "The Suez Canal opened in 1869 connecting the Mediterranean with the Red Sea, shortening the Europe-Asia route and becoming one of the world's busiest shipping lanes.",
+          content: "<p class=\"mb-4\">The Suez Canal built over ten years from 1859 to 1869 connects the Mediterranean Sea at Port Said with the Red Sea at Suez, becoming one of the most important maritime infrastructures in world history that shortened the shipping route between Europe and Asia by about 7,000 kilometers without needing to circumnavigate Africa.</p><p class=\"mb-4\">The canal's construction was initiated by Ferdinand de Lesseps, a French diplomat who obtained a concession from Said Pasha, the ruler of Egypt, with construction employing millions of Egyptian workers in very harsh conditions, with an estimated tens of thousands of workers dying from cholera and exhaustion during the construction decade.</p><p class=\"mb-4\">The Suez Canal was officially opened on November 17, 1869, with a grand ceremony attended by European heads of state including Empress Eugenie of France, with construction costs that ballooned extraordinarily causing Egypt to fall into massive foreign debt, which later became one of the causes of Egypt falling under British control in 1882.</p><p class=\"mb-4\">The Suez Canal has extraordinary strategic value, being the world's busiest shipping lane with about 12 percent of global trade passing through the canal, making it a source of recurring geopolitical conflict including the 1956 Suez Crisis when Egypt nationalized the canal and Britain-France-Israel attacked Egypt to retake it.</p><p class=\"mb-4\">To this day the Suez Canal remains one of the world's most important shipping lanes managed by the Egyptian government, with the canal expansion completed in 2015 allowing ships to pass in both directions simultaneously, though incidents like the Ever Given grounding in March 2021 that blocked the canal for six days show how crucial this route is to global trade.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Suez-Canal",
+          sourceSnippet: "Britannica — Suez Canal",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-56581155",
+          sourceSnippet2: "BBC News — Suez Canal and Ever Given",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2415/suez-canal/",
+          sourceSnippet3: "WHE — Suez Canal"
+        },
+        ja: {
+          title: "スエズ運河（1869年）：世界を変えた海路",
+          desc: "1869年に開通したスエズ運河は地中海と紅海を結び、ヨーロッパとアジアの航路を短縮し、世界で最も忙しい航路の一つとなった。",
+          content: "<p class=\"mb-4\">1859年から1869年まで10年間かけて建設されたスエズ運河はポートサイドの地中海とスエズの紅海を結び、アフリカを迂回することなくヨーロッパとアジア間の航路を約7,000キロメートル短縮する世界史上最も重要な海洋インフラの一つとなりました。</p><p class=\"mb-4\">運河の建設はエジプトの支配者サイード・パシャから特許を得たフランスの外交官フェルディナン・ド・レセップスによって主導され、建設には数百万人のエジプト人労働者が非常に過酷な条件下で雇用され、建設の10年間で数万人の労働者がコレラや疲労で死亡したと推定されています。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Suez-Canal",
+          sourceSnippet: "Britannica — スエズ運河",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-56581155",
+          sourceSnippet2: "BBC News — スエズ運河とEver Given"
+        },
+        ko: {
+          title: "수에즈 운하 (1869년): 세계를 바꾼 해로",
+          desc: "1869년 개통된 수에즈 운하는 지중해와 홍해를 연결하여 유럽-아시아 항로를 단축시키고 세계에서 가장 붐비는 항로 중 하나가 되었다.",
+          content: "<p class=\"mb-4\">1859년부터 1869년까지 10년간 건설된 수에즈 운하는 포트사이드의 지중해와 수에즈의 홍해를 연결하여 아프리카를 우회할 필요 없이 유럽과 아시아 간 항로를 약 7,000킬로미터 단축하는 세계 역사상 가장 중요한 해상 인프라 중 하나가 되었습니다.</p><p class=\"mb-4\">운하 건설은 이집트 통치자 사이드 파샤에서 특허를 얻은 프랑스 외교관 페르디낭 드 레셉스에 의해 주도되었으며, 건설에는 수백만 명의 이집트인 노동자가 매우 가혹한 조건에서 고용되었고 건설 10년간 수만 명의 노동자가 콜레라와 피로로 사망한 것으로 추정됩니다.</p><p class=\"mb-4\">수에즈 운하는 1869년 11월 17일 프랑스의 외제니 황후를 포함한 유럽 국가원들이 참석한 대규모 행사로 공식 개통되었으며, 건설 비용이 비정상적으로 증가하여 이집트가 막대한 외채에 빠지게 했고 이는 훗날 1882년 이집트가 영국의 통제 아래 떨어지는 원인 중 하나가 되었습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Suez-Canal",
+          sourceSnippet: "Britannica — 수에즈 운하",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-56581155",
+          sourceSnippet2: "BBC News — 수에즈 운하와 Ever Given"
+        },
+        zh: {
+          title: "苏伊士运河（1869年）：改变世界的海路",
+          desc: "1869年开通的苏伊士运河连接地中海与红海，缩短了欧亚航线，成为世界上最繁忙的航线之一。",
+          content: "<p class=\"mb-4\">苏伊士运河于1859年至1869年历时十年建设，连接了塞得港的地中海与苏伊士的红海，成为世界历史上最重要的海上基础设施之一，将欧洲与亚洲之间的航线缩短约7,000公里而无需绕行非洲。</p><p class=\"mb-4\">运河的建设由从埃及统治者赛义德帕夏处获得特许的法国外交官斐迪南·德·雷赛布主导，建设雇用了数百万埃及工人在非常艰苦的条件下工作，据估计在建设十年间有数万名工人死于霍乱和疲劳。</p><p class=\"mb-4\">苏伊士运河于1869年11月17日举行盛大仪式正式开通，包括法国皇后欧仁妮在内的欧洲国家元首出席，建设成本的异常膨胀使埃及陷入巨额外债，后来成为1882年埃及落入英国控制的原因之一。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Suez-Canal",
+          sourceSnippet: "Britannica — 苏伊士运河",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-56581155",
+          sourceSnippet2: "BBC News — 苏伊士运河与长赐号"
+        }
+      }
+    },
+    {
+      id: "mesir-revolusi-1952-nasser",
+      langs: {
+        id: {
+          title: "Revolusi 1952 dan Gamal Abdel Nasser: Era Republik Mesir",
+          desc: "Revolusi 1952 menggulingkan monarki Mesir dan mengangkat Gamal Abdel Nasser sebagai pemimpin yang menjadi ikon nasionalisme Arab dan anti-imperialisme di Timur Tengah.",
+          content: "<p class=\"mb-4\">Revolusi 23 Juli 1952 dilakukan oleh Gerakan Perwira Bebas yang dipimpin oleh para perwira militer muda termasuk Gamal Abdel Nasser dan Muhammad Naguib, yang menggulingkan Raja Farouk yang dianggap korup dan boneka Inggris, mengakhiri monarki Mesir yang berlangsung sejak 1805 di bawah Dinasti Muhammad Ali.</p><p class=\"mb-4\">Gamal Abdel Nasser yang menjadi pemimpin utama Mesir sejak 1954 memimpin Mesir dengan visi nasionalisme Arab dan sosialisme, melakukan reformasi tanah yang besar-besaran, nasionalisasi Terowongan Suez pada 1956 yang memicu Krisis Suez, serta membangun Bendungan Aswan yang menjadi simbol pembangunan Mesir modern.</p><p class=\"mb-4\">Nasser menjadi ikon nasionalisme Arab yang pengaruhnya melampaui batas Mesir, dengan gagasan Pan-Arabism atau kesatuan dunia Arab yang terwujud sebentar melalui Republik Arab Bersatu antara Mesir dan Suriah dari 1958 hingga 1961, menjadikan Nasser sebagai pemimpin paling berpengaruh di dunia Arab pada masanya.</p><p class=\"mb-4\">Kepemimpinan Nasser juga ditandai dengan kekalahan telak dalam Perang Enam Hari 1967 di mana Israel merebut Semenanjung Sinai, Jalur Gaza, Tepi Barat, dan Dataran Tinggi Golan dalam enam hari, sebuah kekalahan yang menghancurkan citra Nasser dan memicu krisis politik yang membuatnya sempat mengundurkan diri sebelum ditarik kembali oleh tekanan rakyat.</p><p class=\"mb-4\">Nasser wafat mendadak pada 28 September 1970 setelah pidato di Kairo, kematiannya memicu mourning massal dengan jutaan orang Mesir menghadiri pemakamannya, menjadikannya salah satu pemimpin paling dicintai dalam sejarah Mesir modern meski warisan politiknya masih diperdebatkan, dengan era pasca-Nasser yang ditandai oleh Perang Yom Kippur 1973 dan Perjanjian Camp David 1979 yang mengubah posisi Mesir di Timur Tengah.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gamal-Abdel-Nasser",
+          sourceSnippet: "Britannica — Gamal Abdel Nasser",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-14625284",
+          sourceSnippet2: "BBC News — Egypt 1952 revolution and Nasser",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2420/nasser-and-egypt/",
+          sourceSnippet3: "WHE — Nasser and Egypt"
+        },
+        en: {
+          title: "The 1952 Revolution and Gamal Abdel Nasser: Era of the Egyptian Republic",
+          desc: "The 1952 revolution overthrew the Egyptian monarchy and elevated Gamal Abdel Nasser as leader who became an icon of Arab nationalism and anti-imperialism in the Middle East.",
+          content: "<p class=\"mb-4\">The July 23, 1952 revolution was carried out by the Free Officers Movement led by young military officers including Gamal Abdel Nasser and Muhammad Naguib, who overthrew King Farouk considered corrupt and a British puppet, ending the Egyptian monarchy that had lasted since 1805 under the Muhammad Ali Dynasty.</p><p class=\"mb-4\">Gamal Abdel Nasser who became Egypt's primary leader from 1954 led Egypt with a vision of Arab nationalism and socialism, carrying out massive land reforms, nationalizing the Suez Canal in 1956 that triggered the Suez Crisis, and building the Aswan Dam that became a symbol of modern Egyptian development.</p><p class=\"mb-4\">Nasser became an icon of Arab nationalism whose influence transcended Egypt's borders, with his Pan-Arabism idea or unity of the Arab world briefly realized through the United Arab Republic between Egypt and Syria from 1958 to 1961, making Nasser the most influential leader in the Arab world of his time.</p><p class=\"mb-4\">Nasser's leadership was also marked by the crushing defeat in the 1967 Six-Day War where Israel captured the Sinai Peninsula, Gaza Strip, West Bank, and Golan Heights in six days, a defeat that shattered Nasser's image and triggered a political crisis that made him briefly resign before being pulled back by popular pressure.</p><p class=\"mb-4\">Nasser died suddenly on September 28, 1970, after a speech in Cairo, his death triggering mass mourning with millions of Egyptians attending his funeral, making him one of the most beloved leaders in modern Egyptian history though his political legacy remains debated, with the post-Nasser era marked by the 1973 Yom Kippur War and the 1979 Camp David Accords that changed Egypt's position in the Middle East.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gamal-Abdel-Nasser",
+          sourceSnippet: "Britannica — Gamal Abdel Nasser",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-14625284",
+          sourceSnippet2: "BBC News — Egypt 1952 revolution and Nasser",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2420/nasser-and-egypt/",
+          sourceSnippet3: "WHE — Nasser and Egypt"
+        },
+        ja: {
+          title: "1952年革命とガマール・アブドゥル・ナセル：エジプト共和国の時代",
+          desc: "1952年の革命はエジプトの君主制を打倒し、アラブ・ナショナリズムと反帝国主義のアイコンとなったガマール・アブドゥル・ナセルを指導者として押し上げた。",
+          content: "<p class=\"mb-4\">1952年7月23日の革命はガマール・アブドゥル・ナセルとムハンマド・ナギーブを含む若い将校たちが率いる自由将校団によって行われ、腐敗してイギリスの傀儡と見なされたファールーク王を打倒し、1805年のムハンマド・アリー朝以来続いたエジプトの君主制を終わらせました。</p><p class=\"mb-4\">1954年からエジプトの主要指導者となったガマール・アブドゥル・ナセルはアラブ・ナショナリズムと社会主義のビジョンでエジプトを率い、大規模な土地改革を実施し、1956年にスエズ運河を国有化してスエズ危機を引き起こし、現代エジプト開発の象徴となったアスワン・ダムを建設しました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gamal-Abdel-Nasser",
+          sourceSnippet: "Britannica — ガマール・アブドゥル・ナセル",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-14625284",
+          sourceSnippet2: "BBC News — エジプト1952年革命とナセル"
+        },
+        ko: {
+          title: "1952년 혁명과 가말 압델 나세르: 이집트 공화국 시대",
+          desc: "1952년 혁명은 이집트 군주제를 전복시키고 아랍 민족주의와 반제국주의의 아이콘이 된 가말 압델 나세르를 지도자로 올렸다.",
+          content: "<p class=\"mb-4\">1952년 7월 23일 혁명은 가말 압델 나세르와 무함마드 나기브를 포함한 젊은 장교들이 이끄는 자유장교단에 의해 이루어졌으며, 부패하고 영국의 꼭두각시로 간주된 파루크 왕을 전복시키고 1805년 무함마드 알리 왕조 이래 지속된 이집트 군주제를 종식시켰습니다.</p><p class=\"mb-4\">1954년부터 이집트의 주요 지도자가 된 가말 압델 나세르는 아랍 민족주의와 사회주의 비전으로 이집트를 이끌었으며, 대규모 토지 개혁을 실시하고 1956년 수에즈 운하를 국유화하여 수에즈 위기를 촉발했으며, 현대 이집트 개발의 상징이 된 아스완 댐을 건설했습니다.</p><p class=\"mb-4\">나세르는 이집트 국경을 넘어선 영향력을 가진 아랍 민족주의의 아이콘이 되었으며, 범아랍주의 이념이 1958년부터 1961년까지 이집트와 시리아 간 아랍 연합공화국을 통해 잠시 실현되어 나세르를 당시 아랍 세계에서 가장 영향력 있는 지도자로 만들었습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gamal-Abdel-Nasser",
+          sourceSnippet: "Britannica — 가말 압델 나세르",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-14625284",
+          sourceSnippet2: "BBC News — 이집트 1952년 혁명과 나세르"
+        },
+        zh: {
+          title: "1952年革命与贾迈勒·阿卜杜·纳赛尔：埃及共和国时代",
+          desc: "1952年革命推翻了埃及君主制，使贾迈勒·阿卜杜·纳赛尔成为阿拉伯民族主义和反帝国主义在中东的偶像。",
+          content: "<p class=\"mb-4\">1952年7月23日的革命由包括贾迈勒·阿卜杜·纳赛尔和穆罕默德·纳吉布在内的年轻军官领导的自由军官运动发动，推翻了被认为是腐败和英国傀儡的法鲁克国王，结束了自1805年穆罕默德·阿里王朝以来持续的法老君主制。</p><p class=\"mb-4\">自1954年成为埃及主要领导人的贾迈勒·阿卜杜·纳赛尔以阿拉伯民族主义和社会主义的愿景领导埃及，进行大规模土地改革，于1956年将苏伊士运河国有化引发苏伊士危机，并建造了成为现代埃及发展象征的阿斯旺大坝。</p><p class=\"mb-4\">纳赛尔成为超越埃及国界的阿拉伯民族主义偶像，其泛阿拉伯主义理念通过1958年至1961年埃及和叙利亚之间的阿拉伯联合共和国短暂实现，使纳赛尔成为当时阿拉伯世界最具影响力的领导人。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gamal-Abdel-Nasser",
+          sourceSnippet: "Britannica — 贾迈勒·阿卜杜·纳赛尔",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-middle-east-14625284",
+          sourceSnippet2: "BBC News — 埃及1952年革命与纳赛尔"
+        }
+      }
+    },
+    {
+      id: "mesir-kerajaan-mamluk-1250-1517",
+      langs: {
+        id: {
+          title: "Kerajaan Mamluk Mesir (1250-1517): Prajurit Budak yang Menjadi Raja",
+          desc: "Sultanat Mamluk yang berkuasa di Mesir dan Suriah selama lebih dari 250 tahun terkenal karena menghentikan ekspansi Mongol dan memerintah dengan sistem unks budak militer yang menjadi sultan.",
+          content: "<p class=\"mb-4\">Sultanat Mamluk didirikan pada 1250 di Mesir oleh para prajurit budak atau mamluk yang merupakan pasukan elite keturunan non-Muslim dari Asia Tengah dan Kaukasus yang dibeli, dilatih sebagai prajurit, dan kemudian memerintah Mesir setelah menggulingkan dinasti Ayyubiyah, menjadikan Mamluk sebagai satu-satunya dinasti yang didirikan oleh mantan budak.</p><p class=\"mb-4\">Pencapaian militer Mamluk yang paling luar biasa adalah menghentikan ekspansi Kekaisaran Mongol di Pertempuran Ain Jalut pada 3 September 1260, di mana pasukan Mamluk di bawah Sultan Saif al-Din Qutuz dan Baybars mengalahkan pasukan Mongol yang sebelumnya dianggap tak terkalahkan, menjadi pasukan pertama yang menghentikan gelombang ekspansi Mongol yang telah menaklukkan sebagian besar Asia.</p><p class=\"mb-4\">Mamluk memerintah Mesir dan Suriah dengan sistem pemerintahan yang unik di mana sultan dipilih dari kalangan mamluk senior berdasarkan kemampuan militer dan politik, bukan berdasarkan keturunan, sebuah sistem meritokrasi militer yang menghasilkan para pemimpin yang cakap namun juga rawan konflik内部 dan kudeta.</p><p class=\"mb-4\">Di bawah pemerintahan Mamluk, Kairo berkembang menjadi salah satu kota terkaya dan terbesar di dunia, pusat perdagangan antara Timur dan Barat, serta pusat kebudayaan dan arsitektur Islam dengan pembangunan masjid-masjid, madrasah, dan istana yang megah yang masih menghiasi kota Kairo hingga hari ini.</p><p class=\"mb-4\">Sultanat Mamluk berakhir ketika Kekaisaran Ottoman di bawah Sultan Selim I mengalahkan pasukan Mamluk dalam Pertempuran Marj Dabiq pada 1516 dan Pertempuran Ridaniya pada 1517, yang mengakibatkan Mesir menjadi provinsi Ottoman selama hampir 400 tahun berikutnya, meski warisan arsitektur, militer, dan budaya Mamluk tetap mempengaruhi Mesir dan dunia Islam hingga hari ini.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Mamluk-Sultanate",
+          sourceSnippet: "Britannica — Mamluk Sultanate",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2425/mamluk-sultanate/",
+          sourceSnippet2: "WHE — Mamluk Sultanate",
+          source3: "UNESCO World Heritage",
+          sourceUrl3: "https://whc.unesco.org/en/list/95/",
+          sourceSnippet3: "UNESCO — Historic Cairo and Mamluk architecture"
+        },
+        en: {
+          title: "The Mamluk Sultanate of Egypt (1250-1517): Slave Soldiers Who Became Kings",
+          desc: "The Mamluk Sultanate that ruled Egypt and Syria for over 250 years is famous for halting the Mongol expansion and ruling through a unique system of military slaves who became sultans.",
+          content: "<p class=\"mb-4\">The Mamluk Sultanate was established in 1250 in Egypt by slave soldiers or mamluks who were elite troops of non-Muslim descent from Central Asia and the Caucasus who were purchased, trained as soldiers, and then ruled Egypt after overthrowing the Ayyubid dynasty, making the Mamluks the only dynasty founded by former slaves.</p><p class=\"mb-4\">The Mamluks' most extraordinary military achievement was halting the Mongol Empire's expansion at the Battle of Ain Jalut on September 3, 1260, where Mamluk forces under Sultan Saif al-Din Qutuz and Baybars defeated the Mongol forces previously considered invincible, becoming the first force to stop the Mongol expansion wave that had conquered most of Asia.</p><p class=\"mb-4\">The Mamluks ruled Egypt and Syria with a unique governance system where the sultan was selected from among senior mamluks based on military and political ability, not heredity, a military meritocratic system that produced capable leaders but was also prone to internal conflicts and coups.</p><p class=\"mb-4\">Under Mamluk rule, Cairo developed into one of the wealthiest and largest cities in the world, a center of trade between East and West, and a center of Islamic culture and architecture with the construction of magnificent mosques, madrasas, and palaces that still adorn Cairo to this day.</p><p class=\"mb-4\">The Mamluk Sultanate ended when the Ottoman Empire under Sultan Selim I defeated Mamluk forces at the Battle of Marj Dabiq in 1516 and the Battle of Ridaniya in 1517, resulting in Egypt becoming an Ottoman province for nearly the next 400 years, though the Mamluk architectural, military, and cultural legacy continued to influence Egypt and the Islamic world to this day.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Mamluk-Sultanate",
+          sourceSnippet: "Britannica — Mamluk Sultanate",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2425/mamluk-sultanate/",
+          sourceSnippet2: "WHE — Mamluk Sultanate",
+          source3: "UNESCO World Heritage",
+          sourceUrl3: "https://whc.unesco.org/en/list/95/",
+          sourceSnippet3: "UNESCO — Historic Cairo and Mamluk architecture"
+        },
+        ja: {
+          title: "エジプトのマムルーク朝（1250〜1517年）：王になった奴隷戦士",
+          desc: "エジプトとシリアを250年以上統治したマムルーク朝はモンゴルの拡大を阻止し、奴隷戦士がスルタンとなる独特の制度で統治したことで有名である。",
+          content: "<p class=\"mb-4\">マムルーク朝は1250年にエジプトでアユーブ朝を打倒した後に統治した奴隷戦士すなわちマムルークによって設立され、彼らは中央アジアとコーカサスの非ムスリム出身の精鋭部隊で、購入され戦士として訓練され、元奴隷によって設立された唯一の王朝となりました。</p><p class=\"mb-4\">マムルークの最も非凡な軍事的業績は1260年9月3日のアイン・ジャールートの戦いでモンゴル帝国の拡大を阻止したことで、サイフッディーン・クトゥズとバイバルスの下のマムルーク軍が以前無敗と見なされていたモンゴル軍を打ち破り、アジアの大部分を征服したモンゴルの拡大の波を阻止した最初の軍隊となりました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Mamluk-Sultanate",
+          sourceSnippet: "Britannica — マムルーク朝",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2425/mamluk-sultanate/",
+          sourceSnippet2: "WHE — マムルーク朝"
+        },
+        ko: {
+          title: "이집트의 맘루크 술탄국 (1250~1517년): 왕이 된 노예 전사",
+          desc: "이집트와 시리아를 250년 이상 통치한 맘루크 술탄국은 몽골의 팽창을 막고 군사 노예가 술탄이 되는 독특한 체제로 통치한 것으로 유명하다.",
+          content: "<p class=\"mb-4\">맘루크 술탄국은 1250년 이집트에서 아이유브 왕조를 전복한 후 통치한 노예 전사 즉 맘루크에 의해 건립되었으며, 그들은 중앙아시아와 캅카스의 비무슬림 출신 정예 부대로 구매되어 전사로 훈련되었고 전 노예에 의해 건립된 유일한 왕조가 되었습니다.</p><p class=\"mb-4\">맘루크의 가장 비범한 군사적 성취는 1260년 9월 3일 아인 잘루트 전투에서 몽골 제국의 팽창을 중단시킨 것으로, 사이프 알딘 쿠투즈와 바이바르스 휘하의 맘루크 군대가 이전에 무적으로 간주되던 몽골군을 격파하고 아시아의 대부분을 정복한 몽골의 팽창 물결을 막은 최초의 군대가 되었습니다.</p><p class=\"mb-4\">맘루크는 술탄이 세습이 아닌 군사적·정치적 능력을 기반으로 선발된 시니어 맘루크 중에서 선출되는 독특한 통치 체제로 이집트와 시리아를 통치했으며, 유능한 지도자를 배출했지만 내부 분쟁과 쿠데타에 취약한 군사적 능력제 체제였습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Mamluk-Sultanate",
+          sourceSnippet: "Britannica — 맘루크 술탄국",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2425/mamluk-sultanate/",
+          sourceSnippet2: "WHE — 맘루크 술탄국"
+        },
+        zh: {
+          title: "埃及的马穆鲁克苏丹国（1250-1517年）：成为国王的奴隶战士",
+          desc: "统治埃及和叙利亚超过250年的马穆鲁克苏丹国以阻止蒙古扩张和通过军事奴隶成为苏丹的独特制度而闻名。",
+          content: "<p class=\"mb-4\">马穆鲁克苏丹国于1250年在埃及由推翻阿尤布王朝后统治的奴隶战士即马穆鲁克建立，他们是来自中亚和高加索的非穆斯林裔精锐部队，被购买并训练为战士，成为唯一由前奴隶建立的王朝。</p><p class=\"mb-4\">马穆鲁克最非凡的军事成就是1260年9月3日在艾因贾鲁特战役中阻止了蒙古帝国的扩张，赛义夫·丁·古突兹和拜巴尔斯领导下的马穆鲁克军队击败了之前被认为不可战胜的蒙古军队，成为第一支阻止征服了亚洲大部分地区的蒙古扩张浪潮的力量。</p><p class=\"mb-4\">马穆鲁克以苏丹从高级马穆鲁克中根据军事和政治能力而非世袭被选出的独特治理体系统治埃及和叙利亚，这一军事任人唯贤体系产生了有能力的领导人但也容易发生内部冲突和政变。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Mamluk-Sultanate",
+          sourceSnippet: "Britannica — 马穆鲁克苏丹国",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2425/mamluk-sultanate/",
+          sourceSnippet2: "WHE — 马穆鲁克苏丹国"
+        }
+      }
+    },
+    {
+      id: "mesir-penemuan-tutankhamun-1922",
+      langs: {
+        id: {
+          title: "Penemuan Makam Tutankhamun (1922): Harta Karun Firaun Terbesar",
+          desc: "Penemuan makam Tutankhamun yang utuh oleh Howard Carter pada 1922 menjadi penemuan arkeologi terbesar dalam sejarah, mengungkap harta karun firaun yang mengubah pemahaman tentang Mesir Kuno.",
+          content: "<p class=\"mb-4\">Makam firaun Tutankhamun yang ditemukan oleh arkeolog Inggris Howard Carter pada 4 November 1922 di Lembah Para Raja, Luxor, menjadi penemuan arkeologi paling spektakuler dalam sejarah, karena makam ini merupakan satu-satunya makam firaun yang ditemukan dalam kondisi utuh dengan ribuan harta karun yang belum pernah dirampok.</p><p class=\"mb-4\">Tutankhamun adalah firaun muda dari Dinasti ke-18 yang memerintah Mesir dari sekitar usia 9 tahun hingga kematiannya pada usia sekitar 18 tahun pada sekitar 1323 SM, seorang firaun yang relatif tidak signifikan dalam sejarah Mesir namun menjadi yang paling terkenal berkat penemuan makamnya yang luar biasa.</p><p class=\"mp-4\">Makam Tutankhamun berisi lebih dari 5.000 artefak termasuk topeng emas Tutankhamun yang terkenal, singgasana emas, kereta perang, perhiasan, serta mumi firaun itu sendiri yang disimpan dalam tiga sarkofagus bertingkat dengan yang terdalam terbuat dari emas murni, sebuah harta karun yang diperkirakan nilai modernnya mencapai miliaran dolar.</p><p class=\"mb-4\">Kabar penemuan makam Tutankhamun menjadi berita global yang sensasional, memicu demam Mesir Kuno di seluruh dunia dengan mode, film, dan budaya pop yang terinspirasi dari Mesir, serta memunculkan legenda Kutukan Firaun setelah beberapa orang yang terlibat dalam penemuan makam meninggal dalam beberapa tahun berikutnya.</p><p class=\"mb-4\">Penemuan Tutankhamun mengubah pemahaman arkeologis tentang Mesir Kuno secara fundamental, memberikan informasi tak ternilai tentang seni, keagamaan, dan kehidupan sehari-hari pada zaman firaun, dengan artefak-artefak dari makam Tutankhamun yang dipajang di Museum Mesir di Kairo menjadi salah satu koleksi arkeologi paling dikunjungi di dunia.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Tutankhamun",
+          sourceSnippet: "Britannica — Tutankhamun",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2430/tutankhamun/",
+          sourceSnippet2: "WHE — Tutankhamun",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-middle-east-63478942",
+          sourceSnippet3: "BBC News — Tutankhamun discovery centenary"
+        },
+        en: {
+          title: "The Discovery of Tutankhamun's Tomb (1922): Greatest Pharaonic Treasure",
+          desc: "The discovery of Tutankhamun's intact tomb by Howard Carter in 1922 became the greatest archaeological discovery in history, revealing pharaonic treasures that changed understanding of ancient Egypt.",
+          content: "<p class=\"mb-4\">The tomb of pharaoh Tutankhamun discovered by British archaeologist Howard Carter on November 4, 1922, in the Valley of the Kings, Luxor, became the most spectacular archaeological discovery in history, as this tomb was the only pharaoh's tomb found in intact condition with thousands of treasures never looted.</p><p class=\"mb-4\">Tutankhamun was a young pharaoh of the 18th Dynasty who ruled Egypt from about age 9 until his death at about age 18 around 1323 BCE, a relatively insignificant pharaoh in Egyptian history but who became the most famous thanks to the extraordinary discovery of his tomb.</p><p class=\"mb-4\">Tutankhamun's tomb contained more than 5,000 artifacts including the famous Tutankhamun gold mask, golden throne, chariots, jewelry, and the pharaoh's mummy itself stored in three nested sarcophagi with the innermost made of solid gold, a treasure estimated to be worth billions of dollars in modern value.</p><p class=\"mb-4\">News of Tutankhamun's tomb discovery became sensational global news, sparking an ancient Egypt frenzy worldwide with fashion, films, and pop culture inspired by Egypt, and giving rise to the legend of the Pharaoh's Curse after several people involved in the tomb discovery died in the following years.</p><p class=\"mb-4\">The Tutankhamun discovery fundamentally changed archaeological understanding of ancient Egypt, providing invaluable information about art, religion, and daily life in pharaonic times, with artifacts from Tutankhamun's tomb displayed at the Egyptian Museum in Cairo becoming one of the most visited archaeological collections in the world.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Tutankhamun",
+          sourceSnippet: "Britannica — Tutankhamun",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2430/tutankhamun/",
+          sourceSnippet2: "WHE — Tutankhamun",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-middle-east-63478942",
+          sourceSnippet3: "BBC News — Tutankhamun discovery centenary"
+        },
+        ja: {
+          title: "ツタンカーメン墓の発見（1922年）：最大のファラオの財宝",
+          desc: "1922年にハワード・カーターによって発見されたツタンカーメンの無傷の墓は史上最大の考古学的発見となり、古代エジプトの理解を変えるファラオの財宝を明らかにした。",
+          content: "<p class=\"mb-4\">イギリスの考古学者ハワード・カーターによって1922年11月4日にルクソールの王家の谷で発見されたツタンカーメンの墓は、略奪されていない数千の財宝を持つ無傷の状態で発見された唯一のファラオの墓として、史上最も壮観な考古学的発見となりました。</p><p class=\"mb-4\">ツタンカーメンは約9歳から約18歳で死亡するまでエジプトを統治した第18王朝の若いファラオで、エジプト史では比較的重要性の低いファラオでしたが、墓の非凡な発見のおかげで最も有名なファラオとなりました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Tutankhamun",
+          sourceSnippet: "Britannica — ツタンカーメン",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2430/tutankhamun/",
+          sourceSnippet2: "WHE — ツタンカーメン"
+        },
+        ko: {
+          title: "투탕카멘 무덤의 발견 (1922년): 최대의 파라오 보물",
+          desc: "1922년 하워드 카터에 의해 발견된 투탕카멘의 온전한 무덤은 역사상 최대의 고고학적 발견이 되었으며, 고대 이집트에 대한 이해를 바꾼 파라오의 보물을 드러냈다.",
+          content: "<p class=\"mb-4\">영국 고고학자 하워드 카터가 1922년 11월 4일 룩소르 왕가의 계곡에서 발견한 파라오 투탕카멘의 무덤은 약탈되지 않은 수천 점의 보물을 온전한 상태로 발견된 유일한 파라오 무덤으로서 역사상 가장 장관인 고고학적 발견이 되었습니다.</p><p class=\"mb-4\">투탕카멘은 약 9세부터 약 18세에 사망할 때까지 이집트를 통치한 제18왕조의 어린 파라오로 이집트 역사에서는 비교적 중요하지 않은 파라오였으나 무덤의 비범한 발견 덕분에 가장 유명한 파라오가 되었습니다.</p><p class=\"mb-4\">투탕카멘의 무덤에는 유명한 투탕카멘 황금 마스크, 황금 옥좌, 전차, 보석 등 5,000점 이상의 유물과 가장 안쪽이 순금으로 만들어진 세 개의 중첩 석관에 보관된 파라오의 미라 자체가 포함되어 있으며, 현대 가치로 수십억 달러에 달하는 보물이었습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Tutankhamun",
+          sourceSnippet: "Britannica — 투탕카멘",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2430/tutankhamun/",
+          sourceSnippet2: "WHE — 투탕카멘"
+        },
+        zh: {
+          title: "图坦卡蒙墓的发现（1922年）：最大的法老宝藏",
+          desc: "1922年英国考古学家霍华德·卡特发现的图坦卡蒙完好墓室成为历史上最伟大的考古发现，揭示了改变对古埃及认知的法老宝藏。",
+          content: "<p class=\"mb-4\">英国考古学家霍华德·卡特于1922年11月4日在卢克索帝王谷发现的图坦卡蒙墓成为历史上最壮观的考古发现，因为这座墓是唯一一座在完好状态下被发现的法老墓，拥有数千件未被掠夺的珍宝。</p><p class=\"mb-4\">图坦卡蒙是第18王朝的年轻法老，约9岁即位统治埃及至约18岁去世（约公元前1323年），在埃及历史上是相对不重要的法老，但由于其墓室的非凡发现而成为最著名的法老。</p><p class=\"mb-4\">图坦卡蒙墓包含5,000多件文物，包括著名的图坦卡蒙黄金面具、黄金宝座、战车、珠宝以及法老木乃伊本身存放在三个嵌套石棺中，最内层由纯金制成，估计现代价值达数十亿美元的珍宝。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Tutankhamun",
+          sourceSnippet: "Britannica — 图坦卡蒙",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2430/tutankhamun/",
+          sourceSnippet2: "WHE — 图坦卡蒙"
+        }
+      }
+    }
+
+    ]
 };

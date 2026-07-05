@@ -1077,5 +1077,469 @@ window.countryDataFiles['indonesia'] = {
       }
     }
 
-  ]
+    ,
+    {
+      id: "indonesia-samudra-pasai-pertama-islam-sumatra",
+      langs: {
+        id: {
+          title: "Kerajaan Samudra Pasai: Pelabuhan Islam Pertama di Sumatra",
+          desc: "Samudra Pasai yang berdiri sekitar abad ke-13 di Aceh merupakan kerajaan Islam pertama di Sumatra dan salah satu pelabuhan dagang terpenting di Nusantara, menghubungkan jalur rempah-rempah dengan India dan Arab.",
+          content: "<p class=\"mb-4\">Kerajaan Samudra Pasai didirikan sekitar akhir abad ke-13 di wilayah pesisir utara Sumatra, di kawasan yang kini termasuk Kabupaten Aceh Utara, oleh Marah Silu yang bergelar Sultan Malik as-Saleh, seorang penguasa lokal yang memeluk Islam dan mendirikan kesultanan ini sebagai kerajaan Islam pertama di wilayah Sumatra.</p><p class=\"mb-4\">Posisi geografis Samudra Pasai di Selat Malaka yang sangat strategis menjadikannya pelabuhan dagang penting yang menghubungkan jalur perdagangan rempah-rempah dari Nusantara dengan kawasan India, Arab, dan Tiongkok, dengan komoditas utama seperti lada, cengkih, dan kamper menjadi produk ekspor yang paling dicari pedagang asing.</p><p class=\"mb-4\">Catatan sejarah dari pengunjung terkenal seperti Marco Polo yang singgah di Sumatra pada 1292 serta Ibnu Battuta yang mengunjungi Samudra Pasai pada 1345 mengonfirmasi keberadaan kerajaan ini sebagai pusat perdagangan dan penyebaran Islam yang penting, dengan Battuta khususnya mencatat keramahan Sultan dan praktik keagamaan Islam yang sudah mapan di wilayah tersebut.</p><p class=\"mb-4\">Samudra Pasai berperan krusial dalam penyebaran Islam ke seluruh Nusantara, dengan para ulama dan pedagang Muslim yang singgah di pelabuhan ini kemudian menyebarkan agama Islam ke berbagai wilayah pesisir Jawa, Sumatra, dan Kalimantan, sekaligus memperkenalkan sistem pemerintahan kesultanan dan hukum Islam yang kelak diadopsi kerajaan-kerajaan Islam lain di Nusantara.</p><p class=\"mb-4\">Kerajaan Samudra Pasai mengalami kemunduran sepanjang abad ke-15 akibat tekanan dari Kesultanan Malaka yang berkembang menjadi kekuatan dagang dominan di Selat Malaka, sebelum akhirnya ditaklukkan oleh Kesultanan Aceh yang sedang berkembang di bawah Sultan Ali Mughayat Syah pada 1524, mengakhiri keberadaan Samudra Pasai sebagai kerajaan merdeka namun meninggalkan warisan penting sebagai pelopor Islam di Nusantara.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Situs Kerajaan Samudra Pasai",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Samudra-Pasai",
+          sourceSnippet2: "Encyclopaedia Britannica — Samudra Pasai kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2235/samudra-pasai-first-islamic-port-in-sumatra/",
+          sourceSnippet3: "World History Encyclopedia — Samudra Pasai"
+        },
+        en: {
+          title: "The Samudra Pasai Kingdom: The First Islamic Port in Sumatra",
+          desc: "Samudra Pasai, established around the 13th century in Aceh, was the first Islamic kingdom in Sumatra and one of the most important trading ports in the archipelago, connecting spice routes with India and Arabia.",
+          content: "<p class=\"mb-4\">The Samudra Pasai Kingdom was founded around the late 13th century on the northern coast of Sumatra, in what is now North Aceh Regency, by Marah Silu who took the title Sultan Malik as-Saleh, a local ruler who converted to Islam and established this sultanate as the first Islamic kingdom in the Sumatra region.</p><p class=\"mb-4\">Samudra Pasai's highly strategic geographic position in the Strait of Malacca made it an important trading port connecting spice trade routes from the archipelago with India, Arabia, and China, with main commodities such as pepper, cloves, and camphor becoming the most sought-after export products by foreign traders.</p><p class=\"mb-4\">Historical records from famous visitors such as Marco Polo who stopped in Sumatra in 1292 and Ibn Battuta who visited Samudra Pasai in 1345 confirm this kingdom's existence as an important center of trade and Islamic dissemination, with Battuta particularly noting the Sultan's hospitality and the established Islamic religious practices in the region.</p><p class=\"mb-4\">Samudra Pasai played a crucial role in spreading Islam throughout the archipelago, with Muslim scholars and traders who stopped at this port subsequently spreading Islam to various coastal regions of Java, Sumatra, and Kalimantan, while also introducing the sultanate governance system and Islamic law that would later be adopted by other Islamic kingdoms in the archipelago.</p><p class=\"mb-4\">The Samudra Pasai Kingdom experienced decline throughout the late 15th century due to pressure from the Sultanate of Malacca, which developed into the dominant trading power in the Strait of Malacca, before finally being conquered by the growing Aceh Sultanate under Sultan Ali Mughayat Syah in 1524, ending Samudra Pasai's existence as an independent kingdom but leaving an important legacy as the pioneer of Islam in the archipelago.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Samudra Pasai Kingdom Site",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Samudra-Pasai",
+          sourceSnippet2: "Encyclopaedia Britannica — Samudra Pasai kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2235/samudra-pasai-first-islamic-port-in-sumatra/",
+          sourceSnippet3: "World History Encyclopedia — Samudra Pasai"
+        },
+        ja: {
+          title: "サムドラ・パサイ王国：スマトラ初のイスラム港湾",
+          desc: "13世紀頃にアチェに建国されたサムドラ・パサイはスマトラ初のイスラム王国であり、香辛料ルートをインドやアラブと結ぶ群島最重要の貿易港の一つだった。",
+          content: "<p class=\"mb-4\">サムドラ・パサイ王国は13世紀末頃、現在の北アチェ県にあたるスマトラ北岸に、イスラム教に改宗しスマトラ地域初のイスラム王国を建国したマラ・シル（スルタン・マリク・アッ＝サーレフの称号を名乗った地元統治者）によって創設されました。</p><p class=\"mb-4\">マラッカ海峡におけるサムドラ・パサイの極めて戦略的な地理的位置は、群島からの香辛料貿易路をインド、アラビア、中国と結ぶ重要な貿易港とし、胡椒、丁子、樟脳などの主要商品が外国商人に最も求められる輸出製品となりました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — サムドラ・パサイ王国遺跡",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Samudra-Pasai",
+          sourceSnippet2: "Encyclopaedia Britannica — サムドラ・パサイ王国"
+        },
+        ko: {
+          title: "사무드라 파사이 왕국: 수마트라 최초의 이슬람 항구",
+          desc: "13세기경 아체에 건국된 사무드라 파사이는 수마트라 최초의 이슬람 왕국이자 향신료 무역로를 인도와 아라비아와 연결하는 군도에서 가장 중요한 무역항 중 하나였다.",
+          content: "<p class=\"mb-4\">사무드라 파사이 왕국은 13세기 말경 현재의 북아체 현에 해당하는 수마트라 북부 해안에 이슬람교로 개종하여 수마트라 지역 최초의 이슬람 왕국을 건국한 마라 실루(술탄 말릭 아스살레프라는 칭호를 취한 지역 통치자)에 의해 건설되었습니다.</p><p class=\"mb-4\">믈라카 해협에서의 사무드라 파사이의 매우 전략적인 지리적 위치는 군도에서 나온 향신료 무역로를 인도, 아라비아, 중국과 연결하는 중요한 무역항으로 만들었으며, 후추, 정향, 장뇌 같은 주요 상품이 외국 상인들에게 가장 수요가 많은 수출품이 되었습니다.</p><p class=\"mb-4\">1292년 수마트라에 들른 마르코 폴로와 1345년 사무드라 파사이를 방문한 이븐 바투타 같은 유명 방문객들의 역사 기록은 이 왕국이 무역과 이슬람 전파의 중요한 중심지였음을 확인하며, 바투타는 특히 술탄의 환대와 그 지역에 정착된 이슬람 종교 관행을 기록했습니다.</p><p class=\"mb-4\">사무드라 파사이는 군도 전역에 이슬람교를 전파하는 데 중요한 역할을 했으며, 이 항구에 들른 무슬림 학자와 상인들이 자바, 수마트라, 칼리만탄의 various 해안 지역으로 이슬람교를 전파했고, 군도의 다른 이슬람 왕국들이 채택할 술탄국 통치 체제와 이슬람 법을 도입했습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 사무드라 파사이 왕국 유적",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Samudra-Pasai",
+          sourceSnippet2: "Encyclopaedia Britannica — 사무드라 파사이 왕국"
+        },
+        zh: {
+          title: "须文达那·巴赛王国：苏门答腊第一个伊斯兰港口",
+          desc: "约13世纪在亚齐建立的须文达那·巴赛是苏门答腊第一个伊斯兰王国，也是连接香料路线与印度和阿拉伯的群岛最重要贸易港口之一。",
+          content: "<p class=\"mb-4\">须文达那·巴赛王国约建于13世纪末，位于苏门答腊北部海岸，即现在的北亚齐县，由改信伊斯兰教并建立苏门答腊地区第一个伊斯兰王国的当地统治者马拉·西鲁（号称苏丹·马利克·萨利赫）所创建。</p><p class=\"mb-4\">须文达那·巴赛在马六甲海峡极为战略性的地理位置使其成为连接群岛香料贸易路线与印度、阿拉伯和中国的重要贸易港，胡椒、丁香和樟脑等主要商品成为外国商人最渴求的出口产品。</p><p class=\"mb-4\">1292年在苏门答腊停留的马可·波罗和1345年访问须文达那·巴赛的伊本·白图泰等著名访客的历史记录证实了该王国作为贸易和伊斯兰传播重要中心的存在，白图泰特别记录了苏丹的好客和该地区已建立的伊斯兰宗教习俗。</p><p class=\"mb-4\">须文达那·巴赛在整个群岛传播伊斯兰教方面发挥了关键作用，在该港口停留的穆斯林学者和商人随后将伊斯兰教传播到爪哇、苏门答腊和加里曼丹的various沿海地区，同时引入了群岛其他伊斯兰王国后来采用的苏丹国治理体系和伊斯兰法律。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 须文达那·巴赛王国遗址",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Samudra-Pasai",
+          sourceSnippet2: "Encyclopaedia Britannica — 须文达那·巴赛王国"
+        }
+      }
+    },
+    {
+      id: "indonesia-singasari-ken-angrok-1222",
+      langs: {
+        id: {
+          title: "Kerajaan Singasari: Dari Ken Arok Menuju Lahirnya Majapahit",
+          desc: "Kerajaan Singasari didirikan oleh Ken Arok pada 1222 setelah mengalahkan Kerajaan Kediri, menjadi cikal bakal lahirnya Kekaisaran Majapahit dan pusat penyebaran agama Hindu-Buddha di Jawa Timur.",
+          content: "<p class=\"mb-4\">Kerajaan Singasari didirikan pada 1222 oleh Ken Arok, seorang rakyat biasa yang naik menjadi penguasa melalui serangkaian kudeta dan penaklukan, setelah mengalahkan Raja Kertajaya dari Kerajaan Kediri dalam Pertempuran Ganter, mengakhiri dominasi Kediri dan memulai era baru kekuasaan di Jawa Timur.</p><p class=\"mb-4\">Ken Arok yang bergelar Rajasa yang kemudian digantikan keturunannya membangun Singasari menjadi kerajaan yang dikenal karena patronase terhadap seni dan agama Hindu-Buddha, dengan penguasa-penguasa berikutnya seperti Raja Wisnuwardhana dan Kertanegara memperluas pengaruh kerajaan baik melalui ekspansi militer maupun diplomasi ke berbagai wilayah Nusantara.</p><p class=\"mb-4\">Raja Kertanegara yang memerintah Singasari pada paruh kedua abad ke-13 dikenal sebagai penguasa bercita-cita luar biasa yang melancarkan ekspansi militer ke Melayu (Sumatra) dan Bali, serta mengirim ekspedisi pamalayu yang membawa pengaruh Singasari hingga ke kawasan Selat Malaka, meski kebijakan ekspansionisnya juga memicu permusuhan dengan bangsa Mongol yang saat itu sedang berkuasa di Tiongkok.</p><p class=\"mb-4\">Kertanegara akhirnya tewas dibunuh dalam pemberontakan Jayakatwang, seorang pangeran Kediri yang berusaha merebut kembali kekuasaan, pada 1292, sebuah peristiwa yang memicu kekacauan politik hingga menantu Kertanegara, Raden Wijaya, berhasil mengalahkan Jayakatwang dengan bantuan pasukan Mongol yang datang menuntut balas atas penghinaan Kertanegara terhadap utusan Kublai Khan.</p><p class=\"mb-4\">Raden Wijaya kemudian mendirikan Kerajaan Majapahit pada 1293 setelah secara cerdik memanfaatkan dan kemudian mengusir pasukan Mongol yang telah membantunya, menjadikan Singasari sebagai kerajaan yang meski berusia relatif singkat sekitar 70 tahun tetap menjadi cikal bakal langsung lahirnya Kekaisaran Majapahit yang kelak menjadi salah satu kekaisaran terbesar dalam sejarah Nusantara.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Candi Singasari",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Singhasari",
+          sourceSnippet2: "Encyclopaedia Britannica — Singhasari kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2240/singhasari-kingdom-precursor-to-majapahit/",
+          sourceSnippet3: "World History Encyclopedia — Singhasari Kingdom"
+        },
+        en: {
+          title: "The Singasari Kingdom: From Ken Arok to the Birth of Majapahit",
+          desc: "The Singasari Kingdom was founded by Ken Arok in 1222 after defeating the Kediri Kingdom, becoming the precursor to the birth of the Majapahit Empire and a center of Hindu-Buddhist dissemination in East Java.",
+          content: "<p class=\"mb-4\">The Singasari Kingdom was founded in 1222 by Ken Arok, a commoner who rose to power through a series of coups and conquests, after defeating King Kertajaya of the Kediri Kingdom in the Battle of Ganter, ending Kediri's dominance and beginning a new era of power in East Java.</p><p class=\"mb-4\">Ken Arok, who took the title Rajasa and was subsequently succeeded by his descendants, built Singasari into a kingdom known for its patronage of Hindu-Buddhist art and religion, with subsequent rulers such as King Wisnuwardhana and Kertanegara expanding the kingdom's influence through both military expansion and diplomacy to various regions of the archipelago.</p><p class=\"mb-4\">King Kertanegara, who ruled Singasari in the latter half of the 13th century, was known as an extraordinarily ambitious ruler who launched military expeditions to Melayu (Sumatra) and Bali, and sent the Pamalayu expedition bringing Singasari's influence to the Strait of Malacca region, though his expansionist policies also provoked hostility from the Mongols then ruling China.</p><p class=\"mb-4\">Kertanegara was finally killed in a rebellion by Jayakatwang, a Kediri prince seeking to reclaim power, in 1292, an event that triggered political chaos until Kertanegara's son-in-law Raden Wijaya succeeded in defeating Jayakatwang with the help of Mongol forces who came seeking revenge for Kertanegara's insult to Kublai Khan's envoys.</p><p class=\"mb-4\">Raden Wijaya subsequently founded the Majapahit Kingdom in 1293 after cleverly exploiting and then expelling the Mongol forces that had helped him, making Singasari, despite its relatively brief existence of about 70 years, the direct precursor to the birth of the Majapahit Empire that would become one of the greatest empires in the history of the archipelago.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Singasari Temple",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Singhasari",
+          sourceSnippet2: "Encyclopaedia Britannica — Singhasari kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2240/singhasari-kingdom-precursor-to-majapahit/",
+          sourceSnippet3: "World History Encyclopedia — Singhasari Kingdom"
+        },
+        ja: {
+          title: "シンガサリ王国：ケン・アロクからマジャパヒトの誕生へ",
+          desc: "シンガサリ王国は1222年にケディリ王国を打倒したケン・アロクによって建国され、マジャパヒト帝国誕生の前身となり、東ジャワにおけるヒンドゥー・仏教普及の中心地となった。",
+          content: "<p class=\"mb-4\">シンガサリ王国は1222年、一連のクーデターと征服を通じて権力を握った平民ケン・アロクが、ガンターの戦いでケディリ王国のクルタジャヤ王を打倒した後に建国し、ケディリの支配を終わらせ、東ジャワの新たな権力の時代を始めました。</p><p class=\"mb-4\">ラジャサの称号を名乗り後に子孫が後を継いだケン・アロクは、ヒンドゥー・仏教の芸術と宗教の保護で知られる王国としてシンガサリを築き、ウィシュヌワルダナ王やクルタナガラなどの後の統治者たちは軍事拡大と外交を通じて群島各地に王国の影響力を拡大しました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — シンガサリ寺院",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Singhasari",
+          sourceSnippet2: "Encyclopaedia Britannica — シンガサリ王国"
+        },
+        ko: {
+          title: "싱아사리 왕국: 켄 아록에서 마자파힛의 탄생까지",
+          desc: "싱아사리 왕국은 1222년 케디리 왕국을 물리친 켄 아록에 의해 건국되어 마자파힛 제국 탄생의 전신이 되었고, 동자바에서 힌두-불교 전파의 중심지가 되었다.",
+          content: "<p class=\"mb-4\">싱아사리 왕국은 1222년 일련의 쿠데타와 정복을 통해 권력을 잡은 평민 켄 아록이 간테르 전투에서 케디리 왕국의 케르타자야 왕을 물리친 후 건국하여 케디리의 지배를 종식시키고 동자바의 새로운 권력 시대를 시작했습니다.</p><p class=\"mb-4\">라자사라는 칭호를 취하고 이후 자손들이 계승한 켄 아록은 힌두-불교 예술과 종교의 후원으로 알려진 왕국으로 싱아사리를 건설했으며, 위슈누와르다나 왕과 케르타네가라 같은 후대 통치자들은 군사 확장과 외교를 통해 군도 various 지역에 왕국의 영향력을 확대했습니다.</p><p class=\"mb-4\">13세기 후반 싱아사리를 통치한 케르타네가라 왕은 믈라유(수마트라)와 발리에 군사 원정을 개시하고, 싱아사리의 영향력을 믈라카 해협 지역까지 가져온 파말라유 원정을 파견하는 등 비범한 야심을 가진 통치자로 알려졌으나, 그의 팽창주의 정책은 당시 중국을 통치하던 몽골과의 적대감도 촉발했습니다.</p><p class=\"mb-4\">케르타네가라는 마침내 1292년 권력을 되찾으려 한 케디리 왕자 자야카트왕의 반란에서 살해되었으며, 이 사건은 케르타네가라의 사위 라덴 위자야가 쿠빌라이 칸의 사절에 대한 케르타네가라의 모욕에 보복하러 온 몽골군의 도움으로 자야카트왕을 물리치면서 정치적 혼란이 종결될 때까지 지속되었습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 싱아사리 사원",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Singhasari",
+          sourceSnippet2: "Encyclopaedia Britannica — 싱아사리 왕국"
+        },
+        zh: {
+          title: "新柯沙里王国：从肯·安禄到满者伯夷的诞生",
+          desc: "新柯沙里王国于1222年由肯·安禄在击败谏义里王国后建立，成为满者伯夷帝国诞生的前身，也是东爪哇印度教-佛教传播的中心。",
+          content: "<p class=\"mb-4\">新柯沙里王国于1222年由通过一系列政变和征服而上台的平民肯·安禄建立，他在甘特尔战役中击败了谏义里王国的克尔塔查耶国王，结束了谏义里的统治，开启了东爪哇权力新时代。</p><p class=\"mb-4\">号称拉查萨、其后由子孙继承的肯·安禄将新柯沙里建设成为一个以资助印度教-佛教艺术和宗教而闻名的王国，维湿奴瓦尔达纳国王和克尔塔纳加拉等后世统治者通过军事扩张和外交将王国的影响力扩展到群岛various地区。</p><p class=\"mb-4\">13世纪后半叶统治新柯沙里的克尔塔纳加拉国王以非凡的野心著称，向末罗瑜（苏门答腊）和巴厘岛发动军事远征，并派遣帕玛拉尤远征将新柯沙里的影响力带到马六甲海峡地区，尽管其扩张主义政策也激起了当时统治中国的蒙古人的敌意。</p><p class=\"mb-4\">克尔塔纳加拉最终于1292年在试图夺回权力的谏义里王子查亚卡旺的叛乱中被杀，这一事件引发了政治混乱，直到克尔塔纳加拉的女婿拉登·韦扎耶在为克尔塔纳加拉侮辱忽必烈汗使节而来报复的蒙古军队的帮助下击败了查亚卡旺。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 新柯沙里神庙",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Singhasari",
+          sourceSnippet2: "Encyclopaedia Britannica — 新柯沙里王国"
+        }
+      }
+    },
+    {
+      id: "indonesia-mataram-kuno-prambanan-929",
+      langs: {
+        id: {
+          title: "Mataram Kuno dan Candi Prambanan: Puncak Hindu di Jawa Tengah",
+          desc: "Kerajaan Mataram Kuno yang berpusat di Jawa Tengah sekitar abad ke-8-10 mencapai puncak kejayaan budaya Hindu dengan pembangunan Candi Prambanan, kompleks candi Hindu terbesar di Indonesia.",
+          content: "<p class=\"mb-4\">Kerajaan Mataram Kuno atau Mataram Hindu berpusat di wilayah Jawa Tengah sekitar abad ke-8 hingga ke-10 Masehi, dengan penguasa dari wangsa Sanjaya dan kemudian wangsa Isyana yang mengembangkan kerajaan ini menjadi salah satu pusat peradaban Hindu paling penting di Nusantara pada masanya.</p><p class=\"mb-4\">Puncak pencapaian budaya Mataram Kuno yang paling terkenal adalah pembangunan Candi Prambanan, kompleks candi Hindu terbesar di Indonesia yang dibangun sekitar abad ke-9 dan didedikasikan untuk Trimurti (tiga dewa utama Hindu: Brahma, Wisnu, dan Siwa), dengan candi utama setinggi 47 meter menjadi salah satu mahakarya arsitektur Hindu terbesar di Asia Tenggara.</p><p class=\"mb-4\">Mataram Kuno juga meninggalkan warisan prasasti dan candi yang sangat beragam di wilayah Jawa Tengah dan Yogyakarta, termasuk Candi Kalasan, Candi Sewu, dan Candi Plaosan yang menunjukkan tingkat kemakmuran dan patronase kerajaan terhadap seni serta agama yang sangat tinggi, sekaligus mencerminkan sinkretisme antara tradisi Hindu dan Buddha yang berkembang di wilayah tersebut.</p><p class=\"mb-4\">Pada sekitar 929 Masehi, pusat kerajaan Mataram Kuno dipindahkan dari Jawa Tengah ke Jawa Timur oleh Mpu Sindok dari wangsa Isyana, sebuah perpindahan yang hingga kini masih diperdebatkan penyebabnya oleh para sejarawan dengan teori yang berkisar dari letusan gunung berapi hingga tekanan dari kerajaan Sriwijaya di selatan.</p><p class=\"mb-4\">Perpindahan pusat kerajaan tersebut menandai berakhirnya era Mataram Kuno di Jawa Tengah dan awal periode baru di Jawa Timur yang kelak melahirkan kerajaan-kerajaan besar seperti Kediri, Singasari, dan Majapahit, namun warisan arsitektur dan budaya Mataram Kuno terutama Candi Prambanan tetap berdiri megah hingga hari ini sebagai Situs Warisan Dunia UNESCO.</p>",
+          source: "UNESCO World Heritage",
+          sourceUrl: "https://whc.unesco.org/en/list/642/",
+          sourceSnippet: "UNESCO World Heritage — Prambanan Temple Compounds",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Mataram-ancient-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — Mataram ancient kingdom",
+          source3: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Direktorat Pelestarian Cagar Budaya — Candi Prambanan"
+        },
+        en: {
+          title: "Ancient Mataram and Prambanan Temple: The Peak of Hinduism in Central Java",
+          desc: "The Ancient Mataram Kingdom, centered in Central Java around the 8th-10th centuries, reached its cultural Hindu peak with the construction of Prambanan Temple, the largest Hindu temple complex in Indonesia.",
+          content: "<p class=\"mb-4\">The Ancient Mataram Kingdom or Hindu Mataram was centered in the Central Java region around the 8th to 10th centuries CE, with rulers from the Sanjaya dynasty and later the Isyana dynasty who developed this kingdom into one of the most important centers of Hindu civilization in the archipelago during its time.</p><p class=\"mb-4\">The most famous cultural peak achievement of Ancient Mataram was the construction of Prambanan Temple, the largest Hindu temple complex in Indonesia, built around the 9th century and dedicated to the Trimurti (three main Hindu deities: Brahma, Vishnu, and Shiva), with the main temple standing 47 meters tall, becoming one of the greatest masterpieces of Hindu architecture in Southeast Asia.</p><p class=\"mb-4\">Ancient Mataram also left a very diverse legacy of inscriptions and temples in the Central Java and Yogyakarta regions, including Kalasan Temple, Sewu Temple, and Plaosan Temple, showing a very high level of royal prosperity and patronage of art and religion, while reflecting the syncretism between Hindu and Buddhist traditions that developed in the region.</p><p class=\"mb-4\">Around 929 CE, the center of the Ancient Mataram kingdom was moved from Central Java to East Java by Mpu Sindok of the Isyana dynasty, a relocation whose causes remain debated by historians to this day, with theories ranging from volcanic eruptions to pressure from the Srivijaya kingdom in the south.</p><p class=\"mb-4\">This relocation of the kingdom's center marked the end of the Ancient Mataram era in Central Java and the beginning of a new period in East Java that would later produce great kingdoms such as Kediri, Singasari, and Majapahit, but Ancient Mataram's architectural and cultural legacy, especially Prambanan Temple, still stands magnificently to this day as a UNESCO World Heritage Site.</p>",
+          source: "UNESCO World Heritage",
+          sourceUrl: "https://whc.unesco.org/en/list/642/",
+          sourceSnippet: "UNESCO World Heritage — Prambanan Temple Compounds",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Mataram-ancient-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — Mataram ancient kingdom",
+          source3: "Ministry of Education and Culture of Indonesia",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Directorate of Cultural Heritage Preservation — Prambanan Temple"
+        },
+        ja: {
+          title: "古代マタラムとプランバナン寺院：中部ジャワにおけるヒンドゥー教の頂点",
+          desc: "8〜10世紀頃に中部ジャワに中心を置いた古代マタラム王国は、インドネシア最大のヒンドゥー寺院群であるプランバナン寺院の建設によりヒンドゥー文化の頂点に達した。",
+          content: "<p class=\"mb-4\">古代マタラム王国またはヒンドゥー・マタラムは8〜10世紀頃、中部ジャワ地域を中心とし、サンジャヤ王朝および後のイシャナ王朝の統治者たちがこの王国を当時の群島で最も重要なヒンドゥー文明の中心地の一つに発展させました。</p><p class=\"mb-4\">古代マタラムの最も有名な文化の頂点は、9世紀頃に建設されトリムルティ（ヒンドゥーの三主神：ブラフマー、ヴィシュヌ、シヴァ）に捧げられたインドネシア最大のヒンドゥー寺院群プランバナン寺院の建設であり、主寺院は高さ47メートルに達し、東南アジアで最も偉大なヒンドゥー建築の傑作の一つとなっています。</p>",
+          source: "UNESCO World Heritage",
+          sourceUrl: "https://whc.unesco.org/en/list/642/",
+          sourceSnippet: "ユネスコ世界遺産 — プランバナン寺院群",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Mataram-ancient-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — 古代マタラム王国"
+        },
+        ko: {
+          title: "고대 마타람과 프람바난 사원: 중부 자와에서 힌두교의 정점",
+          desc: "8~10세기경 중부 자와에 중심을 둔 고대 마타람 왕국은 인도네시아에서 가장 큰 힌두 사원 단지인 프람바난 사원 건설로 힌두 문화의 정점에 도달했다.",
+          content: "<p class=\"mb-4\">고대 마타람 왕국 또는 힌두 마타람은 8~10세기경 중부 자와 지역을 중심으로 하였으며, 산자야 왕조와 후일 이샤나 왕조의 통치자들이 이 왕국을 당시 군도에서 가장 중요한 힌두 문명 중심지 중 하나로 발전시켰습니다.</p><p class=\"mb-4\">고대 마타람의 가장 유명한 문화적 정점은 9세기경에 건설되어 트리무르티(힌두의 세 주신: 브라흐마, 비슈누, 시바)에게 바쳐진 인도네시아 최대의 힌두 사원 단지인 프람바난 사원 건설이며, 주 사원은 높이 47미터에 달해 동남아시아에서 가장 위대한 힌두 건축 걸작 중 하나가 되었습니다.</p><p class=\"mb-4\">고대 마타람은 중부 자와와 욕야카르타 지역에 칼라산 사원, 세부 사원, 플라오산 사원을 포함한 매우 다양한 비문과 사원의 유산을 남겼으며, 이는 왕국의 매우 높은 번영과 예술 및 종교에 대한 후원 수준을 보여주는 동시에 그 지역에서 발전한 힌두와 불교 전통 사이의 융합을 반영합니다.</p><p class=\"mb-4\">약 929년에 고대 마타람 왕국의 중심은 이샤나 왕조의 푸 신독에 의해 중부 자와에서 동자와로 이전되었으며, 이 이전의 원인은 오늘날까지 역사학자들 사이에서 논쟁의 대상이 되고 있고 화산 폭발에서 남쪽의 스리위자야 왕국의 압력까지 다양한 이론이 있습니다.</p>",
+          source: "UNESCO World Heritage",
+          sourceUrl: "https://whc.unesco.org/en/list/642/",
+          sourceSnippet: "유네스코 세계문화유산 — 프람바난 사원 단지",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Mataram-ancient-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — 고대 마타람 왕국"
+        },
+        zh: {
+          title: "古马打兰与普兰巴南神庙：印度教在中爪哇的顶峰",
+          desc: "约公元8至10世纪以中爪哇为中心的古马打兰王国，通过建造印度尼西亚最大的印度教神庙群普兰巴南神庙，达到了印度教文化的顶峰。",
+          content: "<p class=\"mb-4\">古马打兰王国或称印度教马打兰约于公元8至10世纪以中爪哇地区为中心，由桑贾亚王朝及后来的伊夏纳王朝统治者将其发展为当时群岛最重要的印度教文明中心之一。</p><p class=\"mb-4\">古马打兰最著名的文化顶峰成就是建造了普兰巴南神庙，这是印度尼西亚最大的印度教神庙群，约建于9世纪，供奉三相神（印度教三大主神：梵天、毗湿奴和湿婆），主神庙高47米，成为东南亚最伟大的印度教建筑杰作之一。</p><p class=\"mb-4\">古马打兰还在中爪哇和日惹地区留下了极为丰富的碑铭和神庙遗产，包括卡拉桑神庙、塞乌神庙和普劳桑神庙，显示出王国极高的繁荣和对艺术及宗教的资助水平，同时反映了该地区发展的印度教和佛教传统之间的融合。</p><p class=\"mb-4\">约公元929年，古马打兰王国的中心被伊夏纳王朝的普·辛多克从中爪哇迁至东爪哇，这一迁都的原因至今仍是历史学家争论的话题，理论从火山喷发到来自南方室利佛逝王国的压力不等。</p>",
+          source: "UNESCO World Heritage",
+          sourceUrl: "https://whc.unesco.org/en/list/642/",
+          sourceSnippet: "联合国教科文组织世界遗产 — 普兰巴南神庙群",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/topic/Mataram-ancient-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — 古马打兰王国"
+        }
+      }
+    },
+    {
+      id: "indonesia-ternate-tidore-sultanate-rempah",
+      langs: {
+        id: {
+          title: "Kesultanan Ternate dan Tidore: Penguasa Kepulauan Rempah-Rempah",
+          desc: "Kesultanan Ternate dan Tidore yang berdiri di Maluku Utara sejak abad ke-13 menguasai perdagangan cengkih yang sangat berharga, menjadikan kawasan ini pusat rebutan kekuatan global antara Spanyol, Portugis, Belanda, dan Inggris.",
+          content: "<p class=\"mb-4\">Kesultanan Ternate didirikan sekitar abad ke-13 di pulau Ternate, Maluku Utara, oleh Baab Mashur Malamo, dan berkembang menjadi salah satu kesultanan Islam tertua di wilayah timur Nusantara, dengan pengaruh politik dan ekonomi yang meluas hingga ke kepulauan Maluku, Sulawesi, dan bahkan kawasan timur Indonesia lainnya.</p><p class=\"mb-4\">Kesultanan Tidore yang berdiri di pulau tetangga Tidore menjadi saingan utama Ternate dalam perebutan hegemoni perdagangan rempah-rempah di Maluku, dengan kedua kesultanan ini bersaing memperebutkan kendali atas perdagangan cengkih yang hanya tumbuh secara endemik di beberapa pulau kecil di Maluku dan merupakan komoditas paling berharga di dunia pada masa itu.</p><p class=\"mb-4\">Kedatangan bangsa Eropa ke Maluku yang dimulai dengan ekspedisi Spanyol dan Portugis pada awal abad ke-16 membawa dimensi baru dalam persaingan antara Ternate dan Tidore, dengan setiap kekuatan Eropa berusaha menjalin aliansi dengan kesultanan-kesultanan lokal untuk memonopoli perdagangan rempah-rempah, sekaligus menyebarkan agama Kristen Katolik di wilayah tersebut.</p><p class=\"mb-4\">Belanda melalui VOC yang didirikan pada 1602 secara agresif berusaha memonopoli perdagangan cengkih di Maluku dengan cara yang jauh lebih kejam dibandingkan kekuatan Eropa lainnya, termasuk melancarkan kebijakan penebangan pohon cengkih di luar wilayah yang mereka kontrol serta menindas keras perlawanan lokal seperti yang dipimpin Sultan Hamzah dari Ternate.</p><p class=\"mb-4\">Kesultanan Ternate dan Tidore bertahan sebagai entitas politik lokal meski pengaruhnya terus melemah sepanjang era kolonial, dan bahkan setelah kemerdekaan Indonesia, kedua kesultanan tersebut secara formal tetap diakui sebagai institusi budaya, dengan sultan-sultan terakhir mereka tercatat masih aktif hingga paruh kedua abad ke-20, menjadikan mereka saksi hidup sejarah panjang perdagangan rempah-rempah yang pernah menghubungkan Maluku dengan seluruh dunia.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Ternate",
+          sourceSnippet: "Encyclopaedia Britannica — Ternate sultanate",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2245/ternate-and-tidore-spice-sultanates/",
+          sourceSnippet2: "World History Encyclopedia — Ternate and Tidore Spice Sultanates",
+          source3: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Direktorat Pelestarian Cagar Budaya — Benteng Tolukko Ternate"
+        },
+        en: {
+          title: "The Sultanates of Ternate and Tidore: Rulers of the Spice Islands",
+          desc: "The Sultanates of Ternate and Tidore, established in North Maluku since the 13th century, controlled the highly valuable clove trade, making the region a center of global power struggles between Spain, Portugal, the Netherlands, and Britain.",
+          content: "<p class=\"mb-4\">The Sultanate of Ternate was founded around the 13th century on the island of Ternate, North Maluku, by Baab Mashur Malamo, and developed into one of the oldest Islamic sultanates in the eastern part of the archipelago, with political and economic influence extending to the Maluku Islands, Sulawesi, and even other eastern Indonesian regions.</p><p class=\"mb-4\">The Sultanate of Tidore, established on the neighboring island of Tidore, became Ternate's main rival in competing for spice trade hegemony in Maluku, with both sultanates competing for control over the clove trade that grew endemically only on a few small islands in Maluku and was the world's most valuable commodity at the time.</p><p class=\"mb-4\">The arrival of Europeans in Maluku, beginning with Spanish and Portuguese expeditions in the early 16th century, brought a new dimension to the competition between Ternate and Tidore, with each European power seeking to forge alliances with local sultanates to monopolize the spice trade, while also spreading Catholic Christianity in the region.</p><p class=\"mb-4\">The Dutch through the VOC, established in 1602, aggressively sought to monopolize the clove trade in Maluku in ways far more brutal than other European powers, including implementing policies of felling clove trees outside their controlled territories and brutally suppressing local resistance such as that led by Sultan Hamzah of Ternate.</p><p class=\"mb-4\">The Sultanates of Ternate and Tidore survived as local political entities despite their influence continuing to weaken throughout the colonial era, and even after Indonesian independence, both sultanates were formally recognized as cultural institutions, with their last sultans recorded as still active until the latter half of the 20th century, making them living witnesses to the long history of spice trade that once connected Maluku with the entire world.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Ternate",
+          sourceSnippet: "Encyclopaedia Britannica — Ternate sultanate",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2245/ternate-and-tidore-spice-sultanates/",
+          sourceSnippet2: "World History Encyclopedia — Ternate and Tidore Spice Sultanates",
+          source3: "Ministry of Education and Culture of Indonesia",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Directorate of Cultural Heritage Preservation — Fort Tolukko, Ternate"
+        },
+        ja: {
+          title: "テルナテとティドレのスルタン国：香辛料諸島の支配者",
+          desc: "13世紀以来北マルクに建国されたテルナテとティドレのスルタン国は、極めて貴重な丁子貿易を支配し、この地域をスペイン、ポルトガル、オランダ、イギリス間の世界的な覇権争いの中心地とした。",
+          content: "<p class=\"mb-4\">テルナテ・スルタン国は13世紀頃、北マルクのテルナテ島にバーブ・マシュル・マラモによって建国され、群島東部で最も古いイスラムスルタン国の一つに発展し、その政治的・経済的影響力はマルク諸島、スラウェシ、さらにはインドネシア東部の他地域にまで及びました。</p><p class=\"mb-4\">隣接するティドレ島に建国されたティドレ・スルタン国は、マルクにおける香辛料貿易の覇権を巡るテルナテの主なライバルとなり、両スルタン国はマルクのいくつかの小島にのみ自生し当時世界で最も価値のある商品であった丁子貿易の支配を巡って競争しました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Ternate",
+          sourceSnippet: "Encyclopaedia Britannica — テルナテ・スルタン国",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2245/ternate-and-tidore-spice-sultanates/",
+          sourceSnippet2: "World History Encyclopedia — テルナテとティドレの香辛料スルタン国"
+        },
+        ko: {
+          title: "테르나테와 티도레 술탄국: 향신료 제도의 지배자",
+          desc: "13세기 이래 북말루쿠에 건국된 테르나테와 티도레 술탄국은 극히 귀중한 정향 무역을 통제했으며, 이 지역을 스페인, 포르투갈, 네덜란드, 영국 간의 세계적 패권 다툼의 중심지로 만들었다.",
+          content: "<p class=\"mb-4\">테르나테 술탄국은 13세기경 북말루쿠의 테르나테 섬에 바압 마슈르 말라모에 의해 건국되어 군도 동부에서 가장 오래된 이슬람 술탄국 중 하나로 발전했으며, 그 정치적·경제적 영향력은 말루쿠 제도, 술라웨시, 심지어 인도네시아 동부의 다른 지역까지 확장되었습니다.</p><p class=\"mb-4\">인접한 티도레 섬에 건국된 티도레 술탄국은 말루쿠에서 향신료 무역 패권을 두고 테르나테의 주요 경쟁자가 되었으며, 두 술탄국은 말루쿠의 몇몇 작은 섬에서만 자생적으로 자라 당시 세계에서 가장 가치 있는 상품이었던 정향 무역의 통제권을 두고 경쟁했습니다.</p><p class=\"mb-4\">16세기 초 스페인과 포르투갈의 원정으로 시작된 유럽인의 말루쿠 도래는 테르나테와 티도레 간의 경쟁에 새로운 차원을 가져왔으며, 각 유럽 세력은 향신료 무역을 독점하기 위해 지역 술탄국과 동맹을 맺으려 했고, 동시에 그 지역에 가톨릭 기독교를 전파했습니다.</p><p class=\"mb-4\">1602년에 설립된 VOC를 통해 네덜란드는 다른 유럽 세력보다 훨씬 더 잔혹한 방식으로 말루쿠의 정향 무역을 독점하려 했으며, 자신들이 통제하는 영역 밖의 정향나무를 베어버리는 정책을 시행하고 테르나테의 술탄 함자가 이끈 것과 같은 지역 저항을 무자비하게 진압했습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Ternate",
+          sourceSnippet: "Encyclopaedia Britannica — 테르나테 술탄국",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2245/ternate-and-tidore-spice-sultanates/",
+          sourceSnippet2: "World History Encyclopedia — 테르나테와 티도레 향신료 술탄국"
+        },
+        zh: {
+          title: "特尔纳特和蒂多雷苏丹国：香料群岛的统治者",
+          desc: "自13世纪在北马鲁古建立的特尔纳特和蒂多雷苏丹国控制着极其珍贵的丁香贸易，使该地区成为西班牙、葡萄牙、荷兰和英国之间全球争霸的中心。",
+          content: "<p class=\"mb-4\">特尔纳特苏丹国约于13世纪由巴布·马舒尔·马拉莫在北马鲁古的特尔纳特岛建立，发展成为群岛东部最古老的伊斯兰苏丹国之一，其政治和经济影响力延伸至马鲁古群岛、苏拉威西甚至印度尼西亚东部的其他地区。</p><p class=\"mb-4\">在邻近的蒂多雷岛建立的蒂多雷苏丹国成为特尔纳特在马鲁古香料贸易霸权争夺中的主要对手，两个苏丹国争夺对仅在马鲁古几个小岛上原生生长的丁香贸易的控制权，丁香是当时世界上最有价值的商品。</p><p class=\"mb-4\">16世纪初西班牙和葡萄牙远征开启的欧洲人抵达马鲁古，为特尔纳特和蒂多雷之间的竞争带来了新的维度，各欧洲势力寻求与当地苏丹国结盟以垄断香料贸易，同时在该地区传播天主教。</p><p class=\"mb-4\">荷兰通过1602年成立的荷兰东印度公司以比其他欧洲势力远为残酷的方式试图垄断马鲁古的丁香贸易，包括在其控制领土之外砍伐丁香树的政策，以及残酷镇压特尔纳特苏丹哈姆扎领导的当地抵抗。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/place/Ternate",
+          sourceSnippet: "Encyclopaedia Britannica — 特尔纳特苏丹国",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2245/ternate-and-tidore-spice-sultanates/",
+          sourceSnippet2: "World History Encyclopedia — 特尔纳特和蒂多雷香料苏丹国"
+        }
+      }
+    },
+    {
+      id: "indonesia-kmb-1949-penegahan-kedaulatan",
+      langs: {
+        id: {
+          title: "Konferensi Meja Bundar (KMB) 1949: Pengakuan Kedaulatan RI",
+          desc: "Konferensi Meja Bundar di Den Haag pada 1949 menghasilkan pengakuan kedaulatan Indonesia oleh Belanda, mengakhiri perang kemerdekaan namun dengan kompromi politik yang menimbulkan kontroversi berkepanjangan.",
+          content: "<p class=\"mb-4\">Konferensi Meja Bundar (KMB) diselenggarakan di Den Haag, Belanda, dari 23 Agustus hingga 2 November 1949, mempertemukan perwakilan Republik Indonesia, Belanda, serta perwakilan BFO (Bijeenkomst voor Federaal Overleg) yang mewakili negara-negara bagian bentukan Belanda, dengan mediasi Komisi PBB untuk Indonesia.</p><p class=\"mb-4\">KMB berlangsung di tengah tekanan internasional yang kuat terhadap Belanda, terutama dari Amerika Serikat yang mengancam menunda paket bantuan ekonomi Marshal Plan jika Belanda menolak menyelesaikan konflik Indonesia secara damai, setelah agresi militer Belanda kedua pada 1948 terbukti gagal mematahkan perlawanan Republik Indonesia.</p><p class=\"mb-4\">Hasil KMB yang ditandatangani pada 2 November 1949 menetapkan pengakuan kedaulatan Indonesia secara penuh oleh Belanda yang akan diserahkan pada 27 Desember 1949, namun dengan sejumlah kompromi signifikan termasuk pembentukan Republik Indonesia Serikat (RIS) sebagai negara federal, penyerahan wilayah Irian Barat yang tertunda, serta persetujuan Indonesia menanggung sebagian besar utang kolonial Hindia Belanda.</p><p class=\"mb-4\">Kompromi-kompromi tersebut, terutama soal utang kolonial dan status Irian Barat yang tidak ikut diserahkan, memicu kontroversi besar di dalam Indonesia, dengan banyak tokoh nasionalis menganggap KMB sebagai pengkhianatan terhadap idealisme Proklamasi 1945, meski para negosiator Indonesia memandangnya sebagai langkah pragmatis yang diperlukan untuk mengakhiri perang dan mendapatkan pengakuan internasional.</p><p class=\"mb-4\">Republik Indonesia Serikat yang terbentuk dari KMB berumur sangat singkat, karena pada 17 Agustus 1950 pemerintah Indonesia secara resmi kembali ke bentuk negara kesatuan, sementara masalah Irian Barat baru diselesaikan pada 1962 melalui perundingan yang difasilitasi PBB, menjadikan KMB sebagai tonggak penting namun tidak sempurna dalam perjalanan Indonesia menuju kedaulatan penuh.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi KMB 1949",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian Revolution and KMB",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and independence history"
+        },
+        en: {
+          title: "The Round Table Conference (KMB) 1949: Recognition of Indonesian Sovereignty",
+          desc: "The Round Table Conference in The Hague in 1949 produced Dutch recognition of Indonesian sovereignty, ending the independence war but with political compromises that sparked prolonged controversy.",
+          content: "<p class=\"mb-4\">The Round Table Conference (KMB) was held in The Hague, Netherlands, from August 23 to November 2, 1949, bringing together representatives of the Republic of Indonesia, the Netherlands, and BFO (Bijeenkomst voor Federaal Overleg) representatives representing Dutch-created federal states, with mediation from the UN Commission for Indonesia.</p><p class=\"mb-4\">The KMB took place amid strong international pressure on the Netherlands, particularly from the United States, which threatened to suspend Marshall Plan economic aid packages if the Netherlands refused to resolve the Indonesia conflict peacefully, after the second Dutch military aggression in 1948 proved unable to break the Republic of Indonesia's resistance.</p><p class=\"mb-4\">The KMB results, signed on November 2, 1949, established full Dutch recognition of Indonesian sovereignty to be transferred on December 27, 1949, but with several significant compromises including the formation of the Republic of the United States of Indonesia (RIS) as a federal state, deferred transfer of West Irian territory, and Indonesia's agreement to bear most of the Dutch East Indies colonial debt.</p><p class=\"mb-4\">These compromises, particularly regarding colonial debt and West Irian's status not being transferred, sparked major controversy within Indonesia, with many nationalist figures considering the KMB a betrayal of the 1945 Proclamation's idealism, though Indonesian negotiators viewed it as a pragmatic step necessary to end the war and gain international recognition.</p><p class=\"mb-4\">The United States of Indonesia formed from the KMB was very short-lived, as on August 17, 1950, the Indonesian government officially returned to a unitary state form, while the West Irian issue was only resolved in 1962 through UN-facilitated negotiations, making the KMB an important but imperfect milestone in Indonesia's journey toward full sovereignty.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — KMB 1949 Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian Revolution and KMB",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and independence history"
+        },
+        ja: {
+          title: "円卓会議（KMB）1949年：インドネシア主権の承認",
+          desc: "1949年のハーグでの円卓会議はオランダによるインドネシア主権の承認をもたらし、独立戦争を終結させたが、長期の論争を引き起こす政治的妥協を伴った。",
+          content: "<p class=\"mb-4\">円卓会議（KMB）は1949年8月23日から11月2日までオランダのハーグで開催され、インドネシア共和国、オランダ、およびオランダが作った連邦州を代表するBFO代表者が集まり、国連インドネシア委員会の仲介の下で会合を持ちました。</p><p class=\"mb-4\">KMBはオランダに対する強い国際的圧力の中で行われました。特に1948年の第二次オランダ軍事侵略がインドネシア共和国の抵抗を打ち破ることができないと判明した後、オランダがインドネシア紛争を平和的に解決することを拒否した場合、マーシャル・プランの経済援助パッケージを一時停止すると脅したアメリカ合衆国からの圧力が顕著でした。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — 1949年KMB記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — インドネシア革命とKMB"
+        },
+        ko: {
+          title: "원탁회의 (KMB) 1949년: 인도네시아 주권 승인",
+          desc: "1949년 헤이그에서 열린 원탁회의는 네덜란드의 인도네시아 주권 승인을 이끌어내어 독립전쟁을 종식시켰으나, 장기적인 논란을 촉발한 정치적 타협을 수반했다.",
+          content: "<p class=\"mb-4\">원탁회의(KMB)는 1949년 8월 23일부터 11월 2일까지 네덜란드 헤이그에서 개최되었으며, 인도네시아 공화국, 네덜란드, 그리고 네덜란드가 만든 연방주를 대표하는 BFO 대표들이 모였고, 유엔 인도네시아 위원회의 중재가 있었습니다.</p><p class=\"mb-4\">KMB는 네덜란드에 대한 강력한 국제적 압력 속에서 진행되었으며, 특히 1948년 두 번째 네덜란드 군사 공격이 인도네시아 공화국의 저항을 꺾을 수 없다는 것이 입증된 후, 네덜란드가 인도네시아 분쟁을 평화적으로 해결하기를 거부할 경우 마셜 플랜 경제 원조 패키지를 중단하겠다고 위협한 미국의 압력이 두드러졌습니다.</p><p class=\"mb-4\">1949년 11월 2일에 서명된 KMB 결과는 1949년 12월 27일에 이양될 인도네시아 주권에 대한 네덜란드의 완전한 승인을 확립했지만, 인도네시아 연방공화국(RIS)을 연방국가로 설립하고, 서이리안 영토 이양을 연기하며, 인도네시아가 네덜란드령 동인도 식민지 부채의 대부분을 부담하는 데 동의하는 것을 포함한 여러 중요한 타협이 수반되었습니다.</p><p class=\"mb-4\">특히 식민지 부채와 서이리안의 지위가 이양되지 않은 것에 관한 이러한 타협은 인도네시아 내부에서 큰 논란을 촉발했으며, 많은 민족주의 인물들이 KMB를 1945년 선언의 이상주의에 대한 배신으로 간주했지만, 인도네시아 협상 대표단은 이를 전쟁을 종식시키고 국제적 승인을 얻는 데 필요한 실용적 조치로 보았습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 1949년 KMB 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — 인도네시아 혁명과 KMB"
+        },
+        zh: {
+          title: "圆桌会议（KMB）1949年：印度尼西亚主权的承认",
+          desc: "1949年在海牙举行的圆桌会议产生了荷兰对印度尼西亚主权的承认，结束了独立战争，但伴随的政治妥协引发了长期争议。",
+          content: "<p class=\"mb-4\">圆桌会议（KMB）于1949年8月23日至11月2日在荷兰海牙举行，汇集了印度尼西亚共和国、荷兰以及代表荷兰创建的联邦州的BFO代表，在联合国印度尼西亚委员会的调解下召开会议。</p><p class=\"mb-4\">KMB在荷兰面临强大的国际压力下进行，尤其是来自美国的压力，美国威胁如果荷兰拒绝和平解决印尼冲突，将暂停马歇尔计划经济援助方案，此前1948年第二次荷兰军事进攻被证明无法击垮印度尼西亚共和国的抵抗。</p><p class=\"mb-4\">1949年11月2日签署的KMB结果确立了荷兰对印度尼西亚主权的完全承认，将于1949年12月27日移交，但附带数项重大妥协，包括建立印度尼西亚联邦共和国（RIS）作为联邦制国家、推迟西伊里安领土移交，以及印尼同意承担荷属东印度殖民地的大部分债务。</p><p class=\"mb-4\">这些妥协，特别是关于殖民地债务和西伊里安地位未移交的问题，在印度尼西亚国内引发了巨大争议，许多民族主义人士认为KMB是对1945年宣言理想主义的背叛，尽管印尼谈判代表将其视为结束战争和获得国际承认所必需的务实步骤。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 1949年KMB文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — 印度尼西亚革命与KMB"
+        }
+      }
+    },
+    {
+      id: "indonesia-demokrasi-terpimpin-nasakom-1957-1965",
+      langs: {
+        id: {
+          title: "Demokrasi Terpimpin dan NASAKOM: Era Politik Sukarno 1957-1965",
+          desc: "Presiden Sukarno menerapkan sistem Demokrasi Terpimpin sejak 1957 dengan konsep NASAKOM yang memadukan nasionalis, agama, dan komunis, menciptakan era politik otoriter yang berujung ketegangan sosial.",
+          content: "<p class=\"mb-4\">Presiden Sukarno memproklamasikan sistem Demokrasi Terpimpin pada 5 Juli 1957 melalui dekrit presiden yang membubarkan Konstituante dan memberlakukan kembali UUD 1945, sebuah langkah yang secara efektif mengakhiri era demokrasi liberal parlementer Indonesia yang ditandai ketidakstabilan politik berkepanjangan dan pergantian kabinet yang sangat sering.</p><p class=\"mb-4\">Sistem Demokrasi Terpimpin memberikan kekuasaan yang sangat terpusat pada presiden, dengan Sukarno mengangkat dirinya sebagai pemegang mandat MPRS seumur hidup serta membentuk kabinet kerja nasional yang lebih mengutamakan kepemimpinan presiden daripada kontrol parlementer, sementara sistem politik multipartai yang sebelumnya berjalan dibatasi secara signifikan.</p><p class=\"mb-4\">Konsep NASAKOM yang diperkenalkan Sukarno pada 1960-an merupakan upaya menyatukan tiga kekuatan politik utama Indonesia: nasionalis, agama, dan komunis, dengan Sukarno berusaha menyeimbangkan pengaruh militer, Partai Nasional Indonesia, dan Partai Komunis Indonesia yang saat itu menjadi partai komunis terbesar di luar blok Soviet-Tiongkok.</p><p class=\"mb-4\">Kebijakan konfrontasi terhadap Malaysia yang dikenal sebagai Ganyang Malaysia sejak 1963 serta pengambilalihan perusahaan-perusahaan milik Inggris dan Amerika yang dilakukan Sukarno sepanjang periode ini menciptakan isolasi ekonomi internasional yang semakin memperburuk kondisi ekonomi Indonesia yang sudah dilanda inflasi tinggi dan kelangkaan pangan.</p><p class=\"mb-4\">Ketegangan internal antara militer dan PKI yang terus meningkat sepanjang era Demokrasi Terpimpin akhirnya mencapai titik puncaknya pada peristiwa G30S 1965 yang berujung pada runtuhnya sistem Demokrasi Terpimpin serta kejatuhan Sukarno sendiri, mengakhiri eksperimen politik NASAKOM yang ambisius namun pada akhirnya tidak mampu menjaga stabilitas politik maupun ekonomi Indonesia.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Demokrasi Terpimpin",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Sukarno",
+          sourceSnippet2: "Encyclopaedia Britannica — Sukarno and Guided Democracy",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and political history"
+        },
+        en: {
+          title: "Guided Democracy and NASAKOM: The Sukarno Political Era 1957-1965",
+          desc: "President Sukarno implemented the Guided Democracy system since 1957 with the NASAKOM concept blending nationalists, religion, and communists, creating an authoritarian political era that ended in social tension.",
+          content: "<p class=\"mb-4\">President Sukarno proclaimed the Guided Democracy system on July 5, 1957, through a presidential decree dissolving the Constituent Assembly and reinstating the 1945 Constitution, a move that effectively ended Indonesia's liberal parliamentary democracy era marked by prolonged political instability and very frequent cabinet changes.</p><p class=\"mb-4\">The Guided Democracy system gave highly centralized power to the president, with Sukarno appointing himself as lifetime MPRS mandate holder and forming a national working cabinet prioritizing presidential leadership over parliamentary control, while the previously functioning multi-party political system was significantly restricted.</p><p class=\"mb-4\">The NASAKOM concept introduced by Sukarno in the 1960s was an effort to unite three main Indonesian political forces: nationalists, religion, and communists, with Sukarno attempting to balance the influence of the military, the Indonesian National Party, and the Indonesian Communist Party, then the largest communist party outside the Sino-Soviet bloc.</p><p class=\"mb-4\">The confrontation policy toward Malaysia known as Ganyang Malaysia since 1963, along with Sukarno's takeover of British and American companies throughout this period, created international economic isolation that further worsened Indonesia's economic conditions already plagued by high inflation and food shortages.</p><p class=\"mb-4\">Internal tensions between the military and PKI that continued increasing throughout the Guided Democracy era finally reached their climax in the G30S event of 1965, which resulted in the collapse of the Guided Democracy system and Sukarno's own downfall, ending the ambitious NASAKOM political experiment that ultimately proved unable to maintain Indonesia's political or economic stability.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Guided Democracy Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Sukarno",
+          sourceSnippet2: "Encyclopaedia Britannica — Sukarno and Guided Democracy",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and political history"
+        },
+        ja: {
+          title: "指導民主主義とナサコム：スカルノ政治の時代 1957〜1965年",
+          desc: "スカルノ大統領は1957年以降、民族主義、宗教、共産主義を統合するナサコム概念とともに指導民主主義制度を実施し、社会的緊張に終わった権威主義的政治時代を生み出した。",
+          content: "<p class=\"mb-4\">スカルノ大統領は1957年7月5日、制憲議会を解散し1945年憲法を再び施行する大統領令を通じて指導民主主義制度を宣言し、長期の政治的不安定と非常に頻繁な内閣交代を特徴としたインドネシアの自由議会民主主義時代を実質的に終わらせました。</p><p class=\"mb-4\">指導民主主義制度は大統領に極めて中央集権的な権力を与え、スカルノは自らを終身MPRS委任保有者に任命し、議会統制よりも大統領の指導を優先する国民労働内閣を形成し、以前機能していた多党制政治制度は大幅に制限されました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — 指導民主主義の記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Sukarno",
+          sourceSnippet2: "Encyclopaedia Britannica — スカルノと指導民主主義"
+        },
+        ko: {
+          title: "지도 민주주의와 나사콤: 수카르노 정치 시대 1957~1965년",
+          desc: "수카르노 대통령은 1957년 이후 민족주의, 종교, 공산주의를 통합하는 나사콤 개념과 함께 지도 민주주의 체제를 시행하여 사회적 긴장으로 끝난 권위주의적 정치 시대를 만들어냈다.",
+          content: "<p class=\"mb-4\">수카르노 대통령은 1957년 7월 5일 제헌의회를 해산하고 1945년 헌법을 재시행하는 대통령령을 통해 지도 민주주의 체제를 선포하여, 장기적인 정치적 불안정과 매우 빈번한 내각 교체를 특징으로 했던 인도네시아의 자유 의회 민주주의 시대를 사실상 종식시켰습니다.</p><p class=\"mb-4\">지도 민주주의 체제는 대통령에게 고도로 중앙집권화된 권력을 부여했으며, 수카르노는 자신을 종신 MPRS 위임 보유자로 임명하고 의회 통제보다 대통령의 지도를 우선시하는 국민노동내각을 구성했으며, 이전에 기능하던 다당제 정치 체제는 크게 제한되었습니다.</p><p class=\"mb-4\">수카르노가 1960년대에 도입한 나사콤 개념은 인도네시아의 세 주요 정치 세력인 민족주의, 종교, 공산주의를 통합하려는 노력이었으며, 수카르노는 군사, 인도네시아 국민당, 당시 중소 블록 밖에서 가장 큰 공산당이었던 인도네시아 공산당의 영향력을 균형 있게 조절하려 했습니다.</p><p class=\"mb-4\">1963년 이후 '말레이시아 때려잡자'로 알려진 말레이시아에 대한 대결 정책과 이 시기 내내 수카르노가 영국과 미국 기업을 인수한 것은 국제적 경제적 고립을 초래하여 이미 높은 인플레이션과 식량 부족에 시달리던 인도네시아의 경제 상황을 더욱 악화시켰습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 지도 민주주의 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Sukarno",
+          sourceSnippet2: "Encyclopaedia Britannica — 수카르노와 지도 민주주의"
+        },
+        zh: {
+          title: "指导民主与纳萨贡：苏加诺政治时代 1957-1965年",
+          desc: "苏加诺总统自1957年起实施指导民主制度，以纳萨贡概念融合民族主义、宗教和共产主义，创造了一个以社会紧张告终的威权主义政治时代。",
+          content: "<p class=\"mb-4\">苏加诺总统于1957年7月5日通过解散制宪议会和恢复1945年宪法的总统法令宣布实行指导民主制度，这一举措实际上结束了以长期政治不稳定和极为频繁的内阁更迭为特征的印度尼西亚自由议会民主时代。</p><p class=\"mb-4\">指导民主制度赋予总统高度集中的权力，苏加诺任命自己为终身人民协商会议授权持有者，并组建优先考虑总统领导而非议会控制的国民工作内阁，而此前运行的多党制政治体系则受到大幅限制。</p><p class=\"mb-4\">苏加诺在1960年代引入的纳萨贡概念旨在联合印度尼西亚三大主要政治力量：民族主义、宗教和共产主义，苏加诺试图平衡军方、印度尼西亚民族党和当时中苏集团之外最大共产党的印度尼西亚共产党的影响力。</p><p class=\"mb-4\">1963年以来被称为\"粉碎马来西亚\"的对马来西亚对抗政策，以及苏加诺在整个这一时期接管英国和美国公司的行为，造成了国际经济孤立，进一步恶化了已经饱受高通胀和粮食短缺之苦的印度尼西亚经济状况。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 指导民主文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Sukarno",
+          sourceSnippet2: "Encyclopaedia Britannica — 苏加诺与指导民主"
+        }
+      }
+    },
+    {
+      id: "indonesia-konfrontasi-malaysia-ganyang-1963-1966",
+      langs: {
+        id: {
+          title: "Konfrontasi dengan Malaysia (1963-1966): Ganyang Malaysia",
+          desc: "Presiden Sukarno menentang pembentukan Federasi Malaysia pada 1963 dan melancarkan konfrontasi bersenjata yang dikenal sebagai Ganyang Malaysia, melibatkan operasi militer di perbatasan Kalimantan selama tiga tahun.",
+          content: "<p class=\"mb-4\">Pembentukan Federasi Malaysia pada 16 September 1963 yang menggabungkan Malaya, Singapura, Sabah, dan Sarawak ditentang keras oleh Presiden Sukarno yang menganggap federasi tersebut sebagai bentuk neokolonialisme Inggris dan ancaman terhadap ambisi Indonesia memimpin Asia Tenggara yang baru merdeka.</p><p class=\"mb-4\">Sukarno melancarkan kebijakan Konfrontasi yang dikenal dengan slogan Ganyang Malaysia, dimulai dengan demonstrasi dan propaganda anti-Malaysia yang intens, sebelum berkembang menjadi operasi militer sungguhan melibatkan penyusupan pasukan khusus Indonesia ke wilayah Sarawak dan Sabah sepanjang perbatasan Kalimantan.</p><p class=\"mb-4\">Konfrontasi tersebut melibatkan pertempuran bersenjata antara pasukan Indonesia dan pasukan Commonwealth Inggris-Malaysia di sepanjang perbatasan Kalimantan, dengan operasi militer Indonesia yang dikenal sebagai operasi Dwikora menghadirkan bentrokan-bentrokan bersenjata yang menelan korban dari kedua belah pihak, meski konflik ini tidak pernah berkembang menjadi perang terbuka skala penuh.</p><p class=\"mb-4\">Konfrontasi ini membawa konsekuensi ekonomi dan politik yang signifikan bagi Indonesia, dengan keluar dari PBB pada 1965 sebagai bentuk protes atas pengangkatan Malaysia sebagai anggota tidak tetap Dewan Keamanan, serta memperburuk isolasi ekonomi internasional Indonesia yang ditambah dengan pengambilalihan aset-aset Inggris dan Amerika di Indonesia.</p><p class=\"mb-4\">Konfrontasi secara resni berakhir setelah peristiwa G30S 1965 dan peralihan kekuasaan ke Soeharto pada 1966, dengan pemerintahan baru Soeharto yang lebih pragmatis menandatangani Perjanjian Bangkok pada 11 Agustus 1966 yang secara resmi mengakhiri konfrontasi dan menormalisasi hubungan Indonesia-Malaysia, membuka jalan bagi kerja sama regional yang kelak melahirkan ASEAN pada 1967.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Konfrontasi Malaysia",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesia-Malaysia-Confrontation",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesia-Malaysia Confrontation",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and foreign policy history"
+        },
+        en: {
+          title: "The Confrontation with Malaysia (1963-1966): Crush Malaysia",
+          desc: "President Sukarno opposed the formation of the Federation of Malaysia in 1963 and launched an armed confrontation known as Crush Malaysia, involving military operations along the Borneo border for three years.",
+          content: "<p class=\"mb-4\">The formation of the Federation of Malaysia on September 16, 1963, combining Malaya, Singapore, Sabah, and Sarawak, was strongly opposed by President Sukarno, who considered the federation a form of British neocolonialism and a threat to Indonesia's ambition to lead the newly independent Southeast Asia.</p><p class=\"mb-4\">Sukarno launched the Confrontation policy known by the slogan Crush Malaysia, beginning with intense anti-Malaysia demonstrations and propaganda, before developing into actual military operations involving infiltration of Indonesian special forces into Sarawak and Sabah territories along the Borneo border.</p><p class=\"mb-4\">This confrontation involved armed battles between Indonesian forces and British-Malaysian Commonwealth forces along the Borneo border, with Indonesian military operations known as Dwikora operations presenting armed clashes claiming casualties from both sides, though this conflict never developed into a full-scale open war.</p><p class=\"mb-4\">This confrontation brought significant economic and political consequences for Indonesia, including withdrawal from the UN in 1965 as a protest against Malaysia's appointment as a non-permanent Security Council member, and worsening Indonesia's international economic isolation compounded by the takeover of British and American assets in Indonesia.</p><p class=\"mb-4\">The Confrontation officially ended after the G30S event of 1965 and the transfer of power to Suharto in 1966, with the new more pragmatic Suharto government signing the Bangkok Agreement on August 11, 1966, officially ending the confrontation and normalizing Indonesia-Malaysia relations, paving the way for regional cooperation that would later produce ASEAN in 1967.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Malaysia Confrontation Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesia-Malaysia-Confrontation",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesia-Malaysia Confrontation",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and foreign policy history"
+        },
+        ja: {
+          title: "マレーシアとの対立（1963〜1966年）：マレーシア粉砕",
+          desc: "スカルノ大統領は1963年のマレーシア連邦結成に反対し、マレーシア粉砕として知られる武装対立を開始、3年間にわたりカリマンタン国境沿いで軍事作戦を展開した。",
+          content: "<p class=\"mb-4\">1963年9月16日にマラヤ、シンガポール、サバ、サラワクを統合したマレーシア連邦の結成は、スカルノ大統領によって強く反対され、彼はこの連邦をイギリスの新植民地主義の一形態であり、新たに独立した東南アジアを指導するインドネシアの野望に対する脅威と見なしました。</p><p class=\"mb-4\">スカルノはマレーシア粉砕のスローガンで知られる対立政策を開始し、反マレーシアの激しいデモとプロパガンダから始まり、後にカリマンタン国境沿いのサラワクとサバ領域へのインドネシア特殊部隊の潜入を伴う実際の軍事作戦へと発展しました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — マレーシア対立の記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesia-Malaysia-Confrontation",
+          sourceSnippet2: "Encyclopaedia Britannica — インドネシア・マレーシア対立"
+        },
+        ko: {
+          title: "말레이시아와의 대립 (1963~1966년): 말레이시아 때려잡자",
+          desc: "수카르노 대통령은 1963년 말레이시아 연방 결성에 반대하며 '말레이시아 때려잡자'로 알려진 무장 대립을 개시하여 3년간 보르네오 국경에서 군사 작전을 전개했다.",
+          content: "<p class=\"mb-4\">1963년 9월 16일 말라야, 싱가포르, 사바, 사라왁을 통합한 말레이시아 연방의 결성은 수카르노 대통령에 의해 강력히 반대되었으며, 그는 이 연방을 영국의 신식민주의의 한 형태이자 새로 독립한 동남아시아를 이끌겠다는 인도네시아의 야망에 대한 위협으로 간주했습니다.</p><p class=\"mb-4\">수카르노는 '말레이시아 때려잡자'라는 구호로 알려진 대립 정책을 개시하여, 격렬한 반(反)말레이시아 시위와 선전으로 시작해 나중에는 보르네오 국경을 따라 사라왁과 사바 영토에 인도네시아 특수부대가 침투하는 실제 군사 작전으로 발전했습니다.</p><p class=\"mb-4\">이 대립은 보르네오 국경을 따라 인도네시아군과 영국-말레이시아 영연방군 사이의 무장 전투를 수반했으며, 드위코라 작전으로 알려진 인도네시아 군사 작전은 양측 모두에서 사상자를 낸 무장 충돌을 만들어냈지만, 이 분쟁은 전면적인 공개 전쟁으로 발전하지는 않았습니다.</p><p class=\"mb-4\">이 대립은 인도네시아에 중요한 경제적·정치적 결과를 가져왔으며, 1965년 말레이시아가 유엔 안전보장이사회 비상임 이사국으로 임명된 것에 항의하여 유엔 탈퇴를 단행했고, 인도네시아에서 영국과 미국 자산을 인수함으로써 더욱 악화되는 국제 경제적 고립을 초래했습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 말레이시아 대립 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesia-Malaysia-Confrontation",
+          sourceSnippet2: "Encyclopaedia Britannica — 인도네시아-말레이시아 대립"
+        },
+        zh: {
+          title: "与马来西亚的对抗（1963-1966年）：粉碎马来西亚",
+          desc: "苏加诺总统于1963年反对马来西亚联邦的成立，发动了被称为\"粉碎马来西亚\"的武装对抗，在婆罗洲边境开展了为期三年的军事行动。",
+          content: "<p class=\"mb-4\">1963年9月16日合并马来亚、新加坡、沙巴和沙捞越的马来西亚联邦的成立遭到苏加诺总统的强烈反对，他认为该联邦是英新殖民主义的一种形式，是对印度尼西亚领导新独立的东南亚这一野心的威胁。</p><p class=\"mb-4\">苏加诺发动了以\"粉碎马来西亚\"口号著称的对抗政策，从激烈的反马来西亚示威和宣传开始，随后发展为涉及印度尼西亚特种部队沿婆罗洲边境渗透沙捞越和沙巴领土的实际军事行动。</p><p class=\"mb-4\">这场对抗涉及印度尼西亚军队与英马联邦军队在婆罗洲边境沿线的武装战斗，被称为\"双序行动\"的印尼军事行动造成了双方伤亡的武装冲突，尽管这场冲突从未发展为全面公开战争。</p><p class=\"mb-4\">这场对抗为印度尼西亚带来了重大的经济和政治后果，包括1965年因抗议马来西亚被任命为安理会非常任理事国而退出联合国，以及因接管在印尼的英国和美国资产而进一步恶化的国际经济孤立。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 马来西亚对抗文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesia-Malaysia-Confrontation",
+          sourceSnippet2: "Encyclopaedia Britannica — 印度尼西亚-马来西亚对抗"
+        }
+      }
+    }
+
+    ]
 };

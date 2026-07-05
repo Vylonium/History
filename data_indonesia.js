@@ -1541,5 +1541,475 @@ window.countryDataFiles['indonesia'] = {
       }
     }
 
+      ,
+    {
+      id: "indonesia-gajah-mada-sumpah-palapa",
+      langs: {
+        id: {
+          title: "Gajah Mada dan Sumpah Palapa: Arsitek Kekaisaran Majapahit",
+          desc: "Gajah Mada, mahapatih agung Majapahit, mengikrarkan Sumpah Palapa untuk tidak beristirahat sebelum menyatukan seluruh Nusantara, menjadi arsitek utama ekspansi Majapahit menjadi kekaisaran terbesar di Asia Tenggara.",
+          content: "<p class=\"mb-4\">Gajah Mada menjabat sebagai mahapatih (perdana menteri) Kekaisaran Majapahit pada paruh pertama abad ke-14, dan dikenang sebagai salah satu tokoh paling berpengaruh dalam sejarah Nusantara, berperan krusial dalam mengubah Majapahit dari kerajaan regional menjadi kekaisaran maritim terbesar di Asia Tenggara pada masanya.</p><p class=\"mb-4\">Berdasarkan kidung dan prasasti, Gajah Mada mengikrarkan Sumpah Palapa di hadapan Raja Jayanegara, berjanji untuk tidak menikmati palapa (kemewahan dan kesenangan) sebelum berhasil menyatukan seluruh wilayah Nusantara di bawah kekuasaan Majapahit, sebuah ikrar yang menunjukkan ambisi geopolitik luar biasa untuk masa itu.</p><p class=\"mb-4\">Gajah Mada kemudian melaksanakan ambisinya melalui serangkaian kampanye militer dan diplomasi yang mengarahkan ekspansi Majapahit ke berbagai wilayah termasuk Bali, Sumatra, Kalimantan, dan Semenanjung Malaya, dengan strategi yang menggabungkan kekuatan militer, aliansi politik, dan kontrol atas jalur perdagangan maritim.</p><p class=\"mb-4\">Puncak kejayaan Majapahit di bawah Gajah Mada terjadi pada masa pemerintahan Hayam Wuruk, dengan Negarakertagama karya Mpu Prapanca yang ditulis pada 1365 mencatat wilayah kekuasaan Majapahit yang membentang sangat luas, mencakup pulau-pulau di seluruh Nusantara dan bahkan wilayah-wilayah di luar Indonesia modern saat ini.</p><p class=\"mb-4\">Gajah Mada tetap menjadi simbol persatuan Nusantara yang paling dihormati dalam sejarah Indonesia, dengan namanya diabadikan sebagai nama jalan, universitas, dan berbagai institusi penting di seluruh Indonesia, sekaligus menjadi inspirasi konseptual bagi gagasan persatuan Indonesia modern yang kelak dirumuskan oleh para pendiri bangsa.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gajah-Mada",
+          sourceSnippet: "Encyclopaedia Britannica — Gajah Mada",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2250/gajah-mada-and-the-palapa-oath/",
+          sourceSnippet2: "World History Encyclopedia — Gajah Mada and the Palapa Oath",
+          source3: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Direktorat Pelestarian Cagar Budaya — Prasasti Gajah Mada"
+        },
+        en: {
+          title: "Gajah Mada and the Palapa Oath: Architect of the Majapahit Empire",
+          desc: "Gajah Mada, grand vizier of Majapahit, swore the Palapa Oath to not rest until unifying the entire archipelago, becoming the primary architect of Majapahit's expansion into Southeast Asia's largest empire.",
+          content: "<p class=\"mb-4\">Gajah Mada served as mahapatih (prime minister) of the Majapahit Empire in the first half of the 14th century, and is remembered as one of the most influential figures in the history of the archipelago, playing a crucial role in transforming Majapahit from a regional kingdom into the largest maritime empire in Southeast Asia at its time.</p><p class=\"mb-4\">According to chronicles and inscriptions, Gajah Mada swore the Palapa Oath before King Jayanegara, promising not to enjoy palapa (luxury and pleasure) until successfully unifying the entire archipelago under Majapahit's rule, an oath demonstrating extraordinary geopolitical ambition for that era.</p><p class=\"mb-4\">Gajah Mada subsequently carried out his ambition through a series of military campaigns and diplomacy directing Majapahit's expansion to various regions including Bali, Sumatra, Kalimantan, and the Malay Peninsula, with a strategy combining military force, political alliances, and control over maritime trade routes.</p><p class=\"mb-4\">Majapahit's peak under Gajah Mada occurred during the reign of Hayam Wuruk, with the Negarakertagama composed by Mpu Prapanca in 1365 recording Majapahit's vast territorial reach, covering islands throughout the archipelago and even territories beyond modern Indonesia.</p><p class=\"mb-4\">Gajah Mada remains the most respected symbol of archipelago unity in Indonesian history, with his name immortalized as street names, universities, and various important institutions throughout Indonesia, while serving as conceptual inspiration for the modern Indonesian unity ideal later formulated by the nation's founders.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gajah-Mada",
+          sourceSnippet: "Encyclopaedia Britannica — Gajah Mada",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2250/gajah-mada-and-the-palapa-oath/",
+          sourceSnippet2: "World History Encyclopedia — Gajah Mada and the Palapa Oath",
+          source3: "Ministry of Education and Culture of Indonesia",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Directorate of Cultural Heritage Preservation — Gajah Mada Inscription"
+        },
+        ja: {
+          title: "ガジャ・マダとパラパの誓い：マジャパヒト帝国の建設者",
+          desc: "マジャパヒトの大宰相ガジャ・マダは群島全体を統一するまで休まないというパラパの誓いを立て、マジャパヒトを東南アジア最大の帝国へと拡大する主導的建設者となった。",
+          content: "<p class=\"mb-4\">ガジャ・マダは14世紀前半にマジャパヒト帝国の大宰相を務め、群島の歴史において最も影響力のある人物の一人として記憶され、マジャパヒトを地域王国から当時の東南アジア最大の海洋帝国へと変貌させる上で重要な役割を果たしました。</p><p class=\"mb-4\">年代記と碑文によれば、ガジャ・マダはジャヤネガラ王の前でパラパの誓いを立て、群島全体をマジャパヒトの支配下に統一するまでパラパ（奢侈と快楽）を享受しないと誓い、その時代としては並外れた地政学的野心を示しました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gajah-Mada",
+          sourceSnippet: "Encyclopaedia Britannica — ガジャ・マダ",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2250/gajah-mada-and-the-palapa-oath/",
+          sourceSnippet2: "World History Encyclopedia — ガジャ・マダとパラパの誓い"
+        },
+        ko: {
+          title: "가자 마다와 팔라파 맹세: 마자파힛 제국의 설계자",
+          desc: "마자파힛의 대재상 가자 마다는 군도 전체를 통일할 때까지 쉬지 않겠다는 팔라파 맹세를 하여 마자파힛을 동남아시아 최대의 제국으로 확장하는 주요 설계자가 되었다.",
+          content: "<p class=\"mb-4\">가자 마다는 14세기 전반 마자파힛 제국의 대재상을 역임하며 군도 역사상 가장 영향력 있는 인물 중 한 명으로 기억되었고, 마자파힛을 지역 왕국에서 당대 동남아시아 최대의 해양 제국으로 변모시키는 데 중요한 역할을 했습니다.</p><p class=\"mb-4\">연대기와 비문에 따르면 가자 마다는 자야네가라 왕 앞에서 팔라파 맹세를 하여 군도 전체를 마자파힛의 지배 아래 통일하기 전까지 팔라파(사치와 쾌락)를 누리지 않겠다고 맹세했으며, 이는 그 시대로서는 비범한 지정학적 야망을 보여주었습니다.</p><p class=\"mb-4\">가자 마다는 이후 발리, 수마트라, 칼리만탄, 말레이 반도 등 various 지역으로 마자파힛의 확장을 이끄는 일련의 군사 작전과 외교를 통해 그의 야망을 실행했으며, 군사력, 정치적 동맹, 해상 무역로 통제를 결합한 전략을 사용했습니다.</p><p class=\"mb-4\">가자 마다 치하의 마자파힛 전성기는 하얌 우루크의 통치 기간에 일어났으며, 1365년에 푸 프라판차가 저술한 나가라케르타가마는 마자파힛의 광대한 영토가 군도 전역의 섬들과 현대 인도네시아를 넘어선 영토까지 포괄했음을 기록하고 있습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gajah-Mada",
+          sourceSnippet: "Encyclopaedia Britannica — 가자 마다",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2250/gajah-mada-and-the-palapa-oath/",
+          sourceSnippet2: "World History Encyclopedia — 가자 마다와 팔라파 맹세"
+        },
+        zh: {
+          title: "加扎·玛达与帕拉帕誓言：满者伯夷帝国的缔造者",
+          desc: "满者伯夷大宰相加扎·玛达发誓在统一整个群岛之前不享乐，成为将满者伯夷扩张为东南亚最大帝国的主要缔造者。",
+          content: "<p class=\"mb-4\">加扎·玛达于14世纪前半叶担任满者伯夷帝国的大宰相，被铭记为群岛历史上最具影响力的人物之一，在将满者伯夷从地区性王国转变为当时东南亚最大的海上帝国方面发挥了关键作用。</p><p class=\"mb-4\">根据编年史和碑铭记载，加扎·玛达在查亚纳加拉王面前宣誓帕拉帕誓言，承诺在成功统一整个群岛归满者伯夷统治之前不享受帕拉帕（奢华与享乐），这一誓言展示了那个时代非凡的地缘政治野心。</p><p class=\"mb-4\">加扎·玛达随后通过一系列军事行动和外交实现了他的雄心，将满者伯夷的扩张引向巴厘岛、苏门答腊、加里曼丹和马来半岛等various地区，其战略结合了军事力量、政治联盟和对海上贸易路线的控制。</p><p class=\"mb-4\">加扎·玛达治下满者伯夷的巅峰发生在哈亚姆·乌鲁克统治时期，1365年由普·普拉潘查撰写的《纳加拉克尔塔加玛》记录了满者伯夷辽阔的领土范围，涵盖整个群岛的岛屿甚至超越现代印度尼西亚的领土。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Gajah-Mada",
+          sourceSnippet: "Encyclopaedia Britannica — 加扎·玛达",
+          source2: "World History Encyclopedia",
+          sourceUrl2: "https://www.worldhistory.org/article/2250/gajah-mada-and-the-palapa-oath/",
+          sourceSnippet2: "World History Encyclopedia — 加扎·玛达与帕拉帕誓言"
+        }
+      }
+    },
+    {
+      id: "indonesia-pendudukan-jepang-1942-1945",
+      langs: {
+        id: {
+          title: "Pendudukan Jepang di Indonesia (1942-1945): Katalis Kemerdekaan",
+          desc: "Kedatangan Jepang mengakhiri kekuasaan Belanda selama 350 tahun, membawa penderitaan besar namun sekaligus mempercepat lahirnya nasionalisme Indonesia dan kemerdekaan.",
+          content: "<p class=\"mb-4\">Kekaisaran Jepang mendarat di Indonesia pada awal 1942, dengan pendaratan pasukan di Tarakan, Balikpapan, dan Pontianak sebelum akhirnya merebut Batavia pada 5 Maret 1942, mengakhiri kekuasaan kolonial Belanda yang telah berlangsung selama hampir 350 tahun dengan kecepatan yang mengejutkan semua pihak.</p><p class=\"mb-4\">Belanda yang tertangkap basah oleh invasi Jepang menyerah tanpa perlawanan yang berarti, dengan banyak pasukan Belanda dengan cepat menjadi tawanan perang, sebuah kekalahan yang secara fundamental menghancurkan mitos superioritas Eropa yang selama berabad-abad dipertahankan kolonial Belanda di mata rakyat pribumi.</p><p class=\"mb-4\">Jepang awalnya disambut sebagai pembebas oleh sebagian rakyat Indonesia, dengan slogan propaganda Asia untuk orang Asia yang menjanjikan pembebasan dari kolonialisme Barat, namun realitas pendudukan Jepang segera membawa penderitaan yang sangat besar termasuk kerja paksa (romusha) yang menewaskan jutaan orang, kelaparan akibat perampasan hasil tani, dan kekejaman militer yang sistematis.</p><p class=\"mb-4\">Meski membawa penderitaan luar biasa, pendudukan Jepang secara paradoks mempercepat jalan menuju kemerdekaan Indonesia, karena Jepang memberikan kesempatan bagi para pemimpin nasionalis seperti Sukarno dan Hatta untuk berorganisasi dan berbicara di depan pubkkal, serta membentuk organisasi semi-militer seperti PETA dan Heiho yang memberikan pengalaman militer bagi rakyat Indonesia.</p><p class=\"mb-4\">Janji kemerdekaan yang diberikan Jepang pada 7 September 1944 melalui pidato Perdana Menteri Koiso akhirnya menjadi katalis langsung bagi Proklamasi Kemerdekaan pada 17 Agustus 1945, setelah Jepang menyerah kepada Sekutu dan menciptakan kekosongan kekuasaan yang dimanfaatkan oleh para pemimpin nasional Indonesia untuk memproklamasikan kemerdekaan.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Pendudukan Jepang",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Japanese-occupation",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesia Japanese occupation",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and WWII history"
+        },
+        en: {
+          title: "The Japanese Occupation of Indonesia (1942-1945): Catalyst for Independence",
+          desc: "Japan's arrival ended 350 years of Dutch rule, bringing great suffering while simultaneously accelerating the birth of Indonesian nationalism and independence.",
+          content: "<p class=\"mb-4\">The Japanese Empire landed in Indonesia in early 1942, with troop landings at Tarakan, Balikpapan, and Pontianak before finally capturing Batavia on March 5, 1942, ending nearly 350 years of Dutch colonial rule with speed that astonished all parties.</p><p class=\"mb-4\">The Dutch, caught off guard by the Japanese invasion, surrendered without meaningful resistance, with many Dutch troops quickly becoming prisoners of war, a defeat that fundamentally destroyed the myth of European superiority maintained for centuries by Dutch colonialism in the eyes of the indigenous population.</p><p class=\"mb-4\">Japan was initially welcomed as liberators by some Indonesians, with the Asia for Asians propaganda slogan promising liberation from Western colonialism, but the reality of Japanese occupation soon brought enormous suffering including forced labor (romusha) that killed millions, famine from crop confiscation, and systematic military atrocities.</p><p class=\"mb-4\">Despite bringing extraordinary suffering, the Japanese occupation paradoxically accelerated Indonesia's path to independence, as Japan provided opportunities for nationalist leaders like Sukarno and Hatta to organize and speak publicly, and formed semi-military organizations like PETA and Heiho that gave Indonesian people military experience.</p><p class=\"mb-4\">The independence promise given by Japan on September 7, 1944, through Prime Minister Koiso's speech, ultimately became the direct catalyst for the Proclamation of Independence on August 17, 1945, after Japan surrendered to the Allies and created a power vacuum exploited by Indonesian national leaders to proclaim independence.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Japanese Occupation Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Japanese-occupation",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesia Japanese occupation",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and WWII history"
+        },
+        ja: {
+          title: "日本のインドネシア占領（1942〜1945年）：独立への触媒",
+          desc: "日本の到着は350年のオランダ支配を終わらせ、大きな苦難をもたらすと同時にインドネシア・ナショナリズムと独立の誕生を加速させた。",
+          content: "<p class=\"mb-4\">大日本帝国は1942年初頭にインドネシアに上陸し、タラカン、バリクパパン、ポンティアナックに部隊を上陸させた後、1942年3月5日にバタビアを攻略し、350年近く続いたオランダ植民地支配をすべての関係者が驚くほどの速さで終わらせました。</p><p class=\"mb-4\">日本の侵攻に不意を突かれたオランダは有意義な抵抗なしに降伏し、多くのオランダ軍部隊が迅速に捕虜となり、この敗北は何世紀にもわたってオランダ植民地主義が先住民の目に維持してきたヨーロッパの優越性の神話を根本的に打ち砕きました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — 日本占領の記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Japanese-occupation",
+          sourceSnippet2: "Encyclopaedia Britannica — インドネシア日本占領"
+        },
+        ko: {
+          title: "인도네시아의 일본 점령 (1942~1945년): 독립의 촉매제",
+          desc: "일본의 도래는 350년의 네덜란드 통치를 종식시켰고, 큰 고통을 가져오는 동시에 인도네시아 민족주의와 독립의 탄생을 가속화했다.",
+          content: "<p class=\"mb-4\">일본 제국은 1942년 초 인도네시아에 상륙하여, 타라칸, 발릭파판, 폰티아나크에 병력을 상륙시킨 후 마침내 1942년 3월 5일 바타비아를 점령하며, 모든 당사자를 놀라게 한 속도로 거의 350년간 지속된 네덜란드 식민 통치를 종식시켰습니다.</p><p class=\"mb-4\">일본의 침공에 당황한 네덜란드는 의미 있는 저항 없이 항복했으며, 많은 네덜란드 군 부대가 신속히 전쟁 포로가 되었고, 이 패배는 수세기 동안 네덜란드 식민주의가 원주민의 눈에 유지해온 유럽 우월성의 신화를 근본적으로 파괴했습니다.</p><p class=\"mb-4\">일본은 처음에 일부 인도네시아인들에 의해 해방자로 환영받았으며, 서구 식민주의로부터의 해방을 약속하는 '아시아는 아시아인을 위해'라는 선전 구호와 함께했지만, 일본 점령의 현실은 수백만 명을 죽인 강제 노동(로무샤), 농작물 몰수로 인한 기근, 그리고 조직적인 군사적 만행을 포함한 엄청난 고통을 곧 가져왔습니다.</p><p class=\"mb-4\">비범한 고통을 가져왔음에도 불구하고, 일본 점령은 역설적으로 인도네시아의 독립을 향한 길을 가속화했는데, 일본은 수카르노와 하타 같은 민족주의 지도자들에게 조직하고 공개적으로 연설할 수 있는 기회를 제공했고, PETA와 헤이호 같은 준군사 조직을 형성하여 인도네시아인들에게 군사 경험을 제공했습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 일본 점령 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Japanese-occupation",
+          sourceSnippet2: "Encyclopaedia Britannica — 인도네시아 일본 점령"
+        },
+        zh: {
+          title: "日本占领印度尼西亚（1942-1945年）：独立的催化剂",
+          desc: "日本的到来结束了荷兰350年的统治，带来了巨大苦难，同时加速了印度尼西亚民族主义和独立的诞生。",
+          content: "<p class=\"mb-4\">日本帝国于1942年初登陆印度尼西亚，在打拉根、巴厘巴板和坤甸投放部队后，最终于1942年3月5日攻占巴达维亚，以令各方震惊的速度结束了近350年的荷兰殖民统治。</p><p class=\"mb-4\">被日本入侵打了个措手不及的荷兰在没有有意义的抵抗下投降，许多荷兰部队迅速成为战俘，这一失败从根本上摧毁了荷兰殖民主义在原住民眼中维持了数个世纪的欧洲优越性神话。</p><p class=\"mb-4\">日本最初被一些印度尼西亚人作为解放者欢迎，以\"亚洲是亚洲人的亚洲\"宣传口号承诺从西方殖民主义中解放，但日本占领的现实很快带来了包括造成数百万人死亡的强制劳动（罗慕沙）、农作物没收导致的饥荒以及系统性军事暴行在内的巨大苦难。</p><p class=\"mb-4\">尽管带来了非凡的苦难，日本占领却悖论般地加速了印度尼西亚走向独立的道路，因为日本为苏加诺和哈达等民族主义领导人提供了组织和公开演讲的机会，并组建了PETA和兵补等准军事组织，使印尼人民获得了军事经验。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 日本占领文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Japanese-occupation",
+          sourceSnippet2: "Encyclopaedia Britannica — 印度尼西亚日本占领"
+        }
+      }
+    },
+    {
+      id: "indonesia-trikora-irian-barat-1962",
+      langs: {
+        id: {
+          title: "Trikora dan Integrasi Irian Barat (1961-1969)",
+          desc: "Presiden Sukarno melancarkan operasi Trikora untuk merebut Irian Barat dari Belanda, berujung pada penyerahan wilayah ke Indonesia melalui PBB pada 1962 dan Penentuan Pendapat Rakyat 1969.",
+          content: "<p class=\"mb-4\">Sengketa atas Irian Barat (kini Papua) antara Indonesia dan Belanda merupakan warisan dari Konferensi Meja Bundar 1949 yang menunda penyerahan wilayah tersebut, dengan Belanda mempertahankan kontrol atas Irian Barat sementara Indonesia menuntut seluruh wilayah bekas Hindia Belanda harus diserahkan.</p><p class=\"mb-4\">Presiden Sukarno melancarkan Komando Mandala Pembebasan Irian Barat pada 19 Desember 1961 dengan operasi yang dikenal sebagai Trikora (Tri Komando Rakyat): gagalkan pembentukan negara boneka Papua, kibarkan Sang Saka Merah Putih di Irian Barat, dan bersiaplah untuk mobilisasi umum mempertahankan kemerdekaan.</p><p class=\"mb-4\">Operasi militer Indonesia di Irian Barat melibatkan penyusupan pasukan khusus dan pertempuran terbatas melawan pasukan Belanda, namun tekanan internasional terutama dari Amerika Serikat yang tidak ingin konflik melebar di tengah Perang Dingin mendorong kedua belah pihak ke meja perundingan yang difasilitasi PBB.</p><p class=\"mb-4\">Perjanjian New York ditandatangani pada 15 Agustus 1962, menetapkan penyerahan Irian Barat dari Belanda ke Indonesia melalui administrasi sementara PBB (UNTEA) mulai 1 Oktober 1962, sebelum akhirnya wilayah tersebut diserahkan kepada Indonesia pada 1 Mei 1963, sebuah pencapaian diplomatik besar bagi Indonesia.</p><p class=\"mb-4\">Penentuan Pendapat Rakyat (PEPERA) yang diselenggarakan pada 1969 secara formal mengukuhkan integrasi Irian Barat sebagai bagian dari Indonesia, meski proses ini tetap menjadi subjek kontroversi hingga saat ini terutama mengenai representasi dan kebebasan pemilihan, dengan wilayah Papua tetap menjadi salah satu isu politik paling kompleks dalam sejarah Indonesia modern.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Trikora dan Irian Barat",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Irian-Jaya",
+          sourceSnippet2: "Encyclopaedia Britannica — Irian Jaya history",
+          source3: "United Nations",
+          sourceUrl3: "https://www.un.org/en/about-us/un-charter/trusteeship-council",
+          sourceSnippet3: "United Nations — West New Guinea settlement"
+        },
+        en: {
+          title: "Trikora and the Integration of West Irian (1961-1969)",
+          desc: "President Sukarno launched the Trikora operation to seize West Irian from the Netherlands, leading to the territory's transfer to Indonesia through the UN in 1962 and the Act of Free Choice in 1969.",
+          content: "<p class=\"mb-4\">The dispute over West Irian (now Papua) between Indonesia and the Netherlands was a legacy of the 1949 Round Table Conference that deferred the territory's transfer, with the Netherlands retaining control over West Irian while Indonesia demanded all former Dutch East Indies territories be transferred.</p><p class=\"mb-4\">President Sukarno launched the Mandala Command for the Liberation of West Irian on December 19, 1961, with the operation known as Trikora (Three People's Commands): foil the puppet state of Papua, raise the Red and White flag in West Irian, and prepare for general mobilization to defend independence.</p><p class=\"mb-4\">Indonesia's military operations in West Irian involved infiltration of special forces and limited battles against Dutch forces, but international pressure, especially from the United States, which did not want the conflict to widen amid the Cold War, pushed both sides to the negotiating table facilitated by the UN.</p><p class=\"mb-4\">The New York Agreement was signed on August 15, 1962, establishing the transfer of West Irian from the Netherlands to Indonesia through temporary UN administration (UNTEA) starting October 1, 1962, before the territory was finally handed to Indonesia on May 1, 1963, a major diplomatic achievement for Indonesia.</p><p class=\"mb-4\">The Act of Free Choice (PEPERA) held in 1969 formally confirmed West Irian's integration as part of Indonesia, though this process remains a subject of controversy to this day, particularly regarding representation and freedom of choice, with the Papua region remaining one of the most complex political issues in modern Indonesian history.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Trikora and West Irian Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Irian-Jaya",
+          sourceSnippet2: "Encyclopaedia Britannica — Irian Jaya history",
+          source3: "United Nations",
+          sourceUrl3: "https://www.un.org/en/about-us/un-charter/trusteeship-council",
+          sourceSnippet3: "United Nations — West New Guinea settlement"
+        },
+        ja: {
+          title: "トリコラと西イリアン統合（1961〜1969年）",
+          desc: "スカルノ大統領はオランダから西イリアンを奪還するためトリコラ作戦を展開し、1962年の国連を通じた領土移譲と1969年の人民意思確定につながった。",
+          content: "<p class=\"mb-4\">インドネシアとオランダの間の西イリアン（現在のパプア）をめぐる紛争は、領土の移譲を先送りした1949年の円卓会議の遺産であり、オランダは西イリアンの支配を維持する一方、インドネシアは旧オランダ領東インドの全領土が移譲されるべきだと要求していました。</p><p class=\"mb-4\">スカルノ大統領は1961年12月19日に西イリアン解放マンダラ司令部を発足させ、トリコラ（人民の三指令）として知られる作戦を開始しました：パプアの傀儡国家設立を阻止せよ、西イリアンに紅白旗を掲げよ、独立を守るための総動員に備えよ。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — トリコラと西イリアン記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Irian-Jaya",
+          sourceSnippet2: "Encyclopaedia Britannica — イリアンジャヤの歴史"
+        },
+        ko: {
+          title: "트리코라와 서이리안 통합 (1961~1969년)",
+          desc: "수카르노 대통령은 네덜란드로부터 서이리안을 탈환하기 위해 트리코라 작전을 개시하여 1962년 유엔을 통한 영토 이양과 1969년 인민자결투표로 이어졌다.",
+          content: "<p class=\"mb-4\">인도네시아와 네덜란드 간의 서이리안(현 파푸아) 분쟁은 영토 이양을 연기했던 1949년 원탁회의의 유산이었으며, 네덜란드는 서이리안에 대한 통제를 유지하는 한편 인도네시아는 구 네덜란드령 동인도의 모든 영토가 이양되어야 한다고 요구했습니다.</p><p class=\"mb-4\">수카르노 대통령은 1961년 12월 19일 서이리안 해방 만달라 사령부를 발족시키고 트리코라(인민의 세 가지 명령)로 알려진 작전을 개시했습니다: 파푸아 괴뢰국 건설을 좌절시키고, 서이리안에 적백기를 게양하며, 독립 수호를 위한 총동원에 대비하라.</p><p class=\"mb-4\">서이리안에서의 인도네시아 군사 작전은 특수부대 침투와 네덜란드군에 대한 제한적 전투를 수반했지만, 냉전 속에서 갈등이 확대되는 것을 원하지 않았던 특히 미국의 국제적 압력이 양측을 유엔이 중재하는 협상 테이블로 이끌었습니다.</p><p class=\"mb-4\">1962년 8월 15일 체결된 뉴욕 협정은 1962년 10월 1일부터 임시 유엔 행정(UNTEA)을 통해 서이리안을 네덜란드에서 인도네시아로 이양하는 것을 확립했으며, 마침내 1963년 5월 1일 영토가 인도네시아에 인계되어 인도네시아의 주요 외교적 성취가 되었습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 트리코라와 서이리안 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Irian-Jaya",
+          sourceSnippet2: "Encyclopaedia Britannica — 이리안자야 역사"
+        },
+        zh: {
+          title: "的里科拉与西伊里安整合（1961-1969年）",
+          desc: "苏加诺总统发起的里科拉行动从荷兰夺取西伊里安，导致该领土于1962年通过联合国移交给印度尼西亚，并于1969年举行自由选择法案。",
+          content: "<p class=\"mb-4\">印度尼西亚与荷兰之间关于西伊里安（现巴布亚）的争端是1949年圆桌会议推迟该领土移交的遗留问题，荷兰保留对西伊里安的控制，而印度尼西亚则要求前荷属东印度的全部领土都应移交。</p><p class=\"mb-4\">苏加诺总统于1961年12月19日成立西伊里安解放曼达拉司令部，发起被称为的里科拉（人民三项命令）的行动：挫败巴布亚傀儡国的建立，在西伊里安升起红白旗，并准备总动员保卫独立。</p><p class=\"mb-4\">印度尼西亚在西伊里安的军事行动涉及特种部队渗透和对荷兰军队的有限战斗，但国际压力，特别是来自不希望冲突在冷战中扩大的美国的压力，促使双方在联合国斡旋下坐到谈判桌前。</p><p class=\"mb-4\">1962年8月15日签署的《纽约协定》规定通过临时联合国行政当局（UNTEA）从1962年10月1日起将西伊里安从荷兰移交给印度尼西亚，该领土最终于1963年5月1日移交印度尼西亚，成为印度尼西亚的重大外交成就。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 的里科拉与西伊里安文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Irian-Jaya",
+          sourceSnippet2: "Encyclopaedia Britannica — 伊里安查亚历史",
+          source3: "联合国",
+          sourceUrl3: "https://www.un.org/en/about-us/un-charter/trusteeship-council",
+          sourceSnippet3: "联合国 — 西新几内亚解决"
+        }
+      }
+    },
+    {
+      id: "indonesia-tsunami-aceh-2004",
+      langs: {
+        id: {
+          title: "Tsunami Aceh 2004: Tragedi yang Mengubah Indonesia",
+          desc: "Gempa bumi 9,1 magnitudo di lepas pantai Aceh pada 26 Desember 2004 memicu tsunami yang menewaskan lebih dari 170.000 orang di Indonesia, bencana terburuk dalam sejarah modern yang membuka jalan perdamaian Aceh.",
+          content: "<p class=\"mb-4\">Pada 26 Desember 2004, gempa bumi berkekuatan 9,1 magnitudo di lepas pantai barat Aceh memicu tsunami dahsyat yang menghantam pesisir Aceh dan Sumatra Utara dengan gelombang setinggi 30 meter, menewaskan lebih dari 170.000 orang di Indonesia dan menyebabkan kehancuran hampir total kota-kota pesisir seperti Banda Aceh, Meulaboh, dan Calang.</p><p class=\"mb-4\">Gempa tersebut merupakan gempa terbesar ketiga yang pernah tercatat dalam sejarah seismologi modern dan memicu gelombang tsunami yang tidak hanya menghantam Indonesia tetapi juga menyebar ke seluruh Samudra Hindia, menewaskan total lebih dari 230.000 orang di 14 negara, menjadikannya salah satu bencana alam paling mematikan dalam sejarah manusia.</p><p class=\"mb-4\">Respons darurat internasional yang sangat besar segera dikerahkan ke Aceh, dengan militer dan organisasi kemanusiaan dari puluhan negara berdatangan untuk membantu pencarian dan penyelamatan korban, distribusi bantuan, serta rekonstruksi, dalam operasi kemanusiaan internasional terbesar yang pernah dilakukan di Indonesia.</p><p class=\"mb-4\">Tragedi tsunami Aceh secara tidak terduga membuka jalan bagi perdamaian Aceh, karena pemerintah Indonesia dan Gerakan Aceh Merdeka (GAM) yang telah berkonflik bersenjata selama hampir tiga dekade sepakat untuk menghentikan permusuhan dan menandatangani Perjanjian Helsinki pada 15 Agustus 2005, mengakhiri salah satu konflik separatis terpanjang di Asia Tenggara.</p><p class=\"mb-4\">Pascatsunami, Indonesia membangun sistem peringatan dini tsunami yang komprehensif serta mengembangkan Badan Nasional Penanggulangan Bencana (BNPB) sebagai institusi permanen untuk koordinasi penanggulangan bencana, sekaligus memberikan pelajaran penting bagi dunia mengenai pentingnya sistem peringatan dini dan kerja sama internasional dalam menghadapi bencana alam skala besar.</p>",
+          source: "Badan Nasional Penanggulangan Bencana",
+          sourceUrl: "https://www.bnpb.go.id/",
+          sourceSnippet: "BNPB — Dokumentasi Tsunami Aceh 2004",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004",
+          sourceSnippet2: "Encyclopaedia Britannica — Indian Ocean tsunami of 2004",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-30541421",
+          sourceSnippet3: "BBC News — 2004 Indian Ocean tsunami explained"
+        },
+        en: {
+          title: "The 2004 Aceh Tsunami: A Tragedy That Changed Indonesia",
+          desc: "A 9.1 magnitude earthquake off the coast of Aceh on December 26, 2004, triggered a tsunami that killed over 170,000 people in Indonesia, the worst disaster in modern history that opened the path to Aceh peace.",
+          content: "<p class=\"mb-4\">On December 26, 2004, a 9.1 magnitude earthquake off the west coast of Aceh triggered a devastating tsunami that struck the coasts of Aceh and North Sumatra with waves up to 30 meters high, killing over 170,000 people in Indonesia and causing near-total destruction of coastal towns such as Banda Aceh, Meulaboh, and Calang.</p><p class=\"mb-4\">This earthquake was the third largest ever recorded in modern seismology and triggered tsunami waves that not only struck Indonesia but also spread across the Indian Ocean, killing a total of over 230,000 people in 14 countries, making it one of the deadliest natural disasters in human history.</p><p class=\"mb-4\">A massive international emergency response was immediately deployed to Aceh, with military and humanitarian organizations from dozens of countries arriving to assist in search and rescue, aid distribution, and reconstruction, in the largest international humanitarian operation ever conducted in Indonesia.</p><p class=\"mb-4\">The Aceh tsunami tragedy unexpectedly opened the path to Aceh peace, as the Indonesian government and the Free Aceh Movement (GAM), which had been in armed conflict for nearly three decades, agreed to cease hostilities and signed the Helsinki Agreement on August 15, 2005, ending one of Southeast Asia's longest separatist conflicts.</p><p class=\"mb-4\">After the tsunami, Indonesia built a comprehensive tsunami early warning system and developed the National Disaster Management Agency (BNPB) as a permanent institution for disaster management coordination, while providing important lessons for the world on the importance of early warning systems and international cooperation in facing large-scale natural disasters.</p>",
+          source: "National Disaster Management Agency of Indonesia",
+          sourceUrl: "https://www.bnpb.go.id/",
+          sourceSnippet: "BNPB — 2004 Aceh Tsunami Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004",
+          sourceSnippet2: "Encyclopaedia Britannica — Indian Ocean tsunami of 2004",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-30541421",
+          sourceSnippet3: "BBC News — 2004 Indian Ocean tsunami explained"
+        },
+        ja: {
+          title: "2004年アチェ津波：インドネシアを変えた悲劇",
+          desc: "2004年12月26日のアチェ沖マグニチュード9.1の地震はインドネシアで17万人以上を死亡させる津波を引き起こし、近代史上最悪の災害となりアチェ和平への道を開いた。",
+          content: "<p class=\"mb-4\">2004年12月26日、アチェ西海岸沖でマグニチュード9.1の地震が発生し、高さ30メートルの波を持つ壊滅的な津波がアチェと北スマトラの海岸を襲い、インドネシアで17万人以上が死亡し、バンダ・アチェ、ムラボ、チャランなどの沿岸都市がほぼ完全に破壊されました。</p><p class=\"mb-4\">この地震は近代地震学で記録された3番目に大きい地震であり、インドネシアだけでなくインド洋全体に広がり、14カ国で合計23万人以上が死亡した津波を引き起こし、人類史上最も致命的な自然災害の一つとなりました。</p>",
+          source: "インドネシア国家災害対策庁",
+          sourceUrl: "https://www.bnpb.go.id/",
+          sourceSnippet: "BNPB — 2004年アチェ津波記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004",
+          sourceSnippet2: "Encyclopaedia Britannica — 2004年インド洋津波"
+        },
+        ko: {
+          title: "2004년 아체 해일: 인도네시아를 바꾼 비극",
+          desc: "2004년 12월 26일 아체 해안에서 발생한 규모 9.1의 지진은 인도네시아에서 17만 명 이상을 사망하게 한 해일을 일으켰으며, 현대사 최악의 재앙이자 아체 평화의 길을 열었다.",
+          content: "<p class=\"mb-4\">2004년 12월 26일 아체 서부 해안에서 발생한 규모 9.1의 지진은 높이 30미터의 파도를 가진 파괴적인 해일을 일으켜 아체와 북수마트라 해안을 강타하여 인도네시아에서 17만 명 이상을 사망하게 했고, 반다 아체, 물라보, 칼랑 같은 해안 도시들을 거의 완전히 파괴했습니다.</p><p class=\"mb-4\">이 지진은 현대 지진학에서 기록된 세 번째로 큰 지진이었으며, 인도네시아뿐만 아니라 인도양 전체로 퍼져 14개국에서 총 23만 명 이상을 사망하게 한 해일을 일으켜 인류 역사상 가장 치명적인 자연재해 중 하나가 되었습니다.</p><p class=\"mb-4\">대규모 국제 비상 대응이 즉시 아체에 투입되었으며, 수십 개국의 군대와 인도적 기관들이 수색 및 구조, 구호 물품 배분, 재건을 돕기 위해 도착하여 인도네시아에서 수행된 가장 큰 국제 인도적 작전이 되었습니다.</p><p class=\"mb-4\">아체 해일 비극은 예기치 않게 아체 평화의 길을 열었는데, 거의 30년 동안 무력 충돌을 벌여온 인도네시아 정부와 자유 아체 운동(GAM)이 적대행위를 중단하기로 합의하고 2005년 8월 15일 헬싱키 협정에 서명하여 동남아시아에서 가장 긴 분리주의 분쟁 중 하나를 종식시켰습니다.</p>",
+          source: "인도네시아 국가재난관리청",
+          sourceUrl: "https://www.bnpb.go.id/",
+          sourceSnippet: "BNPB — 2004년 아체 해일 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004",
+          sourceSnippet2: "Encyclopaedia Britannica — 2004년 인도양 해일"
+        },
+        zh: {
+          title: "2004年亚齐海啸：改变印度尼西亚的悲剧",
+          desc: "2004年12月26日亚齐海岸外发生的9.1级地震引发了在印度尼西亚造成超过17万人死亡的海啸，是现代史上最严重的灾难，同时也开启了亚齐和平之路。",
+          content: "<p class=\"mb-4\">2004年12月26日，亚齐西部海岸外发生9.1级地震，引发了高达30米波浪的毁灭性海啸，袭击了亚齐和北苏门答腊海岸，在印度尼西亚造成超过17万人死亡，并使班达亚齐、米拉务和查朗等沿海城镇几乎完全被毁。</p><p class=\"mb-4\">这次地震是现代地震学有记录以来第三大地震，引发的海啸不仅袭击了印度尼西亚，还扩散至整个印度洋，在14个国家共造成超过23万人死亡，使其成为人类历史上最致命的自然灾害之一。</p><p class=\"mb-4\">大规模的国际紧急救援立即部署到亚齐，数十个国家的军方和人道主义组织前来协助搜救、救援物资分发和重建，这是在印度尼西亚进行过的最大规模国际人道主义行动。</p><p class=\"mb-4\">亚齐海啸悲剧出乎意料地开启了亚齐和平之路，因为已武装冲突近三十年的印度尼西亚政府和自由亚齐运动（GAM）同意停止敌对行动，并于2005年8月15日签署了《赫尔辛基协议》，结束了东南亚最长的分离主义冲突之一。</p>",
+          source: "印度尼西亚国家灾害管理局",
+          sourceUrl: "https://www.bnpb.go.id/",
+          sourceSnippet: "BNPB — 2004年亚齐海啸文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004",
+          sourceSnippet2: "Encyclopaedia Britannica — 2004年印度洋海啸",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-30541421",
+          sourceSnippet3: "BBC News — 2004年印度洋海啸解析"
+        }
+      }
+    },
+    {
+      id: "indonesia-kerajaan-bali-puputan-1906",
+      langs: {
+        id: {
+          title: "Kerajaan Bali dan Puputan Badung 1906: Perlawanan sampai Akhir",
+          desc: "Kerajaan-kerajaan Bali yang bertahan hingga awal abad ke-20 mengakhiri keberadaannya melalui peristiwa Puputan, pertempuran sampai mati yang heroik melawan invasi Belanda yang menewaskan ribuan anggota keluarga kerajaan.",
+          content: "<p class=\"mb-4\">Pulau Bali dipimpin oleh serangkaian kerajaan Hindu yang independen sejak berabad-abad, dengan dinasti-dinasti lokal yang mempertahankan tradisi Hindu-Jawa unik yang berkembang terpisah dari Jawa setelah runtuhnya Majapahit, menjadikan Bali sebagai benteng terakhir peradaban Hindu di Nusantara.</p><p class=\"mb-4\">Belanda secara bertahap memperluas kontrolnya atas Bali sejak akhir abad ke-19, menggunakan berbagai dalih termasuk pembajakan kapal dan tuntutan hak opium untuk memaksa kerajaan-kerajaan Bali menandatangani perjanjian yang menyerahkan kedaulatan, dengan resistensi Bali terhadap intervensi Belanda berujung pada serangkaian konflik bersenjata.</p><p class=\"mb-4\">Peristiwa Puputan Badung yang paling terkenal terjadi pada 20 September 1906, ketika pasukan Belanda mendekati istana raja di Denpasar, Raja Badung bersama keluarga kerajaan, pengawal, dan rakyatnya keluar dari istara mengenakan pakaian upacara putih dan melancarkan serangan langsung ke arah pasukan Belanda yang dipersenjatai modern, sebuah pertempuran bunuh diri yang menewaskan sekitar 1.000 orang Bali termasuk raja dan keluarganya.</p><p class=\"mb-4\">Peristiwa Puputan serupa juga terjadi di Klungkung pada 1908, ketika Raja Klungkung bersama pengikutnya juga melakukan perlawanan sampai akhir melawan pasukan Belanda, menandai berakhirnya kemerdekaan kerajaan-kerajaan Bali dan integrasi penuh pulau tersebut ke dalam Hindia Belanda, meski dengan biaya manusia yang sangat besar.</p><p class=\"mb-4\">Peristiwa Puputan menjadi simbol perlawanan dan martir yang sangat dihormati dalam sejarah Bali dan Indonesia, dengan monumen Puputan didirikan di Denpasar untuk memperingati keberanian para pejuang Bali yang memilih mati berdiri daripada hidup di bawah penjajahan, sebuah warisan heroik yang terus mempengaruhi identitas budaya dan spiritual Bali hingga saat ini.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Monumen Puputan Badung",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bali",
+          sourceSnippet2: "Encyclopaedia Britannica — Bali history",
+          source3: "UNESCO World Heritage",
+          sourceUrl3: "https://whc.unesco.org/en/list/1194/",
+          sourceSnippet3: "UNESCO World Heritage — Cultural Landscape of Bali Province"
+        },
+        en: {
+          title: "The Kingdoms of Bali and the 1906 Puputan Badung: Fight to the End",
+          desc: "The independent Hindu kingdoms of Bali that survived until the early 20th century ended their existence through the Puputan, heroic fight-to-the-death events against Dutch invasion that killed thousands of royal family members.",
+          content: "<p class=\"mb-4\">The island of Bali was led by a series of independent Hindu kingdoms for centuries, with local dynasties maintaining a unique Hindu-Javanese tradition that developed separately from Java after Majapahit's fall, making Bali the last bastion of Hindu civilization in the archipelago.</p><p class=\"mb-4\">The Dutch gradually expanded control over Bali since the late 19th century, using various pretexts including ship piracy and opium rights claims to force Balinese kingdoms to sign treaties ceding sovereignty, with Bali's resistance to Dutch intervention culminating in a series of armed conflicts.</p><p class=\"mb-4\">The most famous Puputan Badung event occurred on September 20, 1906, when Dutch forces approached the royal palace in Denpasar, the King of Badung along with the royal family, guards, and his people emerged from the palace wearing white ceremonial garments and launched a direct attack toward the modernly armed Dutch forces, a suicidal battle that killed about 1,000 Balinese including the king and his family.</p><p class=\"mb-4\">Similar Puputan events also occurred in Klungkung in 1908, when the King of Klungkung along with his followers also fought to the end against Dutch forces, marking the end of Balinese kingdoms' independence and the island's full integration into the Dutch East Indies, albeit at enormous human cost.</p><p class=\"mb-4\">The Puputan events became highly respected symbols of resistance and martyrdom in Balinese and Indonesian history, with Puputan monuments erected in Denpasar to commemorate the bravery of Balinese warriors who chose death standing over life under colonial rule, a heroic legacy that continues to influence Bali's cultural and spiritual identity to this day.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Puputan Badung Monument",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bali",
+          sourceSnippet2: "Encyclopaedia Britannica — Bali history",
+          source3: "UNESCO World Heritage",
+          sourceUrl3: "https://whc.unesco.org/en/list/1194/",
+          sourceSnippet3: "UNESCO World Heritage — Cultural Landscape of Bali Province"
+        },
+        ja: {
+          title: "バリ王国と1906年のププタン・バドゥン：最後までの戦い",
+          desc: "20世紀初頭まで存続したバリの独立したヒンドゥー王国は、オランダ侵攻に対する英雄的な死闘であるププタンを通じてその存在を終わらせ、何千人もの王族の命が奪われた。",
+          content: "<p class=\"mb-4\">バリ島は何世紀にもわたり一連の独立したヒンドゥー王国に率いられ、地元の王朝はマジャパヒト崩壊後ジャワから別個に発展した独自のヒンドゥー・ジャワ伝統を維持し、バリを群島最後のヒンドゥー文明の砦としていました。</p><p class=\"mb-4\">オランダは19世紀末以降バリに対する支配を徐々に拡大し、海賊行為やアヘン権の主張などの様々な口実を用いてバリの王国に主権を譲渡する条約への署名を強要し、オランダの介入に対するバリの抵抗は一連の武力衝突に発展しました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — ププタン・バドゥン記念碑",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bali",
+          sourceSnippet2: "Encyclopaedia Britannica — バリの歴史"
+        },
+        ko: {
+          title: "발리 왕국과 1906년 푸푸탄 바둥: 끝까지의 투쟁",
+          desc: "20세기 초까지 존속한 발리의 독립적인 힌두 왕국들은 네덜란드 침공에 맞선 영웅적 결사 항전인 푸푸탄을 통해 그 존재를 끝내며 수천 명의 왕족이 목숨을 잃었다.",
+          content: "<p class=\"mb-4\">발리 섬은 수세기 동안 일련의 독립적인 힌두 왕국에 의해 이끌어졌으며, 지역 왕조들은 마자파힛 멸망 후 자바와 별개로 발전한 독특한 힌두-자바 전통을 유지하여 발리를 군도에서 마지막 힌두 문명의 요새로 만들었습니다.</p><p class=\"mb-4\">네덜란드는 19세기 말 이후 발리에 대한 통제를 점진적으로 확대하여 선적 해적 행위와 아편 권리 주장을 포함한 various 구실을 사용해 발리 왕국들에게 주권을 양도하는 조약에 서명하도록 강요했으며, 네덜란드 개입에 대한 발리의 저항은 일련의 무력 충돌로 발전했습니다.</p><p class=\"mb-4\">가장 유명한 푸푸탄 바둥 사건은 1906년 9월 20일에 발생했으며, 네덜란드군이 덴파사르의 왕궁에 접근했을 때 바둥의 왕과 왕족, 호위병, 그의 백성들이 흰 의식복을 입고 궁에서 나와 현대식 무장을 한 네덜란드군을 향해 직접 공격을 감행했고, 이 자살적 전투에서 왕과 그의 가족을 포함하여 약 1,000명의 발리인이 사망했습니다.</p><p class=\"mb-4\">유사한 푸푸탄 사건은 1908년 클룽쿵에서도 발생했으며, 클룽쿵의 왕과 추종자들도 네덜란드군에 맞서 끝까지 싸워 발리 왕국들의 독립 종식과 발리 섬의 네덜란드령 동인도로의 완전한 통합을 표시했으나, 막대한 인명 비용을 치렀습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 푸푸탄 바둥 기념비",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bali",
+          sourceSnippet2: "Encyclopaedia Britannica — 발리 역사"
+        },
+        zh: {
+          title: "巴厘岛王国与1906年巴塘普普坦：战至最后",
+          desc: "存续至20世纪初的巴厘岛独立印度教王国通过普普坦这一反抗荷兰入侵的英勇殊死搏斗结束了其存在，数千名王室成员在此中丧生。",
+          content: "<p class=\"mb-4\">巴厘岛数个世纪以来由一系列独立的印度教王国领导，当地王朝维持着在满者伯夷灭亡后从爪哇分离发展出的独特的印度教-爪哇传统，使巴厘岛成为群岛最后一个印度教文明的堡垒。</p><p class=\"mb-4\">荷兰自19世纪末起逐步扩大对巴厘岛的控制，利用海盗行为和鸦片权利主张等various借口迫使巴厘岛王国签署割让主权的条约，巴厘岛对荷兰干预的抵抗演变为一系列武装冲突。</p><p class=\"mb-4\">最著名的巴塘普普坦事件发生于1906年9月20日，当荷兰军队逼近登巴萨的王宫时，巴塘国王连同王室家族、卫兵和百姓身着白色礼服从宫殿走出，直接向装备现代武器的荷兰军队发起攻击，这场自杀式战斗造成包括国王及其家族在内的约1000名巴厘岛人死亡。</p><p class=\"mb-4\">类似的普普坦事件也于1908年在克隆贡发生，克隆贡国王及其追随者也与荷兰军队战至最后，标志着巴厘岛王国独立的终结和该岛完全并入荷属东印度，但付出了巨大的人员代价。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 巴塘普普坦纪念碑",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bali",
+          sourceSnippet2: "Encyclopaedia Britannica — 巴厘岛历史"
+        }
+      }
+    },
+    {
+      id: "indonesia-era-transisi-habibie-gusdur-megawati-1998-2004",
+      langs: {
+        id: {
+          title: "Era Transisi: Habibie, Gus Dur, dan Megawati (1998-2004)",
+          desc: "Enam tahun pasca-Soeharto membawa perubahan demokratis fundamental: otonomi daerah, kebebasan pers, pemilu multipartai, dan pergantian kekuasaan damai antara tiga presiden berbeda.",
+          content: "<p class=\"mb-4\">B.J. Habibie yang menggantikan Soeharto pada 21 Mei 1998 menghadapi tantangan besar memimpin transisi dari otoritarianisme menuju demokrasi, dengan keputusan-keputusan berani yang mengubah lanskap politik Indonesia termasuk pembebasan tahanan politik, pencabutan berbagai peraturan represif, dan penyelenggaraan pemilu multipartai pertama pada 1999 yang melibatkan puluhan partai politik baru.</p><p class=\"mb-4\">Pemerintahan Abdurrahman Wahid (Gus Dur) yang terpilih melalui MPR pada 1999 membawa semangat pluralisme dan toleransi, dengan pencapaian signifikan termasuk penghapusan Departemen Penerangan yang simbolik dengan era kontrol pers, normalisasi hubungan dengan Tiongkok, serta usaha mendamaikan konflik-konflik sektarian di berbagai daerah, meski pemerintahannya juga menghadapi ketegangan politik dengan militer dan parlemen.</p><p class=\"mb-4\">Pencopotan Gus Dur melalui sidang istimewa MPR pada 2001 dan penggantian oleh Megawati Soekarnoputri menunjukkan fragilitas demokrasi baru Indonesia, namun juga membuktikan bahwa pergantian kekuasaan dapat terjadi secara konstitusional tanpa kekerasan, sebuah pencapaian penting bagi negara yang baru keluar dari otoritarianisme.</p><p class=\"mb-4\">Pemerintahan Megawati yang berlangsung hingga 2004 fokus pada stabilisasi ekonomi dan politik, dengan pencapaian termasuk pemulihan pertumbuhan ekonomi pasca-krisis, penyelesaian beberapa konflik regional, serta penyelenggaraan pemilu presiden langsung pertama dalam sejarah Indonesia pada 2004 yang dimenangkan oleh Susilo Bambang Yudhoyono.</p><p class=\"mb-4\">Era transisi 1998-2004 secara fundamental mengubah Indonesia dari salah satu rezim paling otoriter di Asia menjadi salah satu demokrasi terbesar di dunia, dengan warisan kelembagaan termasuk otonomi daerah yang memberikan kewenangan besar kepada pemerintah lokal, kebebasan pers yang robust, amandemen konstitusi yang membatasi kekuasaan presiden, dan Komisi Pemilihan Umum yang independen, fondasi yang terus membentuk demokrasi Indonesia hingga saat ini.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Era Reformasi",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Reformasi",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesia Reformasi era",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and democratic transition"
+        },
+        en: {
+          title: "The Transition Era: Habibie, Gus Dur, and Megawati (1998-2004)",
+          desc: "The six post-Soeharto years brought fundamental democratic changes: regional autonomy, press freedom, multi-party elections, and peaceful transfer of power between three different presidents.",
+          content: "<p class=\"mb-4\">B.J. Habibie, who replaced Soeharto on May 21, 1998, faced the enormous challenge of leading the transition from authoritarianism to democracy, with bold decisions that changed Indonesia's political landscape including releasing political prisoners, revoking various repressive regulations, and holding the first multi-party elections in 1999 involving dozens of new political parties.</p><p class=\"mb-4\">The government of Abdurrahman Wahid (Gus Dur), elected through the MPR in 1999, brought a spirit of pluralism and tolerance, with significant achievements including the symbolic abolition of the Ministry of Information associated with the press control era, normalizing relations with China, and efforts to reconcile sectarian conflicts in various regions, though his government also faced political tensions with the military and parliament.</p><p class=\"mb-4\">The removal of Gus Dur through a special MPR session in 2001 and his replacement by Megawati Soekarnoputri demonstrated the fragility of Indonesia's new democracy, but also proved that power transfers could occur constitutionally without violence, an important achievement for a country just emerging from authoritarianism.</p><p class=\"mb-4\">Megawati's government, lasting until 2004, focused on economic and political stabilization, with achievements including post-crisis economic growth recovery, resolution of several regional conflicts, and holding Indonesia's first direct presidential election in history in 2004, won by Susilo Bambang Yudhoyono.</p><p class=\"mb-4\">The 1998-2004 transition era fundamentally transformed Indonesia from one of Asia's most authoritarian regimes into one of the world's largest democracies, with institutional legacies including regional autonomy granting broad authority to local governments, robust press freedom, constitutional amendments limiting presidential power, and an independent General Election Commission, foundations that continue to shape Indonesian democracy to this day.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Reformasi Era Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Reformasi",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesia Reformasi era",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and democratic transition"
+        },
+        ja: {
+          title: "移行期：ハビビ、グス・ドゥール、メガワティ（1998〜2004年）",
+          desc: "スハルト後の6年間は地方自治、報道の自由、多党選挙、3人の異なる大統領間の平和的権力移行という民主的変革をもたらした。",
+          content: "<p class=\"mb-4\">1998年5月21日にスハルトに代わったB.J.ハビビは権威主義から民主主義への移行を主導するという巨大な課題に直面し、政治犯の釈放、様々な抑圧的規制の撤回、数十の新政党が参加する1999年の初の多党選挙の実施など、インドネシアの政治的景観を変える大胆な決定を下しました。</p><p class=\"mb-4\">1999年のMPRを通じて選出されたアブドゥラフマン・ワヒド（グス・ドゥール）の政権は、多元主義と寛容の精神をもたらし、報道統制時代を象徴する情報省の廃止、中国との関係正常化、各地の宗派対立の調停努力など重要な成果を挙げましたが、軍や議会との政治的緊張にも直面しました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — 改革時代の記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Reformasi",
+          sourceSnippet2: "Encyclopaedia Britannica — インドネシア改革時代"
+        },
+        ko: {
+          title: "과도기: 하비비, 구스 두르, 메가와티 (1998~2004년)",
+          desc: "수하르토 이후 6년은 지방 자치, 언론 자유, 다당제 선거, 세 명의 다른 대통령 간 평화적 권력 이양이라는 근본적인 민주적 변화를 가져왔다.",
+          content: "<p class=\"mb-4\">1998년 5월 21일 수하르토를 대신한 B.J. 하비비는 권위주의에서 민주주의로의 전환을 이끄는 거대한 도전에 직면했으며, 정치범 석방, various 억압적 규정 철폐, 수십 개의 새 정당이 참여한 1999년 최초의 다당제 선거 실시 등 인도네시아의 정치 지형을 바꾸는 대담한 결정을 내렸습니다.</p><p class=\"mb-4\">1999년 인민협의회를 통해 선출된 압두라만 와힐드(구스 두르)의 정부는 다원주의와 관용의 정신을 가져왔으며, 언론 통제 시대를 상징하는 정보부 폐지, 중국과의 관계 정상화, various 지역의 종파 갈등 화해 노력을 포함한 중요한 성과를 거두었으나, 군부 및 의회와의 정치적 긴장에도 직면했습니다.</p><p class=\"mb-4\">2001년 인민협의회 특별 회의를 통한 구스 두르의 해임과 메가와티 수카르노푸트리로의 교체는 인도네시아 새 민주주의의 취약성을 보여주었지만, 동시에 권력 이양이 폭력 없이 헌법적으로 이루어질 수 있음을 증명하여, 막 권위주의에서 벗어난 국가에게 중요한 성취가 되었습니다.</p><p class=\"mb-4\">2004년까지 지속된 메가와티의 정부는 경제 및 정치 안정화에 집중했으며, 위기 이후 경제 성장 회복, 여러 지역 분쟁 해결, 그리고 인도네시아 역사상 최초의 직접 대통령 선거를 2004년에 실시하여 수실로 밤방 유드요노가 승리했습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 개혁 시대 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Reformasi",
+          sourceSnippet2: "Encyclopaedia Britannica — 인도네시아 개혁 시대"
+        },
+        zh: {
+          title: "过渡时期：哈比比、瓦希德和梅加瓦蒂（1998-2004年）",
+          desc: "后苏哈托的六年带来了根本性的民主变革：地方自治、新闻自由、多党选举以及三位不同总统之间的和平权力交接。",
+          content: "<p class=\"mb-4\">1998年5月21日接替苏哈托的B.J.哈比比面临着领导从威权主义向民主过渡的巨大挑战，他做出了改变印度尼西亚政治格局的大胆决定，包括释放政治犯、废除various镇压性法规，以及举办1999年首次涉及数十个新政党的多党选举。</p><p class=\"mb-4\">1999年通过人民协商会议选举产生的阿卜杜拉赫曼·瓦希德（古斯·都尔）政府带来了多元主义和宽容的精神，取得了包括废除象征新闻控制时代的信息部、与中国关系正常化以及调解various地区宗派冲突等重大成就，尽管其政府也面临与军方和议会的政治紧张关系。</p><p class=\"mb-4\">2001年通过人民协商会议特别会议罢免瓦希德并由梅加瓦蒂·苏加诺普特丽接替，展示了印度尼西亚新民主的脆弱性，但也证明了权力交接可以在不使用暴力的情况下依宪进行，这对一个刚摆脱威权主义的国家来说是重要成就。</p><p class=\"mb-4\">持续至2004年的梅加瓦蒂政府专注于经济和政治稳定，其成就包括危机后经济增长恢复、解决若干地区冲突，以及于2004年举办印度尼西亚历史上首次直接总统选举，由苏西洛·班邦·尤多约诺获胜。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 改革时代文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Indonesia/Reformasi",
+          sourceSnippet2: "Encyclopaedia Britannica — 印度尼西亚改革时代"
+        }
+      }
+    },
+    {
+      id: "indonesia-kerajaan-kediri-jawa-timur",
+      langs: {
+        id: {
+          title: "Kerajaan Kediri: Pusat Sastra dan Perdagangan di Jawa Timur",
+          desc: "Kerajaan Kediri yang berdiri di Jawa Timur sekitar abad ke-12-13 dikenal sebagai pusat sastra klasik Jawa dan kekuatan dagang maritim yang signifikan sebelum ditaklukkan oleh Ken Arok dari Singasari.",
+          content: "<p class=\"mb-4\">Kerajaan Kediri merupakan kerajaan Hindu-Buddha yang berpusat di lembah Sungai Brantas, Jawa Timur, sekitar abad ke-12 hingga awal abad ke-13, berkembang dari pemisahan Kerajaan Mataram Kuno yang sebelumnya berpusat di Jawa Tengah sebelum dipindahkan ke Jawa Timur oleh Mpu Sindok.</p><p class=\"mb-4\">Era kejayaan Kediri terutama tercatat dalam pencapaian budaya dan sastra, dengan periode ini melahirkan karya-karya sastra Jawa Kuno yang paling penting termasuk Bharatayuda karya Mpu Sedah dan Mpu Panuluh, serta Hariwangsa dan Smaradahana, yang menunjukkan tingkat patronase kerajaan terhadap seni dan kesusastraan yang sangat tinggi.</p><p class=\"mb-4\">Kediri juga berkembang menjadi kekuatan ekonomi dan dagang yang signifikan, memanfaatkan posisi strategis di lembah Sungai Brantas yang subur untuk produksi pertanian surplus, serta mengembangkan jaringan perdagangan maritim yang menghubungkan Jawa Timur dengan kawasan Asia Tenggara lainnya dan mungkin hingga ke Tiongkok dan India.</p><p class=\"mb-4\">Catatan dinasti Song dari Tiongkok menyebutkan adanya hubungan dagang antara Kediri (disebut sebagai She-po) dengan Tiongkok, menunjukkan bahwa Kediri merupakan kekuatan regional yang dikenal di kawasan Asia, dengan ekspor utama termasuk lada, kapur, dan produk hutan lainnya yang menjadi komoditas penting dalam jaringan perdagangan Asia pada masa itu.</p><p class=\"mb-4\">Kerajaan Kediri berakhir ketika dikalahkan oleh Ken Arok dalam Pertempuran Ganter pada 1222, yang mendirikan Kerajaan Singasari sebagai penerus kekuasaan di Jawa Timur, namun warisan sastra dan budaya Kediri terus mempengaruhi tradisi kesusastraan Jawa selama berabad-abad berikutnya, dengan banyak karya dari era Kediri masih dipelajari dan dihargai dalam tradisi sastra Jawa hingga saat ini.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Peninggalan Kerajaan Kediri",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kediri-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — Kediri kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2255/the-kingdom-of-kediri-javanese-literary-golden-age/",
+          sourceSnippet3: "World History Encyclopedia — The Kingdom of Kediri"
+        },
+        en: {
+          title: "The Kingdom of Kediri: Center of Literature and Trade in East Java",
+          desc: "The Kingdom of Kediri, established in East Java around the 12th-13th centuries, was known as a center of classical Javanese literature and a significant maritime trading power before being conquered by Ken Arok of Singasari.",
+          content: "<p class=\"mb-4\">The Kingdom of Kediri was a Hindu-Buddhist kingdom centered in the Brantas River valley, East Java, around the 12th to early 13th century, developing from the separation of the Ancient Mataram Kingdom previously centered in Central Java before being moved to East Java by Mpu Sindok.</p><p class=\"mb-4\">Kediri's golden era is primarily recorded in cultural and literary achievements, with this period producing the most important Old Javanese literary works including Bharatayuda by Mpu Sedah and Mpu Panuluh, as well as Hariwangsa and Smaradahana, showing a very high level of royal patronage of art and literature.</p><p class=\"mb-4\">Kediri also developed into a significant economic and trading power, exploiting its strategic position in the fertile Brantas River valley for surplus agricultural production, and developing maritime trade networks connecting East Java with other Southeast Asian regions and possibly reaching China and India.</p><p class=\"mb-4\">Records from the Chinese Song dynasty mention trade relations between Kediri (referred to as She-po) and China, indicating that Kediri was a recognized regional power in Asia, with main exports including pepper, quicklime, and other forest products that became important commodities in the Asian trade network of that era.</p><p class=\"mb-4\">The Kingdom of Kediri ended when it was defeated by Ken Arok in the Battle of Ganter in 1222, which established the Singasari Kingdom as the successor to power in East Java, but Kediri's literary and cultural legacy continued to influence Javanese literary tradition for subsequent centuries, with many works from the Kediri era still studied and appreciated in Javanese literary tradition to this day.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Kediri Kingdom Heritage",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kediri-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — Kediri kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2255/the-kingdom-of-kediri-javanese-literary-golden-age/",
+          sourceSnippet3: "World History Encyclopedia — The Kingdom of Kediri"
+        },
+        ja: {
+          title: "ケディリ王国：東ジャワにおける文学と交易の中心地",
+          desc: "12〜13世紀頃に東ジャワに建国されたケディリ王国は、古典ジャワ文学の中心地であり、シンガサリのケン・アロクによって征服されるまで重要な海上交易勢力として知られた。",
+          content: "<p class=\"mb-4\">ケディリ王国は12世紀から13世紀初頭にかけて東ジャワのブランタス川流域を中心としたヒンドゥー・仏教王国であり、プ・シンドクによって中部ジャワから東ジャワに遷都された古代マタラム王国の分離から発展しました。</p><p class=\"mb-4\">ケディリの黄金時代は主に文化と文学の成果として記録され、この時期にはムプ・セダフとムプ・パヌルフによるバラタユダ、およびハリワンサやスマラダハナを含む最も重要な古ジャワ文学作品が生み出され、芸術と文学に対する非常に高いレベルの王室の後援を示しています。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — ケディリ王国遺跡",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kediri-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — ケディリ王国"
+        },
+        ko: {
+          title: "케디리 왕국: 동자바의 문학과 무역의 중심지",
+          desc: "12~13세기경 동자바에 건국된 케디리 왕국은 고전 자바 문학의 중심지이자 싱아사리의 켄 아록에게 정복되기 전까지 중요한 해상 무역 세력으로 알려졌다.",
+          content: "<p class=\"mb-4\">케디리 왕국은 12세기에서 13세기 초에 걸쳐 동자바의 브란타스 강 유역을 중심으로 한 힌두-불교 왕국으로, 푸 신독에 의해 중부 자와에서 동자와로 천도된 고대 마타람 왕국의 분리에서 발전했습니다.</p><p class=\"mb-4\">케디리의 황금기는 주로 문화적·문학적 성취로 기록되며, 이 시기에 푸 세다와 푸 파눌루흐의 바라타유다, 하리왕사, 스마라다하나를 포함한 가장 중요한 고(古)자바 문학 작품들이 탄생하여 예술과 문학에 대한 매우 높은 수준의 왕실 후원을 보여줍니다.</p><p class=\"mb-4\">케디리는 또한 중요한 경제 및 무역 세력으로 발전하여, 비옥한 브란타스 강 유역의 전략적 위치를 활용한 잉여 농업 생산과 동자바를 동남아시아 다른 지역 및 어쩌면 중국과 인도까지 연결하는 해상 무역망을 개발했습니다.</p><p class=\"mb-4\">중국 송 왕조의 기록은 케디리(쉐포로 불림)와 중국 간의 무역 관계를 언급하여 케디리가 아시아에서 인정받는 지역 세력이었음을 나타내며, 후추, 석회 및 다른 산림 제품이 당시 아시아 무역망에서 중요한 상품이 되는 주요 수출품이었습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 케디리 왕국 유적",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kediri-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — 케디리 왕국"
+        },
+        zh: {
+          title: "谏义里王国：东爪哇的文学与贸易中心",
+          desc: "约12至13世纪在东爪哇建立的谏义里王国是古典爪哇文学的中心和重要的海上贸易力量，后被新柯沙里的肯·安禄征服。",
+          content: "<p class=\"mb-4\">谏义里王国是一个约在12世纪至13世纪初以东爪哇布兰塔斯河流域为中心的印度教-佛教王国，由普·辛多克将古马打兰王国从中爪哇迁至东爪哇后发展而来。</p><p class=\"mb-4\">谏义里的黄金时代主要体现在文化和文学成就上，这一时期产生了最重要的古爪哇文学作品，包括普·塞达和普·帕努卢合著的《巴拉塔尤达》，以及《哈里旺萨》和《斯马拉达哈纳》，显示了王室对艺术和文学非常高水平的资助。</p><p class=\"mb-4\">谏义里还发展为重要的经济和贸易力量，利用其在肥沃的布兰塔斯河流域的战略位置进行剩余农产品生产，并发展连接东爪哇与东南亚其他地区甚至可能到达中国和印度的海上贸易网络。</p><p class=\"mb-4\">中国宋代的记录提到了谏义里（被称为阇婆）与中国之间的贸易关系，表明谏义里是亚洲公认的地区性力量，主要出口产品包括胡椒、石灰和其他林产品，这些成为当时亚洲贸易网络中的重要商品。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 谏义里王国遗产",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Kediri-kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — 谏义里王国"
+        }
+      }
+    }
+
     ]
 };

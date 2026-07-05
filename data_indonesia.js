@@ -2011,5 +2011,469 @@ window.countryDataFiles['indonesia'] = {
       }
     }
 
+      ,
+    {
+      id: "indonesia-perang-aceh-1873-1904",
+      langs: {
+        id: {
+          title: "Perang Aceh (1873-1904): Perlawanan Terpanjang Melawan Belanda",
+          desc: "Perang Aceh yang berlangsung selama lebih dari 30 tahun menjadi perlawanan paling sengit dan terpanjang terhadap ekspansi kolonial Belanda, dengan Cut Nyak Dien dan Teuku Umar menjadi simbol perjuangan yang tak kenal menyerah.",
+          content: "<p class=\"mb-4\">Kesultanan Aceh yang berpusat di ujung utara Sumatra merupakan salah satu kekuatan politik dan dagang terpenting di Nusantara pada abad ke-19, mengendalikan perdagangan lada dan rempah-rempah melalui Selat Malaka serta memiliki hubungan diplomatik dengan Kesultanan Utsmaniyah dan negara-negara Eropa, menjadikannya target ekspansi kolonial Belanda.</p><p class=\"mb-4\">Belanda melancarkan ekspedisi militer pertama ke Aceh pada April 1873 dengan pasukan sekitar 3.000 tentara, namun mengalami kekalahan memalukan ketika komandan ekspedisi Jenderal Kohler tewas dalam pertempuran dan pasukan Belanda terpaksa mundur, sebuah kekalahan yang mengejutkan Belanda dan dunia internasional yang menganggap Aceh akan mudah ditaklukkan.</p><p class=\"mb-4\">Ekspedisi kedua pada Desember 1873 dengan pasukan yang jauh lebih besar akhirnya berhasil menduduki istana sultan di Banda Aceh pada 1874, namun perlawanan rakyat Aceh tidak berhenti dan justru bertransformasi menjadi perang gerilya yang berlangsung puluhan tahun, dipimpin oleh para panglima perang lokal termasuk Cut Nyak Dien, Teuku Umar, dan Tjut Meutia.</p><p class=\"mb-4\">Teuku Umar yang awalnya bekerja sama dengan Belanda kemudian berbalik melawan mereka dalam strategi yang dikenal sebagai taktik palsu, merebut persenjataan Belanda sebelum melancarkan serangan besar-besaran, namun akhirnya gugur dalam pertempuran pada 1899, sementara Cut Nyak Dien melanjutkan perjuangan selama bertahun-tahun sebelum akhirnya ditangkap pada 1905 dan diasingkan ke Sumedang hingga wafatnya.</p><p class=\"mb-4\">Perang Aceh baru secara resmi berakhir pada 1904 setelah Belanda mengadopsi taktik konsentrasi yang kejam memaksa penduduk desa ke kamp-kamp konsentrasi serta menggunakan pasukan Marsose yang mobile, namun perlawanan sporadis berlanjut hingga 1910-an, dengan korban jiwa diperkirakan puluhan ribu dari kedua belah pihak dan menjadikan Perang Aceh sebagai salah satu perang kolonial paling mahal dan berdarah dalam sejarah Belanda di Nusantara.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Perang Aceh",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Aceh-War",
+          sourceSnippet2: "Encyclopaedia Britannica — Aceh War",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2260/the-aceh-war-1873-1904/",
+          sourceSnippet3: "World History Encyclopedia — The Aceh War"
+        },
+        en: {
+          title: "The Aceh War (1873-1904): The Longest Resistance Against the Dutch",
+          desc: "The Aceh War, lasting over 30 years, became the fiercest and longest resistance against Dutch colonial expansion, with Cut Nyak Dien and Teuku Umar becoming symbols of unyielding struggle.",
+          content: "<p class=\"mb-4\">The Sultanate of Aceh, centered at the northern tip of Sumatra, was one of the most important political and trading powers in the archipelago during the 19th century, controlling pepper and spice trade through the Strait of Malacca and having diplomatic relations with the Ottoman Empire and European states, making it a target for Dutch colonial expansion.</p><p class=\"mb-4\">The Dutch launched their first military expedition to Aceh in April 1873 with about 3,000 troops, but suffered an embarrassing defeat when expedition commander General Kohler was killed in battle and Dutch forces were forced to withdraw, a defeat that shocked the Netherlands and the international community who assumed Aceh would be easily conquered.</p><p class=\"mb-4\">A second expedition in December 1873 with a far larger force finally occupied the sultan's palace in Banda Aceh in 1874, but Acehnese resistance did not stop and instead transformed into a guerrilla war lasting decades, led by local warlords including Cut Nyak Dien, Teuku Umar, and Tjut Meutia.</p><p class=\"mb-4\">Teuku Umar, who initially cooperated with the Dutch, later turned against them in a strategy known as the false tactic, seizing Dutch weapons before launching massive attacks, but ultimately fell in battle in 1899, while Cut Nyak Dien continued the struggle for years before finally being captured in 1905 and exiled to Sumedang until her death.</p><p class=\"mb-4\">The Aceh War officially ended in 1904 after the Dutch adopted the brutal concentration tactic forcing villagers into concentration camps and using mobile Marsose units, though sporadic resistance continued into the 1910s, with estimated casualties of tens of thousands from both sides, making the Aceh War one of the most expensive and bloodiest colonial wars in Dutch history in the archipelago.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Aceh War Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Aceh-War",
+          sourceSnippet2: "Encyclopaedia Britannica — Aceh War",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2260/the-aceh-war-1873-1904/",
+          sourceSnippet3: "World History Encyclopedia — The Aceh War"
+        },
+        ja: {
+          title: "アチェ戦争（1873〜1904年）：オランダに対する最長の抵抗",
+          desc: "30年以上続いたアチェ戦争はオランダ植民地拡大に対する最も激しく最も長い抵抗となり、クトゥ・ニャク・ディエンとトゥク・ウマルは屈しない闘争の象徴となった。",
+          content: "<p class=\"mb-4\">スマトラ北端に中心を置くアチェ・スルタン国は19世紀の群島で最も重要な政治的・商業的勢力の一つであり、マラッカ海峡を通じる胡椒と香辛料の交易を支配し、オスマン帝国やヨーロッパ諸国と外交関係を持っていたため、オランダ植民地拡大の標的となりました。</p><p class=\"mb-4\">オランダは1873年4月に約3,000人の部隊でアチェへの最初の軍事遠征を開始しましたが、遠征司令官コーラー将軍が戦闘で戦死しオランダ軍が撤退を余儀なくされるという屈辱的な敗北を被り、アチェが容易に征服できると想定していたオランダと国際社会に衝撃を与えました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — アチェ戦争記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Aceh-War",
+          sourceSnippet2: "Encyclopaedia Britannica — アチェ戦争"
+        },
+        ko: {
+          title: "아체 전쟁 (1873~1904년): 네덜란드에 맞선 최장기 저항",
+          desc: "30년 이상 지속된 아체 전쟁은 네덜란드 식민 확장에 맞선 가장 치열하고 가장 긴 저항이 되었으며, 쿠트 냑 디엔과 테우쿠 우마르는 굽히지 않는 투쟁의 상징이 되었다.",
+          content: "<p class=\"mb-4\">수마트라 북단에 중심을 둔 아체 술탄국은 19세기 군도에서 가장 중요한 정치·무역 세력 중 하나였으며, 믈라카 해협을 통한 후추와 향신료 무역을 통제하고 오스만 제국 및 유럽 국가들과 외교 관계를 맻어 네덜란드 식민 확장의 표적이 되었습니다.</p><p class=\"mb-4\">네덜란드는 1873년 4월 약 3,000명의 부대로 아체에 대한 첫 군사 원정을 개시했으나, 원정 사령관 콜러 장군이 전투에서 전사하고 네덜란드군이 철수를 강요받는 굴욕적인 패배를 당해, 아체가 쉽게 정복될 것으로 가정했던 네덜란드와 국제사회에 충격을 주었습니다.</p><p class=\"mb-4\">1873년 12월 훨씬 더 큰 규모의 두 번째 원정이 1874년 반다 아체의 술탄 궁을 점령했으나 아체인의 저항은 멈추지 않았고 오히려 수십 년 지속된 게릴라전으로 변모했으며, 쿠트 냑 디엔, 테우쿠 우마르, 츗 무티아를 포함한 지역 군벌들이 이끌었습니다.</p><p class=\"mb-4\">처음에 네덜란드와 협력했던 테우쿠 우마르는 나중에 거짓 전술로 알려진 전략에서 그들에게 등을 돌리고 네덜란드 무기를 탈취한 후 대규모 공격을 개시했으나 1899년 전투에서 전사했고, 쿠트 냑 디엔은 수년간 투쟁을 계속하다 1905년 체포되어 사망할 때까지 수메당에 유배되었습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 아체 전쟁 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Aceh-War",
+          sourceSnippet2: "Encyclopaedia Britannica — 아체 전쟁"
+        },
+        zh: {
+          title: "亚齐战争（1873-1904年）：反抗荷兰的最长抵抗",
+          desc: "持续30多年的亚齐战争成为反抗荷兰殖民扩张最激烈、最持久的抵抗，库特·尼亚克·迪恩和德古·乌马尔成为不屈不挠斗争的象征。",
+          content: "<p class=\"mb-4\">以苏门答腊北端为中心的亚齐苏丹国是19世纪群岛最重要的政治和贸易力量之一，通过马六甲海峡控制胡椒和香料贸易，并与奥斯曼帝国和欧洲国家保持外交关系，使其成为荷兰殖民扩张的目标。</p><p class=\"mb-4\">荷兰于1873年4月以约3000人的部队发动了第一次对亚齐的军事远征，但遭受了尴尬的失败，远征指挥官科勒将军在战斗中阵亡，荷兰军队被迫撤退，这一失败震惊了认为亚齐会被轻易征服的荷兰和国际社会。</p><p class=\"mb-4\">1873年12月规模更大的第二次远征于1874年占领了班达亚齐的苏丹宫殿，但亚齐人的抵抗并未停止，反而转变为持续数十年的游击战，由包括库特·尼亚克·迪恩、德古·乌马尔和丘特·穆蒂亚在内的当地军阀领导。</p><p class=\"mb-4\">最初与荷兰合作的德古·乌马尔后来在被称为假战术的策略中反戈一击，夺取荷兰武器后发动大规模进攻，但最终于1899年在战斗中阵亡，而库特·尼亚克·迪恩继续斗争多年，最终于1905年被捕并流放至苏木当直至去世。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 亚齐战争文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Aceh-War",
+          sourceSnippet2: "Encyclopaedia Britannica — 亚齐战争"
+        }
+      }
+    },
+    {
+      id: "indonesia-konferensi-asia-afrika-1955",
+      langs: {
+        id: {
+          title: "Konferensi Asia-Afrika 1955: Lahirnya Semangat Bandung",
+          desc: "Konferensi Asia-Afrika di Bandung pada April 1955 mengumpulkan 29 negara dari dua benua dan menghasilkan Dasasila Bandung, menjadi cikal bakal Gerakan Non-Blok dan tonggak kepemimpinan Indonesia di dunia ketiga.",
+          content: "<p class=\"mb-4\">Konferensi Asia-Afrika diselenggarakan di Bandung pada 18-24 April 1955, mengumpulkan perwakilan dari 29 negara Asia dan Afrika yang baru merdeka, menjadikannya konferensi internasional terbesar yang pernah diselenggarakan oleh negara-negara dunia ketiga pada masa itu, dengan tokoh-tokoh penting seperti Sukarno dari Indonesia, Nehru dari India, Nasser dari Mesir, dan Zhou Enlai dari Tiongkok hadir sebagai delegasi.</p><p class=\"mb-4\">Konferensi ini digagas oleh Indonesia, India, Pakistan, Burma, dan Sri Lanka (Ceylon) sebagai upaya menyatukan suara negara-negara Asia dan Afrika yang baru merdeka dalam menghadapi polarisasi Perang Dingin antara blok Barat dipimpin Amerika Serikat dan blok Timur dipimpin Uni Soviet, dengan prinsip utama bahwa negara-negara dunia ketiga berhak menentukan jalannya sendiri tanpa diintervensi kekuatan besar.</p><p class=\"mb-4\">Hasil paling penting dari konferensi ini adalah Dasasila Bandung, sepuluh prinsip dasar yang mencakup penghormatan terhadap kedaulatan dan kesetaraan semua bangsa, non-intervensi dalam urusan dalam negeri negara lain, penyelesaian sengketa secara damai, serta penolakan terhadap kolonialisme dan diskriminasi rasial, prinsip-prinsip yang kelak menjadi landasan Gerakan Non-Blok.</p><p class=\"mb-4\">Konferensi Bandung juga secara konkret membahas isu-isu mendesak saat itu termasuk dukungan terhadap kemerdekaan negara-negara yang masih dijajah, perlunya kerja sama ekonomi dan budaya antara negara Asia-Afrika, serta penegasan bahwa perdamaian dunia tidak dapat dicapai melalui aliansi militer blok tetapi melalui dialog dan koeksistensi damai antar bangsa.</p><p class=\"mb-4\">Konferensi Asia-Afrika 1955 menjadi momen puncak diplomasi Indonesia di panggung internasional dan menempatkan Sukarno sebagai salah satu pemimpin dunia ketiga paling dihormati pada masanya, sekaligus meletakkan fondasi bagi Gerakan Non-Blok yang resmi dibentuk pada 1961 dan menjadikan Bandung sebagai simbol abadi solidaritas negara-negara Asia dan Afrika dalam memperjuangkan hak menentukan nasib sendiri.</p>",
+          source: "Kementerian Luar Negeri Republik Indonesia",
+          sourceUrl: "https://kemlu.go.id/",
+          sourceSnippet: "Kementerian LUar Negeri RI — Konferensi Asia-Afrika 1955",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Bandung-Conference",
+          sourceSnippet2: "Encyclopaedia Britannica — Bandung Conference",
+          source3: "United Nations",
+          sourceUrl3: "https://www.un.org/en/about-us/history-of-the-united-nations",
+          sourceSnippet3: "United Nations — Non-Aligned Movement history"
+        },
+        en: {
+          title: "The 1955 Asian-African Conference: Birth of the Bandung Spirit",
+          desc: "The Asian-African Conference in Bandung in April 1955 gathered 29 nations from two continents and produced the Bandung Declaration, becoming the precursor to the Non-Aligned Movement and a milestone of Indonesian leadership in the third world.",
+          content: "<p class=\"mb-4\">The Asian-African Conference was held in Bandung on April 18-24, 1955, gathering representatives from 29 Asian and African newly independent nations, making it the largest international conference ever organized by third-world countries at that time, with important figures such as Sukarno of Indonesia, Nehru of India, Nasser of Egypt, and Zhou Enlai of China present as delegates.</p><p class=\"mb-4\">This conference was initiated by Indonesia, India, Pakistan, Burma, and Sri Lanka (Ceylon) as an effort to unite the voices of newly independent Asian and African nations facing Cold War polarization between the Western bloc led by the United States and the Eastern bloc led by the Soviet Union, with the main principle that third-world nations had the right to determine their own path without great power intervention.</p><p class=\"mb-4\">The most important outcome of this conference was the Bandung Declaration, ten basic principles covering respect for the sovereignty and equality of all nations, non-intervention in other countries' internal affairs, peaceful settlement of disputes, and rejection of colonialism and racial discrimination, principles that would later become the foundation of the Non-Aligned Movement.</p><p class=\"mb-4\">The Bandung Conference also concretely addressed pressing issues of the time including support for the independence of still-colonized nations, the need for economic and cultural cooperation among Asian-African nations, and the assertion that world peace could not be achieved through bloc military alliances but through dialogue and peaceful coexistence among nations.</p><p class=\"mb-4\">The 1955 Asian-African Conference became the peak moment of Indonesian diplomacy on the international stage and placed Sukarno as one of the most respected third-world leaders of his time, while laying the foundation for the Non-Aligned Movement officially established in 1961 and making Bandung an enduring symbol of Asian and African nations' solidarity in fighting for self-determination.</p>",
+          source: "Ministry of Foreign Affairs of the Republic of Indonesia",
+          sourceUrl: "https://kemlu.go.id/",
+          sourceSnippet: "Ministry of Foreign Affairs of Indonesia — 1955 Asian-African Conference",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Bandung-Conference",
+          sourceSnippet2: "Encyclopaedia Britannica — Bandung Conference",
+          source3: "United Nations",
+          sourceUrl3: "https://www.un.org/en/about-us/history-of-the-united-nations",
+          sourceSnippet3: "United Nations — Non-Aligned Movement history"
+        },
+        ja: {
+          title: "1955年アジア・アフリカ会議：バンドン精神の誕生",
+          desc: "1955年4月のバンドンでのアジア・アフリカ会議は2大陸から29カ国を集めバンドン宣言を生み出し、非同盟運動の前身となり第三世界におけるインドネシアの指導力の節目となった。",
+          content: "<p class=\"mb-4\">アジア・アフリカ会議は1955年4月18〜24日にバンドンで開催され、新たに独立したアジア・アフリカ29カ国の代表を集め、当時の第三世界諸国が組織した最大の国際会議となりました。インドネシアのスカルノ、インドのネルー、エジプトのナセル、中国の周恩来など重要人物が代表として出席しました。</p><p class=\"mb-4\">この会議はインドネシア、インド、パキスタン、ビルマ、セイロンによって発案され、アメリカ合衆国主導の西側ブロックとソ連主導の東側ブロック間の冷戦の二極化に直面する新独立アジア・アフリカ諸国の声を統合する努力として、第三世界諸国が大国の介入なしに自らの道を決定する権利を持つという主要原則を掲げました。</p>",
+          source: "インドネシア外務省",
+          sourceUrl: "https://kemlu.go.id/",
+          sourceSnippet: "インドネシア外務省 — 1955年アジア・アフリカ会議",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Bandung-Conference",
+          sourceSnippet2: "Encyclopaedia Britannica — バンドン会議"
+        },
+        ko: {
+          title: "1955년 아시아-아프리카 회의: 반둥 정신의 탄생",
+          desc: "1955년 4월 반둥에서 열린 아시아-아프리카 회의는 두 대륙에서 29개국을 모아 반둥 선언을 생산했으며, 비동맹 운동의 전신이 되고 제3세계에서 인도네시아의 리더십을 보여주는 이정품이 되었다.",
+          content: "<p class=\"mb-4\">아시아-아프리카 회의는 1955년 4월 18-24일 반둥에서 개최되어 새로 독립한 아시아 및 아프리카 29개국 대표를 모아 당시 제3세계 국가들이 조직한 가장 큰 국제 회의가 되었으며, 인도네시아의 수카르노, 인도의 네루, 이집트의 나세르, 중국의 저우언라이 같은 중요 인물들이 대표로 참석했습니다.</p><p class=\"mb-4\">이 회의는 인도네시아, 인도, 파키스탄, 버마, 스리랑카(실론)가 발의하여 미국 주도의 서측 블록과 소련 주도의 동측 블록 간의 냉전 양극화에 직면한 신독립 아시아-아프리카 국가들의 목소리를 통합하려는 노력으로서, 제3세계 국가들이 강대국의 개입 없이 자신의 길을 결정할 권리가 있다는 주요 원칙을 내세웠습니다.</p><p class=\"mb-4\">이 회의의 가장 중요한 결과는 반둥 선언으로, 모든 국가의 주권과 평등에 대한 존중, 타국 내정 불간섭, 분쟁의 평화적 해결, 식민주의와 인종 차별 거부를 포함하는 10대 기본 원칙으로, 이 원칙들은 훗날 비동맹 운동의 기반이 되었습니다.</p><p class=\"mb-4\">반둥 회의는 여전히 식민 지배를 받는 국가의 독립 지원, 아시아-아프리카 국가 간 경제 및 문화 협력의 필요성, 그리고 세계 평화가 블록 군사 동맹이 아닌 대화와 평화적 공존을 통해 달성될 수 있다는 주장 등 당시 시급한 문제들을 구체적으로 다루었습니다.</p>",
+          source: "인도네시아 외교부",
+          sourceUrl: "https://kemlu.go.id/",
+          sourceSnippet: "인도네시아 외교부 — 1955년 아시아-아프리카 회의",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Bandung-Conference",
+          sourceSnippet2: "Encyclopaedia Britannica — 반둥 회의"
+        },
+        zh: {
+          title: "1955年亚非会议：万隆精神的诞生",
+          desc: "1955年4月在万隆举行的亚非会议汇聚了两大洲29个国家并产生了万隆宣言，成为不结盟运动的先驱和印度尼西亚在第三世界领导力的里程碑。",
+          content: "<p class=\"mb-4\">亚非会议于1955年4月18-24日在万隆举行，汇聚了29个新独立的亚非国家代表，使其成为当时第三世界国家组织的最大规模国际会议，印度尼西亚的苏加诺、印度的尼赫鲁、埃及的纳赛尔和中国的周恩来等重要人物作为代表出席。</p><p class=\"mb-4\">这次会议由印度尼西亚、印度、巴基斯坦、缅甸和斯里兰卡（锡兰）发起，作为面对美国领导的西方集团和苏联领导的东方集团之间冷战两极分化的新独立亚非国家团结声音的努力，其主要原则是第三世界国家有权在不受大国干预的情况下决定自己的道路。</p><p class=\"mb-4\">这次会议最重要的成果是万隆宣言，包括尊重所有国家主权和平等、不干涉他国内政、和平解决争端以及拒绝殖民主义和种族歧视在内的十项基本原则，这些原则后来成为不结盟运动的基础。</p><p class=\"mb-4\">万隆会议还具体讨论了当时的紧迫问题，包括支持仍被殖民国家的独立、亚非国家之间经济和文化合作的必要性，以及世界和平不能通过集团军事联盟而需要通过对话和各国和平共处来实现的主张。</p>",
+          source: "印度尼西亚外交部",
+          sourceUrl: "https://kemlu.go.id/",
+          sourceSnippet: "印度尼西亚外交部 — 1955年亚非会议",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Bandung-Conference",
+          sourceSnippet2: "Encyclopaedia Britannica — 万隆会议"
+        }
+      }
+    },
+    {
+      id: "indonesia-letusan-krakatau-1883",
+      langs: {
+        id: {
+          title: "Letusan Krakatau 1883: Bencana Vulkanik Terdahsyat dalam Sejarah Modern",
+          desc: "Letusan Gunung Krakatau pada 27 Agustus 1883 menghasilkan ledakan terkuat dalam sejarah tercatat, menewaskan lebih dari 36.000 orang dan terdengar hingga 4.800 kilometer jauhnya.",
+          content: "<p class=\"mb-4\">Gunung Krakatau yang terletak di Selat Sunda antara Pulau Jawa dan Sumatra meletus dengan dahsyat pada 26-27 Agustus 1883, menghasilkan ledakan dengan kekuatan setara sekitar 200 megaton TNT yang dianggap sebagai salah satu ledakan paling kuat dalam sejarah tercatat manusia, dengan suara letusan terdengar hingga 4.800 kilometer jauhnya di Australia dan pulau Rodrigues dekat Afrika.</p><p class=\"mb-4\">Letusan tersebut memicu gelombang tsunami setinggi 40 meter yang menghantam pesisir selatan Sumatra dan barat Jawa, menyebabkan kehancuran total puluhan kota dan desa pesisir seperti Teluk Betung dan Merak, dengan jumlah korban jiwa diperkirakan lebih dari 36.000 orang yang sebagian besar tewas akibat tsunami dan bukan langsung dari letusan vulkanik.</p><p class=\"mb-4\">Letusan Krakatau juga menghasilkan abu vulkanik dalam jumlah sangat besar yang terlempar hingga ke stratosfer dan menyebar ke seluruh atmosfer global, menyebabkan efek pendinginan suhu bumi yang signifikan selama beberapa tahun berikutnya serta fenomena optik spektakuler di langit seluruh dunia seperti langit berwarna merah yang tercatat dalam lukisan terkenal Edvard Munch The Scream.</p><p class=\"mb-4\">Pulau Krakatau yang asli hancur hampir sepenuhnya akibat letusan tersebut, menyisakan hanya sebagian kecil dari pulau asli, namun pada 1927-1930 muncul gunung api baru yang dinamakan Anak Krakatau di lokasi yang sama, yang terus aktif hingga saat ini dan menjadi salah satu gunung berapi paling dipantau di dunia.</p><p class=\"mb-4\">Letusan Krakatau 1883 menjadi katalis penting bagi perkembangan volcanologi modern dan sistem peringatan dini tsunami internasional, dengan pemerintah kolonial Belanda mendirikan jaringan observatorium vulkanik pertama di Indonesia, sekaligus menjadi pengingat akan kekuatan alam yang luar biasa di kawasan Cincin Api Pasifik tempat Indonesia berada.</p>",
+          source: "Badan Geologi Kementerian ESDM",
+          sourceUrl: "https://www.bgi.esdm.go.id/",
+          sourceSnippet: "Badan Geologi — Letusan Krakatau 1883",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Krakatoa-volcano-eruption-of-1883",
+          sourceSnippet2: "Encyclopaedia Britannica — Krakatoa eruption of 1883",
+          source3: "United States Geological Survey",
+          sourceUrl3: "https://www.usgs.gov/programs/VHP",
+          sourceSnippet3: "USGS — Volcano Hazards Program"
+        },
+        en: {
+          title: "The 1883 Eruption of Krakatoa: The Most Devastating Volcanic Event in Modern History",
+          desc: "The eruption of Mount Krakatoa on August 27, 1883, produced the strongest explosion in recorded history, killing over 36,000 people and heard as far as 4,800 kilometers away.",
+          content: "<p class=\"mb-4\">Mount Krakatoa, located in the Sunda Strait between Java and Sumatra, erupted violently on August 26-27, 1883, producing an explosion with a force equivalent to about 200 megatons of TNT, considered one of the most powerful explosions in recorded human history, with the sound of the eruption heard as far as 4,800 kilometers away in Australia and on Rodrigues Island near Africa.</p><p class=\"mb-4\">The eruption triggered tsunami waves up to 40 meters high that struck the southern coast of Sumatra and western Java, causing total destruction of dozens of coastal towns and villages such as Teluk Betung and Merak, with estimated deaths exceeding 36,000 people, the majority killed by tsunamis rather than directly by the volcanic eruption.</p><p class=\"mb-4\">The Krakatoa eruption also produced enormous amounts of volcanic ash ejected into the stratosphere and spread throughout the global atmosphere, causing significant global cooling effects for several subsequent years as well as spectacular optical phenomena in skies worldwide, such as red-colored skies recorded in Edvard Munch's famous painting The Scream.</p><p class=\"mb-4\">The original Krakatoa island was almost completely destroyed by the eruption, leaving only a small portion of the original island, but in 1927-1930 a new volcano called Anak Krakatau emerged at the same location, which remains active to this day and is one of the most monitored volcanoes in the world.</p><p class=\"mb-4\">The 1883 Krakatoa eruption became an important catalyst for the development of modern volcanology and international tsunami warning systems, with the Dutch colonial government establishing the first volcanic observatory network in Indonesia, while serving as a reminder of nature's extraordinary power in the Pacific Ring of Fire where Indonesia is located.</p>",
+          source: "Geological Agency of Indonesia Ministry of ESDM",
+          sourceUrl: "https://www.bgi.esdm.go.id/",
+          sourceSnippet: "Geological Agency — 1883 Krakatoa Eruption",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Krakatoa-volcano-eruption-of-1883",
+          sourceSnippet2: "Encyclopaedia Britannica — Krakatoa eruption of 1883",
+          source3: "United States Geological Survey",
+          sourceUrl3: "https://www.usgs.gov/programs/VHP",
+          sourceSnippet3: "USGS — Volcano Hazards Program"
+        },
+        ja: {
+          title: "1883年クラカタウ噴火：近代史上最も壊滅的な火山災害",
+          desc: "1883年8月27日のクラカタウ山の噴火は記録史上最強の爆発を生み出し、36,000人以上を死亡させ、4,800キロ彼方まで聞こえた。",
+          content: "<p class=\"mb-4\">ジャワとスマトラの間のスンダ海峡に位置するクラカタウ山は1883年8月26〜27日に猛然と噴火し、約200メガトンのTNTに相当する力を持つ爆発を生み出し、記録された人類史で最も強力な爆発の一つとされ、噴火の音は4,800キロ離れたオーストラリアやアフリカ近くのロドリゲス島まで聞こえました。</p><p class=\"mb-4\">この噴火は高さ40メートルの津波を引き起こし、スマトラ南岸とジャワ西岸を襲い、テルク・ベトゥンやメラクなど数十の沿岸の町や村を完全に破壊し、死者は36,000人以上と推定され、その大多数は火山噴火直接ではなく津波で死亡しました。</p>",
+          source: "インドネシア地質庁",
+          sourceUrl: "https://www.bgi.esdm.go.id/",
+          sourceSnippet: "地質庁 — 1883年クラカタウ噴火",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Krakatoa-volcano-eruption-of-1883",
+          sourceSnippet2: "Encyclopaedia Britannica — 1883年クラカタウ噴火"
+        },
+        ko: {
+          title: "1883년 크라카토아 분화: 근대 역사상 가장 파괴적인 화산 사건",
+          desc: "1883년 8월 27일 크라카토아 산의 분화는 기록된 역사상 가장 강력한 폭발을 일으켜 36,000명 이상을 사망하게 했고 4,800킬로미터 먼 곳까지 들렸다.",
+          content: "<p class=\"mb-4\">자바와 수마트라 사이 순다 해협에 위치한 크라카토아 산은 1883년 8월 26-27일 격렬하게 분화하여 약 200메가톤 TNT에 해당하는 힘을 가진 폭발을 일으켜 기록된 인류 역사상 가장 강력한 폭발 중 하나로 여겨졌으며, 분화 소리는 4,800킬로미터 떨어진 호주와 아프리카 근처의 로드리게스 섬까지 들렸습니다.</p><p class=\"mb-4\">이 분화는 높이 40미터의 해일을 일으켜 수마트라 남부 해안과 자바 서부를 강타하여 테루크 베퉁과 메라크 같은 수십 개의 해안 마을과 도시를 완전히 파괴했으며, 사망자는 36,000명 이상으로 추정되고 그 대다수는 화산 분화 직접이 아닌 해일로 사망했습니다.</p><p class=\"mb-4\">크라카토아 분화는 또한 성층권까지 분출되어 전 지구 대기로 퍼진 막대한 양의 화산재를 생산하여 이후 수년간 유의미한 지구 냉각 효과를 일으켰고, 에드바르드 뭉크의 유명한 그림 '절규'에 기록된 붉은 하늘과 같이 전 세계 하늘에서 장관인 광학 현상을 일으켰습니다.</p><p class=\"mb-4\">원래의 크라카토아 섬은 분화로 인해 거의 완전히 파괴되어 원래 섬의 일부만 남았으나, 1927-1930년 같은 위치에 아나크 크라카토아라는 새 화산이 나타나 현재까지 활동을 계속하며 세계에서 가장 감시되는 화산 중 하나가 되었습니다.</p>",
+          source: "인도네시아 지질청",
+          sourceUrl: "https://www.bgi.esdm.go.id/",
+          sourceSnippet: "지질청 — 1883년 크라카토아 분화",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Krakatoa-volcano-eruption-of-1883",
+          sourceSnippet2: "Encyclopaedia Britannica — 1883년 크라카토아 분화"
+        },
+        zh: {
+          title: "1883年喀拉喀托火山喷发：现代史上最具破坏性的火山事件",
+          desc: "1883年8月27日喀拉喀托火山喷发产生了有记录以来最强烈的爆炸，造成超过36,000人死亡，声音传到4,800公里之外。",
+          content: "<p class=\"mb-4\">位于爪哇和苏门答腊之间巽他海峡的喀拉喀托火山于1883年8月26-27日猛烈喷发，产生了相当于约2亿吨TNT的力量，被认为是有记录的人类历史上最强大的爆炸之一，喷发的声音远在4800公里外的澳大利亚和非洲附近的罗德里格斯岛都能听到。</p><p class=\"mb-4\">这次喷发引发了高达40米的海啸，袭击了苏门答腊南部海岸和爪哇西部，造成直落勿洞和美拉克等数十个沿海城镇和村庄的完全毁灭，估计死亡人数超过36,000人，其中大多数人死于海啸而非火山喷发本身。</p><p class=\"mb-4\">喀拉喀托喷发还产生了大量喷射到平流层并扩散到全球大气中的火山灰，导致随后数年显著的全球降温效应，以及世界各地天空中壮观的光学现象，如爱德华·蒙克著名画作《呐喊》中记录的红色天空。</p><p class=\"mb-4\">原喀拉喀托岛几乎被喷发完全摧毁，仅留下原岛的一小部分，但在1927-1930年，同一位置出现了一座名为喀拉喀托之子的新火山，至今仍然活跃，是世界上最受监控的火山之一。</p>",
+          source: "印度尼西亚地质局",
+          sourceUrl: "https://www.bgi.esdm.go.id/",
+          sourceSnippet: "地质局 — 1883年喀拉喀托喷发",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Krakatoa-volcano-eruption-of-1883",
+          sourceSnippet2: "Encyclopaedia Britannica — 1883年喀拉喀托喷发"
+        }
+      }
+    },
+    {
+      id: "indonesia-kerajaan-sunda-pajajaran",
+      langs: {
+        id: {
+          title: "Kerajaan Sunda dan Pajajaran: Penguasa Hindu di Jawa Barat",
+          desc: "Kerajaan Sunda yang berpusat di Jawa Barat bertahan hingga abad ke-16 sebagai salah satu kerajaan Hindu terakhir di Jawa sebelum Islamisasi, dengan ibu kota Pajajaran dekat Bogor saat ini.",
+          content: "<p class=\"mb-4\">Kerajaan Sunda merupakan kerajaan Hindu yang berpusat di wilayah Jawa Barat, dengan catatan sejarah paling awal berasal dari sekitar abad ke-7 berdasarkan prasasti-prasasti yang ditemukan di kawasan tersebut, dan berkembang menjadi kekuatan politik regional yang signifikan yang menguasai wilayah membentang dari Banten hingga Cirebon sepanjang periode klasik Jawa.</p><p class=\"mb-4\">Pusat kerajaan Sunda pada masa akhirnya berada di Pakuan Pajajaran, yang terletak di kawasan yang kini merupakan wilayah Bogor, dengan catatan dari pelaut Portugis Tome Pires yang mengunjungi wilayah tersebut pada awal abad ke-16 memberikan deskripsi penting mengenai kerajaan Sunda yang saat itu masih berkuasa dengan pelabuhan utama di Sunda Kelapa yang kelak menjadi Jakarta.</p><p class=\"mb-4\">Kerajaan Sunda tercatat dalam naskah-naskah kuno termasuk naskah Bujangga Manik yang menceritakan perjalanan spiritual seorang pertapa Sunda melalui berbagai wilayah Nusantara, memberikan gambaran mengenai geografi politik dan budaya kerajaan Sunda serta hubungannya dengan kerajaan-kerajaan tetangga seperti Majapahit dan kerajaan-kerajaan di Sumatra.</p><p class=\"mb-4\">Kerajaan Sunda berakhir ketika Kesultanan Banten yang berkuasa di bawah Sultan Hasanuddin menaklukkan wilayah Pajajaran pada 1579, sebagai bagian dari gelombang Islamisasi yang menyapu seluruh Jawa Barat, dengan runtuhnya Pajajaran menandai berakhirnya keberadaan kerajaan Hindu terakhir di Jawa Barat dan integrasi wilayah tersebut ke dalam jaringan kesultanan Islam.</p><p class=\"mb-4\">Warisan Kerajaan Sunda tetap hidup dalam budaya Sunda modern, termasuk sistem kekerabatan, kesenian tradisional, dan kepercayaan lokal yang sebagian masih mempertahankan elemen-elemen Hindu, serta nama Sunda yang tetap digunakan untuk mengidentifikasi suku dan budaya Sunda di Jawa Barat hingga saat ini.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Prasasti Kerajaan Sunda",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Sunda-Kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — Sunda Kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2265/the-sunda-kingdom-hindu-west-java/",
+          sourceSnippet3: "World History Encyclopedia — The Sunda Kingdom"
+        },
+        en: {
+          title: "The Sunda and Pajajaran Kingdoms: Hindu Rulers of West Java",
+          desc: "The Sunda Kingdom, centered in West Java, survived until the 16th century as one of the last Hindu kingdoms in Java before Islamization, with its capital Pajajaran near present-day Bogor.",
+          content: "<p class=\"mb-4\">The Sunda Kingdom was a Hindu kingdom centered in the West Java region, with the earliest historical records from around the 7th century based on inscriptions found in the area, developing into a significant regional political power controlling territory stretching from Banten to Cirebon throughout Java's classical period.</p><p class=\"mb-4\">The center of the Sunda Kingdom in its later period was at Pakuan Pajajaran, located in what is now the Bogor area, with records from the Portuguese navigator Tome Pires who visited the region in the early 16th century providing important descriptions of the Sunda Kingdom then still in power with its main port at Sunda Kelapa, which would later become Jakarta.</p><p class=\"mb-4\">The Sunda Kingdom is recorded in ancient manuscripts including the Bujangga Manik manuscript telling the spiritual journey of a Sunda hermit through various regions of the archipelago, providing insight into the political geography and culture of the Sunda Kingdom and its relations with neighboring kingdoms such as Majapahit and kingdoms in Sumatra.</p><p class=\"mb-4\">The Sunda Kingdom ended when the Sultanate of Banten under Sultan Hasanuddin conquered the Pajajaran territory in 1579, as part of the wave of Islamization sweeping across West Java, with Pajajaran's fall marking the end of the last Hindu kingdom's existence in West Java and the region's integration into the network of Islamic sultanates.</p><p class=\"mb-4\">The Sunda Kingdom's legacy lives on in modern Sundanese culture, including the kinship system, traditional arts, and local beliefs that still retain some Hindu elements, as well as the name Sunda still used to identify the Sundanese ethnic group and culture in West Java to this day.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Sunda Kingdom Inscriptions",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Sunda-Kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — Sunda Kingdom",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2265/the-sunda-kingdom-hindu-west-java/",
+          sourceSnippet3: "World History Encyclopedia — The Sunda Kingdom"
+        },
+        ja: {
+          title: "スンダ王国とパジャジャラン：西ジャワのヒンドゥー支配者",
+          desc: "西ジャワに中心を置くスンダ王国は16世紀まで存続し、イスラム化前のジャワ最後のヒンドゥー王国の一つとなり、首都パジャジャランは現在のボゴール近郊にあった。",
+          content: "<p class=\"mb-4\">スンダ王国は西ジャワ地域を中心としたヒンドゥー王国であり、その地域で発見された碑文に基づく最古の歴史記録は7世紀頃にさかのぼり、ジャワの古典期を通じてバンテンからチレボンまで広がる領土を支配する重要な地域政治勢力へと発展しました。</p><p class=\"mb-4\">スンダ王国の後期の中心はパクアン・パジャジャランにあり、現在のボゴール地域に位置し、16世紀初頭にこの地域を訪れたポルトガルの航海士トメ・ピレスの記録が当時まだ権力を握っていたスンダ王国の重要な描写を提供し、主要港は後にジャカルタとなるスンダ・カラパにありました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — スンダ王国碑文",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Sunda-Kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — スンダ王国"
+        },
+        ko: {
+          title: "순다 왕국과 파자자란: 서자와의 힌두 지배자",
+          desc: "서자와에 중심을 둔 순다 왕국은 16세기까지 존속하여 이슬람화 이전 자와 마지막 힌두 왕국 중 하나가 되었으며, 수도 파자자란은 현재의 보고르 근처에 있었다.",
+          content: "<p class=\"mb-4\">순다 왕국은 서자와 지역을 중심으로 한 힌두 왕국으로, 그 지역에서 발견된 비문에 기반한 가장 오래된 역사 기록은 7세기경으로 거슬러 올라가며, 자바의 고전 시기를 통해 반텐에서 치레본까지 뻗어나가는 영토를 통제하는 중요한 지역 정치 세력으로 발전했습니다.</p><p class=\"mb-4\">순다 왕국의 후기 중심은 파쿠안 파자자란에 있었으며 현재의 보고르 지역에 위치했고, 16세기 초 이 지역을 방문한 포르투갈 항해사 토메 피르스의 기록이 당시 여전히 권력을 잡고 있던 순다 왕국의 중요한 묘사를 제공했으며, 주요 항구는 훗날 자카르타가 될 순다 클라파에 있었습니다.</p><p class=\"mb-4\">순다 왕국은 순다 은둔자의 군도 various 지역을 통한 영적 여정을 이야기하는 부장가 마니크 고문서를 포함한 고대 문서에 기록되어 있으며, 순다 왕국의 정치 지리와 문화 및 마자파힛과 수마트라의 왕국들 같은 이웃 왕국들과의 관계에 대한 통찰을 제공합니다.</p><p class=\"mb-4\">순다 왕국은 술탄 하사누딘 치하의 반텐 술탄국이 1579년 파자자란 영토를 정복하면서 끝났으며, 이는 서자와 전역을 휩쓴 이슬람화 물결의 일부였고, 파자자란의 함락은 서자와에서 마지막 힌두 왕국의 존재 종식과 그 지역의 이슬람 술탄국 네트워크로의 통합을 표시했습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 순다 왕국 비문",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Sunda-Kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — 순다 왕국"
+        },
+        zh: {
+          title: "巽他王国与帕查查兰：西爪哇的印度教统治者",
+          desc: "以西爪哇为中心的巽他王国存续至16世纪，是爪哇伊斯兰化之前最后的印度教王国之一，其首都帕查查兰位于今茂物附近。",
+          content: "<p class=\"mb-4\">巽他王国是一个以西爪哇地区为中心的印度教王国，基于在该地区发现的碑铭，最早的历史记录可追溯至约7世纪，在整个爪哇古典时期发展为控制从万丹到井里汶领土的重要地区性政治力量。</p><p class=\"mb-4\">巽他王国后期的中心位于帕库安·帕查查兰，即现在的茂物地区，16世纪初访问该地区的葡萄牙航海家托梅·皮雷斯的记录提供了当时仍掌权的巽他王国的重要描述，其主要港口位于巽他喀拉帕，后来成为雅加达。</p><p class=\"mb-4\">巽他王国记录在包括《布姜加·马尼克》手稿在内的古代文献中，该手稿讲述了巽他隐修者穿越群岛various地区的灵性之旅，提供了对巽他王国的政治地理和文化及其与满者伯夷和苏门答腊王国等邻国关系的洞察。</p><p class=\"mb-4\">巽他王国在苏丹哈桑努丁统治下的万丹苏丹国于1579年征服帕查查兰领土时终结，这是席卷西爪哇的伊斯兰化浪潮的一部分，帕查查兰的灭亡标志着西爪哇最后一个印度教王国的终结和该地区并入伊斯兰苏丹国网络。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 巽他王国碑铭",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Sunda-Kingdom",
+          sourceSnippet2: "Encyclopaedia Britannica — 巽他王国"
+        }
+      }
+    },
+    {
+      id: "indonesia-era-sby-2004-2014",
+      langs: {
+        id: {
+          title: "Era Susilo Bambang Yudhoyono (2004-2014): Konsolidasi Demokrasi",
+          desc: "Presiden SBY memimpin Indonesia selama satu dekade penuh sebagai presiden pertama yang dipilih langsung, membawa stabilitas politik, pertumbuhan ekonomi, dan posisi internasional yang lebih kuat.",
+          content: "<p class=\"mb-4\">Susilo Bambang Yudhoyono (SBY), seorang jenderal militer berkarir yang beralih ke politik, terpilih sebagai presiden pertama Indonesia yang dipilih secara langsung oleh rakyat dalam pemilu 2004, mengakhiri era transisi yang bergejolak dan memulai periode kepemimpinan yang lebih stabil dengan mandat demokratis yang jelas.</p><p class=\"mb-4\">Pemerintahan SBY yang berlangsung selama dua periode hingga 2014 mencatat pencapaian signifikan dalam stabilisasi ekonomi, dengan pertumbuhan ekonomi Indonesia yang konsisten di atas 6 persen per tahun pada masa pemerintahannya, penurunan tingkat kemiskinan, serta penanganan krisis keuangan global 2008 yang relatif baik yang memastikan Indonesia tetap tumbuh ditengah resesi global.</p><p class=\"mb-4\">Dalam bidang politik, SBY berhasil mengonsolidasikan demokrasi Indonesia dengan menyelenggarakan tiga kali pemilu nasional yang damai dan kredibel, serta memperkuat institusi-institusi demokratis seperti Mahkamah Konstitusi dan Komisi Pemberantasan Korupsi, meski pemerintahannya juga menghadapi kritik mengenai lambatnya penegakan hukum dalam kasus-kasus korupsi yang melibatkan pejabat tinggi.</p><p class=\"mb-4\">Diplomasi internasional di bawah SBY mengalami puncak baru dengan Indonesia menjadi anggota G-20, menyelenggarakan Konferensi Asia-Afrika ke-60 pada 2015, serta aktif dalam berbagai forum internasional termasuk ASEAN dan kerja sama kawasan Asia-Pasifik, memperkuat citra Indonesia sebagai negara demokrasi terbesar ketiga di dunia dengan pengaruh internasional yang berkembang.</p><p class=\"mb-4\">Era SBY juga ditandai dengan sejumlah bencana alam besar termasuk gempa Nias 2005, gempa Yogya 2006, serta letusan Merapi 2010, yang menguji sistem penanggulangan bencana nasional, serta penyelesaian Perjanjian Helsinki 2005 yang mengakhiri konflik Aceh, menjadikan era SBY sebagai periode penting dalam konsolidasi demokrasi dan stabilitas Indonesia pasca-Reformasi.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Era SBY",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Susilo-Bambang-Yudhoyono",
+          sourceSnippet2: "Encyclopaedia Britannica — Susilo Bambang Yudhoyono",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and modern era"
+        },
+        en: {
+          title: "The Susilo Bambang Yudhoyono Era (2004-2014): Democratic Consolidation",
+          desc: "President SBY led Indonesia for a full decade as the first directly elected president, bringing political stability, economic growth, and a stronger international position.",
+          content: "<p class=\"mb-4\">Susilo Bambang Yudhoyono (SBY), a career military general who transitioned to politics, was elected as Indonesia's first directly elected president in the 2004 election, ending the turbulent transition era and beginning a more stable leadership period with a clear democratic mandate.</p><p class=\"mb-4\">SBY's government, lasting two terms until 2014, recorded significant achievements in economic stabilization, with Indonesia's economic growth consistently above 6 percent per year during his administration, declining poverty rates, and relatively good handling of the 2008 global financial crisis that ensured Indonesia continued growing amid global recession.</p><p class=\"mb-4\">In politics, SBY successfully consolidated Indonesian democracy by holding three peaceful and credible national elections, and strengthening democratic institutions such as the Constitutional Court and the Corruption Eradication Commission, though his government also faced criticism regarding slow law enforcement in corruption cases involving high-ranking officials.</p><p class=\"mb-4\">International diplomacy under SBY reached new heights with Indonesia becoming a G-20 member, hosting the 60th Asian-African Conference in 2015, and actively participating in various international forums including ASEAN and Asia-Pacific cooperation, strengthening Indonesia's image as the world's third-largest democracy with growing international influence.</p><p class=\"mb-4\">The SBY era was also marked by several major natural disasters including the 2005 Nias earthquake, the 2006 Yogyakarta earthquake, and the 2010 Merapi eruption, which tested the national disaster management system, as well as the 2005 Helsinki Agreement resolution ending the Aceh conflict, making the SBY era an important period in Indonesia's democratic consolidation and post-Reformasi stability.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — SBY Era Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Susilo-Bambang-Yudhoyono",
+          sourceSnippet2: "Encyclopaedia Britannica — Susilo Bambang Yudhoyono",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia profile and modern era"
+        },
+        ja: {
+          title: "スシロ・バンバン・ユドヨノ時代（2004〜2014年）：民主主義の統合",
+          desc: "SBY大統領は直接選出された初の大統領として10年間インドネシアを率い、政治的安定、経済成長、より強い国際的地位をもたらした。",
+          content: "<p class=\"mb-4\">軍歴から政治に転身したスシロ・バンバン・ユドヨノ（SBY）は2004年選挙でインドネシア初の直接選出大統領に選ばれ、動揺する移行期を終わらせ、明確な民主的委任を持つより安定した指導期間を始めました。</p><p class=\"mb-4\">2014年まで2期続いたSBY政権は経済安定化で重要な成果を記録し、インドネシアの経済成長率は彼の政権下で年率6パーセント以上を一貫して維持し、貧困率は低下し、2008年の世界金融危機の比較的良好な対応によりインドネシアは世界的な景気後退の中でも成長を続けました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — SBY時代の記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Susilo-Bambang-Yudhoyono",
+          sourceSnippet2: "Encyclopaedia Britannica — スシロ・バンバン・ユドヨノ"
+        },
+        ko: {
+          title: "수실로 밤방 유도요노 시대 (2004~2014년): 민주주의의 공고화",
+          desc: "SBY 대통령은 직접 선출된 첫 대통령으로서 10년간 인도네시아를 이끌며 정치적 안정, 경제 성장, 더 강한 국제적 위상을 가져왔다.",
+          content: "<p class=\"mb-4\">군 경력에서 정치로 전환한 수실로 밤방 유도요노(SBY)는 2004년 선거에서 인도네시아 최초의 직접 선출 대통령으로 당선되어, 격동의 과도기를 종식시키고 명확한 민주적 위임을 가진 더 안정적인 지도 기간을 시작했습니다.</p><p class=\"mb-4\">2014년까지 2기 지속된 SBY 정부는 경제 안정화에서 중요한 성과를 기록했으며, 인도네시아의 경제 성장률은 그의 행정부 기간 동안 연간 6퍼센트 이상을 일관되게 유지했고, 빈곤율은 감소했으며, 2008년 세계 금융 위기의 비교적 양호한 대응으로 인도네시아가 세계적 경기침체 속에서도 성장을 계속하도록 했습니다.</p><p class=\"mb-4\">정치 분야에서 SBY는 세 차례의 평화적이고 신뢰할 수 있는 국가 선거를 실시하고 헌법재판소와 부패방지위원회 같은 민주적 기관을 강화하여 인도네시아 민주주의를 성공적으로 공고화했으나, 고위 관료가 관련된 부패 사건에서 느린 법 집행에 대한 비판에도 직면했습니다.</p><p class=\"mb-4\">SBY 치하의 국제 외교는 인도네시아가 G-20 회원국이 되고 2015년 제60차 아시아-아프리카 회의를 개최하며 ASEAN과 아시아-태평양 협력을 포함한 various 국제 포럼에 적극적으로 참여하면서 새로운 정점에 달해, 세계 3위의 민주주의 국가로서 인도네시아의 이미지를 강화했습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — SBY 시대 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Susilo-Bambang-Yudhoyono",
+          sourceSnippet2: "Encyclopaedia Britannica — 수실로 밤방 유도요노"
+        },
+        zh: {
+          title: "苏西洛·班邦·尤多约诺时代（2004-2014年）：民主巩固",
+          desc: "SBY总统作为首位直接选举产生的总统领导印度尼西亚十年，带来了政治稳定、经济增长和更强大的国际地位。",
+          content: "<p class=\"mb-4\">从军旅生涯转向政治的苏西洛·班邦·尤多约诺（SBY）在2004年选举中当选为印度尼西亚首位直接选举产生的总统，结束了动荡的过渡时期，开始了具有明确民主授权的更加稳定的领导时期。</p><p class=\"mb-4\">持续两届至2014年的SBY政府在经济稳定方面取得了重大成就，印度尼西亚经济增长率在其执政期间持续保持在每年6%以上，贫困率下降，对2008年全球金融危机的应对相对良好，确保印度尼西亚在全球衰退中继续增长。</p><p class=\"mb-4\">在政治方面，SBY通过举行三次和平可信的全国选举以及加强宪法法院和反腐败委员会等民主机构，成功巩固了印度尼西亚的民主，尽管其政府也因涉及高级官员的腐败案件执法缓慢而受到批评。</p><p class=\"mb-4\">SBY治下的国际外交达到新高度，印度尼西亚成为G20成员国，主办2015年第60届亚非会议，并积极参与包括东盟和亚太合作在内的various国际论坛，巩固了印度尼西亚作为世界第三大民主国家的形象。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — SBY时代文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/biography/Susilo-Bambang-Yudhoyono",
+          sourceSnippet2: "Encyclopaedia Britannica — 苏西洛·班邦·尤多约诺"
+        }
+      }
+    },
+    {
+      id: "indonesia-sejarah-etnis-tionghoa",
+      langs: {
+        id: {
+          title: "Sejarah Etnis Tionghoa di Indonesia: Dari Pedagang Harga Dirataikan Menjadi Warga Negara",
+          desc: "Komunitas Tionghoa di Indonesia memiliki sejarah panjang sejak abad ke-15, mengalami diskriminasi kolonial dan rezim Orde Baru sebelum akhirnya diakui sebagai bagian integral bangsa Indonesia di era Reformasi.",
+          content: "<p class=\"mb-4\">Kehadiran komunitas Tionghoa di Nusantara sudah dimulai sejak berabad-abad yang lalu, dengan catatan sejarah menunjukkan hubungan dagang antara Tiongkok dan Nusantara telah berlangsung sejak era dinasti Tang dan Song, dan intensif pada masa dinasti Ming ketika Laksamana Cheng Ho melakukan ekspedisi maritim ke Nusantara pada awal abad ke-15, sebagian dari awaknya menetap dan membentuk komunitas Tionghoa peranakan di pesisir Jawa.</p><p class=\"mb-4\">Pada masa kolonial Belanda, komunitas Tionghoa ditempatkan dalam sistem kasta kolonial yang hierarkis, di bawah orang Eropa tetapi di atas pribumi, dengan peran ekonomi yang sengaja dibatasi pada perdagangan dan perantaraan, sebuah kebijakan divide et impera yang secara sengaja menciptakan ketegangan antara etnis Tionghoa dan pribumi yang berlangsung hingga berabad-abad berikutnya.</p><p class=\"mb-4\">Peristiwa paling gelap dalam sejarah etnis Tionghoa di Indonesia adalah kerusuhan Mei 1998 yang menargetkan komunitas Tionghoa di Jakarta dan kota-kota lain, dengan pembakaran toko-toko, perusakan properti, serta kekerasan terorganisir termasuk pelecehan seksual terhadap perempuan Tionghoa, sebuah tragedi yang menjadi pemicu penting bagi jatuhnya rezim Soeharto dan membangkitkan kesadaran nasional akan perlunya reformasi.</p><p class=\"mb-4\">Era Reformasi membawa perubahan fundamental bagi komunitas Tionghoa Indonesia, dengan pencabutan berbagai kebijakan diskriminatif termasuk instruksi presiden yang melarang penggunaan bahasa dan budaya Tionghoa di ruang publik, serta pengakuan resmi bahwa etnis Tionghoa adalah bagian integral dari bangsa Indonesia dengan hak-hak yang sama seperti warga negara lainnya.</p><p class=\"mb-4\">SaAat ini komunitas Tionghoa Indonesia telah berkembang menjadi bagian tak terpisahkan dari masyarakat Indonesia, dengan kontribusi signifikan dalam ekonomi, budaya, dan kehidupan sosial, serta perayaan budaya seperti Tahun Baru Imlek yang kini diakui sebagai hari libur nasional, menandai transformasi dari komunitas yang dulunya terpinggirkan menjadi warga negara yang setara dan dihargai.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Chinese-Indonesians",
+          sourceSnippet: "Encyclopaedia Britannica — Chinese Indonesians",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet2: "BBC News — Indonesia ethnic Chinese history",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/asia/indonesia",
+          sourceSnippet3: "Human Rights Watch — Indonesia ethnic minorities"
+        },
+        en: {
+          title: "History of Ethnic Chinese in Indonesia: From Trade Intermediaries to Equal Citizens",
+          desc: "The Chinese community in Indonesia has a long history since the 15th century, experiencing colonial discrimination and New Order repression before finally being recognized as an integral part of the Indonesian nation in the Reformasi era.",
+          content: "<p class=\"mb-4\">The presence of the Chinese community in the archipelago began centuries ago, with historical records showing trade relations between China and the archipelago dating back to the Tang and Song dynasties, intensifying during the Ming dynasty when Admiral Cheng Ho conducted maritime expeditions to the archipelago in the early 15th century, with some crew members settling and forming Peranakan Chinese communities on Java's coast.</p><p class=\"mb-4\">During Dutch colonial rule, the Chinese community was placed in a hierarchical colonial caste system, below Europeans but above indigenous people, with their economic role deliberately limited to trade and intermediation, a divide and conquer policy that intentionally created tensions between ethnic Chinese and indigenous people lasting for subsequent centuries.</p><p class=\"mb-4\">The darkest event in the history of ethnic Chinese in Indonesia was the May 1998 riots targeting the Chinese community in Jakarta and other cities, with burning of shops, property destruction, and organized violence including sexual assault against Chinese women, a tragedy that became an important trigger for the fall of the Soeharto regime and awakened national awareness of the need for reform.</p><p class=\"mb-4\">The Reformasi era brought fundamental changes for the Chinese Indonesian community, with the revocation of various discriminatory policies including presidential instructions banning the use of Chinese language and culture in public spaces, and official recognition that ethnic Chinese are an integral part of the Indonesian nation with equal rights as other citizens.</p><p class=\"mb-4\">Today the Chinese Indonesian community has developed into an inseparable part of Indonesian society, with significant contributions to the economy, culture, and social life, and cultural celebrations such as Chinese New Year (Imlek) now recognized as a national holiday, marking the transformation from a formerly marginalized community to equal and valued citizens.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Chinese-Indonesians",
+          sourceSnippet: "Encyclopaedia Britannica — Chinese Indonesians",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet2: "BBC News — Indonesia ethnic Chinese history",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/asia/indonesia",
+          sourceSnippet3: "Human Rights Watch — Indonesia ethnic minorities"
+        },
+        ja: {
+          title: "インドネシアの華人の歴史：交易仲介者から平等な市民へ",
+          desc: "インドネシアの華人コミュニティは15世紀以来の長い歴史を持ち、植民地差別と新秩序体制の弾圧を経て、改革時代にインドネシア国家の不可分の一部として認められた。",
+          content: "<p class=\"mb-4\">群島における華人コミュニティの存在は数世紀前に始まり、中国と群島間の交易関係は唐と宋の時代に遡る歴史記録が示し、明の時代に鄭和提督が15世紀初頭に群島へ海事遠征を行い、乗組員の一部が定住してジャワ海岸にプラナカン華人コミュニティを形成したことで強化されました。</p><p class=\"mb-4\">オランダ植民地支配下で、華人コミュニティは階層的な植民地カースト制度に置かれ、ヨーロッパ人の下、先住民の上に位置づけられ、経済的役割は交易と仲介に意図的に限定され、これは華人と先住民の間の緊張を意図的に作り出し、その後数世紀にわたって続く分割して統治する政策でした。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Chinese-Indonesians",
+          sourceSnippet: "Encyclopaedia Britannica — インドネシア華人",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet2: "BBC News — インドネシア華人の歴史"
+        },
+        ko: {
+          title: "인도네시아 화교의 역사: 무역 중개자에서 평등한 시민으로",
+          desc: "인도네시아의 화교 공동체는 15세기 이래 긴 역사를 가지며, 식민지 차별과 신질서 체제의 억압을 겪은 후 개혁 시대에 인도네시아 국가의 불가분의 일부로 인정받았다.",
+          content: "<p class=\"mb-4\">군도에서 화교 공동체의 존재는 수세기 전에 시작되었으며, 중국과 군도 간의 무역 관계가 당과 송 왕조 시대로 거슬러 올라가는 역사 기록이 보여주고, 명 왕조 시대에 정화 제독이 15세기 초 군도에 해상 원정을 수행하면서 일부 승무원이 정착하여 자바 해안에 페라나칸 화교 공동체를 형성하면서 강화되었습니다.</p><p class=\"mb-4\">네덜란드 식민 통치 기간 동안 화교 공동체는 계층적 식민 카스트 제도에 배치되어 유럽인 아래 원주민 위에 위치했으며, 경제적 역할은 무역과 중개로 의도적으로 제한되어 화교와 원주민 간의 긴장을 의도적으로 만들어내고 이후 수세기 동안 지속된 분할 통치 정책이었습니다.</p><p class=\"mb-4\">인도네시아 화교 역사상 가장 어두운 사건은 1998년 5월 자카르타와 다른 도시의 화교 공동체를 표적으로 한 폭동으로, 상점 방화, 재산 파괴, 화교 여성에 대한 성폭행을 포함한 조직적 폭력이 발생했으며, 이 비극은 수하르토 정권의 몰락을 위한 중요한 방아쇠가 되었고 개혁의 필요성에 대한 국민적 인식을 일깨웠습니다.</p><p class=\"mb-4\">개혁 시대는 인도네시아 화교 공동체에게 근본적인 변화를 가져왔으며, 공공 장소에서 중국어와 중국 문화 사용을 금지한 대통령 지침을 포함한 various 차별적 정책이 철폐되었고, 화교가 다른 시민과 동등한 권리를 가진 인도네시아 국가의 불가분의 일부라는 공식 인정이 이루어졌습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Chinese-Indonesians",
+          sourceSnippet: "Encyclopaedia Britannica — 인도네시아 화교",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet2: "BBC News — 인도네시아 화교 역사"
+        },
+        zh: {
+          title: "印度尼西亚华人历史：从贸易中介到平等公民",
+          desc: "印度尼西亚华人社区拥有自15世纪以来的悠久历史，经历了殖民歧视和新秩序政权的压制，最终在改革时代被承认为印度尼西亚民族不可分割的一部分。",
+          content: "<p class=\"mb-4\">华人社区在群岛的存在始于数个世纪前，历史记录显示中国与群岛之间的贸易关系可追溯到唐朝和宋朝时期，在明朝时期郑和将军于15世纪初对群岛进行海上远征时得到加强，部分船员定居并在爪哇海岸形成了土生华人社区。</p><p class=\"mb-4\">在荷兰殖民统治期间，华人社区被置于等级分明的殖民种姓制度中，位于欧洲人之下但在原住民之上，其经济角色被故意限制在贸易和中介方面，这是一项有意制造华人与原住民之间紧张关系并持续了数个世纪的分而治之政策。</p><p class=\"mb-4\">印度尼西亚华人历史上最黑暗的事件是1998年5月针对雅加达和其他城市华人社区的暴乱，包括商店被焚、财产被毁以及对华人女性进行性侵犯的有组织暴力，这场悲剧成为苏哈托政权倒台的重要触发因素，唤醒了国民对改革必要性的认识。</p><p class=\"mb-4\">改革时代为印度尼西亚华人社区带来了根本性变化，废除了包括禁止在公共场所使用华语和华人文化的总统指令在内的various歧视性政策，并正式承认华人是印度尼西亚民族不可分割的一部分，享有与其他公民平等的权利。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/topic/Chinese-Indonesians",
+          sourceSnippet: "Encyclopaedia Britannica — 印度尼西亚华人",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet2: "BBC News — 印度尼西亚华人历史"
+        }
+      }
+    },
+    {
+      id: "indonesia-reforma-agraria-transmigrasi",
+      langs: {
+        id: {
+          title: "Reforma Agraria dan Transmigrasi: Upaya Pemerataan Tanah di Indonesia",
+          desc: "Program reforma agraria dan transmigrasi menjadi dua kebijakan pemerintah Indonesia paling ambisius dalam upaya pemerataan distribusi tanah dan penduduk dari Jawa yang padat ke pulau-pulau luar Jawa.",
+          content: "<p class=\"mb-4\">Reforma agraria di Indonesia secara formal dimulai dengan UU Pokok Agraria 1960 yang menggantikan hukum agraria kolonial Belanda, bertujuan untuk memberikan landasan hukum yang adil bagi sistem kepemilikan tanah nasional serta membatasi kepemilikan tanah yang terlalu luas oleh individu atau korporasi melalui ketentuan minimum dan maksimum luas tanah.</p><p class=\"mb-4\">Program transmigrasi yang dimulai sejak era kolonial Belanda dengan nama kolonisasi dan diperluas secara besar-besaran pada era Soeharto melibatkan pemindahan jutaan penduduk dari Jawa yang padat penduduknya ke pulau-pulau luar Jawa seperti Sumatra, Kalimantan, dan Sulawesi, dengan tujuan pemerataan penduduk dan pembukaan lahan pertanian baru.</p><p class=\"mb-4\">Program transmigrasi pada masa Orde Baru mencatat pencapaian signifikan dalam hal jumlah orang yang dipindahkan, dengan ratusan ribu keluarga dipindahkan setiap tahunnya pada puncak program, membuka ratusan pemukiman transmigrasi baru di berbagai pulau, namun juga mendapat kritik karena dampak sosial dan lingkungan yang ditimbulkannya.</p><p class=\"mb-4\">Kritik terhadap program transmigrasi mencakup konflik antara transmigran dan penduduk lokal yang sering kali berakar pada perbedaan budaya dan klaim atas tanah adat, serta dampak lingkungan berupa deforestasi dan hilangnya keanekaragaman hayati akibat pembukaan hutan untuk pemukiman dan lahan pertanian transmigrasi.</p><p class=\"mb-4\">Pasca-Reformasi, program transmigrasi diperbaiki dengan pendekatan yang lebih partisipatif dan berkelanjutan, dengan penekanan pada pemberdayaan masyarakat lokal dan pelestarian lingkungan, sementara reforma agraria menghadapi tantangan baru di era modern termasuk konflik lahan antara masyarakat adat dan korporasi, serta upaya reformis terbaru untuk mempercepat distribusi tanah kepada rakyat miskin melalui program redistribusi tanah objek reforma agraria.</p>",
+          source: "Kementerian Agraria dan Tata Ruang RI",
+          sourceUrl: "https://www.atrbpn.go.id/",
+          sourceSnippet: "Kementerian ATR/BPN — Reforma Agraria",
+          source2: "World Bank",
+          sourceUrl2: "https://www.worldbank.org/en/country/indonesia",
+          sourceSnippet2: "World Bank — Indonesia land reform and transmigration",
+          source3: "Food and Agriculture Organization",
+          sourceUrl3: "https://www.fao.org/indonesia/en/",
+          sourceSnippet3: "FAO — Indonesia agrarian reform"
+        },
+        en: {
+          title: "Agrarian Reform and Transmigration: Indonesia's Land Distribution Efforts",
+          desc: "The agrarian reform and transmigration programs became two of the most ambitious Indonesian government policies in efforts to equalize land and population distribution from crowded Java to the outer islands.",
+          content: "<p class=\"mb-4\">Agrarian reform in Indonesia formally began with the 1960 Basic Agrarian Law replacing Dutch colonial agrarian law, aiming to provide a fair legal foundation for the national land ownership system and to limit excessive land ownership by individuals or corporations through minimum and maximum land area provisions.</p><p class=\"mb-4\">The transmigration program, started during the Dutch colonial era under the name colonization and expanded massively during the Soeharto era, involved moving millions of people from densely populated Java to outer islands such as Sumatra, Kalimantan, and Sulawesi, with the goal of equalizing population distribution and opening new agricultural land.</p><p class=\"mb-4\">The transmigration program during the New Order recorded significant achievements in terms of the number of people moved, with hundreds of thousands of families relocated each year at the program's peak, opening hundreds of new transmigration settlements across various islands, but also received criticism for its social and environmental impacts.</p><p class=\"mb-4\">Criticism of the transmigration program included conflicts between transmigrants and local residents often rooted in cultural differences and claims over customary land, as well as environmental impacts in the form of deforestation and loss of biodiversity due to forest clearing for transmigration settlements and agricultural land.</p><p class=\"mb-4\">Post-Reformasi, the transmigration program was improved with a more participatory and sustainable approach, emphasizing local community empowerment and environmental conservation, while agrarian reform faces new challenges in the modern era including land conflicts between indigenous communities and corporations, and recent reformist efforts to accelerate land distribution to poor people through the agrarian reform object land redistribution program.</p>",
+          source: "Ministry of Agrarian Affairs and Spatial Planning of Indonesia",
+          sourceUrl: "https://www.atrbpn.go.id/",
+          sourceSnippet: "Ministry of ATR/BPN — Agrarian Reform",
+          source2: "World Bank",
+          sourceUrl2: "https://www.worldbank.org/en/country/indonesia",
+          sourceSnippet2: "World Bank — Indonesia land reform and transmigration",
+          source3: "Food and Agriculture Organization",
+          sourceUrl3: "https://www.fao.org/indonesia/en/",
+          sourceSnippet3: "FAO — Indonesia agrarian reform"
+        },
+        ja: {
+          title: "土地改革とトランスミグラシ：インドネシアの土地分配の取り組み",
+          desc: "土地改革とトランスミグラシプログラムは、人口過密のジャワから外島への土地と人口の均衡化を図るインドネシア政府の最も野心的な政策の二つとなった。",
+          content: "<p class=\"mb-4\">インドネシアの土地改革は1960年の基本土地法で正式に始まり、オランダ植民地土地法に取って代わり、国家土地所有制度の公平な法的基盤を提供し、最低および最高土地面積規定を通じて個人や法人による過度な土地所有を制限することを目的としました。</p><p class=\"mb-4\">オランダ植民地時代に植民化の名で始まりスハルト時代に大規模に拡大されたトランスミグラシプログラムは、人口過密のジャワからスマトラ、カリマンタン、スラウェシなどの外島へ数百万人を移動させ、人口分布の均衡化と新たな農地の開拓を目指しました。</p>",
+          source: "インドネシア土地・空間計画省",
+          sourceUrl: "https://www.atrbpn.go.id/",
+          sourceSnippet: "土地・空間計画省 — 土地改革",
+          source2: "World Bank",
+          sourceUrl2: "https://www.worldbank.org/en/country/indonesia",
+          sourceSnippet2: "世界銀行 — インドネシア土地改革とトランスミグラシ"
+        },
+        ko: {
+          title: "토지개혁과 이주정책: 인도네시아의 토지 분배 노력",
+          desc: "토지개혁과 트랜스마이그레이션 프로그램은 인구 과밀 자바에서 외곽 섬으로 토지와 인구 분배를 균등화하려는 인도네시아 정부의 가장 야심 찬 정책 두 가지가 되었다.",
+          content: "<p class=\"mb-4\">인도네시아의 토지개혁은 1960년 기본토지법으로 네덜란드 식민 토지법을 대체하면서 공식적으로 시작되었으며, 국가 토지 소유 제도의 공정한 법적 기반을 제공하고 최소 및 최대 토지 면적 규정을 통해 개인이나 기업의 과도한 토지 소유를 제한하는 것을 목표로 했습니다.</p><p class=\"mb-4\">네덜란드 식민 시대에 식민화라는 이름으로 시작되어 수하르토 시대에 대규모로 확장된 트랜스마이그레이션 프로그램은 인구가 밀집한 자바에서 수마트라, 칼리만탄, 술라웨시 등 외곽 섬으로 수백만 명을 이주시키며 인구 분배의 균등화와 새로운 농지 개간을 목표로 했습니다.</p><p class=\"mb-4\">신질서 시기의 트랜스마이그레이션 프로그램은 이주된 인원 수 면에서 중요한 성과를 기록했으며, 프로그램 정점에는 매년 수십만 가구가 이주되었고 various 섬에 수백 개의 새로운 이주 정착지가 개척되었지만, 사회적·환경적 영향으로 인한 비판도 받았습니다.</p><p class=\"mb-4\">트랜스마이그레이션 프로그램에 대한 비판에는 문화적 차이와 관습 토지에 대한 권리 주장에 뿌리를 둔 이주민과 지역 주민 간의 갈등, 그리고 이주 정착지와 농지를 위해 산림을 개간함으로써 발생한 산림 파괴와 생물 다양성 손실 형태의 환경적 영향이 포함되었습니다.</p>",
+          source: "인도네시아 토지·공간계획부",
+          sourceUrl: "https://www.atrbpn.go.id/",
+          sourceSnippet: "토지·공간계획부 — 토지개혁",
+          source2: "World Bank",
+          sourceUrl2: "https://www.worldbank.org/en/country/indonesia",
+          sourceSnippet2: "세계은행 — 인도네시아 토지개혁과 이주정책"
+        },
+        zh: {
+          title: "土地改革与移民计划：印度尼西亚的土地分配努力",
+          desc: "土地改革和移民计划成为印度尼西亚政府在人口密集的爪哇向外岛均衡分配土地和人口方面最雄心勃勃的两项政策。",
+          content: "<p class=\"mb-4\">印度尼西亚的土地改革正式始于1960年《基本土地法》取代荷兰殖民土地法，旨在为国家土地所有权制度提供公平的法律基础，并通过最低和最高土地面积规定限制个人或企业的过度土地所有权。</p><p class=\"mb-4\">移民计划始于荷兰殖民时期（名为殖民化），在苏哈托时代大规模扩展，涉及将数百万人从人口密集的爪哇迁移到苏门答腊、加里曼丹和苏拉威西等外岛，目标是均衡人口分布和开垦新的农业用地。</p><p class=\"mb-4\">新秩序时期的移民计划在迁移人数方面取得了重大成就，在计划高峰期每年迁移数十万个家庭，在各岛屿开辟了数百个新移民定居点，但也因其社会和环境影响而受到批评。</p><p class=\"mb-4\">对移民计划的批评包括移民与当地居民之间因文化差异和对习惯土地的声索而产生的冲突，以及因砍伐森林开辟移民定居点和农田而导致的森林砍伐和生物多样性丧失等环境影响。</p>",
+          source: "印度尼西亚土地和空间规划部",
+          sourceUrl: "https://www.atrbpn.go.id/",
+          sourceSnippet: "土地和空间规划部 — 土地改革",
+          source2: "World Bank",
+          sourceUrl2: "https://www.worldbank.org/en/country/indonesia",
+          sourceSnippet2: "世界银行 — 印度尼西亚土地改革与移民"
+        }
+      }
+    }
+
     ]
 };

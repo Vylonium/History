@@ -2475,5 +2475,469 @@ window.countryDataFiles['indonesia'] = {
       }
     }
 
+      ,
+    {
+      id: "indonesia-perjanjian-linggajati-1946",
+      langs: {
+        id: {
+          title: "Perjanjian Linggajati 1946: Negosiasi Pertama RI dengan Belanda",
+          desc: "Perjanjian Linggajati yang ditandatangani pada 15 November 1946 menjadi negosiasi diplomatik pertama antara Republik Indonesia dan Belanda, mengakui de facto wilayah RI meski kemudian dilanggar Belanda dengan Agresi Militer I.",
+          content: "<p class=\"mb-4\">Perjanjian Linggajati merupakan hasil negosiasi antara pemerintah Republik Indonesia yang diwakili oleh Sutan Sjahrir dan pemerintah Belanda yang berlangsung di Linggajati, Cirebon, mulai Oktober 1946, dengan mediasi Lord Killearn dari Inggris, menjadi upaya diplomatik pertama untuk menyelesaikan konflik Indonesia-Belanda pasca-Proklamasi Kemerdekaan.</p><p class=\"mb-4\">Hasil perundingan yang ditandatangani pada 15 November 1946 mengakui secara de facto Republik Indonesia yang meliputi wilayah Jawa, Madura, dan Sumatra, dengan rencana pembentukan Negara Indonesia Serikat yang berdaulat dan bergabung dalam uni Indonesia-Belanda bersama dengan negara-negara bagian lainnya, sebuah kompromi politik yang dianggap pragmatis oleh pemerintah RI namun dikritik oleh faksi-faksi nasionalis yang menuntut kemerdekaan penuh tanpa kompromi.</p><p class=\"mb-4\">Perjanjian tersebut menghadapi tantangan berat di dalam Indonesia, dengan penolakan dari berbagai kelompok yang menganggap kompromi tersebut terlalu menguntungkan Belanda, memicu krisis politik dalam negeri yang berujung pada peristiwa penculikan terhadap Sutan Sjahrir oleh kelompok oposisi di Yogyakarta, sebelum akhirnya perjanjian diratifikasi oleh kedua belah pihak pada Maret 1947.</p><p class=\"mb-4\">Pelanggaran perjanjian oleh Belanda terjadi pada 21 Juli 1947 ketika Belanda melancarkan Agresi Militer I yang dikenal sebagai operasi polisionil, menyerang wilayah Republik Indonesia dan menduduki sebagian besar Jawa dan Sumatra, secara sepihak mengakhiri gencatan senjata yang diatur dalam Perjanjian Linggajati dan menunjukkan bahwa Belanda tidak berniat menepati komitmen diplomasi mereka.</p><p class=\"mb-4\">Meski pada akhirnya dilanggar, Perjanjian Linggajati tetap menjadi tonggak penting dalam diplomasi Indonesia karena untuk pertama kalinya Belanda secara formal mengakui keberadaan Republik Indonesia sebagai entitas politik, sekaligus memberikan Indonesia pengalaman diplomasi internasional yang berharga yang kelak membantu dalam perundingan-perundingan berikutnya hingga KMB 1949.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Perjanjian Linggajati",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian Revolution and Linggajati",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia independence history"
+        },
+        en: {
+          title: "The Linggajati Agreement 1946: First Negotiation Between RI and the Netherlands",
+          desc: "The Linggajati Agreement signed on November 15, 1946, became the first diplomatic negotiation between the Republic of Indonesia and the Netherlands, recognizing RI's territory de facto though later violated by Dutch Military Aggression I.",
+          content: "<p class=\"mb-4\">The Linggajati Agreement was the result of negotiations between the Republic of Indonesia government represented by Sutan Sjahrir and the Dutch government held in Linggajati, Cirebon, beginning October 1946, with mediation by Lord Killearn of Britain, becoming the first diplomatic effort to resolve the Indonesia-Netherlands conflict after the Proclamation of Independence.</p><p class=\"mb-4\">The negotiation results signed on November 15, 1946, recognized de facto the Republic of Indonesia covering the territories of Java, Madura, and Sumatra, with plans for forming a sovereign United States of Indonesia joining a Netherlands-Indonesian Union along with other constituent states, a political compromise considered pragmatic by the RI government but criticized by nationalist factions demanding full independence without compromise.</p><p class=\"mb-4\">The agreement faced severe challenges within Indonesia, with rejection from various groups considering the compromise too favorable to the Netherlands, triggering an internal political crisis culminating in the kidnapping of Sutan Sjahrir by opposition groups in Yogyakarta, before the agreement was finally ratified by both parties in March 1947.</p><p class=\"mb-4\">The Dutch violation of the agreement occurred on July 21, 1947, when the Netherlands launched Military Aggression I known as a police action, attacking Republic of Indonesia territory and occupying most of Java and Sumatra, unilaterally ending the ceasefire stipulated in the Linggajati Agreement and showing that the Netherlands had no intention of honoring their diplomatic commitments.</p><p class=\"mb-4\">Despite ultimately being violated, the Linggajati Agreement remains an important milestone in Indonesian diplomacy because for the first time the Netherlands formally acknowledged the Republic of Indonesia's existence as a political entity, while giving Indonesia valuable international diplomatic experience that would later help in subsequent negotiations through to the 1949 Round Table Conference.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Linggajati Agreement Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian Revolution and Linggajati",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia independence history"
+        },
+        ja: {
+          title: "1946年リンガジャティ協定：RIとオランダの最初の交渉",
+          desc: "1946年11月15日に署名されたリンガジャティ協定はインドネシア共和国とオランダの最初の外交交渉となり、RIの領土を事実上承認したが、後にオランダの第一次軍事侵略によって破られた。",
+          content: "<p class=\"mb-4\">リンガジャティ協定はスターン・シャフルを代表とするインドネシア共和国政府とオランダ政府の間で1946年10月からチレボンのリンガジャティで行われた交渉の結果であり、イギリスのキルレン卿の仲介により、独立宣言後のインドネシア・オランダ紛争を解決する最初の外交努力となりました。</p><p class=\"mb-4\">1946年11月15日に署名された交渉結果は、ジャワ、マドゥラ、スマトラを含むインドネシア共和国を事実上承認し、インドネシア連合国家の形成と他の構成国とともにオランダ・インドネシア連合への加盟を計画するものでした。RI政府には実用的と見なされた妥協でしたが、妥協のない完全独立を求めるナショナリスト派から批判されました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — リンガジャティ協定記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — インドネシア革命とリンガジャティ"
+        },
+        ko: {
+          title: "1946년 링가자티 협정: 인도네시아 공화국과 네덜란드의 첫 협상",
+          desc: "1946년 11월 15일에 서명된 링가자티 협정은 인도네시아 공화국과 네덜란드 간의 첫 외교 협상이 되었으며, 공화국의 영토를 사실상 인정했지만 나중에 네덜란드의 제1차 군사 공격으로 위반되었다.",
+          content: "<p class=\"mb-4\">링가자티 협정은 수탄 샤리르이 대표하는 인도네시아 공화국 정부와 네덜란드 정부 간의 1946년 10월부터 치레본 링가자티에서 진행된 협상의 결과로, 영국의 킬리언 경의 중재로 독립 선언 이후 인도네시아-네덜란드 분쟁을 해결하기 위한 첫 외교적 노력이 되었습니다.</p><p class=\"mb-4\">1946년 11월 15일에 서명된 협상 결과는 자바, 마두라, 수마트라를 포함하는 인도네시아 공화국을 사실상 인정하고, 주권을 가진 인도네시아 연방국가의 형성과 다른 구성국과 함께 네덜란드-인도네시아 연합에 가입하는 계획을 수립했습니다. 이는 공화국 정부에 의해 실용적으로 여겨졌지만 타협 없는 완전한 독립을 요구하는 민족주의 파벌에 의해 비판받았습니다.</p><p class=\"mb-4\">이 협정은 인도네시아 내부에서 심각한 도전에 직면했으며, 타협이 네덜란드에 너무 유리하다고 간주한 various 그룹의 거부로 내부 정치적 위기를 촉발하여 욕야카르타에서 반대 그룹에 의한 수탄 샤리르 납치 사건으로 절정에 달했고, 1947년 3월에 양측이 비준하기 전까지 협정이 위기를 겪었습니다.</p><p class=\"mb-4\">네덜란드의 협정 위반은 1947년 7월 21일 네덜란드가 경찰 행동으로 알려진 제1차 군사 공격을 개시하여 인도네시아 공화국 영토를 공격하고 자바와 수마트라의 대부분을 점령하면서 발생했으며, 링가자티 협정에 규정된 휴전을 일방적으로 종식시키고 네덜란드가 외교적 약속을 존중할 의사가 없음을 보여주었습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 링가자티 협정 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — 인도네시아 혁명과 링가자티"
+        },
+        zh: {
+          title: "1946年林牙椰蒂协定：印尼共和国与荷兰的首次谈判",
+          desc: "1946年11月15日签署的林牙椰蒂协定成为印度尼西亚共和国与荷兰之间的首次外交谈判，事实上承认了印尼共和国的领土，但后来被荷兰第一次军事进攻所违反。",
+          content: "<p class=\"mb-4\">林牙椰蒂协定是苏丹·夏赫里尔代表的印度尼西亚共和国政府与荷兰政府于1946年10月起在井里汶林牙椰蒂进行的谈判结果，在英国基尔利恩勋爵的调解下，成为独立宣言后解决印尼-荷兰冲突的首次外交努力。</p><p class=\"mb-4\">1946年11月15日签署的谈判结果事实上承认了涵盖爪哇、马都拉和苏门答腊的印度尼西亚共和国，并计划建立主权独立的印度尼西亚联邦国家并与其他成员国一起加入荷印联盟，这一政治妥协被印尼共和国政府视为务实之举，但遭到要求完全独立不做妥协的民族主义派别的批评。</p><p class=\"mb-4\">该协定在印度尼西亚内部面临严峻挑战，各群体认为妥协过于有利于荷兰而予以拒绝，引发内部政治危机，最终导致苏丹·夏赫里尔在日惹被反对派群体绑架，之后协定于1947年3月才被双方批准。</p><p class=\"mb-4\">荷兰对协定的违反发生在1947年7月21日，荷兰发动被称为警察行动的第一次军事进攻，攻击印度尼西亚共和国领土并占领了爪哇和苏门答腊的大部分地区，单方面终止了林牙椰蒂协定中规定的停火，表明荷兰无意遵守其外交承诺。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 林牙椰蒂协定文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — 印度尼西亚革命与林牙椰蒂"
+        }
+      }
+    },
+    {
+      id: "indonesia-insiden-madiun-1948",
+      langs: {
+        id: {
+          title: "Insiden Madiun 1948: Pemberontakan PKI dan Dampak Politisnya",
+          desc: "Pemberontakan PKI di Madiun pada September 1948 yang dipimpin Musso menjadi konflik internal paling berdarah selama revolusi kemerdekaan, ditumpas pasukan Soeharto dan berdampak besar pada lanskap politik Indonesia.",
+          content: "<p class=\"mb-4\">Insiden Madiun pecah pada 18 September 1948 ketika pasukan bersenjata yang berafiliasi dengan Partai Komunis Indonesia (PKI) dan kelompok sayap kiri Front Demokrasi Rakyat (FDR) yang dipimpin oleh Musso, seorang tokoh komunis yang baru kembali dari Uni Soviet, merebut kendali kota Madiun dan wilayah sekitarnya di Jawa Timur.</p><p class=\"mb-4\">Pemberontakan tersebut terjadi di tengah situasi politik Indonesia yang sangat sulit dengan tekanan internasional dari Perjanjian Renville yang membatasi wilayah RI, serta ketegangan internal antara faksi-faksi politik di dalam pemerintahan Republik, dengan kelompok sayap kiri yang merasa terpinggirkan dan menuntut pembentukan pemerintahan nasional yang lebih inklusif terhadap komunis dan sosialis.</p><p class=\"mb-4\">Pemerintah Republik Indonesia di bawah Presiden Sukarno dan Menteri Pertahanan Hatta segera mengutuk pemberontakan tersebut sebagai ancaman terhadap revolusi kemerdekaan dan menugaskan pasukan TNI termasuk Divisi Siliwangi dan pasukan di bawah komando Letnan Kolonel Soeharto untuk menumpas pemberontakan, dengan operasi militer berlangsung beberapa minggu dan berhasil merebut kembali Madiun pada 30 September 1948.</p><p class=\"mb-4\">Musso tewas dalam pertempuran saat mencoba melarikan diri, sementara tokoh-tokoh penting lainnya termasuk Amir Sjarifuddin yang menjabat mantan perdana menteri ditangkap dan kemudian dieksekusi, dengan jumlah korban jiwa dari pemberontakan ini diperkirakan sekitar 8.000 orang, menjadikannya konflik internal paling berdarah selama periode revolusi kemerdekaan Indonesia.</p><p class=\"mb-4\">Insiden Madiun memiliki dampak politis yang sangat besar bagi Indonesia, karena penumpasan pemberontakan tersebut justru meningkatkan citra internasional Indonesia di mata Barat sebagai negara anti-komunis yang kredibel, sekaligus melemahkan posisi kelompok sayap kiri dalam politik Indonesia selama lebih dari satu dekade berikutnya hingga kebangkitan PKI kembali pada era Demokrasi Terpimpin di awal 1960-an.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Dokumentasi Insiden Madiun 1948",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Madiun-Affair",
+          sourceSnippet2: "Encyclopaedia Britannica — Madiun Affair",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia political history"
+        },
+        en: {
+          title: "The 1948 Madiun Affair: PKI Rebellion and Its Political Impact",
+          desc: "The PKI rebellion in Madiun in September 1948 led by Musso became the bloodiest internal conflict during the independence revolution, crushed by Soeharto's forces and greatly impacting Indonesia's political landscape.",
+          content: "<p class=\"mb-4\">The Madiun Affair erupted on September 18, 1948, when armed forces affiliated with the Indonesian Communist Party (PKI) and the leftist People's Democratic Front (FDR) led by Musso, a communist figure newly returned from the Soviet Union, seized control of the city of Madiun and surrounding areas in East Java.</p><p class=\"mb-4\">The rebellion occurred amid a very difficult Indonesian political situation with international pressure from the Renville Agreement limiting RI territory, as well as internal tensions between political factions within the Republican government, with leftist groups feeling marginalized and demanding a more inclusive national government toward communists and socialists.</p><p class=\"mb-4\">The Republic of Indonesia government under President Sukarno and Defense Minister Hatta immediately condemned the rebellion as a threat to the independence revolution and assigned TNI forces including the Siliwangi Division and troops under the command of Lieutenant Colonel Soeharto to suppress the rebellion, with military operations lasting several weeks and successfully recapturing Madiun on September 30, 1948.</p><p class=\"mb-4\">Musso was killed in battle while trying to escape, while other important figures including Amir Sjarifuddin who served as former prime minister were captured and later executed, with estimated casualties from this rebellion around 8,000 people, making it the bloodiest internal conflict during the Indonesian independence revolution period.</p><p class=\"mb-4\">The Madiun Affair had enormous political impact for Indonesia, as the suppression of the rebellion actually improved Indonesia's international image in the eyes of the West as a credible anti-communist nation, while weakening the leftist group's position in Indonesian politics for more than the following decade until the PKI's resurgence during the Guided Democracy era in the early 1960s.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Madiun Affair Documentation",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Madiun-Affair",
+          sourceSnippet2: "Encyclopaedia Britannica — Madiun Affair",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/world-asia-pacific-14921238",
+          sourceSnippet3: "BBC News — Indonesia political history"
+        },
+        ja: {
+          title: "1948年マディウン事件：PKI反乱とその政治的影響",
+          desc: "1948年9月のムッソ指導のマディウンでのPKI反乱は独立革命中の最も血なまぐさい内部対立となり、スハルト軍によって鎮圧されインドネシアの政治的景観に大きな影響を与えた。",
+          content: "<p class=\"mb-4\">マディウン事件は1948年9月18日に勃発し、ソ連から新たに帰国した共産主義者ムッソが指導するインドネシア共産党（PKI）および左翼的人民民主戦線（FDR）に所属する武装部隊が東ジャワのマディウン市と周辺地域の支配を奪取しました。</p><p class=\"mb-4\">この反乱はレンヴィル協定の国際的圧力によりRIの領土が制限される非常に困難なインドネシアの政治状況の中で発生し、共和国内の政治派閥間の内部緊張とともに、左翼グループが疎外されたと感じ、共産主義者と社会主義者に対してより包括的な国民政府の形成を要求しました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — マディウン事件記録",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Madiun-Affair",
+          sourceSnippet2: "Encyclopaedia Britannica — マディウン事件"
+        },
+        ko: {
+          title: "1948년 마디운 사건: PKI 반란과 그 정치적 영향",
+          desc: "1948년 9월 무소가 이끈 마디운의 PKI 반란은 독립 혁명 기간 중 가장 유혈이 난internal 내부 분쟁이 되었으며, 수하르토 군에 의해 진압되어 인도네시아의 정치 지형에 큰 영향을 미쳤다.",
+          content: "<p class=\"mb-4\">마디운 사건은 1948년 9월 18일 소련에서 새로 귀국한 공산주의 인물 무소가 이끄는 인도네시아 공산당(PKI) 및 좌익 인민민주전선(FDR)에 소속된 무장 부대가 동자와 마디운시와 주변 지역의 통제를 장악하면서 발생했습니다.</p><p class=\"mb-4\">이 반란은 렌빌 협정의 국제적 압력으로 공화국 영토가 제한된 매우 어려운 인도네시아 정치 상황 속에서 발생했으며, 공화국 정부 내 정치 파벌 간의 내부 긴장과 함께 좌익 그룹이 소외되었다고 느끼고 공산주의자와 사회주의자에 대해 더 포용적인 국민 정부의 구성을 요구했습니다.</p><p class=\"mb-4\">수카르노 대통령과 하타 국방장관 아래의 인도네시아 공화국 정부는 반란을 즉시 독립 혁명에 대한 위협으로 규탄하고 실리왕시 사단과 수하르토 중령의 지휘하에 있는 부대를 포함한 TNI 부대에게 반란 진압을 지시했으며, 군사 작전은 수주간 지속되어 1948년 9월 30일 마디운을 성공적으로 탈환했습니다.</p><p class=\"mb-4\">무소는 탈출을 시도하던 중 전투에서 사망했으며, 전 총리를 지낸 아미르 샤리푸딘을 포함한 다른 중요 인물들이 체포되어 나중에 처형되었고, 이 반란의 사상자는 약 8,000명으로 추정되어 인도네시아 독립 혁명 기간 중 가장 유혈이 난 내부 분쟁이 되었습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 마디운 사건 기록",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Madiun-Affair",
+          sourceSnippet2: "Encyclopaedia Britannica — 마디운 사건"
+        },
+        zh: {
+          title: "1948年茉莉芬事件：印尼共产党叛乱及其政治影响",
+          desc: "1948年9月由慕梭领导的印尼共产党在茉莉芬的叛乱成为独立革命期间最血腥的内部冲突，被苏哈托部队镇压，对印度尼西亚政治格局产生重大影响。",
+          content: "<p class=\"mb-4\">茉莉芬事件于1948年9月18日爆发，由从苏联新归来的共产主义人物慕梭领导的印尼共产党（PKI）和左翼人民民主阵线（FDR）所属武装部队夺取了东爪哇茉莉芬市及周边地区的控制权。</p><p class=\"mb-4\">这次叛乱发生在伦维尔协定的国际压力限制了印尼共和国领土的非常困难的政治局势中，以及共和国内部政治派系之间的内部紧张关系下，左翼群体感到被边缘化并要求建立对共产主义者和社会主义者更具包容性的国民政府。</p><p class=\"mb-4\">苏加诺总统和国防部长哈达领导下的印度尼西亚共和国政府立即谴责叛乱为对独立革命的威胁，并指派包括西利万吉师和苏哈托中校指挥的部队在内的印尼国民军镇压叛乱，军事行动持续数周，于1948年9月30日成功夺回茉莉芬。</p><p class=\"mb-4\">慕梭在试图逃跑时阵亡，而包括前总理阿米尔·沙里弗丁在内的其他重要人物被俘并随后被处决，据估计这次叛乱的伤亡人数约8000人，使其成为印度尼西亚独立革命期间最血腥的内部冲突。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 茉莉芬事件文献",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Madiun-Affair",
+          sourceSnippet2: "Encyclopaedia Britannica — 茉莉芬事件"
+        }
+      }
+    },
+    {
+      id: "indonesia-era-jokowi-2014-2024",
+      langs: {
+        id: {
+          title: "Era Joko Widodo (Jokowi) 2014-2024: Infrastruktur dan Pembangunan",
+          desc: "Jokowi menjadi presiden pertama yang berasal dari latar belakang non-militer dan non-elit politik tradisional, memimpin Indonesia selama dua periode dengan fokus pada infrastruktur, investasi, dan transformasi digital.",
+          content: "<p class=\"mb-4\">Joko Widodo atau Jokowi, seorang mantan pengusaha mebel yang menjabat Wali Kota Solo dan Gubernur DKI Jakarta sebelum terpilih sebagai presiden pada 2014, menjadi presiden Indonesia pertama yang berasal dari latar belakang non-militer dan bukan bagian dari elit politik tradisional, sebuah perubahan signifikan dalam lanskap politik Indonesia pasca-Reformasi.</p><p class=\"mb-4\">Pemerintahan Jokowi yang berlangsung dua periode hingga 2024 ditandai dengan fokus besar pada pembangunan infrastruktur, dengan proyek-proyek besar termasuk jalan tol trans-Jawa dan trans-Sumatra, pelabuhan-pelabuhan baru, bandara-bandara baru di wilayah terpencil, serta proyek strategis nasional seperti Ibu Kota Nusantara (IKN) di Kalimantan Timur yang dimaksudkan untuk memindahkan pusat pemerintahan dari Jakarta.</p><p class=\"mb-4\">Dalam bidang ekonomi, Jokowi menerapkan kebijakan yang lebih berorientasi pada investasi dan industrialisasi, dengan upaya memperbaiki iklim investasi Indonesia melalui paket-paket kebijakan ekonomi, omnibus law pada UU Cipta Kerja yang bertujuan menyederhanakan regulasi, serta dorongan untuk pengembangan industri hilir termasuk larangan ekspor nikel mentah untuk mendorong pembangunan smelter di Indonesia.</p><p class=\"mb-4\">Era Jokowi juga menghadapi tantangan besar termasuk pandemi COVID-19 yang melanda Indonesia sejak 2020, dengan pemerintah mengimplementasikan pembatasan sosial berskala besar dan program vaksinasi massal terbesar dalam sejarah Indonesia, serta mengeluarkan paket stimulus ekonomi untuk menjaga pertumbuhan ekonomi di tengah resesi global yang disebabkan pandemi.</p><p class=\"mb-4\">Kepemimpinan Jokowi juga membawa pergeseran dalam politik luar negeri Indonesia yang lebih pragmatis dengan fokus pada kepentingan ekonomi nasional, terlihat dari keanggotaan Indonesia di G20 dan ASEAN, serta upaya mediasi dalam konflik global, meski kritik juga muncul mengenai penurunan kebebasan sipil, isu korupsi yang belum terselesaikan, serta kebijakan lingkungan yang dianggap kontradiktif dengan target perubahan iklim Indonesia.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Joko-Widodo",
+          sourceSnippet: "Encyclopaedia Britannica — Joko Widodo",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-61723776",
+          sourceSnippet2: "BBC News — Jokowi and Indonesia profile",
+          source3: "World Bank",
+          sourceUrl3: "https://www.worldbank.org/en/country/indonesia",
+          sourceSnippet3: "World Bank — Indonesia development and infrastructure"
+        },
+        en: {
+          title: "The Joko Widodo (Jokowi) Era 2014-2024: Infrastructure and Development",
+          desc: "Jokowi became the first president from a non-military and non-traditional political elite background, leading Indonesia for two terms with a focus on infrastructure, investment, and digital transformation.",
+          content: "<p class=\"mb-4\">Joko Widodo or Jokowi, a former furniture businessman who served as Mayor of Solo and Governor of Jakarta before being elected president in 2014, became Indonesia's first president from a non-military background and not part of the traditional political elite, a significant change in Indonesia's post-Reformasi political landscape.</p><p class=\"mb-4\">Jokowi's government, lasting two terms until 2024, was marked by a major focus on infrastructure development, with major projects including trans-Java and trans-Sumatra toll roads, new ports, new airports in remote areas, and national strategic projects such as the new capital Nusantara (IKN) in East Kalimantan intended to move the center of government from Jakarta.</p><p class=\"mb-4\">In economics, Jokowi implemented policies more oriented toward investment and industrialization, with efforts to improve Indonesia's investment climate through economic policy packages, the omnibus law on the Job Creation Law aimed at simplifying regulations, and a push for downstream industry development including a ban on raw nickel exports to encourage smelter construction in Indonesia.</p><p class=\"mb-4\">The Jokowi era also faced major challenges including the COVID-19 pandemic that struck Indonesia since 2020, with the government implementing large-scale social restrictions and the largest mass vaccination program in Indonesian history, as well as economic stimulus packages to maintain economic growth amid the global recession caused by the pandemic.</p><p class=\"mb-4\">Jokowi's leadership also brought a shift in Indonesian foreign policy that was more pragmatic with a focus on national economic interests, seen in Indonesia's G20 and ASEAN membership, and mediation efforts in global conflicts, though criticism also emerged regarding declining civil liberties, unresolved corruption issues, and environmental policies considered contradictory to Indonesia's climate change targets.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Joko-Widodo",
+          sourceSnippet: "Encyclopaedia Britannica — Joko Widodo",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-61723776",
+          sourceSnippet2: "BBC News — Jokowi and Indonesia profile",
+          source3: "World Bank",
+          sourceUrl3: "https://www.worldbank.org/en/country/indonesia",
+          sourceSnippet3: "World Bank — Indonesia development and infrastructure"
+        },
+        ja: {
+          title: "ジョコ・ウィドド（ジョコウィ）時代 2014〜2024年：インフラと開発",
+          desc: "ジョコウィは非軍事・非伝統的政治エリートの出身として初の大統領となり、インフラ、投資、デジタル変革に焦点を当て2期にわたりインドネシアを率いた。",
+          content: "<p class=\"mb-4\">2014年に大統領に選出される前にソロ市長とジャカルタ州知事を務めた元家具実業家のジョコ・ウィドドまたはジョコウィは、非軍事の出身で伝統的政治エリートの一部ではないインドネシア初の大統領となり、改革後のインドネシア政治景観における重要な変化となりました。</p><p class=\"mb-4\">2024年まで2期続いたジョコウィ政権はインフラ開発に大きな焦点を当てたことで特徴づけられ、トラJava・トラSumatra有料道路、新港湾、遠隔地の新空港、および政府の中心をジャカルタから移転させることを目的とした東カリマンタンの新首都ヌサンタラ（IKN）などの国家戦略プロジェクトを含む大規模プロジェクトが実施されました。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Joko-Widodo",
+          sourceSnippet: "Encyclopaedia Britannica — ジョコ・ウィドド",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-61723776",
+          sourceSnippet2: "BBC News — ジョコウィとインドネシア"
+        },
+        ko: {
+          title: "조코 위도도 (조코위) 시대 2014~2024년: 인프라와 개발",
+          desc: "조코위는 비군사·비전통적 정치 엘리트 출신으로서 첫 대통령이 되었으며, 인프라, 투자, 디지털 변화에 초점을 맞춰 2기 동안 인도네시아를 이끌었다.",
+          content: "<p class=\"mb-4\">2014년 대통령으로 선출되기 전 솔로 시장과 자카르타 주지사를 역임한 전 가구 사업가 조코 위도도 또는 조코위는 비군사 출신이자 전통적 정치 엘리트의 일부가 아닌 인도네시아 최초의 대통령이 되었으며, 개혁 이후 인도네시아 정치 지형에서 중요한 변화를 가져왔습니다.</p><p class=\"mb-4\">2024년까지 2기 지속된 조코위 정부는 인프라 개발에 큰 초점을 맞추어 트랜스자바 및 트랜스수마트라 유료 도로, 신항만, 원격 지역의 신공항, 그리고 정부 중심을 자카르타에서 이전하기 위한 동칼리만탄의 새 수도 누산타라(IKN) 등 국가 전략 프로젝트를 포함한 주요 프로젝트가 추진되었습니다.</p><p class=\"mb-4\">경제 분야에서 조코위는 투자와 산업화에 더 지향적인 정책을 시행했으며, 경제 정책 패키지를 통해 인도네시아의 투자 환경을 개선하고, 규제를 간소화하기 위한 일괄입법 고용창출법, 그리고 인도네시아 내 제련소 건설을 장려하기 위한 원광 니켈 수출 금지를 포함한 하류 산업 개발 추진 등의 노력을 기울였습니다.</p><p class=\"mb-4\">조코위 시대는 2020년 이후 인도네시아를 강타한 코로나19 팬데믹을 포함한 주요 도전에도 직면했으며, 정부는 대규모 사회적 거리두기를 시행하고 인도네시아 역사상 최대 규모의 대량 백신 접종 프로그램을 실시했으며, 팬데믹으로 인한 세계적 경기침체 속에서 경제 성장을 유지하기 위한 경제 부양 패키지를 발표했습니다.</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Joko-Widodo",
+          sourceSnippet: "Encyclopaedia Britannica — 조코 위도도",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-61723776",
+          sourceSnippet2: "BBC News — 조코위와 인도네시아"
+        },
+        zh: {
+          title: "佐科·维多多（佐科威）时代 2014-2024年：基础设施与发展",
+          desc: "佐科威成为首位来自非军事和非传统政治精英背景的总统，以基础设施、投资和数字化转型为重点领导印度尼西亚两届任期。",
+          content: "<p class=\"mb-4\">2014年当选总统前曾担任梭罗市长和雅加达省长的前家具商人佐科·维多多或佐科威，成为印度尼西亚首位非军事出身且不属于传统政治精英的总统，这是改革后印度尼西亚政治格局的重大变化。</p><p class=\"mb-4\">持续两届至2024年的佐科威政府以大力关注基础设施建设为特征，重大项目包括跨爪哇和跨苏门答腊收费公路、新港口、偏远地区新机场，以及旨在将政府中心从雅加达迁至东加里曼丹新首都努山塔拉（IKN）等国家战略项目。</p><p class=\"mb-4\">在经济方面，佐科威实施了更倾向于投资和工业化的政策，通过经济政策方案改善印度尼西亚的投资环境，通过《综合法》即《就业创造法》简化法规，推动下游产业发展包括禁止原镍出口以鼓励在印度尼西亚建设冶炼厂。</p><p class=\"mb-4\">佐科威时代也面临重大挑战，包括2020年以来袭击印度尼西亚的新冠疫情，政府实施了大规模社交限制措施和印度尼西亚历史上最大规模的大规模疫苗接种计划，以及推出经济刺激方案以在疫情造成的全球衰退中维持经济增长。</p>",
+          source: "Encyclopaedia Britannica",
+          sourceUrl: "https://www.britannica.com/biography/Joko-Widodo",
+          sourceSnippet: "Encyclopaedia Britannica — 佐科·维多多",
+          source2: "BBC News",
+          sourceUrl2: "https://www.bbc.com/news/world-asia-61723776",
+          sourceSnippet2: "BBC News — 佐科威与印度尼西亚"
+        }
+      }
+    },
+    {
+      id: "indonesia-kerajaan-bone-sulawesi-selatan",
+      langs: {
+        id: {
+          title: "Kerajaan Bone: Kekuatan Terbesar di Sulawesi Selatan",
+          desc: "Kerajaan Bone yang didirikan pada abad ke-14 menjadi kerajaan terbesar di Sulawesi Selatan, memimpin konfederasi Tellumpoccoe bersama Soppeng dan Wajo melawan dominasi Majapahit dan Belanda.",
+          content: "<p class=\"mb-4\">Kerajaan Bone didirikan sekitar abad ke-14 oleh ManurungngE Rimatajang yang menurut tradisi lisan turun-temurun masyarakat Bugis merupakan seorang tokoh mitologis yang turun dari langit di kawasan Watampone, dengan kerajaan ini berkembang menjadi kekuatan politik dan militer terbesar di kawasan Sulawesi Selatan pada masanya.</p><p class=\"mb-4\">Bone bersama dengan Kerajaan Soppeng dan Wajo membentuk konfederasi Tellumpoccoe (Tiga Serangkai) yang menjadi aliansi politik dan militer paling kuat di Sulawesi Selatan, dengan sistem pemerintahan yang unik menggabungkan elemen monarki dan demokrasi melalui dewan adat yang memberikan suara dalam keputusan-keputusan penting kerajaan.</p><p class=\"mb-4\">Konfederasi Tellumpoccoe tercatat dalam sejarah berhasil menolak ekspansi kekuasaan Majapahit ke Sulawesi Selatan, sebuah pencapaian yang sangat jarang di tengah dominasi Majapahit yang menguasai hampir seluruh Nusantara pada masa kejayaannya di bawah Gajah Mada, menunjukkan kekuatan militer dan diplomasi konfederasi tersebut.</p><p class=\"mb-4\">Arung Palakka, seorang bangsawan Bone yang melarikan diri dari Sulawesi Selatan akibat konflik internal, kemudian bersekutu dengan Belanda untuk mengalahkan Kesultanan Gowa yang saat itu mendominasi Sulawesi Selatan, sebuah aliansi yang membawa Bone ke posisi kekuasaan tertinggi di Sulawesi Selatan pasca-Perang Gowa-Belanda namun juga mengikat Bone dalam hubungan vasal dengan Belanda.</p><p class=\"mb-4\">Kerajaan Bone bertahan sebagai entitas politik lokal hingga awal abad ke-20, sebelum akhirnya diintegrasikan ke dalam Hindia Belanda setelah perlawanan terakhir La Pawawoi Karaeng Mappanyunri pada 1905, namun warisan budaya dan sistem pemerintahan Bugis Bone tetap mempengaruhi tata kelola pemerintahan dan identitas budaya Sulawesi Selatan hingga saat ini, termasuk naskah La Galigo yang merupakan salah satu epik terpanjang dalam sejarah sastra dunia.</p>",
+          source: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Direktorat Pelestarian Cagar Budaya — Kerajaan Bone",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bone-regency",
+          sourceSnippet2: "Encyclopaedia Britannica — Bone and South Sulawesi",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2270/the-kingdom-of-bone-south-sulawesi/",
+          sourceSnippet3: "World History Encyclopedia — The Kingdom of Bone"
+        },
+        en: {
+          title: "The Kingdom of Bone: The Greatest Power in South Sulawesi",
+          desc: "The Kingdom of Bone, founded in the 14th century, became the largest kingdom in South Sulawesi, leading the Tellumpoccoe confederation with Soppeng and Wajo against Majapahit and Dutch domination.",
+          content: "<p class=\"mb-4\">The Kingdom of Bone was founded around the 14th century by Manurungnge Rimatajang, who according to Bugis oral tradition was a mythical figure who descended from the sky in the Watampone area, with this kingdom developing into the largest political and military power in the South Sulawesi region of its time.</p><p class=\"mb-4\">Bone together with the Kingdoms of Soppeng and Wajo formed the Tellumpoccoe (Three-Bonded) confederation, which became the strongest political and military alliance in South Sulawesi, with a unique governance system combining monarchical and democratic elements through a customary council that voted on important kingdom decisions.</p><p class=\"mb-4\">The Tellumpoccoe confederation is historically recorded as successfully resisting Majapahit's expansion into South Sulawesi, a very rare achievement amid Majapahit's dominance controlling almost the entire archipelago during its peak under Gajah Mada, demonstrating the confederation's military and diplomatic strength.</p><p class=\"mb-4\">Arung Palakka, a Bone nobleman who fled South Sulawesi due to internal conflict, later allied with the Dutch to defeat the Sultanate of Gowa that then dominated South Sulawesi, an alliance that brought Bone to the highest position of power in South Sulawesi after the Gowa-Dutch War but also bound Bone in a vassal relationship with the Dutch.</p><p class=\"mb-4\">The Kingdom of Bone survived as a local political entity until the early 20th century, before finally being integrated into the Dutch East Indies after the last resistance of La Pawawoi Karaeng Mappanyunri in 1905, but the cultural legacy and Bugis-Bone governance system continue to influence governance and cultural identity of South Sulawesi to this day, including the La Galigo manuscript which is one of the longest epics in world literary history.</p>",
+          source: "Ministry of Education and Culture of Indonesia",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "Directorate of Cultural Heritage Preservation — Kingdom of Bone",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bone-regency",
+          sourceSnippet2: "Encyclopaedia Britannica — Bone and South Sulawesi",
+          source3: "World History Encyclopedia",
+          sourceUrl3: "https://www.worldhistory.org/article/2270/the-kingdom-of-bone-south-sulawesi/",
+          sourceSnippet3: "World History Encyclopedia — The Kingdom of Bone"
+        },
+        ja: {
+          title: "ボネ王国：南スラウェシ最大の勢力",
+          desc: "14世紀に建国されたボネ王国は南スラウェシ最大の王国となり、ソッペンとワジョとともにテルムポコエ連合を率いてマジャパヒトとオランダの支配に抵抗した。",
+          content: "<p class=\"mb-4\">ボネ王国は14世紀頃にブギス口承伝承によればワタムポネ地域に天から降りてきた神話的人物マヌルンゲ・リマタジャンによって建国され、この王国は当時の南スラウェシ地域で最大の政治的・軍事勢力に発展しました。</p><p class=\"mb-4\">ボネはソッペン王国とワジョ王国とともにテルムポコエ（三つの結合）連合を形成し、南スラウェシで最も強力な政治・軍事同盟となり、重要な王国の決定に投票する慣習評議会を通じて君主制と民主的要素を組み合わせた独特の統治システムを持ちました。</p>",
+          source: "インドネシア教育文化省",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遺産保存局 — ボネ王国",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bone-regency",
+          sourceSnippet2: "Encyclopaedia Britannica — ボネと南スラウェシ"
+        },
+        ko: {
+          title: "보네 왕국: 남술라웨시 최대의 세력",
+          desc: "14세기에 건국된 보네 왕국은 남술라웨시에서 가장 큰 왕국이 되었으며, 소펭 및 와조와 함께 텔룸포코에 연합을 이끌어 마자파힛과 네덜란드의 지배에 맞섰다.",
+          content: "<p class=\"mb-4\">보네 왕국은 14세기경 부기스 구전 전통에 따르면 와탐포네 지역에 하늘에서 내려온 신화적 인물 마누룽게 리마탕에 의해 건국되었으며, 이 왕국은 당시 남술라웨시 지역에서 가장 큰 정치·군사 세력으로 발전했습니다.</p><p class=\"mb-4\">보네는 소펭 왕국 및 와조 왕국과 함께 텔룸포코에(세 가지 결합) 연합을 형성하여 남술라웨시에서 가장 강력한 정치·군사 동맹이 되었으며, 중요한 왕국 결정에 투표하는 관습 평의회를 통해 군주제와 민주적 요소를 결합한 독특한 통치 체제를 가졌습니다.</p><p class=\"mb-4\">텔룸포코에 연합은 가자 마다 치하에서 거의 전 군도를 통제하던 마자파힛의 팽창주의 시기에 남술라웨시로의 마자파힛 확장을 성공적으로 저지한 것으로 역사에 기록되어 있으며, 이는 마자파힛의 지배 속에서 매우 드문 성취로 연합의 군사 및 외교적 강력함을 보여줍니다.</p><p class=\"mb-4\">내부 분쟁으로 인해 남술라웨시에서 도망친 보네 귀족 아룽 팔라카는 나중에 네덜란드와 동맹을 맺어 당시 남술라웨시를 지배하던 고와 술탄국을 물리쳤으며, 이 동맹은 고와-네덜란드 전쟁 이후 보네를 남술라웨시에서 최고 권력 위치로 가져왔지만 동시에 보네를 네덜란드와의 종속 관계로 묶었습니다.</p>",
+          source: "인도네시아 교육문화부",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "문화유산보존국 — 보네 왕국",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bone-regency",
+          sourceSnippet2: "Encyclopaedia Britannica — 보네와 남술라웨시"
+        },
+        zh: {
+          title: "波尼王国：南苏拉威西最大的力量",
+          desc: "约14世纪建立的波尼王国成为南苏拉威西最大的王国，与索彭和瓦乔一起领导特勒姆波科埃联盟对抗满者伯夷和荷兰的统治。",
+          content: "<p class=\"mb-4\">波尼王国约于14世纪由布吉斯口述传统中从天而降于瓦坦波尼地区的神话人物马努龙格·里马唐建立，该王国发展为当时南苏拉威西地区最大的政治和军事力量。</p><p class=\"mb-4\">波尼与索彭王国和瓦乔王国一起组成了特勒姆波科埃（三结合）联盟，成为南苏拉威西最强大的政治和军事同盟，拥有通过在重要王国决策中投票的习惯议会来结合君主制和民主元素的独特治理体系。</p><p class=\"mb-4\">特勒姆波科埃联盟在历史上成功抵御了满者伯夷向南苏拉威西的扩张，这在加扎·玛达治下满者伯夷几乎控制整个群岛的鼎盛时期是一项非常罕见的成就，显示了联盟的军事和外交实力。</p><p class=\"mb-4\">因内部冲突逃离南苏拉威西的波尼贵族阿隆·帕尔卡后来与荷兰结盟击败了当时统治南苏拉威西的戈瓦苏丹国，这一联盟使波尼在戈瓦-荷兰战争后获得了南苏拉威西的最高权力地位，但也使波尼成为荷兰的附庸。</p>",
+          source: "印度尼西亚教育文化部",
+          sourceUrl: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet: "文化遗产保护局 — 波尼王国",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/place/Bone-regency",
+          sourceSnippet2: "Encyclopaedia Britannica — 波尼与南苏拉威西"
+        }
+      }
+    },
+    {
+      id: "indonesia-naskah-proklamasi-1945",
+      langs: {
+        id: {
+          title: "Naskah Proklamasi Kemerdekaan: Sejarah Teks yang Mengubah Bangsa",
+          desc: "Naskah Proklamasi yang ditulis tangan oleh Sukarno dan ditikom oleh Sayuti Melik pada 17 Agustus 1945 menjadi dokumen paling bersejarah dalam sejarah Indonesia, melahirkan negara baru di tengah kekosongan kekuasaan pasca-Jepang.",
+          content: "<p class=\"mb-4\">Naskah Proklamasi Kemerdekaan Indonesia disusun pada dini hari 17 Agustus 1945 di rumah Laksamana Maeda di Jakarta, setelah pertemuan intens antara Sukarno, Hatta, dan Ahmad Soebardjo yang berdebat mengenai format dan isi teks proklamasi yang akan dibacakan, dengan teks awal ditulis tangan oleh Sukarno di atas selembar kertas bergaris.</p><p class=\"mb-4\">Sayuti Melik, seorang aktivis yang bekerja sebagai staf Maeda, kemudian mengetik ulang naskah tulisan tangan Sukarno tersebut menjadi versi final yang lebih rapi dan formal, dengan beberapa perubahan kecil termasuk penyederhanaan kalimat dan penambahan tempat dan tanggal, menjadikannya orang yang secara fisik mengetik dokumen paling bersejarah dalam sejarah Indonesia modern.</p><p class=\"mb-4\">Proklamasi kemerdekaan dibacakan oleh Sukarno di hadapan rakyat yang berkumpul di depan rumah Sukarno di Jalan Pegangsaan Timur 56 pada pagi hari 17 Agustus 1945, dengan upacara sederhana yang dihadiri oleh para pemuda, tokoh masyarakat, dan warga biasa, sebuah momen yang menjadi titik balik sejarah bangsa Indonesia.</p><p class=\"mb-4\">Naskah proklamasi yang berisi dua kalimat sederhana namun penuh makna tersebut menyatakan bahwa bangsa Indonesia dengan ini menyatakan kemerdekaan Indonesia dan hal-hal mengenai pemindahan kekuasaan dan lain-lain diatur dengan teliti dalam waktu sesingkat-singkatnya, sebuah deklarasi yang secara efektif memulai perjalanan Indonesia sebagai negara merdeka meski masih harus melalui perjuangan bersenjata panjang melawan Belanda.</p><p class=\"mb-4\">Naskah asli proklamasi yang ditulis tangan oleh Sukarno dan versi yang diketik oleh Sayuti Melik kini disimpan dan dipajang di Museum Tugu Proklamasi dan Arsip Nasional sebagai warisan nasional yang paling berharga, simbol abadi momen kelahiran Republik Indonesia yang terus menginspirasi generasi-generasi berikutnya tentang arti perjuangan dan pengorbanan para pendiri bangsa.</p>",
+          source: "Arsip Nasional Republik Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "Arsip Nasional RI — Naskah Proklamasi Asli",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian independence proclamation",
+          source3: "Museum Tugu Proklamasi",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Kemdikbud — Museum Tugu Proklamasi"
+        },
+        en: {
+          title: "The Proclamation Manuscript: The Text That Changed a Nation",
+          desc: "The Proclamation manuscript handwritten by Sukarno and typed by Sayuti Melik on August 17, 1945, became the most historic document in Indonesian history, birthing a new nation amid the post-Japanese power vacuum.",
+          content: "<p class=\"mb-4\">The Indonesian Independence Proclamation manuscript was composed in the early morning hours of August 17, 1945, at Admiral Maeda's residence in Jakarta, after an intensive meeting between Sukarno, Hatta, and Ahmad Soebardjo who debated the format and content of the proclamation text to be read, with the initial text handwritten by Sukarno on a sheet of lined paper.</p><p class=\"mb-4\">Sayuti Melik, an activist working as Maeda's staff, subsequently retyped Sukarno's handwritten manuscript into a cleaner and more formal final version, with minor changes including sentence simplification and addition of place and date, making him the person who physically typed the most historic document in modern Indonesian history.</p><p class=\"mb-4\">The independence proclamation was read by Sukarno before the people gathered in front of Sukarno's house on Pegangsaan Timur Street 56 on the morning of August 17, 1945, in a simple ceremony attended by youth, community figures, and ordinary citizens, a moment that became the turning point in Indonesian national history.</p><p class=\"mb-4\">The proclamation manuscript containing two simple yet meaningful sentences declared that the Indonesian nation hereby proclaims Indonesian independence and matters concerning the transfer of power and others will be arranged in detail in the shortest possible time, a declaration that effectively began Indonesia's journey as an independent nation despite still having to go through a long armed struggle against the Dutch.</p><p class=\"mb-4\">The original proclamation manuscript handwritten by Sukarno and the version typed by Sayuti Melik are now stored and displayed at the Proclamation Monument Museum and National Archives as the most precious national heritage, an enduring symbol of the birth moment of the Republic of Indonesia that continues to inspire subsequent generations about the meaning of struggle and sacrifice by the nation's founders.</p>",
+          source: "National Archives of the Republic of Indonesia",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "National Archives of Indonesia — Original Proclamation Manuscript",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — Indonesian independence proclamation",
+          source3: "Ministry of Education and Culture",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Kemdikbud — Proclamation Monument Museum"
+        },
+        ja: {
+          title: "独立宣言書：国家を変えたテクストの歴史",
+          desc: "1945年8月17日にスカルノが手書きしサユティ・メリクがタイプした宣言書はインドネシア史上最も歴史的な文書となり、日本撤退後の権力の空白の中で新国家を誕生させた。",
+          content: "<p class=\"mb-4\">インドネシア独立宣言書は1945年8月17日早朝、ジャカルタの前田海軍中将邸で、スカルノ、ハッタ、アフマド・スバルジョの間で宣言されるテキストの形式と内容について議論する集中的な会合の後に作成され、初期のテキストはスカルノによって罫線入りの紙の上に手書きされました。</p><p class=\"mb-4\">前田のスタッフとして働く活動家サユティ・メリクはその後、スカルノの手書き原稿をよりきれいで形式的な最終版に再入力し、文の簡略化や場所と日付の追加を含む小さな変更を加え、近代インドネシア史上最も歴史的な文書を物理的にタイプした人物となりました。</p>",
+          source: "インドネシア国立公文書館",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "インドネシア国立公文書館 — 独立宣言書原本",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — インドネシア独立宣言"
+        },
+        ko: {
+          title: "독립 선언서: 국가를 바꾼 텍스트의 역사",
+          desc: "1945년 8월 17일 수카르노가 손으로 쓰고 사유티 멜리크가 타이핑한 선언서는 인도네시아 역사상 가장 역사적인 문서가 되었으며, 일본 이후의 권력 공백 속에서 새 국가를 탄생시켰다.",
+          content: "<p class=\"mb-4\">인도네시아 독립 선언서는 1945년 8월 17일 이른 아침 자카르타의 마에다 제독 관저에서 수카르노, 하타, 아흐마드 수바르조 간에 낭독될 선언 텍스트의 형식과 내용에 대해 논쟁하는 집중적인 회합 후에 작성되었으며, 초기 텍스트는 수카르노가 줄이 그어진 종이 위에 손으로 쓴 것이었습니다.</p><p class=\"mb-4\">마에다의 직원으로 일하던 활동가 사유티 멜리크는 이후 수카르노의 손글씨 원고를 더 깔끔하고 공식적인 최종 버전으로 재타이핑했으며, 문장 단순화 및 장소와 날짜 추가를 포함한 사소한 변경을 가하여 현대 인도네시아 역사상 가장 역사적인 문서를 물리적으로 타이핑한 사람이 되었습니다.</p><p class=\"mb-4\">독립 선언은 1945년 8월 17일 아침 페강사안 티무르 56번지 수카르노의 집 앞에 모인 사람들 앞에서 수카르노에 의해 낭독되었으며, 청년, 지역 사회 인사, 일반 시민이 참석한 간단한 의식으로 인도네시아 국가 역사의 전환점이 되는 순간이었습니다.</p><p class=\"mb-4\">두 개의 간단하면서도 의미 있는 문장을 담은 선언서는 인도네시아 국민이 여기에 인도네시아의 독립을 선언하며 권력 이양에 관한 사항 등은 가능한 한 짧은 시간 내에 자세히 규정될 것이라고 선언했으며, 이 선언은 네덜란드에 맞선 긴 무장 투쟁을 여전히 거쳐야 했음에도 인도네시아가 독립 국가로서의 여정을 효과적으로 시작하게 했습니다.</p>",
+          source: "인도네시아 국립기록보관소",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "인도네시아 국립기록보관소 — 독립 선언서 원본",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — 인도네시아 독립 선언"
+        },
+        zh: {
+          title: "独立宣言书：改变国家的文本历史",
+          desc: "1945年8月17日由苏加诺手写、萨尤蒂·梅利克打字的宣言书成为印度尼西亚历史上最具历史意义的文件，在日占后的权力真空中诞生了一个新国家。",
+          content: "<p class=\"mb-4\">印度尼西亚独立宣言书于1945年8月17日凌晨在雅加达的前田海军中将官邸中起草，在苏加诺、哈塔和阿赫马德·苏巴尔乔之间就将要宣读的宣言文本的格式和内容进行激烈辩论后，初始文本由苏加诺手写在一张横线纸上。</p><p class=\"mb-4\">作为前田工作人员的活动家萨尤蒂·梅利克随后将苏加诺的手写稿重新打字成更整洁、更正式的最终版本，包括简化句子和添加地点及日期等小幅修改，使他成为物理上打出了现代印度尼西亚历史上最具历史意义文件的人。</p><p class=\"mb-4\">独立宣言由苏加诺于1945年8月17日上午在聚于佩甘沙安东56号苏加诺家门前的人民面前宣读，在一个有青年、社区人士和普通公民参加的简单仪式中，这一刻成为印度尼西亚国家历史的转折点。</p><p class=\"mb-4\">包含两个简单却意味深长句子的宣言书宣布印度尼西亚民族 hereby declares Indonesian independence 并声明有关权力移交等事项将在最短时间内详细安排，这一宣言有效地开启了印度尼西亚作为独立国家的旅程，尽管仍然需要经历对荷兰的长期武装斗争。</p>",
+          source: "印度尼西亚国家档案馆",
+          sourceUrl: "https://www.anri.go.id/",
+          sourceSnippet: "印度尼西亚国家档案馆 — 独立宣言书原件",
+          source2: "Encyclopaedia Britannica",
+          sourceUrl2: "https://www.britannica.com/event/Indonesian-Revolution",
+          sourceSnippet2: "Encyclopaedia Britannica — 印度尼西亚独立宣言"
+        }
+      }
+    },
+    {
+      id: "indonesia-sejarah-kopi-nusantara",
+      langs: {
+        id: {
+          title: "Sejarah Kopi Indonesia: Dari Tanam Paksa Hingga Kopi Spesialti Dunia",
+          desc: "Kopi yang diperkenalkan Belanda pada abad ke-17 menjadi komoditas terpenting dalam sejarah ekonomi Indonesia, dari sistem tanam paksa hingga era kopi spesialti yang mengharumkan nama Indonesia di panggung dunia.",
+          content: "<p class=\"mb-4\">Tanaman kopi pertama kali diperkenalkan ke Indonesia oleh VOC pada abad ke-17, dengan biji kopi Arabika dibawa dari Malabar, India, dan ditanam di wilayah Batavia sekitar 1696 oleh komandan VOC Joannes van Opdam, menjadikan Indonesia sebagai salah satu negara pertama di luar jazirah Arab yang membudidayakan kopi secara komersial.</p><p class=\"mb-4\">Pada masa Sistem Tanam Paksa (Cultuurstelsel) yang diperkenalkan pada 1830, kopi menjadi salah satu komoditas ekspor wajib yang paling menguntungkan bagi Belanda, dengan petani Jawa dipaksa menanam kopi di lahan-lahan yang ditentukan, menghasilkan keuntungan besar bagi kas negara Belanda namun menyebabkan penderitaan luar biasa bagi petani termasuk kelaparan di berbagai wilayah.</p><p class=\"mb-4\">Penyakit karat daun kopi (Hemileia vastatrix) yang menyebar pada akhir abad ke-19 menghancurkan perkebunan kopi Arabika di seluruh Jawa dan Sumatra, memaksa Belanda menggantinya dengan kopi Robusta yang lebih tahan penyakit, sebuah perubahan yang secara permanen mengubah peta kopi Indonesia dengan Robusta mendominasi produksi hingga saat ini.</p><p class=\"mb-4\">Indonesia saat ini merupakan salah satu produsen kopi terbesar di dunia, dengan kopi dari berbagai daerah seperti Gayo dari Aceh, Mandailing dari Sumatra Utara, Toraja dari Sulawesi Selatan, Kintamani dari Bali, dan Java Preanger dari Jawa Barat menjadi nama-nama kopi spesialti yang diakui internasional dengan profil rasa yang unik dan khas masing-masing.</p><p class=\"mb-4\">Industri kopi Indonesia juga mengalami transformasi besar dalam beberapa dekade terakhir dengan munculnya ribuan kedai kopi spesialti di seluruh Indonesia, ekspor kopi spesialti yang terus meningkat, serta pengakuan internasional terhadap kopi Indonesia sebagai salah satu kopi terbaik di dunia, menjadikan kopi bukan hanya komoditas ekonomi tetapi juga bagian penting dari identitas budaya dan pariwisata Indonesia.</p>",
+          source: "Kementerian Pertanian RI",
+          sourceUrl: "https://www.pertanian.go.id/",
+          sourceSnippet: "Kementerian Pertanian RI — Industri Kopi Indonesia",
+          source2: "International Coffee Organization",
+          sourceUrl2: "https://www.ico.org/",
+          sourceSnippet2: "International Coffee Organization — Indonesia coffee profile",
+          source3: "Encyclopaedia Britannica",
+          sourceUrl3: "https://www.britannica.com/topic/Culture-System",
+          sourceSnippet3: "Encyclopaedia Britannica — Cultuurstelsel coffee production"
+        },
+        en: {
+          title: "The History of Indonesian Coffee: From Forced Cultivation to World Specialty Coffee",
+          desc: "Coffee introduced by the Dutch in the 17th century became the most important commodity in Indonesia's economic history, from the forced cultivation system to the specialty coffee era that made Indonesia's name famous worldwide.",
+          content: "<p class=\"mb-4\">Coffee plants were first introduced to Indonesia by the VOC in the 17th century, with Arabica coffee seeds brought from Malabar, India, and planted in the Batavia area around 1696 by VOC commander Joannes van Opdam, making Indonesia one of the first countries outside the Arabian Peninsula to commercially cultivate coffee.</p><p class=\"mb-4\">During the Cultivation System (Cultuurstelsel) introduced in 1830, coffee became one of the most profitable mandatory export commodities for the Dutch, with Javanese farmers forced to grow coffee on designated lands, generating enormous profits for the Dutch state treasury but causing extraordinary suffering for farmers including famine in various regions.</p><p class=\"mb-4\">Coffee leaf rust disease (Hemileia vastatrix) spreading in the late 19th century destroyed Arabica coffee plantations throughout Java and Sumatra, forcing the Dutch to replace them with Robusta coffee that was more disease-resistant, a change that permanently altered Indonesia's coffee map with Robusta dominating production to this day.</p><p class=\"mb-4\">Indonesia is currently one of the world's largest coffee producers, with coffee from various regions such as Gayo from Aceh, Mandailing from North Sumatra, Toraja from South Sulawesi, Kintamani from Bali, and Java Preanger from West Java becoming internationally recognized specialty coffee names with unique and distinctive flavor profiles of each.</p><p class=\"mb-4\">Indonesia's coffee industry has also undergone major transformation in recent decades with the emergence of thousands of specialty coffee shops throughout Indonesia, continuously increasing specialty coffee exports, and international recognition of Indonesian coffee as one of the best coffees in the world, making coffee not just an economic commodity but an important part of Indonesia's cultural identity and tourism.</p>",
+          source: "Ministry of Agriculture of Indonesia",
+          sourceUrl: "https://www.pertanian.go.id/",
+          sourceSnippet: "Ministry of Agriculture of Indonesia — Indonesian Coffee Industry",
+          source2: "International Coffee Organization",
+          sourceUrl2: "https://www.ico.org/",
+          sourceSnippet2: "International Coffee Organization — Indonesia coffee profile",
+          source3: "Encyclopaedia Britannica",
+          sourceUrl3: "https://www.britannica.com/topic/Culture-System",
+          sourceSnippet3: "Encyclopaedia Britannica — Cultuurstelsel coffee production"
+        },
+        ja: {
+          title: "インドネシアのコーヒー史：強制栽培から世界のスペシャルティコーヒーへ",
+          desc: "17世紀にオランダによって導入されたコーヒーはインドネシア経済史で最も重要な商品となり、強制栽培制度からインドネシアの名を世界に知らしめるスペシャルティコーヒーの時代へと発展した。",
+          content: "<p class=\"mb-4\">コーヒー植物は17世紀にVOCによってインドネシアに初めて導入され、アラビカコーヒーの種子がインドのマラバールから持ち込まれ、1696年頃にVOC司令官ヨハネス・ファン・オプダムによってバタビア地域に植えられ、インドネシアはアラビア半島以外で商業的にコーヒーを栽培した最初の国の一つとなりました。</p><p class=\"mb-4\">1830年に導入された強制栽培制度（カルチュールステルセル）の時代、コーヒーはオランダにとって最も収益性の高い義務的輸出商品の一つとなり、ジャワの農民は指定された土地にコーヒーを植えることを強制され、オランダ国庫に莫大な利益をもたらしたが、各地で飢饉を含む農民への甚大な苦しみを引き起こしました。</p>",
+          source: "インドネシア農業省",
+          sourceUrl: "https://www.pertanian.go.id/",
+          sourceSnippet: "農業省 — インドネシアのコーヒー産業",
+          source2: "International Coffee Organization",
+          sourceUrl2: "https://www.ico.org/",
+          sourceSnippet2: "国際コーヒー機関 — インドネシアコーヒープロファイル"
+        },
+        ko: {
+          title: "인도네시아 커피의 역사: 강제 재배에서 세계 스페셜티 커피까지",
+          desc: "17세기 네덜란드에 의해 도입된 커피는 인도네시아 경제 역사에서 가장 중요한 상품이 되었으며, 강제 재배 제도에서 인도네시아의 이름을 세계에 알린 스페셜티 커피 시대로 발전했다.",
+          content: "<p class=\"mb-4\">커피 식물은 17세기 VOC에 의해 인도네시아에 처음 도입되었으며, 아라비카 커피 종자가 인도 말라바르에서 가져와 1696년경 VOC 사령관 요하네스 반 옵담에 의해 바타비아 지역에 심어져 인도네시아가 아라비아 반도 외부에서 상업적으로 커피를 재배한 최초의 국가 중 하나가 되었습니다.</p><p class=\"mb-4\">1830년에 도입된 강제재배제도(쿨투르스텔셀) 시기에 커피는 네덜란드에게 가장 수익성이 높은 의무 수출 상품 중 하나가 되었으며, 자바 농민들은 지정된 토지에 커피를 재배하도록 강요받아 네덜란드 국고에 막대한 이익을 창출했지만 various 지역의 기근을 포함한 농민들에게 엄청난 고통을 초래했습니다.</p><p class=\"mb-4\">19세기 후반에 퍼진 커피잎녹병(Hemileia vastatrix)은 자바와 수마트라 전역의 아라비카 커피 농장을 파괴하여 네덜란드가 질병에 더 강한 로부스타 커피로 대체하도록 강요했으며, 이 변화는 오늘날까지 로부스타가 생산을 주도하는 인도네시아의 커피 지도를 영구적으로 바꾸었습니다.</p><p class=\"mb-4\">인도네시아는 현재 세계 최대 커피 생산국 중 하나이며, 아체의 가요, 북수마트라의 만다일링, 남술라웨시의 토라자, 발리의 킨타마니, 서자와의 자바 프레앙거 같은 various 지역의 커피가 각각 고유하고 독특한 풍미 프로필을 가진 국제적으로 인정받는 스페셜티 커피 이름이 되었습니다.</p>",
+          source: "인도네시아 농림부",
+          sourceUrl: "https://www.pertanian.go.id/",
+          sourceSnippet: "농림부 — 인도네시아 커피 산업",
+          source2: "International Coffee Organization",
+          sourceUrl2: "https://www.ico.org/",
+          sourceSnippet2: "국제커피기구 — 인도네시아 커피 프로필"
+        },
+        zh: {
+          title: "印度尼西亚咖啡历史：从强制种植到世界精品咖啡",
+          desc: "17世纪由荷兰引入的咖啡成为印度尼西亚经济史上最重要的商品，从强制种植制度发展到使印度尼西亚闻名世界的精品咖啡时代。",
+          content: "<p class=\"mb-4\">咖啡植物于17世纪由荷兰东印度公司首次引入印度尼西亚，阿拉比卡咖啡种子从印度马拉巴尔带来，约1696年由荷兰东印度公司指挥官约翰内斯·范·奥普达姆在巴达维亚地区种植，使印度尼西亚成为阿拉伯半岛之外最早商业性种植咖啡的国家之一。</p><p class=\"mb-4\">在1830年引入的强制种植制度时期，咖啡成为荷兰最具盈利性的强制出口商品之一，爪哇农民被迫在指定土地上种植咖啡，为荷兰国库创造了巨大利润，但给农民造成了包括various地区饥荒在内的巨大苦难。</p><p class=\"mb-4\">19世纪后期传播的咖啡叶锈病摧毁了爪哇和苏门答腊各地的阿拉比卡咖啡种植园，迫使荷兰用更抗病的罗布斯塔咖啡替代，这一变化永久性地改变了印度尼西亚的咖啡版图，罗布斯塔至今仍在生产中占主导地位。</p><p class=\"mb-4\">印度尼西亚目前是世界最大的咖啡生产国之一，来自亚齐的加约、北苏门答腊的曼特宁、南苏拉威西的托拉查、巴厘岛的京打马尼和西爪哇的爪哇普拉昂加等various地区的咖啡成为各自具有独特风味特征的国际公认精品咖啡名称。</p>",
+          source: "印度尼西亚农业部",
+          sourceUrl: "https://www.pertanian.go.id/",
+          sourceSnippet: "农业部 — 印度尼西亚咖啡产业",
+          source2: "International Coffee Organization",
+          sourceUrl2: "https://www.ico.org/",
+          sourceSnippet2: "国际咖啡组织 — 印度尼西亚咖啡概况"
+        }
+      }
+    },
+    {
+      id: "indonesia-aksara-prasasti-nusantara",
+      langs: {
+        id: {
+          title: "Aksara dan Prasasti Nusantara: Jejak Literasi Tertua di Indonesia",
+          desc: "Tradisi aksara dan prasasti di Nusantara sudah dimulai sejak abad ke-4 Masehi dengan prasasti Yupa dari Kutai, menjadikan Indonesia salah satu pusat literasi tertua di Asia Tenggara.",
+          content: "<p class=\"mb-4\">Tradisi tulisan di Nusantara dimulai sejak abad ke-4 Masehi dengan ditemukannya prasasti Yupa dari Kerajaan Kutai di Kalimantan Timur yang menggunakan aksara Pallawa dan bahasa Sanskerta, menjadikan prasasti ini sebagai bukti literasi tertua yang ditemukan di Indonesia dan salah satu yang tertua di Asia Tenggara.</p><p class=\"mb-4\">Aksara Pallawa yang berasal dari India Selatan kemudian berkembang menjadi berbagai varian aksara lokal Nusantara termasuk aksara Kawi yang digunakan secara luas di Jawa dan Bali dari abad ke-8 hingga abad ke-15, serta aksara Sunda, aksara Batak, aksara Bugis, dan aksara Jawa yang masing-masing berkembang dengan karakteristik unik sesuai dengan tradisi budaya lokal.</p><p class=\"mb-4\">Prasasti-prasasti peninggalan kerajaan-kerajaan Nusantara seperti prasasti Ciaruteun dari Kerajaan Tarumanegara, prasasti Kalasan dari Mataram Kuno, dan prasasti Kedukan Bukit dari Sriwijaya menyimpan informasi berharga mengenai sistem pemerintahan, keagamaan, ekonomi, dan sosial masyarakat Nusantara pada masa lampau, menjadikannya sumber sejarah primer yang sangat penting.</p><p class=\"mb-4\">Naskah-naskah kuno Nusantara yang ditulis dalam berbagai aksara lokal mencakup ribuan manuskrip yang tersimpan di berbagai perpustakaan dunia, termasuk naskah Negarakertagama, naskah Pararaton, naskah Bujangga Manik, dan La Galigo, yang tidak hanya berisi catatan sejarah tetapi juga karya sastra, religi, medis, dan astronomi yang menunjukkan tingkat literasi dan peradaban yang tinggi di Nusantara pada masa pra-kolonial.</p><p class=\"mb-4\">Upaya pelestarian aksara dan naskah Nusantara terus dilakukan hingga saat ini, dengan UNESCO yang telah mengakui naskah-naskah Indonesia sebagai Memory of the World, serta berbagai institusi seperti Perpustakaan Nasional dan Manuskrip Nusantara yang berupaya mendigitalkan dan mempublikasikan ribuan naskah kuno agar dapat diakses oleh generasi mendatang, menjadikan warisan literasi Nusantara sebagai bagian penting dari identitas budaya Indonesia.</p>",
+          source: "UNESCO Memory of the World",
+          sourceUrl: "https://en.unesco.org/memoryoftheworld",
+          sourceSnippet: "UNESCO Memory of the World — Indonesian manuscripts",
+          source2: "Perpustakaan Nasional RI",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "Perpustakaan Nasional RI — Koleksi Naskah Nusantara",
+          source3: "Kementerian Pendidikan dan Kebudayaan RI",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Kemdikbud — Prasasti Nusantara"
+        },
+        en: {
+          title: "Scripts and Inscriptions of the Archipelago: Oldest Literacy Traces in Indonesia",
+          desc: "The tradition of writing and inscriptions in the archipelago began in the 4th century CE with the Yupa inscriptions from Kutai, making Indonesia one of the oldest centers of literacy in Southeast Asia.",
+          content: "<p class=\"mb-4\">The writing tradition in the archipelago began in the 4th century CE with the discovery of the Yupa inscriptions from the Kutai Kingdom in East Kalimantan using Pallava script and Sanskrit language, making these inscriptions the oldest literacy evidence found in Indonesia and one of the oldest in Southeast Asia.</p><p class=\"mb-4\">Pallava script originating from South India later developed into various local script variants of the archipelago including the Kawi script widely used in Java and Bali from the 8th to 15th centuries, as well as Sundanese script, Batak script, Bugis script, and Javanese script, each developing with unique characteristics according to local cultural traditions.</p><p class=\"mb-4\">Inscriptions left by archipelago kingdoms such as the Ciaruteun inscription from the Tarumanegara Kingdom, the Kalasan inscription from Ancient Mataram, and the Kedukan Bukit inscription from Srivijaya contain valuable information about governance systems, religion, economy, and social structures of archipelago societies in the past, making them crucial primary historical sources.</p><p class=\"mb-4\">Ancient archipelago manuscripts written in various local scripts cover thousands of manuscripts stored in world libraries, including the Negarakertagama, Pararaton, Bujangga Manik, and La Galigo manuscripts, which contain not only historical records but also literary, religious, medical, and astronomical works showing high levels of literacy and civilization in the pre-colonial archipelago.</p><p class=\"mb-4\">Efforts to preserve archipelago scripts and manuscripts continue to this day, with UNESCO having recognized Indonesian manuscripts as Memory of the World, and various institutions such as the National Library and Nusantara Manuscript working to digitize and publish thousands of ancient manuscripts for future generations' access, making the archipelago's literacy heritage an important part of Indonesian cultural identity.</p>",
+          source: "UNESCO Memory of the World",
+          sourceUrl: "https://en.unesco.org/memoryoftheworld",
+          sourceSnippet: "UNESCO Memory of the World — Indonesian manuscripts",
+          source2: "National Library of Indonesia",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "National Library of Indonesia — Nusantara Manuscript Collection",
+          source3: "Ministry of Education and Culture of Indonesia",
+          sourceUrl3: "https://cagarbudaya.kemdikbud.go.id/",
+          sourceSnippet3: "Kemdikbud — Nusantara Inscriptions"
+        },
+        ja: {
+          title: "群島の文字と碑文：インドネシア最古の識字の痕跡",
+          desc: "群島の文字と碑文の伝統は4世紀のクタイのユパ碑文から始まり、インドネシアを東南アジアで最も古い識字の中心地の一つとした。",
+          content: "<p class=\"mb-4\">群島の文字の伝統は4世紀に東カリマンタンのクタイ王国のユパ碑文がパッラヴァ文字とサンスクリット語を使用して発見されたことで始まり、この碑文はインドネシアで発見された最古の識字の証拠であり、東南アジアで最も古いものの一つとなっています。</p><p class=\"mb-4\">南インド起源のパッラヴァ文字はその後、8世紀から15世紀までジャワとバリで広く使用されたカウィ文字を含む群島の様々な現地文字バリアントに発展し、スンダ文字、バタク文字、ブギス文字、ジャワ文字がそれぞれ地元の文化的伝統に応じて独自の特徴を持って発展しました。</p>",
+          source: "UNESCO Memory of the World",
+          sourceUrl: "https://en.unesco.org/memoryoftheworld",
+          sourceSnippet: "ユネスコ記憶遺産 — インドネシアの写本",
+          source2: "インドネシア国立図書館",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "インドネシア国立図書館 — 群島写本コレクション"
+        },
+        ko: {
+          title: "군도의 문자와 비문: 인도네시아 최고(最古)의 식자 흔적",
+          desc: "군도의 문자와 비문 전통은 4세기 쿠타이의 유파 비문으로 시작되었으며, 인도네시아를 동남아시아에서 가장 오래된 식자 중심지 중 하나로 만들었다.",
+          content: "<p class=\"mb-4\">군도의 문자 전통은 4세기 동칼리만탄의 쿠타이 왕국에서 팔라바 문자와 산스크리트어를 사용한 유파 비문의 발견으로 시작되었으며, 이 비문은 인도네시아에서 발견된 가장 오래된 식자 증거이자 동남아시아에서 가장 오래된 것 중 하나입니다.</p><p class=\"mb-4\">남인도 기원의 팔라바 문자는 이후 8세기부터 15세기까지 자바와 발리에서 널리 사용된 카위 문자를 포함한 군도의 various 현지 문자 변형으로 발전했으며, 순다 문자, 바탁 문자, 부기스 문자, 자바 문자가 각각 지역 문화 전통에 따라 고유한 특성을 가지고 발전했습니다.</p><p class=\"mb-4\">타루마네가라 왕국의 치아루테운 비문, 고대 마타람의 칼라산 비문, 스리위자야의 케두칸 부킷 비문과 같은 군도 왕국들이 남긴 비문들은 과거 군도 사회의 통치 체제, 종교, 경제, 사회 구조에 대한 귀중한 정보를 담고 있어 중요한 1차 역사 자료가 됩니다.</p><p class=\"mb-4\">various 현지 문자로 쓰인 고대 군도 필사본은 세계 도서관에 보관된 수천 권의 필사본을 포함하며, 나가라케르타가마, 파라라톤, 부장가 마니크, 라 갈리고 필사본을 포함하여 역사 기록뿐만 아니라 문학, 종교, 의학, 천문학 작품을 담고 있어 식민 이전 군도의 높은 식자 수준과 문명을 보여줍니다.</p>",
+          source: "UNESCO 기억유산",
+          sourceUrl: "https://en.unesco.org/memoryoftheworld",
+          sourceSnippet: "유네스코 기억유산 — 인도네시아 필사본",
+          source2: "인도네시아 국립도서관",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "인도네시아 국립도서관 — 군도 필사본 컬렉션"
+        },
+        zh: {
+          title: "群岛的文字与碑铭：印度尼西亚最古老的识字痕迹",
+          desc: "群岛的文字和碑铭传统始于4世纪古戴的尤帕碑铭，使印度尼西亚成为东南亚最古老的识字中心之一。",
+          content: "<p class=\"mb-4\">群岛的文字传统始于4世纪在东加里曼丹古戴王国发现的使用帕拉瓦文字和梵语的尤帕碑铭，使这些碑铭成为印度尼西亚发现的最古老的识字证据，也是东南亚最古老的之一。</p><p class=\"mb-4\">源自南印度的帕拉瓦文字后来发展为群岛的各种当地文字变体，包括8至15世纪在爪哇和巴厘广泛使用的卡威文字，以及巽他文字、巴塔克文字、布吉斯文字和爪哇文字，各自根据当地文化传统发展出独特特征。</p><p class=\"mb-4\">塔鲁玛纳加拉王国的齐亚鲁顿碑铭、古马打兰的卡拉桑碑铭和室利佛逝的格杜干布吉碑铭等群岛王国留下的碑铭包含了关于过去群岛社会的治理体系、宗教、经济和社会结构的宝贵信息，使其成为重要的原始历史资料。</p><p class=\"mb-4\">用各种当地文字书写的古代群岛手稿涵盖保存在世界各图书馆中的数千份手稿，包括《纳加拉克尔塔加玛》、《巴拉拉敦》、《布姜加·马尼克》和《拉·伽利戈》手稿，这些不仅包含历史记录，还包含文学、宗教、医学和天文学著作，展示了殖民前群岛的高水平识字率和文明。</p>",
+          source: "联合国教科文组织世界记忆",
+          sourceUrl: "https://en.unesco.org/memoryoftheworld",
+          sourceSnippet: "联合国教科文组织世界记忆 — 印度尼西亚手稿",
+          source2: "印度尼西亚国家图书馆",
+          sourceUrl2: "https://www.perpusnas.go.id/",
+          sourceSnippet2: "印度尼西亚国家图书馆 — 群岛手稿收藏"
+        }
+      }
+    }
+
     ]
 };

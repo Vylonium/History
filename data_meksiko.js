@@ -468,6 +468,533 @@ window.countryDataFiles['meksiko'] = {
           sourceSnippet2: "BBC News — 墨西哥城1985年地震回顾"
         }
       }
+    },
+
+  {
+    "id": "meksiko-peradaban-maya-yucatan",
+    "langs": {
+      "id": {
+        "title": "Peradaban Maya di Yucatán",
+        "desc": "Bangsa Maya membangun kota-negara dengan tulisan dan astronomi.",
+        "content": "<p class=\"mb-4\">Peradaban Maya berkembang di Meksiko tenggara, Guatemala, Belize, dan Honduras. Dunia Maya terdiri dari banyak kota-negara seperti Tikal, Calakmul, Palenque, Uxmal, dan Chichén Itzá, bukan satu kerajaan tunggal.</p><p class=\"mb-4\">Bangsa Maya mengembangkan tulisan hieroglif, kalender 260 dan 365 hari, serta astronomi yang teliti. Mereka menggunakan konsep nol dan membangun kuil serta piramida tanpa teknologi logam modern.</p><p class=\"mb-4\">Banyak kota dataran rendah merosot pada abad kedelapan hingga kesepuluh akibat gabungan perang, kekeringan, tekanan lingkungan, dan konflik politik. Budaya Maya tidak hilang; jutaan orang Maya masih hidup dan mempertahankan bahasa serta tradisinya.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/topic/Maya-people",
+        "sourceSnippet": "Britannica — Maya",
+        "source2": "UNESCO World Heritage",
+        "sourceUrl2": "https://whc.unesco.org/en/list/483/",
+        "sourceSnippet2": "UNESCO — Chichén Itzá",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Maya_Civilization/",
+        "sourceSnippet3": "World History Encyclopedia — Maya"
+      },
+      "en": {
+        "title": "The Maya Civilization in Yucatán",
+        "desc": "The Maya built city-states with writing and astronomy.",
+        "content": "<p class=\"mb-4\">The Maya civilization developed across southeastern Mexico, Guatemala, Belize, and Honduras. Its world consisted of city-states such as Tikal, Calakmul, Palenque, Uxmal, and Chichén Itzá rather than one kingdom.</p><p class=\"mb-4\">The Maya developed hieroglyphic writing, 260-day and 365-day calendars, and precise astronomy. They used zero and built temples and pyramids without modern metal technology.</p><p class=\"mb-4\">Many lowland cities declined between the eighth and tenth centuries through warfare, drought, environmental pressure, and political conflict. Maya culture survived; millions still maintain their languages and traditions.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/topic/Maya-people",
+        "sourceSnippet": "Britannica — Maya",
+        "source2": "UNESCO World Heritage",
+        "sourceUrl2": "https://whc.unesco.org/en/list/483/",
+        "sourceSnippet2": "UNESCO — Chichén Itzá",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Maya_Civilization/",
+        "sourceSnippet3": "World History Encyclopedia — Maya"
+      },
+      "ja": {
+        "title": "ユカタンのマヤ文明",
+        "desc": "マヤ人は文字と天文学を持つ都市国家を築いた。",
+        "content": "<p class=\"mb-4\">マヤ文明はメキシコ南東部などに発展し、ティカルやパレンケなどの都市国家で構成されました。</p><p class=\"mb-4\">象形文字、260日と365日の暦、精密な天文学を発展させ、ゼロを使い巨大な神殿を建設しました。</p><p class=\"mb-4\">多くの都市は戦争、干ばつ、環境圧力で衰退しましたが、マヤ文化は消えず、現在も数百万人が伝統を守っています。</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/topic/Maya-people",
+        "sourceSnippet": "Britannica — Maya",
+        "source2": "UNESCO World Heritage",
+        "sourceUrl2": "https://whc.unesco.org/en/list/483/",
+        "sourceSnippet2": "UNESCO — Chichén Itzá",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Maya_Civilization/",
+        "sourceSnippet3": "World History Encyclopedia — Maya"
+      },
+      "ko": {
+        "title": "유카탄의 마야 문명",
+        "desc": "마야인은 문자와 천문학을 가진 도시국가를 건설했다.",
+        "content": "<p class=\"mb-4\">마야 문명은 멕시코 남동부 등에 발전했고 티칼과 팔렝케 같은 도시국가로 구성되었습니다.</p><p class=\"mb-4\">상형문자, 260일·365일 달력, 정밀한 천문학을 발전시켰고 0을 사용해 거대한 사원을 지었습니다.</p><p class=\"mb-4\">많은 도시는 전쟁과 가뭄으로 쇠퇴했지만 마야 문화는 사라지지 않았고 수백만 명이 전통을 지킵니다.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/topic/Maya-people",
+        "sourceSnippet": "Britannica — Maya",
+        "source2": "UNESCO World Heritage",
+        "sourceUrl2": "https://whc.unesco.org/en/list/483/",
+        "sourceSnippet2": "UNESCO — Chichén Itzá",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Maya_Civilization/",
+        "sourceSnippet3": "World History Encyclopedia — Maya"
+      },
+      "zh": {
+        "title": "尤卡坦的玛雅文明",
+        "desc": "玛雅人建立了拥有文字和天文学的城邦。",
+        "content": "<p class=\"mb-4\">玛雅文明发展于墨西哥东南部等地，由蒂卡尔和帕伦克等城邦组成。</p><p class=\"mb-4\">玛雅人发展象形文字、260天和365天历法及精确天文学，并使用零建造神庙。</p><p class=\"mb-4\">许多城市因战争和干旱衰落，但玛雅文化没有消失，如今仍有数百万人延续传统。</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/topic/Maya-people",
+        "sourceSnippet": "Britannica — Maya",
+        "source2": "UNESCO World Heritage",
+        "sourceUrl2": "https://whc.unesco.org/en/list/483/",
+        "sourceSnippet2": "UNESCO — Chichén Itzá",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Maya_Civilization/",
+        "sourceSnippet3": "World History Encyclopedia — Maya"
+      }
     }
+  },
+  {
+    "id": "meksiko-penaklukan-spanyol-1519-1521",
+    "langs": {
+      "id": {
+        "title": "Penaklukan Spanyol atas Aztek",
+        "desc": "Cortés dan aliansi pribumi merebut Tenochtitlan.",
+        "content": "<p class=\"mb-4\">Hernán Cortés mendarat pada 1519 dan membentuk aliansi dengan kelompok yang menentang dominasi Mexica. Malintzin membantu komunikasi dan diplomasi.</p><p class=\"mb-4\">Setelah memasuki Tenochtitlan, konflik dan pengepungan berakhir dengan jatuhnya kota pada Agustus 1521. Senjata Spanyol berpengaruh, tetapi jumlah sekutu pribumi sangat menentukan.</p><p class=\"mb-4\">Cacar yang dibawa dari Eropa menghancurkan populasi tanpa kekebalan. Spanyol lalu membangun Nueva España dan mengubah agama, ekonomi, bahasa, serta demografi wilayah.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Spanish-conquest",
+        "sourceSnippet": "Britannica — Spanish Conquest",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Spanish_Conquest_of_the_Aztec_Empire/",
+        "sourceSnippet3": "WHE — Aztec Conquest"
+      },
+      "en": {
+        "title": "Spanish Conquest of the Aztec Empire",
+        "desc": "Cortés and Indigenous allies captured Tenochtitlan.",
+        "content": "<p class=\"mb-4\">Hernán Cortés landed in 1519 and allied with groups opposing Mexica rule. Malintzin was crucial to communication and diplomacy.</p><p class=\"mb-4\">After entering Tenochtitlan, conflict and siege ended with the city's fall in August 1521. Spanish weapons mattered, but Indigenous allies were decisive.</p><p class=\"mb-4\">Smallpox from Europe devastated people without immunity. Spain then built New Spain, transforming religion, economy, language, and demographics.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Spanish-conquest",
+        "sourceSnippet": "Britannica — Spanish Conquest",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Spanish_Conquest_of_the_Aztec_Empire/",
+        "sourceSnippet3": "WHE — Aztec Conquest"
+      },
+      "ja": {
+        "title": "スペインによるアステカ征服",
+        "desc": "コルテスと先住民同盟がテノチティトランを占領した。",
+        "content": "<p class=\"mb-4\">コルテスは1519年に上陸し、メシカ支配に反対する勢力と同盟しました。マリンチェが外交を支えました。</p><p class=\"mb-4\">1521年8月、戦闘と包囲の末にテノチティトランは陥落しました。先住民同盟が決定的でした。</p><p class=\"mb-4\">欧州の天然痘が免疫のない住民を襲い、スペインはヌエバ・エスパーニャを築きました。</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Spanish-conquest",
+        "sourceSnippet": "Britannica — Spanish Conquest",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Spanish_Conquest_of_the_Aztec_Empire/",
+        "sourceSnippet3": "WHE — Aztec Conquest"
+      },
+      "ko": {
+        "title": "스페인의 아즈텍 정복",
+        "desc": "코르테스와 원주민 동맹이 테노치티틀란을 점령했다.",
+        "content": "<p class=\"mb-4\">코르테스는 1519년 상륙해 메히카 지배에 반대하는 세력과 동맹했습니다. 말린체가 외교를 도왔습니다.</p><p class=\"mb-4\">1521년 8월 전투와 포위 끝에 테노치티틀란이 함락되었습니다. 원주민 동맹이 결정적이었습니다.</p><p class=\"mb-4\">유럽의 천연두가 면역 없는 주민을 공격했고 스페인은 누에바에스파냐를 세웠습니다.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Spanish-conquest",
+        "sourceSnippet": "Britannica — Spanish Conquest",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Spanish_Conquest_of_the_Aztec_Empire/",
+        "sourceSnippet3": "WHE — Aztec Conquest"
+      },
+      "zh": {
+        "title": "西班牙征服阿兹特克",
+        "desc": "科尔特斯与原住民盟友占领了特诺奇蒂特兰。",
+        "content": "<p class=\"mb-4\">科尔特斯于1519年登陆并与反对墨西加统治的群体结盟，马林切协助外交。</p><p class=\"mb-4\">1521年8月，特诺奇蒂特兰在战斗和围城后陷落，原住民联盟发挥决定作用。</p><p class=\"mb-4\">欧洲天花摧毁了没有免疫力的人口，西班牙建立了新西班牙。</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Spanish-conquest",
+        "sourceSnippet": "Britannica — Spanish Conquest",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "World History Encyclopedia",
+        "sourceUrl3": "https://www.worldhistory.org/Spanish_Conquest_of_the_Aztec_Empire/",
+        "sourceSnippet3": "WHE — Aztec Conquest"
+      }
+    }
+  },
+  {
+    "id": "meksiko-kemerdekaan-1810-1821",
+    "langs": {
+      "id": {
+        "title": "Perang Kemerdekaan Meksiko",
+        "desc": "Perjuangan sebelas tahun mengakhiri kekuasaan Spanyol.",
+        "content": "<p class=\"mb-4\">Pada 16 September 1810, Miguel Hidalgo menyerukan Grito de Dolores dengan latar ketidaksetaraan dan krisis monarki Spanyol.</p><p class=\"mb-4\">Hidalgo dieksekusi pada 1811, tetapi José María Morelos melanjutkan gerakan. Setelah Morelos dihukum mati pada 1815, gerilya bertahan di berbagai daerah.</p><p class=\"mb-4\">Pada 1821, Iturbide dan Guerrero menyepakati Plan de Iguala. Tentara Trigarante memasuki Mexico City dan mengakhiri pemerintahan kolonial.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-War-of-Independence",
+        "sourceSnippet": "Britannica — Independence",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "Encyclopedia.com",
+        "sourceUrl3": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mexican-independence",
+        "sourceSnippet3": "Encyclopedia.com — Independence"
+      },
+      "en": {
+        "title": "Mexican War of Independence",
+        "desc": "An eleven-year struggle ended Spanish rule.",
+        "content": "<p class=\"mb-4\">On September 16, 1810, Miguel Hidalgo issued the Grito de Dolores amid inequality and a Spanish monarchy crisis.</p><p class=\"mb-4\">Hidalgo was executed in 1811, but José María Morelos continued the movement. After Morelos was executed in 1815, guerrilla resistance survived.</p><p class=\"mb-4\">In 1821, Iturbide and Guerrero agreed on the Plan of Iguala. The Trigarante Army entered Mexico City and ended colonial rule.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-War-of-Independence",
+        "sourceSnippet": "Britannica — Independence",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "Encyclopedia.com",
+        "sourceUrl3": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mexican-independence",
+        "sourceSnippet3": "Encyclopedia.com — Independence"
+      },
+      "ja": {
+        "title": "メキシコ独立戦争",
+        "desc": "11年の闘争がスペイン支配を終わらせた。",
+        "content": "<p class=\"mb-4\">1810年9月16日、イダルゴが不平等とスペイン王政危機を背景にドロレスの叫びを発しました。</p><p class=\"mb-4\">イダルゴは1811年に処刑されましたが、モレロスが運動を続け、各地でゲリラが抵抗しました。</p><p class=\"mb-4\">1821年、イトゥルビデとゲレロがイグアラ綱領に合意し植民地支配を終えました。</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-War-of-Independence",
+        "sourceSnippet": "Britannica — Independence",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "Encyclopedia.com",
+        "sourceUrl3": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mexican-independence",
+        "sourceSnippet3": "Encyclopedia.com — Independence"
+      },
+      "ko": {
+        "title": "멕시코 독립 전쟁",
+        "desc": "11년 투쟁이 스페인 지배를 끝냈다.",
+        "content": "<p class=\"mb-4\">1810년 9월 16일 이달고가 불평등과 스페인 왕정 위기 속에서 돌로레스의 외침을 발표했습니다.</p><p class=\"mb-4\">이달고는 1811년 처형됐지만 모렐로스가 운동을 이어갔고 게릴라 저항이 남았습니다.</p><p class=\"mb-4\">1821년 이투르비데와 게레로가 이괄라 계획에 합의해 식민 지배를 끝냈습니다.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-War-of-Independence",
+        "sourceSnippet": "Britannica — Independence",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "Encyclopedia.com",
+        "sourceUrl3": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mexican-independence",
+        "sourceSnippet3": "Encyclopedia.com — Independence"
+      },
+      "zh": {
+        "title": "墨西哥独立战争",
+        "desc": "十一年的斗争结束了西班牙统治。",
+        "content": "<p class=\"mb-4\">1810年9月16日，伊达尔戈在不平等和西班牙王室危机背景下发出多洛雷斯呼声。</p><p class=\"mb-4\">伊达尔戈于1811年被处决，莫雷洛斯继续运动，游击抵抗延续。</p><p class=\"mb-4\">1821年伊图尔维德和格雷罗达成伊瓜拉计划，结束殖民统治。</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-War-of-Independence",
+        "sourceSnippet": "Britannica — Independence",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet2": "Library of Congress — Mexico",
+        "source3": "Encyclopedia.com",
+        "sourceUrl3": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mexican-independence",
+        "sourceSnippet3": "Encyclopedia.com — Independence"
+      }
+    }
+  },
+  {
+    "id": "meksiko-perang-reformasi-1857-1861",
+    "langs": {
+      "id": {
+        "title": "Perang Reformasi Meksiko",
+        "desc": "Konflik liberal-konservatif membentuk negara sekuler.",
+        "content": "<p class=\"mb-4\">Konstitusi 1857 menjamin kebebasan beragama dan membatasi hak istimewa gereja serta militer. Kaum konservatif menolak perubahan.</p><p class=\"mb-4\">Benito Juárez menjalankan Laws of Reform, termasuk penyitaan properti gereja dan penghapusan yurisdiksi khusus. Perang berlangsung 1858-1861.</p><p class=\"mb-4\">Setelah liberal menang, krisis utang memicu intervensi Prancis dan Kekaisaran Meksiko Kedua. Republik dipulihkan Juárez pada 1867.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/War-of-the-Reform",
+        "sourceSnippet": "Britannica — War of Reform",
+        "source2": "Britannica",
+        "sourceUrl2": "https://www.britannica.com/biography/Benito-Juarez",
+        "sourceSnippet2": "Britannica — Benito Juárez",
+        "source3": "Library of Congress",
+        "sourceUrl3": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet3": "Library of Congress — Mexico"
+      },
+      "en": {
+        "title": "Mexican Reform War",
+        "desc": "Liberal-conservative conflict shaped a secular state.",
+        "content": "<p class=\"mb-4\">The 1857 Constitution guaranteed religious freedom and limited church and military privileges. Conservatives rejected the changes.</p><p class=\"mb-4\">Benito Juárez implemented the Reform Laws, including church property confiscation and ending special jurisdiction. War lasted 1858-1861.</p><p class=\"mb-4\">After the liberal victory, debt crisis led to French intervention and the Second Mexican Empire. Juárez restored the republic in 1867.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/War-of-the-Reform",
+        "sourceSnippet": "Britannica — War of Reform",
+        "source2": "Britannica",
+        "sourceUrl2": "https://www.britannica.com/biography/Benito-Juarez",
+        "sourceSnippet2": "Britannica — Benito Juárez",
+        "source3": "Library of Congress",
+        "sourceUrl3": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet3": "Library of Congress — Mexico"
+      },
+      "ja": {
+        "title": "メキシコ改革戦争",
+        "desc": "自由派と保守派の対立が世俗国家を形作った。",
+        "content": "<p class=\"mb-4\">1857年憲法は信教の自由を保障し、教会と軍の特権を制限しました。保守派は反発しました。</p><p class=\"mb-4\">フアレスは教会財産の没収など改革法を実施し、戦争は1858～1861年に続きました。</p><p class=\"mb-4\">債務危機でフランスが介入しましたが、フアレスは1867年に共和国を復活させました。</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/War-of-the-Reform",
+        "sourceSnippet": "Britannica — War of Reform",
+        "source2": "Britannica",
+        "sourceUrl2": "https://www.britannica.com/biography/Benito-Juarez",
+        "sourceSnippet2": "Britannica — Benito Juárez",
+        "source3": "Library of Congress",
+        "sourceUrl3": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet3": "Library of Congress — Mexico"
+      },
+      "ko": {
+        "title": "멕시코 개혁 전쟁",
+        "desc": "자유파와 보수파의 충돌이 세속 국가를 만들었다.",
+        "content": "<p class=\"mb-4\">1857년 헌법은 종교 자유를 보장하고 교회와 군 특권을 제한했습니다. 보수파가 반발했습니다.</p><p class=\"mb-4\">후아레스는 교회 재산 몰수 등을 시행했고 전쟁은 1858~1861년 지속됐습니다.</p><p class=\"mb-4\">부채 위기로 프랑스가 개입했지만 후아레스는 1867년 공화국을 회복했습니다.</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/War-of-the-Reform",
+        "sourceSnippet": "Britannica — War of Reform",
+        "source2": "Britannica",
+        "sourceUrl2": "https://www.britannica.com/biography/Benito-Juarez",
+        "sourceSnippet2": "Britannica — Benito Juárez",
+        "source3": "Library of Congress",
+        "sourceUrl3": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet3": "Library of Congress — Mexico"
+      },
+      "zh": {
+        "title": "墨西哥改革战争",
+        "desc": "自由派与保守派冲突塑造了世俗国家。",
+        "content": "<p class=\"mb-4\">1857年宪法保障宗教自由并限制教会和军队特权，保守派反对改革。</p><p class=\"mb-4\">华雷斯实施改革法，战争于1858至1861年持续。</p><p class=\"mb-4\">债务危机引发法国干预，但华雷斯于1867年恢复共和国。</p>",
+        "source": "Britannica",
+        "sourceUrl": "https://www.britannica.com/event/War-of-the-Reform",
+        "sourceSnippet": "Britannica — War of Reform",
+        "source2": "Britannica",
+        "sourceUrl2": "https://www.britannica.com/biography/Benito-Juarez",
+        "sourceSnippet2": "Britannica — Benito Juárez",
+        "source3": "Library of Congress",
+        "sourceUrl3": "https://www.loc.gov/item/2021669758/",
+        "sourceSnippet3": "Library of Congress — Mexico"
+      }
+    }
+  },
+  {
+    "id": "meksiko-porfiriato-1876-1911",
+    "langs": {
+      "id": {
+        "title": "Porfiriato: Modernisasi dan Ketimpangan",
+        "desc": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "content": "<p class=\"mb-4\">Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai. merupakan bagian penting dari sejarah modern Meksiko pada periode 1876–1911. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/biography/Porfirio-Diaz",
+        "sourceSnippet": "Britannica — Porfiriato: Modernisasi dan Ketimpangan",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "en": {
+        "title": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "desc": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "content": "<p class=\"mb-4\">Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai. merupakan bagian penting dari sejarah modern Meksiko pada periode 1876–1911. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/biography/Porfirio-Diaz",
+        "sourceSnippet": "Britannica — Porfiriato: Modernisasi dan Ketimpangan",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "ja": {
+        "title": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "desc": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "content": "<p class=\"mb-4\">Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai. merupakan bagian penting dari sejarah modern Meksiko pada periode 1876–1911. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/biography/Porfirio-Diaz",
+        "sourceSnippet": "Britannica — Porfiriato: Modernisasi dan Ketimpangan",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "ko": {
+        "title": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "desc": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "content": "<p class=\"mb-4\">Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai. merupakan bagian penting dari sejarah modern Meksiko pada periode 1876–1911. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/biography/Porfirio-Diaz",
+        "sourceSnippet": "Britannica — Porfiriato: Modernisasi dan Ketimpangan",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "zh": {
+        "title": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "desc": "Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai.",
+        "content": "<p class=\"mb-4\">Porfirio Díaz memperluas kereta api, tambang, investasi asing, dan telegraf, tetapi konsentrasi tanah, upah rendah, dan represi memicu penentangan. Francisco Madero menantang Díaz pada 1910; Díaz mundur pada 1911 dan Revolusi Meksiko dimulai. merupakan bagian penting dari sejarah modern Meksiko pada periode 1876–1911. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/biography/Porfirio-Diaz",
+        "sourceSnippet": "Britannica — Porfiriato: Modernisasi dan Ketimpangan",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      }
+    }
+  },
+  {
+    "id": "meksiko-revolusi-konstitusi-1910-1917",
+    "langs": {
+      "id": {
+        "title": "Revolusi Meksiko dan Konstitusi 1917",
+        "desc": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "content": "<p class=\"mb-4\">Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja. merupakan bagian penting dari sejarah modern Meksiko pada periode 1910–1917. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-Revolution",
+        "sourceSnippet": "Britannica — Revolusi Meksiko dan Konstitusi 1917",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "en": {
+        "title": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "desc": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "content": "<p class=\"mb-4\">Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja. merupakan bagian penting dari sejarah modern Meksiko pada periode 1910–1917. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-Revolution",
+        "sourceSnippet": "Britannica — Revolusi Meksiko dan Konstitusi 1917",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "ja": {
+        "title": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "desc": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "content": "<p class=\"mb-4\">Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja. merupakan bagian penting dari sejarah modern Meksiko pada periode 1910–1917. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-Revolution",
+        "sourceSnippet": "Britannica — Revolusi Meksiko dan Konstitusi 1917",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "ko": {
+        "title": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "desc": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "content": "<p class=\"mb-4\">Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja. merupakan bagian penting dari sejarah modern Meksiko pada periode 1910–1917. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-Revolution",
+        "sourceSnippet": "Britannica — Revolusi Meksiko dan Konstitusi 1917",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "zh": {
+        "title": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "desc": "Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja.",
+        "content": "<p class=\"mb-4\">Revolusi dimulai dari seruan Madero melawan pemilihan ulang Díaz. Konflik melibatkan Zapata, Villa, Carranza, dan berbagai tentara regional. Konstitusi 1917 menjamin reforma agraria, hak buruh, dan pembatasan gereja. merupakan bagian penting dari sejarah modern Meksiko pada periode 1910–1917. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexican-Revolution",
+        "sourceSnippet": "Britannica — Revolusi Meksiko dan Konstitusi 1917",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      }
+    }
+  },
+  {
+    "id": "meksiko-pemilu-1968-tlatelolco",
+    "langs": {
+      "id": {
+        "title": "Olimpiade 1968 dan Tragedi Tlatelolco",
+        "desc": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "content": "<p class=\"mb-4\">Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks. merupakan bagian penting dari sejarah modern Meksiko pada periode 1968. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexico-City-1968-Olympic-Games",
+        "sourceSnippet": "Britannica — Olimpiade 1968 dan Tragedi Tlatelolco",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "en": {
+        "title": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "desc": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "content": "<p class=\"mb-4\">Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks. merupakan bagian penting dari sejarah modern Meksiko pada periode 1968. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexico-City-1968-Olympic-Games",
+        "sourceSnippet": "Britannica — Olimpiade 1968 dan Tragedi Tlatelolco",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "ja": {
+        "title": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "desc": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "content": "<p class=\"mb-4\">Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks. merupakan bagian penting dari sejarah modern Meksiko pada periode 1968. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexico-City-1968-Olympic-Games",
+        "sourceSnippet": "Britannica — Olimpiade 1968 dan Tragedi Tlatelolco",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "ko": {
+        "title": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "desc": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "content": "<p class=\"mb-4\">Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks. merupakan bagian penting dari sejarah modern Meksiko pada periode 1968. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexico-City-1968-Olympic-Games",
+        "sourceSnippet": "Britannica — Olimpiade 1968 dan Tragedi Tlatelolco",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      },
+      "zh": {
+        "title": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "desc": "Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks.",
+        "content": "<p class=\"mb-4\">Meksiko menjadi negara Amerika Latin pertama yang menjadi tuan rumah Olimpiade pada 1968. Sepuluh hari sebelum pembukaan, demonstrasi mahasiswa di Tlatelolco dibubarkan aparat dan jumlah korban masih diperdebatkan. Olimpiade tetap berlangsung dan meninggalkan warisan budaya serta politik yang kompleks. merupakan bagian penting dari sejarah modern Meksiko pada periode 1968. Peristiwa ini terjadi dalam konteks perubahan politik, sosial, dan ekonomi yang nyata.</p><p class=\"mb-4\">Dampaknya melampaui lokasi awalnya: keputusan pemerintah, gerakan masyarakat, dan perubahan institusi memengaruhi kehidupan warga selama bertahun-tahun. Sejarawan terus membandingkan sumber resmi, kesaksian, dan data lapangan.</p><p class=\"mb-4\">Warisan peristiwa ini masih terlihat dalam hukum, kebijakan, identitas, atau hubungan ekonomi Meksiko saat ini. Memahaminya membantu menjelaskan mengapa negara tersebut berkembang dengan cara yang khas.</p>",
+        "source": "Encyclopaedia Britannica",
+        "sourceUrl": "https://www.britannica.com/event/Mexico-City-1968-Olympic-Games",
+        "sourceSnippet": "Britannica — Olimpiade 1968 dan Tragedi Tlatelolco",
+        "source2": "Library of Congress",
+        "sourceUrl2": "https://www.loc.gov/collections/",
+        "sourceSnippet2": "Library of Congress — Mexico Collections",
+        "source3": "INEHRM Mexico",
+        "sourceUrl3": "https://www.inehrm.gob.mx/",
+        "sourceSnippet3": "INEHRM — Historical Research"
+      }
+    }
+  }
+
   ]
 };

@@ -1521,5 +1521,530 @@ window.countryDataFiles['meksiko'] = {
         }
       }
     }
+    ,{
+      "id": "meksiko-teotihuacan-kota-para-dewa",
+      "langs": {
+            "id": {
+                  "title": "Teotihuacan: Kota Para Dewa di Lembah Meksiko",
+                  "desc": "Teotihuacan menjadi salah satu kota terbesar di dunia kuno sebelum bangsa Mexica dan meninggalkan piramida monumental.",
+                  "content": "<p class=\"mb-4\">Kota Teotihuacan berkembang di timur laut Lembah Meksiko sejak sekitar 100 SM dan mencapai puncaknya antara 150 dan 450 M. Pada masa kejayaannya, kota ini diperkirakan menampung lebih dari 100.000 penduduk, menjadikannya salah satu pusat urban terbesar di dunia. Nama Teotihuacan berasal dari bahasa Nahuatl dan berarti tempat di mana para dewa diciptakan, meskipun nama asli kota ini belum diketahui.</p> <p class=\"mb-4\">Jalan Orang Mati membentang di pusat kota dan menghubungkan Piramida Matahari, Piramida Bulan, serta kompleks Ciudadela. Piramida Matahari adalah salah satu bangunan terbesar di Mesoamerika, sementara lukisan dinding dan artefak menunjukkan bahwa kota itu memiliki masyarakat multietnis dengan jaringan perdagangan luas. Obsidian, kakao, bulu, dan keramik dari berbagai wilayah ditemukan di situs tersebut.</p> <p class=\"mb-4\">Pengaruh Teotihuacan menyebar ke kota Maya dan wilayah Mesoamerika lain, tetapi kota itu mengalami kemunduran sekitar abad ke-6 dan ditinggalkan. Penyebabnya kemungkinan gabungan perubahan iklim, konflik internal, dan tekanan politik, bukan satu peristiwa tunggal. Para arkeolog masih meneliti kompleks perumahan dan terowongan di bawah piramida untuk memahami bagaimana masyarakatnya diorganisasi.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/414/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Teotihuacan",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Teotihuacan",
+                  "sourceSnippet2": "Britannica — Teotihuacán",
+                  "source3": "INAH Mexico",
+                  "sourceUrl3": "https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan",
+                  "sourceSnippet3": "INAH — Zona Arqueológica de Teotihuacan"
+            },
+            "en": {
+                  "title": "Teotihuacan: Kota Para Dewa di Lembah Meksiko",
+                  "desc": "Teotihuacan menjadi salah satu kota terbesar di dunia kuno sebelum bangsa Mexica dan meninggalkan piramida monumental.",
+                  "content": "<p class=\"mb-4\">Kota Teotihuacan berkembang di timur laut Lembah Meksiko sejak sekitar 100 SM dan mencapai puncaknya antara 150 dan 450 M. Pada masa kejayaannya, kota ini diperkirakan menampung lebih dari 100.000 penduduk, menjadikannya salah satu pusat urban terbesar di dunia. Nama Teotihuacan berasal dari bahasa Nahuatl dan berarti tempat di mana para dewa diciptakan, meskipun nama asli kota ini belum diketahui.</p> <p class=\"mb-4\">Jalan Orang Mati membentang di pusat kota dan menghubungkan Piramida Matahari, Piramida Bulan, serta kompleks Ciudadela. Piramida Matahari adalah salah satu bangunan terbesar di Mesoamerika, sementara lukisan dinding dan artefak menunjukkan bahwa kota itu memiliki masyarakat multietnis dengan jaringan perdagangan luas. Obsidian, kakao, bulu, dan keramik dari berbagai wilayah ditemukan di situs tersebut.</p> <p class=\"mb-4\">Pengaruh Teotihuacan menyebar ke kota Maya dan wilayah Mesoamerika lain, tetapi kota itu mengalami kemunduran sekitar abad ke-6 dan ditinggalkan. Penyebabnya kemungkinan gabungan perubahan iklim, konflik internal, dan tekanan politik, bukan satu peristiwa tunggal. Para arkeolog masih meneliti kompleks perumahan dan terowongan di bawah piramida untuk memahami bagaimana masyarakatnya diorganisasi.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/414/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Teotihuacan",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Teotihuacan",
+                  "sourceSnippet2": "Britannica — Teotihuacán",
+                  "source3": "INAH Mexico",
+                  "sourceUrl3": "https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan",
+                  "sourceSnippet3": "INAH — Zona Arqueológica de Teotihuacan"
+            },
+            "ja": {
+                  "title": "Teotihuacan: Kota Para Dewa di Lembah Meksiko",
+                  "desc": "Teotihuacan menjadi salah satu kota terbesar di dunia kuno sebelum bangsa Mexica dan meninggalkan piramida monumental.",
+                  "content": "<p class=\"mb-4\">Kota Teotihuacan berkembang di timur laut Lembah Meksiko sejak sekitar 100 SM dan mencapai puncaknya antara 150 dan 450 M. Pada masa kejayaannya, kota ini diperkirakan menampung lebih dari 100.000 penduduk, menjadikannya salah satu pusat urban terbesar di dunia. Nama Teotihuacan berasal dari bahasa Nahuatl dan berarti tempat di mana para dewa diciptakan, meskipun nama asli kota ini belum diketahui.</p> <p class=\"mb-4\">Jalan Orang Mati membentang di pusat kota dan menghubungkan Piramida Matahari, Piramida Bulan, serta kompleks Ciudadela. Piramida Matahari adalah salah satu bangunan terbesar di Mesoamerika, sementara lukisan dinding dan artefak menunjukkan bahwa kota itu memiliki masyarakat multietnis dengan jaringan perdagangan luas. Obsidian, kakao, bulu, dan keramik dari berbagai wilayah ditemukan di situs tersebut.</p> <p class=\"mb-4\">Pengaruh Teotihuacan menyebar ke kota Maya dan wilayah Mesoamerika lain, tetapi kota itu mengalami kemunduran sekitar abad ke-6 dan ditinggalkan. Penyebabnya kemungkinan gabungan perubahan iklim, konflik internal, dan tekanan politik, bukan satu peristiwa tunggal. Para arkeolog masih meneliti kompleks perumahan dan terowongan di bawah piramida untuk memahami bagaimana masyarakatnya diorganisasi.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/414/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Teotihuacan",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Teotihuacan",
+                  "sourceSnippet2": "Britannica — Teotihuacán",
+                  "source3": "INAH Mexico",
+                  "sourceUrl3": "https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan",
+                  "sourceSnippet3": "INAH — Zona Arqueológica de Teotihuacan"
+            },
+            "ko": {
+                  "title": "Teotihuacan: Kota Para Dewa di Lembah Meksiko",
+                  "desc": "Teotihuacan menjadi salah satu kota terbesar di dunia kuno sebelum bangsa Mexica dan meninggalkan piramida monumental.",
+                  "content": "<p class=\"mb-4\">Kota Teotihuacan berkembang di timur laut Lembah Meksiko sejak sekitar 100 SM dan mencapai puncaknya antara 150 dan 450 M. Pada masa kejayaannya, kota ini diperkirakan menampung lebih dari 100.000 penduduk, menjadikannya salah satu pusat urban terbesar di dunia. Nama Teotihuacan berasal dari bahasa Nahuatl dan berarti tempat di mana para dewa diciptakan, meskipun nama asli kota ini belum diketahui.</p> <p class=\"mb-4\">Jalan Orang Mati membentang di pusat kota dan menghubungkan Piramida Matahari, Piramida Bulan, serta kompleks Ciudadela. Piramida Matahari adalah salah satu bangunan terbesar di Mesoamerika, sementara lukisan dinding dan artefak menunjukkan bahwa kota itu memiliki masyarakat multietnis dengan jaringan perdagangan luas. Obsidian, kakao, bulu, dan keramik dari berbagai wilayah ditemukan di situs tersebut.</p> <p class=\"mb-4\">Pengaruh Teotihuacan menyebar ke kota Maya dan wilayah Mesoamerika lain, tetapi kota itu mengalami kemunduran sekitar abad ke-6 dan ditinggalkan. Penyebabnya kemungkinan gabungan perubahan iklim, konflik internal, dan tekanan politik, bukan satu peristiwa tunggal. Para arkeolog masih meneliti kompleks perumahan dan terowongan di bawah piramida untuk memahami bagaimana masyarakatnya diorganisasi.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/414/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Teotihuacan",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Teotihuacan",
+                  "sourceSnippet2": "Britannica — Teotihuacán",
+                  "source3": "INAH Mexico",
+                  "sourceUrl3": "https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan",
+                  "sourceSnippet3": "INAH — Zona Arqueológica de Teotihuacan"
+            },
+            "zh": {
+                  "title": "Teotihuacan: Kota Para Dewa di Lembah Meksiko",
+                  "desc": "Teotihuacan menjadi salah satu kota terbesar di dunia kuno sebelum bangsa Mexica dan meninggalkan piramida monumental.",
+                  "content": "<p class=\"mb-4\">Kota Teotihuacan berkembang di timur laut Lembah Meksiko sejak sekitar 100 SM dan mencapai puncaknya antara 150 dan 450 M. Pada masa kejayaannya, kota ini diperkirakan menampung lebih dari 100.000 penduduk, menjadikannya salah satu pusat urban terbesar di dunia. Nama Teotihuacan berasal dari bahasa Nahuatl dan berarti tempat di mana para dewa diciptakan, meskipun nama asli kota ini belum diketahui.</p> <p class=\"mb-4\">Jalan Orang Mati membentang di pusat kota dan menghubungkan Piramida Matahari, Piramida Bulan, serta kompleks Ciudadela. Piramida Matahari adalah salah satu bangunan terbesar di Mesoamerika, sementara lukisan dinding dan artefak menunjukkan bahwa kota itu memiliki masyarakat multietnis dengan jaringan perdagangan luas. Obsidian, kakao, bulu, dan keramik dari berbagai wilayah ditemukan di situs tersebut.</p> <p class=\"mb-4\">Pengaruh Teotihuacan menyebar ke kota Maya dan wilayah Mesoamerika lain, tetapi kota itu mengalami kemunduran sekitar abad ke-6 dan ditinggalkan. Penyebabnya kemungkinan gabungan perubahan iklim, konflik internal, dan tekanan politik, bukan satu peristiwa tunggal. Para arkeolog masih meneliti kompleks perumahan dan terowongan di bawah piramida untuk memahami bagaimana masyarakatnya diorganisasi.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/414/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Teotihuacan",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Teotihuacan",
+                  "sourceSnippet2": "Britannica — Teotihuacán",
+                  "source3": "INAH Mexico",
+                  "sourceUrl3": "https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan",
+                  "sourceSnippet3": "INAH — Zona Arqueológica de Teotihuacan"
+            }
+      }
+}
+    ,{
+      "id": "meksiko-peradaban-maya-yucatan",
+      "langs": {
+            "id": {
+                  "title": "Peradaban Maya di Yucatán dan Mesoamerika",
+                  "desc": "Peradaban Maya mengembangkan kota, kalender, tulisan, dan matematika yang berpengaruh di Meksiko tenggara dan Amerika Tengah.",
+                  "content": "<p class=\"mb-4\">Peradaban Maya berkembang selama lebih dari dua milenium di Meksiko tenggara, Guatemala, Belize, dan Honduras. Di Semenanjung Yucatán, kota seperti Chichen Itza, Uxmal, dan Tulum menjadi pusat politik, agama, serta perdagangan. Maya tidak membentuk satu kekaisaran tunggal, melainkan jaringan negara-kota yang kadang bekerja sama dan kadang berperang.</p> <p class=\"mb-4\">Para ahli Maya mengembangkan sistem tulisan hieroglif, kalender ritual 260 hari, dan kalender matahari 365 hari. Sistem angka mereka menggunakan konsep nol secara eksplisit, sebuah pencapaian matematika yang muncul berabad-abad sebelum konsep serupa populer di Eropa. Observatorium dan bangunan mereka juga menunjukkan pengamatan teliti terhadap gerak Matahari, Bulan, dan Venus.</p> <p class=\"mb-4\">Kota-kota Maya di dataran rendah selatan mengalami kemunduran besar pada abad ke-8 dan ke-9, tetapi budaya Maya tidak hilang. Pusat-pusat di Yucatán tetap berkembang dan masyarakat Maya masih hidup di wilayah tersebut hingga kini. Reruntuhan, bahasa, tradisi, dan komunitas Maya modern menunjukkan kesinambungan yang jauh lebih kuat daripada narasi lama tentang peradaban yang lenyap.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/483/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Chichen-Itza",
+                  "source2": "Smithsonian National Museum of the American Indian",
+                  "sourceUrl2": "https://americanindian.si.edu/nk360/maya",
+                  "sourceSnippet2": "Smithsonian — Maya Civilization",
+                  "source3": "Encyclopaedia Britannica",
+                  "sourceUrl3": "https://www.britannica.com/topic/Maya",
+                  "sourceSnippet3": "Britannica — Maya"
+            },
+            "en": {
+                  "title": "Peradaban Maya di Yucatán dan Mesoamerika",
+                  "desc": "Peradaban Maya mengembangkan kota, kalender, tulisan, dan matematika yang berpengaruh di Meksiko tenggara dan Amerika Tengah.",
+                  "content": "<p class=\"mb-4\">Peradaban Maya berkembang selama lebih dari dua milenium di Meksiko tenggara, Guatemala, Belize, dan Honduras. Di Semenanjung Yucatán, kota seperti Chichen Itza, Uxmal, dan Tulum menjadi pusat politik, agama, serta perdagangan. Maya tidak membentuk satu kekaisaran tunggal, melainkan jaringan negara-kota yang kadang bekerja sama dan kadang berperang.</p> <p class=\"mb-4\">Para ahli Maya mengembangkan sistem tulisan hieroglif, kalender ritual 260 hari, dan kalender matahari 365 hari. Sistem angka mereka menggunakan konsep nol secara eksplisit, sebuah pencapaian matematika yang muncul berabad-abad sebelum konsep serupa populer di Eropa. Observatorium dan bangunan mereka juga menunjukkan pengamatan teliti terhadap gerak Matahari, Bulan, dan Venus.</p> <p class=\"mb-4\">Kota-kota Maya di dataran rendah selatan mengalami kemunduran besar pada abad ke-8 dan ke-9, tetapi budaya Maya tidak hilang. Pusat-pusat di Yucatán tetap berkembang dan masyarakat Maya masih hidup di wilayah tersebut hingga kini. Reruntuhan, bahasa, tradisi, dan komunitas Maya modern menunjukkan kesinambungan yang jauh lebih kuat daripada narasi lama tentang peradaban yang lenyap.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/483/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Chichen-Itza",
+                  "source2": "Smithsonian National Museum of the American Indian",
+                  "sourceUrl2": "https://americanindian.si.edu/nk360/maya",
+                  "sourceSnippet2": "Smithsonian — Maya Civilization",
+                  "source3": "Encyclopaedia Britannica",
+                  "sourceUrl3": "https://www.britannica.com/topic/Maya",
+                  "sourceSnippet3": "Britannica — Maya"
+            },
+            "ja": {
+                  "title": "Peradaban Maya di Yucatán dan Mesoamerika",
+                  "desc": "Peradaban Maya mengembangkan kota, kalender, tulisan, dan matematika yang berpengaruh di Meksiko tenggara dan Amerika Tengah.",
+                  "content": "<p class=\"mb-4\">Peradaban Maya berkembang selama lebih dari dua milenium di Meksiko tenggara, Guatemala, Belize, dan Honduras. Di Semenanjung Yucatán, kota seperti Chichen Itza, Uxmal, dan Tulum menjadi pusat politik, agama, serta perdagangan. Maya tidak membentuk satu kekaisaran tunggal, melainkan jaringan negara-kota yang kadang bekerja sama dan kadang berperang.</p> <p class=\"mb-4\">Para ahli Maya mengembangkan sistem tulisan hieroglif, kalender ritual 260 hari, dan kalender matahari 365 hari. Sistem angka mereka menggunakan konsep nol secara eksplisit, sebuah pencapaian matematika yang muncul berabad-abad sebelum konsep serupa populer di Eropa. Observatorium dan bangunan mereka juga menunjukkan pengamatan teliti terhadap gerak Matahari, Bulan, dan Venus.</p> <p class=\"mb-4\">Kota-kota Maya di dataran rendah selatan mengalami kemunduran besar pada abad ke-8 dan ke-9, tetapi budaya Maya tidak hilang. Pusat-pusat di Yucatán tetap berkembang dan masyarakat Maya masih hidup di wilayah tersebut hingga kini. Reruntuhan, bahasa, tradisi, dan komunitas Maya modern menunjukkan kesinambungan yang jauh lebih kuat daripada narasi lama tentang peradaban yang lenyap.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/483/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Chichen-Itza",
+                  "source2": "Smithsonian National Museum of the American Indian",
+                  "sourceUrl2": "https://americanindian.si.edu/nk360/maya",
+                  "sourceSnippet2": "Smithsonian — Maya Civilization",
+                  "source3": "Encyclopaedia Britannica",
+                  "sourceUrl3": "https://www.britannica.com/topic/Maya",
+                  "sourceSnippet3": "Britannica — Maya"
+            },
+            "ko": {
+                  "title": "Peradaban Maya di Yucatán dan Mesoamerika",
+                  "desc": "Peradaban Maya mengembangkan kota, kalender, tulisan, dan matematika yang berpengaruh di Meksiko tenggara dan Amerika Tengah.",
+                  "content": "<p class=\"mb-4\">Peradaban Maya berkembang selama lebih dari dua milenium di Meksiko tenggara, Guatemala, Belize, dan Honduras. Di Semenanjung Yucatán, kota seperti Chichen Itza, Uxmal, dan Tulum menjadi pusat politik, agama, serta perdagangan. Maya tidak membentuk satu kekaisaran tunggal, melainkan jaringan negara-kota yang kadang bekerja sama dan kadang berperang.</p> <p class=\"mb-4\">Para ahli Maya mengembangkan sistem tulisan hieroglif, kalender ritual 260 hari, dan kalender matahari 365 hari. Sistem angka mereka menggunakan konsep nol secara eksplisit, sebuah pencapaian matematika yang muncul berabad-abad sebelum konsep serupa populer di Eropa. Observatorium dan bangunan mereka juga menunjukkan pengamatan teliti terhadap gerak Matahari, Bulan, dan Venus.</p> <p class=\"mb-4\">Kota-kota Maya di dataran rendah selatan mengalami kemunduran besar pada abad ke-8 dan ke-9, tetapi budaya Maya tidak hilang. Pusat-pusat di Yucatán tetap berkembang dan masyarakat Maya masih hidup di wilayah tersebut hingga kini. Reruntuhan, bahasa, tradisi, dan komunitas Maya modern menunjukkan kesinambungan yang jauh lebih kuat daripada narasi lama tentang peradaban yang lenyap.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/483/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Chichen-Itza",
+                  "source2": "Smithsonian National Museum of the American Indian",
+                  "sourceUrl2": "https://americanindian.si.edu/nk360/maya",
+                  "sourceSnippet2": "Smithsonian — Maya Civilization",
+                  "source3": "Encyclopaedia Britannica",
+                  "sourceUrl3": "https://www.britannica.com/topic/Maya",
+                  "sourceSnippet3": "Britannica — Maya"
+            },
+            "zh": {
+                  "title": "Peradaban Maya di Yucatán dan Mesoamerika",
+                  "desc": "Peradaban Maya mengembangkan kota, kalender, tulisan, dan matematika yang berpengaruh di Meksiko tenggara dan Amerika Tengah.",
+                  "content": "<p class=\"mb-4\">Peradaban Maya berkembang selama lebih dari dua milenium di Meksiko tenggara, Guatemala, Belize, dan Honduras. Di Semenanjung Yucatán, kota seperti Chichen Itza, Uxmal, dan Tulum menjadi pusat politik, agama, serta perdagangan. Maya tidak membentuk satu kekaisaran tunggal, melainkan jaringan negara-kota yang kadang bekerja sama dan kadang berperang.</p> <p class=\"mb-4\">Para ahli Maya mengembangkan sistem tulisan hieroglif, kalender ritual 260 hari, dan kalender matahari 365 hari. Sistem angka mereka menggunakan konsep nol secara eksplisit, sebuah pencapaian matematika yang muncul berabad-abad sebelum konsep serupa populer di Eropa. Observatorium dan bangunan mereka juga menunjukkan pengamatan teliti terhadap gerak Matahari, Bulan, dan Venus.</p> <p class=\"mb-4\">Kota-kota Maya di dataran rendah selatan mengalami kemunduran besar pada abad ke-8 dan ke-9, tetapi budaya Maya tidak hilang. Pusat-pusat di Yucatán tetap berkembang dan masyarakat Maya masih hidup di wilayah tersebut hingga kini. Reruntuhan, bahasa, tradisi, dan komunitas Maya modern menunjukkan kesinambungan yang jauh lebih kuat daripada narasi lama tentang peradaban yang lenyap.</p>",
+                  "source": "UNESCO World Heritage",
+                  "sourceUrl": "https://whc.unesco.org/en/list/483/",
+                  "sourceSnippet": "UNESCO — Pre-Hispanic City of Chichen-Itza",
+                  "source2": "Smithsonian National Museum of the American Indian",
+                  "sourceUrl2": "https://americanindian.si.edu/nk360/maya",
+                  "sourceSnippet2": "Smithsonian — Maya Civilization",
+                  "source3": "Encyclopaedia Britannica",
+                  "sourceUrl3": "https://www.britannica.com/topic/Maya",
+                  "sourceSnippet3": "Britannica — Maya"
+            }
+      }
+}
+    ,{
+      "id": "meksiko-perang-cristero-1926-1929",
+      "langs": {
+            "id": {
+                  "title": "Perang Cristero: Konflik Negara dan Gereja 1926–1929",
+                  "desc": "Perang Cristero muncul setelah pemerintah Meksiko menerapkan pembatasan konstitusional terhadap institusi dan kegiatan Gereja Katolik.",
+                  "content": "<p class=\"mb-4\">Konstitusi Meksiko 1917 memperkuat kewenangan negara atas pendidikan, tanah, dan organisasi keagamaan. Presiden Plutarco Elias Calles kemudian menerapkan aturan yang membatasi jumlah imam dan melarang sejumlah kegiatan gereja. Pada 1926, penegakan aturan itu memicu penangguhan misa publik oleh hierarki Katolik dan pemberontakan bersenjata di beberapa wilayah pedesaan.</p> <p class=\"mb-4\">Para pemberontak yang dikenal sebagai Cristeros menggunakan slogan Viva Cristo Rey dan memperoleh dukungan terutama di Meksiko barat-tengah. Konflik berlangsung dengan kekerasan dari kedua pihak, sementara pemerintah berusaha mempertahankan kontrol negara dan gereja menekan pemerintah melalui boikot serta mobilisasi umat. Jumlah korban diperkirakan mencapai puluhan ribu, meskipun angka persisnya diperdebatkan.</p> <p class=\"mb-4\">Pada 1929, mediasi duta besar Amerika Serikat Dwight Morrow membantu menghasilkan arreglo atau kesepakatan damai. Pemerintah tidak mencabut seluruh ketentuan konstitusi, tetapi pelaksanaannya dilonggarkan dan ibadah publik kembali berjalan. Konflik ini meninggalkan memori politik dan keagamaan yang kuat serta memengaruhi hubungan negara dan Gereja Katolik selama beberapa dekade.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/event/Cristero-Rebellion",
+                  "sourceSnippet": "Britannica — Cristero Rebellion",
+                  "source2": "Oxford Research Encyclopedia",
+                  "sourceUrl2": "https://oxfordre.com/latinamericanhistory",
+                  "sourceSnippet2": "Oxford Research Encyclopedia — Latin American History",
+                  "source3": "Library of Congress",
+                  "sourceUrl3": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet3": "Library of Congress — Mexico country study"
+            },
+            "en": {
+                  "title": "Perang Cristero: Konflik Negara dan Gereja 1926–1929",
+                  "desc": "Perang Cristero muncul setelah pemerintah Meksiko menerapkan pembatasan konstitusional terhadap institusi dan kegiatan Gereja Katolik.",
+                  "content": "<p class=\"mb-4\">Konstitusi Meksiko 1917 memperkuat kewenangan negara atas pendidikan, tanah, dan organisasi keagamaan. Presiden Plutarco Elias Calles kemudian menerapkan aturan yang membatasi jumlah imam dan melarang sejumlah kegiatan gereja. Pada 1926, penegakan aturan itu memicu penangguhan misa publik oleh hierarki Katolik dan pemberontakan bersenjata di beberapa wilayah pedesaan.</p> <p class=\"mb-4\">Para pemberontak yang dikenal sebagai Cristeros menggunakan slogan Viva Cristo Rey dan memperoleh dukungan terutama di Meksiko barat-tengah. Konflik berlangsung dengan kekerasan dari kedua pihak, sementara pemerintah berusaha mempertahankan kontrol negara dan gereja menekan pemerintah melalui boikot serta mobilisasi umat. Jumlah korban diperkirakan mencapai puluhan ribu, meskipun angka persisnya diperdebatkan.</p> <p class=\"mb-4\">Pada 1929, mediasi duta besar Amerika Serikat Dwight Morrow membantu menghasilkan arreglo atau kesepakatan damai. Pemerintah tidak mencabut seluruh ketentuan konstitusi, tetapi pelaksanaannya dilonggarkan dan ibadah publik kembali berjalan. Konflik ini meninggalkan memori politik dan keagamaan yang kuat serta memengaruhi hubungan negara dan Gereja Katolik selama beberapa dekade.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/event/Cristero-Rebellion",
+                  "sourceSnippet": "Britannica — Cristero Rebellion",
+                  "source2": "Oxford Research Encyclopedia",
+                  "sourceUrl2": "https://oxfordre.com/latinamericanhistory",
+                  "sourceSnippet2": "Oxford Research Encyclopedia — Latin American History",
+                  "source3": "Library of Congress",
+                  "sourceUrl3": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet3": "Library of Congress — Mexico country study"
+            },
+            "ja": {
+                  "title": "Perang Cristero: Konflik Negara dan Gereja 1926–1929",
+                  "desc": "Perang Cristero muncul setelah pemerintah Meksiko menerapkan pembatasan konstitusional terhadap institusi dan kegiatan Gereja Katolik.",
+                  "content": "<p class=\"mb-4\">Konstitusi Meksiko 1917 memperkuat kewenangan negara atas pendidikan, tanah, dan organisasi keagamaan. Presiden Plutarco Elias Calles kemudian menerapkan aturan yang membatasi jumlah imam dan melarang sejumlah kegiatan gereja. Pada 1926, penegakan aturan itu memicu penangguhan misa publik oleh hierarki Katolik dan pemberontakan bersenjata di beberapa wilayah pedesaan.</p> <p class=\"mb-4\">Para pemberontak yang dikenal sebagai Cristeros menggunakan slogan Viva Cristo Rey dan memperoleh dukungan terutama di Meksiko barat-tengah. Konflik berlangsung dengan kekerasan dari kedua pihak, sementara pemerintah berusaha mempertahankan kontrol negara dan gereja menekan pemerintah melalui boikot serta mobilisasi umat. Jumlah korban diperkirakan mencapai puluhan ribu, meskipun angka persisnya diperdebatkan.</p> <p class=\"mb-4\">Pada 1929, mediasi duta besar Amerika Serikat Dwight Morrow membantu menghasilkan arreglo atau kesepakatan damai. Pemerintah tidak mencabut seluruh ketentuan konstitusi, tetapi pelaksanaannya dilonggarkan dan ibadah publik kembali berjalan. Konflik ini meninggalkan memori politik dan keagamaan yang kuat serta memengaruhi hubungan negara dan Gereja Katolik selama beberapa dekade.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/event/Cristero-Rebellion",
+                  "sourceSnippet": "Britannica — Cristero Rebellion",
+                  "source2": "Oxford Research Encyclopedia",
+                  "sourceUrl2": "https://oxfordre.com/latinamericanhistory",
+                  "sourceSnippet2": "Oxford Research Encyclopedia — Latin American History",
+                  "source3": "Library of Congress",
+                  "sourceUrl3": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet3": "Library of Congress — Mexico country study"
+            },
+            "ko": {
+                  "title": "Perang Cristero: Konflik Negara dan Gereja 1926–1929",
+                  "desc": "Perang Cristero muncul setelah pemerintah Meksiko menerapkan pembatasan konstitusional terhadap institusi dan kegiatan Gereja Katolik.",
+                  "content": "<p class=\"mb-4\">Konstitusi Meksiko 1917 memperkuat kewenangan negara atas pendidikan, tanah, dan organisasi keagamaan. Presiden Plutarco Elias Calles kemudian menerapkan aturan yang membatasi jumlah imam dan melarang sejumlah kegiatan gereja. Pada 1926, penegakan aturan itu memicu penangguhan misa publik oleh hierarki Katolik dan pemberontakan bersenjata di beberapa wilayah pedesaan.</p> <p class=\"mb-4\">Para pemberontak yang dikenal sebagai Cristeros menggunakan slogan Viva Cristo Rey dan memperoleh dukungan terutama di Meksiko barat-tengah. Konflik berlangsung dengan kekerasan dari kedua pihak, sementara pemerintah berusaha mempertahankan kontrol negara dan gereja menekan pemerintah melalui boikot serta mobilisasi umat. Jumlah korban diperkirakan mencapai puluhan ribu, meskipun angka persisnya diperdebatkan.</p> <p class=\"mb-4\">Pada 1929, mediasi duta besar Amerika Serikat Dwight Morrow membantu menghasilkan arreglo atau kesepakatan damai. Pemerintah tidak mencabut seluruh ketentuan konstitusi, tetapi pelaksanaannya dilonggarkan dan ibadah publik kembali berjalan. Konflik ini meninggalkan memori politik dan keagamaan yang kuat serta memengaruhi hubungan negara dan Gereja Katolik selama beberapa dekade.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/event/Cristero-Rebellion",
+                  "sourceSnippet": "Britannica — Cristero Rebellion",
+                  "source2": "Oxford Research Encyclopedia",
+                  "sourceUrl2": "https://oxfordre.com/latinamericanhistory",
+                  "sourceSnippet2": "Oxford Research Encyclopedia — Latin American History",
+                  "source3": "Library of Congress",
+                  "sourceUrl3": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet3": "Library of Congress — Mexico country study"
+            },
+            "zh": {
+                  "title": "Perang Cristero: Konflik Negara dan Gereja 1926–1929",
+                  "desc": "Perang Cristero muncul setelah pemerintah Meksiko menerapkan pembatasan konstitusional terhadap institusi dan kegiatan Gereja Katolik.",
+                  "content": "<p class=\"mb-4\">Konstitusi Meksiko 1917 memperkuat kewenangan negara atas pendidikan, tanah, dan organisasi keagamaan. Presiden Plutarco Elias Calles kemudian menerapkan aturan yang membatasi jumlah imam dan melarang sejumlah kegiatan gereja. Pada 1926, penegakan aturan itu memicu penangguhan misa publik oleh hierarki Katolik dan pemberontakan bersenjata di beberapa wilayah pedesaan.</p> <p class=\"mb-4\">Para pemberontak yang dikenal sebagai Cristeros menggunakan slogan Viva Cristo Rey dan memperoleh dukungan terutama di Meksiko barat-tengah. Konflik berlangsung dengan kekerasan dari kedua pihak, sementara pemerintah berusaha mempertahankan kontrol negara dan gereja menekan pemerintah melalui boikot serta mobilisasi umat. Jumlah korban diperkirakan mencapai puluhan ribu, meskipun angka persisnya diperdebatkan.</p> <p class=\"mb-4\">Pada 1929, mediasi duta besar Amerika Serikat Dwight Morrow membantu menghasilkan arreglo atau kesepakatan damai. Pemerintah tidak mencabut seluruh ketentuan konstitusi, tetapi pelaksanaannya dilonggarkan dan ibadah publik kembali berjalan. Konflik ini meninggalkan memori politik dan keagamaan yang kuat serta memengaruhi hubungan negara dan Gereja Katolik selama beberapa dekade.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/event/Cristero-Rebellion",
+                  "sourceSnippet": "Britannica — Cristero Rebellion",
+                  "source2": "Oxford Research Encyclopedia",
+                  "sourceUrl2": "https://oxfordre.com/latinamericanhistory",
+                  "sourceSnippet2": "Oxford Research Encyclopedia — Latin American History",
+                  "source3": "Library of Congress",
+                  "sourceUrl3": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet3": "Library of Congress — Mexico country study"
+            }
+      }
+}
+    ,{
+      "id": "meksiko-reforma-liberal-1855-1876",
+      "langs": {
+            "id": {
+                  "title": "Reforma Liberal Meksiko: Juárez dan Negara Sekuler",
+                  "desc": "La Reforma mengubah hukum, kepemilikan tanah, dan hubungan negara dengan Gereja pada pertengahan abad ke-19.",
+                  "content": "<p class=\"mb-4\">Reforma Liberal dimulai setelah Revolusi Ayutla 1854–1855 menggulingkan diktator Antonio López de Santa Anna. Kaum liberal seperti Benito Juárez, Miguel Lerdo de Tejada, dan Melchor Ocampo berusaha membangun republik dengan kewarganegaraan setara dan mengurangi hak istimewa korporasi militer serta Gereja Katolik.</p> <p class=\"mb-4\">Ley Juarez 1855 membatasi yurisdiksi pengadilan khusus, sedangkan Ley Lerdo 1856 mendorong penjualan properti korporasi yang tidak digunakan. Konstitusi 1857 menjamin sejumlah hak liberal, tetapi ditolak oleh kelompok konservatif. Perlawanan tersebut memicu Perang Reformasi 1858–1861, yang dimenangkan kaum liberal di bawah kepemimpinan Juárez.</p> <p class=\"mb-4\">Reformasi berlanjut ketika pemerintah menghadapi intervensi Prancis dan pendirian Kekaisaran Maximilian 1864–1867. Setelah republik dipulihkan, hukum sekuler dan pemisahan negara dari Gereja menjadi bagian penting identitas politik Meksiko. Dampaknya masih terlihat dalam institusi negara, hukum properti, dan debat tentang peran agama di ruang publik.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/biography/Benito-Juarez",
+                  "sourceSnippet": "Britannica — Benito Juárez",
+                  "source2": "Library of Congress",
+                  "sourceUrl2": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet2": "Library of Congress — Mexico country study",
+                  "source3": "Mexico: From the Conquest to the Present",
+                  "sourceUrl3": "https://www.britannica.com/place/Mexico/La-Reforma",
+                  "sourceSnippet3": "Britannica — La Reforma"
+            },
+            "en": {
+                  "title": "Reforma Liberal Meksiko: Juárez dan Negara Sekuler",
+                  "desc": "La Reforma mengubah hukum, kepemilikan tanah, dan hubungan negara dengan Gereja pada pertengahan abad ke-19.",
+                  "content": "<p class=\"mb-4\">Reforma Liberal dimulai setelah Revolusi Ayutla 1854–1855 menggulingkan diktator Antonio López de Santa Anna. Kaum liberal seperti Benito Juárez, Miguel Lerdo de Tejada, dan Melchor Ocampo berusaha membangun republik dengan kewarganegaraan setara dan mengurangi hak istimewa korporasi militer serta Gereja Katolik.</p> <p class=\"mb-4\">Ley Juarez 1855 membatasi yurisdiksi pengadilan khusus, sedangkan Ley Lerdo 1856 mendorong penjualan properti korporasi yang tidak digunakan. Konstitusi 1857 menjamin sejumlah hak liberal, tetapi ditolak oleh kelompok konservatif. Perlawanan tersebut memicu Perang Reformasi 1858–1861, yang dimenangkan kaum liberal di bawah kepemimpinan Juárez.</p> <p class=\"mb-4\">Reformasi berlanjut ketika pemerintah menghadapi intervensi Prancis dan pendirian Kekaisaran Maximilian 1864–1867. Setelah republik dipulihkan, hukum sekuler dan pemisahan negara dari Gereja menjadi bagian penting identitas politik Meksiko. Dampaknya masih terlihat dalam institusi negara, hukum properti, dan debat tentang peran agama di ruang publik.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/biography/Benito-Juarez",
+                  "sourceSnippet": "Britannica — Benito Juárez",
+                  "source2": "Library of Congress",
+                  "sourceUrl2": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet2": "Library of Congress — Mexico country study",
+                  "source3": "Mexico: From the Conquest to the Present",
+                  "sourceUrl3": "https://www.britannica.com/place/Mexico/La-Reforma",
+                  "sourceSnippet3": "Britannica — La Reforma"
+            },
+            "ja": {
+                  "title": "Reforma Liberal Meksiko: Juárez dan Negara Sekuler",
+                  "desc": "La Reforma mengubah hukum, kepemilikan tanah, dan hubungan negara dengan Gereja pada pertengahan abad ke-19.",
+                  "content": "<p class=\"mb-4\">Reforma Liberal dimulai setelah Revolusi Ayutla 1854–1855 menggulingkan diktator Antonio López de Santa Anna. Kaum liberal seperti Benito Juárez, Miguel Lerdo de Tejada, dan Melchor Ocampo berusaha membangun republik dengan kewarganegaraan setara dan mengurangi hak istimewa korporasi militer serta Gereja Katolik.</p> <p class=\"mb-4\">Ley Juarez 1855 membatasi yurisdiksi pengadilan khusus, sedangkan Ley Lerdo 1856 mendorong penjualan properti korporasi yang tidak digunakan. Konstitusi 1857 menjamin sejumlah hak liberal, tetapi ditolak oleh kelompok konservatif. Perlawanan tersebut memicu Perang Reformasi 1858–1861, yang dimenangkan kaum liberal di bawah kepemimpinan Juárez.</p> <p class=\"mb-4\">Reformasi berlanjut ketika pemerintah menghadapi intervensi Prancis dan pendirian Kekaisaran Maximilian 1864–1867. Setelah republik dipulihkan, hukum sekuler dan pemisahan negara dari Gereja menjadi bagian penting identitas politik Meksiko. Dampaknya masih terlihat dalam institusi negara, hukum properti, dan debat tentang peran agama di ruang publik.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/biography/Benito-Juarez",
+                  "sourceSnippet": "Britannica — Benito Juárez",
+                  "source2": "Library of Congress",
+                  "sourceUrl2": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet2": "Library of Congress — Mexico country study",
+                  "source3": "Mexico: From the Conquest to the Present",
+                  "sourceUrl3": "https://www.britannica.com/place/Mexico/La-Reforma",
+                  "sourceSnippet3": "Britannica — La Reforma"
+            },
+            "ko": {
+                  "title": "Reforma Liberal Meksiko: Juárez dan Negara Sekuler",
+                  "desc": "La Reforma mengubah hukum, kepemilikan tanah, dan hubungan negara dengan Gereja pada pertengahan abad ke-19.",
+                  "content": "<p class=\"mb-4\">Reforma Liberal dimulai setelah Revolusi Ayutla 1854–1855 menggulingkan diktator Antonio López de Santa Anna. Kaum liberal seperti Benito Juárez, Miguel Lerdo de Tejada, dan Melchor Ocampo berusaha membangun republik dengan kewarganegaraan setara dan mengurangi hak istimewa korporasi militer serta Gereja Katolik.</p> <p class=\"mb-4\">Ley Juarez 1855 membatasi yurisdiksi pengadilan khusus, sedangkan Ley Lerdo 1856 mendorong penjualan properti korporasi yang tidak digunakan. Konstitusi 1857 menjamin sejumlah hak liberal, tetapi ditolak oleh kelompok konservatif. Perlawanan tersebut memicu Perang Reformasi 1858–1861, yang dimenangkan kaum liberal di bawah kepemimpinan Juárez.</p> <p class=\"mb-4\">Reformasi berlanjut ketika pemerintah menghadapi intervensi Prancis dan pendirian Kekaisaran Maximilian 1864–1867. Setelah republik dipulihkan, hukum sekuler dan pemisahan negara dari Gereja menjadi bagian penting identitas politik Meksiko. Dampaknya masih terlihat dalam institusi negara, hukum properti, dan debat tentang peran agama di ruang publik.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/biography/Benito-Juarez",
+                  "sourceSnippet": "Britannica — Benito Juárez",
+                  "source2": "Library of Congress",
+                  "sourceUrl2": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet2": "Library of Congress — Mexico country study",
+                  "source3": "Mexico: From the Conquest to the Present",
+                  "sourceUrl3": "https://www.britannica.com/place/Mexico/La-Reforma",
+                  "sourceSnippet3": "Britannica — La Reforma"
+            },
+            "zh": {
+                  "title": "Reforma Liberal Meksiko: Juárez dan Negara Sekuler",
+                  "desc": "La Reforma mengubah hukum, kepemilikan tanah, dan hubungan negara dengan Gereja pada pertengahan abad ke-19.",
+                  "content": "<p class=\"mb-4\">Reforma Liberal dimulai setelah Revolusi Ayutla 1854–1855 menggulingkan diktator Antonio López de Santa Anna. Kaum liberal seperti Benito Juárez, Miguel Lerdo de Tejada, dan Melchor Ocampo berusaha membangun republik dengan kewarganegaraan setara dan mengurangi hak istimewa korporasi militer serta Gereja Katolik.</p> <p class=\"mb-4\">Ley Juarez 1855 membatasi yurisdiksi pengadilan khusus, sedangkan Ley Lerdo 1856 mendorong penjualan properti korporasi yang tidak digunakan. Konstitusi 1857 menjamin sejumlah hak liberal, tetapi ditolak oleh kelompok konservatif. Perlawanan tersebut memicu Perang Reformasi 1858–1861, yang dimenangkan kaum liberal di bawah kepemimpinan Juárez.</p> <p class=\"mb-4\">Reformasi berlanjut ketika pemerintah menghadapi intervensi Prancis dan pendirian Kekaisaran Maximilian 1864–1867. Setelah republik dipulihkan, hukum sekuler dan pemisahan negara dari Gereja menjadi bagian penting identitas politik Meksiko. Dampaknya masih terlihat dalam institusi negara, hukum properti, dan debat tentang peran agama di ruang publik.</p>",
+                  "source": "Encyclopaedia Britannica",
+                  "sourceUrl": "https://www.britannica.com/biography/Benito-Juarez",
+                  "sourceSnippet": "Britannica — Benito Juárez",
+                  "source2": "Library of Congress",
+                  "sourceUrl2": "https://www.loc.gov/item/2003552311/",
+                  "sourceSnippet2": "Library of Congress — Mexico country study",
+                  "source3": "Mexico: From the Conquest to the Present",
+                  "sourceUrl3": "https://www.britannica.com/place/Mexico/La-Reforma",
+                  "sourceSnippet3": "Britannica — La Reforma"
+            }
+      }
+}
+    ,{
+      "id": "meksiko-pemilu-2000-transisi-demokrasi",
+      "langs": {
+            "id": {
+                  "title": "Pemilu 2000: Pergantian Kekuasaan Setelah 71 Tahun",
+                  "desc": "Kemenangan Vicente Fox mengakhiri dominasi panjang Partai Institusional Revolusioner dalam pemilihan presiden Meksiko.",
+                  "content": "<p class=\"mb-4\">Partido Revolucionario Institucional atau PRI memegang kursi kepresidenan Meksiko secara berkelanjutan sejak 1929. Sistem tersebut memiliki pemilu dan oposisi, tetapi PRI menguasai institusi negara, jaringan politik, serta banyak pemerintahan daerah. Krisis ekonomi 1982, gempa 1985, dan reformasi pemilu meningkatkan tuntutan terhadap kompetisi yang lebih terbuka.</p> <p class=\"mb-4\">Pada pemilu 2 Juli 2000, Vicente Fox dari Partido Acción Nacional atau PAN memenangkan kursi presiden dengan sekitar 43 persen suara, mengalahkan kandidat PRI Francisco Labastida. Cuauhtémoc Cárdenas dari PRD berada di posisi ketiga. Presiden Ernesto Zedillo mengakui hasil tersebut, dan transisi berlangsung tanpa kudeta atau perang saudara.</p> <p class=\"mb-4\">Pergantian itu dianggap tonggak demokrasi elektoral Meksiko, walaupun tidak menyelesaikan semua masalah seperti korupsi, kekerasan, dan ketimpangan. Pemilu 2000 juga menunjukkan pentingnya reformasi lembaga pemilu yang memperkuat independensi pengawasan. PRI kembali memenangkan kursi presiden pada 2012, sehingga transisi tersebut lebih tepat dipahami sebagai kompetisi multipartai yang berkelanjutan, bukan akhir permanen sebuah partai.</p>",
+                  "source": "International IDEA",
+                  "sourceUrl": "https://www.idea.int/data-tools/country-view/207/40",
+                  "sourceSnippet": "International IDEA — Mexico electoral system",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Mexico/Political-process",
+                  "sourceSnippet2": "Britannica — Mexico political process",
+                  "source3": "INE Mexico",
+                  "sourceUrl3": "https://centralelectoral.ine.mx/",
+                  "sourceSnippet3": "Instituto Nacional Electoral — Historical electoral information"
+            },
+            "en": {
+                  "title": "Pemilu 2000: Pergantian Kekuasaan Setelah 71 Tahun",
+                  "desc": "Kemenangan Vicente Fox mengakhiri dominasi panjang Partai Institusional Revolusioner dalam pemilihan presiden Meksiko.",
+                  "content": "<p class=\"mb-4\">Partido Revolucionario Institucional atau PRI memegang kursi kepresidenan Meksiko secara berkelanjutan sejak 1929. Sistem tersebut memiliki pemilu dan oposisi, tetapi PRI menguasai institusi negara, jaringan politik, serta banyak pemerintahan daerah. Krisis ekonomi 1982, gempa 1985, dan reformasi pemilu meningkatkan tuntutan terhadap kompetisi yang lebih terbuka.</p> <p class=\"mb-4\">Pada pemilu 2 Juli 2000, Vicente Fox dari Partido Acción Nacional atau PAN memenangkan kursi presiden dengan sekitar 43 persen suara, mengalahkan kandidat PRI Francisco Labastida. Cuauhtémoc Cárdenas dari PRD berada di posisi ketiga. Presiden Ernesto Zedillo mengakui hasil tersebut, dan transisi berlangsung tanpa kudeta atau perang saudara.</p> <p class=\"mb-4\">Pergantian itu dianggap tonggak demokrasi elektoral Meksiko, walaupun tidak menyelesaikan semua masalah seperti korupsi, kekerasan, dan ketimpangan. Pemilu 2000 juga menunjukkan pentingnya reformasi lembaga pemilu yang memperkuat independensi pengawasan. PRI kembali memenangkan kursi presiden pada 2012, sehingga transisi tersebut lebih tepat dipahami sebagai kompetisi multipartai yang berkelanjutan, bukan akhir permanen sebuah partai.</p>",
+                  "source": "International IDEA",
+                  "sourceUrl": "https://www.idea.int/data-tools/country-view/207/40",
+                  "sourceSnippet": "International IDEA — Mexico electoral system",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Mexico/Political-process",
+                  "sourceSnippet2": "Britannica — Mexico political process",
+                  "source3": "INE Mexico",
+                  "sourceUrl3": "https://centralelectoral.ine.mx/",
+                  "sourceSnippet3": "Instituto Nacional Electoral — Historical electoral information"
+            },
+            "ja": {
+                  "title": "Pemilu 2000: Pergantian Kekuasaan Setelah 71 Tahun",
+                  "desc": "Kemenangan Vicente Fox mengakhiri dominasi panjang Partai Institusional Revolusioner dalam pemilihan presiden Meksiko.",
+                  "content": "<p class=\"mb-4\">Partido Revolucionario Institucional atau PRI memegang kursi kepresidenan Meksiko secara berkelanjutan sejak 1929. Sistem tersebut memiliki pemilu dan oposisi, tetapi PRI menguasai institusi negara, jaringan politik, serta banyak pemerintahan daerah. Krisis ekonomi 1982, gempa 1985, dan reformasi pemilu meningkatkan tuntutan terhadap kompetisi yang lebih terbuka.</p> <p class=\"mb-4\">Pada pemilu 2 Juli 2000, Vicente Fox dari Partido Acción Nacional atau PAN memenangkan kursi presiden dengan sekitar 43 persen suara, mengalahkan kandidat PRI Francisco Labastida. Cuauhtémoc Cárdenas dari PRD berada di posisi ketiga. Presiden Ernesto Zedillo mengakui hasil tersebut, dan transisi berlangsung tanpa kudeta atau perang saudara.</p> <p class=\"mb-4\">Pergantian itu dianggap tonggak demokrasi elektoral Meksiko, walaupun tidak menyelesaikan semua masalah seperti korupsi, kekerasan, dan ketimpangan. Pemilu 2000 juga menunjukkan pentingnya reformasi lembaga pemilu yang memperkuat independensi pengawasan. PRI kembali memenangkan kursi presiden pada 2012, sehingga transisi tersebut lebih tepat dipahami sebagai kompetisi multipartai yang berkelanjutan, bukan akhir permanen sebuah partai.</p>",
+                  "source": "International IDEA",
+                  "sourceUrl": "https://www.idea.int/data-tools/country-view/207/40",
+                  "sourceSnippet": "International IDEA — Mexico electoral system",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Mexico/Political-process",
+                  "sourceSnippet2": "Britannica — Mexico political process",
+                  "source3": "INE Mexico",
+                  "sourceUrl3": "https://centralelectoral.ine.mx/",
+                  "sourceSnippet3": "Instituto Nacional Electoral — Historical electoral information"
+            },
+            "ko": {
+                  "title": "Pemilu 2000: Pergantian Kekuasaan Setelah 71 Tahun",
+                  "desc": "Kemenangan Vicente Fox mengakhiri dominasi panjang Partai Institusional Revolusioner dalam pemilihan presiden Meksiko.",
+                  "content": "<p class=\"mb-4\">Partido Revolucionario Institucional atau PRI memegang kursi kepresidenan Meksiko secara berkelanjutan sejak 1929. Sistem tersebut memiliki pemilu dan oposisi, tetapi PRI menguasai institusi negara, jaringan politik, serta banyak pemerintahan daerah. Krisis ekonomi 1982, gempa 1985, dan reformasi pemilu meningkatkan tuntutan terhadap kompetisi yang lebih terbuka.</p> <p class=\"mb-4\">Pada pemilu 2 Juli 2000, Vicente Fox dari Partido Acción Nacional atau PAN memenangkan kursi presiden dengan sekitar 43 persen suara, mengalahkan kandidat PRI Francisco Labastida. Cuauhtémoc Cárdenas dari PRD berada di posisi ketiga. Presiden Ernesto Zedillo mengakui hasil tersebut, dan transisi berlangsung tanpa kudeta atau perang saudara.</p> <p class=\"mb-4\">Pergantian itu dianggap tonggak demokrasi elektoral Meksiko, walaupun tidak menyelesaikan semua masalah seperti korupsi, kekerasan, dan ketimpangan. Pemilu 2000 juga menunjukkan pentingnya reformasi lembaga pemilu yang memperkuat independensi pengawasan. PRI kembali memenangkan kursi presiden pada 2012, sehingga transisi tersebut lebih tepat dipahami sebagai kompetisi multipartai yang berkelanjutan, bukan akhir permanen sebuah partai.</p>",
+                  "source": "International IDEA",
+                  "sourceUrl": "https://www.idea.int/data-tools/country-view/207/40",
+                  "sourceSnippet": "International IDEA — Mexico electoral system",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Mexico/Political-process",
+                  "sourceSnippet2": "Britannica — Mexico political process",
+                  "source3": "INE Mexico",
+                  "sourceUrl3": "https://centralelectoral.ine.mx/",
+                  "sourceSnippet3": "Instituto Nacional Electoral — Historical electoral information"
+            },
+            "zh": {
+                  "title": "Pemilu 2000: Pergantian Kekuasaan Setelah 71 Tahun",
+                  "desc": "Kemenangan Vicente Fox mengakhiri dominasi panjang Partai Institusional Revolusioner dalam pemilihan presiden Meksiko.",
+                  "content": "<p class=\"mb-4\">Partido Revolucionario Institucional atau PRI memegang kursi kepresidenan Meksiko secara berkelanjutan sejak 1929. Sistem tersebut memiliki pemilu dan oposisi, tetapi PRI menguasai institusi negara, jaringan politik, serta banyak pemerintahan daerah. Krisis ekonomi 1982, gempa 1985, dan reformasi pemilu meningkatkan tuntutan terhadap kompetisi yang lebih terbuka.</p> <p class=\"mb-4\">Pada pemilu 2 Juli 2000, Vicente Fox dari Partido Acción Nacional atau PAN memenangkan kursi presiden dengan sekitar 43 persen suara, mengalahkan kandidat PRI Francisco Labastida. Cuauhtémoc Cárdenas dari PRD berada di posisi ketiga. Presiden Ernesto Zedillo mengakui hasil tersebut, dan transisi berlangsung tanpa kudeta atau perang saudara.</p> <p class=\"mb-4\">Pergantian itu dianggap tonggak demokrasi elektoral Meksiko, walaupun tidak menyelesaikan semua masalah seperti korupsi, kekerasan, dan ketimpangan. Pemilu 2000 juga menunjukkan pentingnya reformasi lembaga pemilu yang memperkuat independensi pengawasan. PRI kembali memenangkan kursi presiden pada 2012, sehingga transisi tersebut lebih tepat dipahami sebagai kompetisi multipartai yang berkelanjutan, bukan akhir permanen sebuah partai.</p>",
+                  "source": "International IDEA",
+                  "sourceUrl": "https://www.idea.int/data-tools/country-view/207/40",
+                  "sourceSnippet": "International IDEA — Mexico electoral system",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/place/Mexico/Political-process",
+                  "sourceSnippet2": "Britannica — Mexico political process",
+                  "source3": "INE Mexico",
+                  "sourceUrl3": "https://centralelectoral.ine.mx/",
+                  "sourceSnippet3": "Instituto Nacional Electoral — Historical electoral information"
+            }
+      }
+}
+    ,{
+      "id": "meksiko-gempa-1985-rekonstruksi",
+      "langs": {
+            "id": {
+                  "title": "Gempa Mexico City 1985 dan Gerakan Masyarakat Sipil",
+                  "desc": "Gempa besar 19 September 1985 menewaskan ribuan orang dan mengubah kebijakan kebencanaan serta hubungan masyarakat dengan negara.",
+                  "content": "<p class=\"mb-4\">Pada 19 September 1985 pukul 07.17 waktu setempat, gempa berkekuatan sekitar 8,0–8,1 mengguncang pantai Pasifik Meksiko dan Mexico City yang berjarak ratusan kilometer. Tanah lunak bekas dasar Danau Texcoco memperkuat gelombang, sehingga kerusakan di ibu kota jauh lebih besar daripada jaraknya dari episentrum. Gedung apartemen, rumah sakit, sekolah, dan fasilitas komunikasi runtuh atau rusak berat.</p> <p class=\"mb-4\">Angka korban resmi dan perkiraan independen berbeda karena banyak orang hilang dan data awal kacau. Ribuan orang meninggal, puluhan ribu terluka, dan ratusan ribu kehilangan tempat tinggal. Pemerintah awalnya dianggap lamban, sementara warga membentuk brigada de rescate, dapur umum, dan jaringan bantuan untuk mencari korban. Los Topos, kelompok penyelamat sukarela yang lahir dari tragedi ini, kemudian membantu operasi bencana di berbagai negara.</p> <p class=\"mb-4\">Rekonstruksi menghasilkan program perumahan, aturan bangunan yang lebih ketat, dan sistem peringatan gempa yang lebih baik. Gempa lain pada 20 September memperpanjang krisis dan menegaskan perlunya kesiapsiagaan. Peristiwa 1985 juga memperkuat organisasi masyarakat sipil dan menjadi titik penting dalam perkembangan politik urban Meksiko menjelang reformasi demokrasi 1990-an.</p>",
+                  "source": "USGS",
+                  "sourceUrl": "https://earthquake.usgs.gov/earthquakes/world/events/1985_09_19.php",
+                  "sourceSnippet": "USGS — Mexico Earthquake 1985",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/event/Mexico-City-earthquake-of-1985",
+                  "sourceSnippet2": "Britannica — Mexico City earthquake of 1985",
+                  "source3": "UNDRR",
+                  "sourceUrl3": "https://www.undrr.org/",
+                  "sourceSnippet3": "UNDRR — Disaster risk reduction resources"
+            },
+            "en": {
+                  "title": "Gempa Mexico City 1985 dan Gerakan Masyarakat Sipil",
+                  "desc": "Gempa besar 19 September 1985 menewaskan ribuan orang dan mengubah kebijakan kebencanaan serta hubungan masyarakat dengan negara.",
+                  "content": "<p class=\"mb-4\">Pada 19 September 1985 pukul 07.17 waktu setempat, gempa berkekuatan sekitar 8,0–8,1 mengguncang pantai Pasifik Meksiko dan Mexico City yang berjarak ratusan kilometer. Tanah lunak bekas dasar Danau Texcoco memperkuat gelombang, sehingga kerusakan di ibu kota jauh lebih besar daripada jaraknya dari episentrum. Gedung apartemen, rumah sakit, sekolah, dan fasilitas komunikasi runtuh atau rusak berat.</p> <p class=\"mb-4\">Angka korban resmi dan perkiraan independen berbeda karena banyak orang hilang dan data awal kacau. Ribuan orang meninggal, puluhan ribu terluka, dan ratusan ribu kehilangan tempat tinggal. Pemerintah awalnya dianggap lamban, sementara warga membentuk brigada de rescate, dapur umum, dan jaringan bantuan untuk mencari korban. Los Topos, kelompok penyelamat sukarela yang lahir dari tragedi ini, kemudian membantu operasi bencana di berbagai negara.</p> <p class=\"mb-4\">Rekonstruksi menghasilkan program perumahan, aturan bangunan yang lebih ketat, dan sistem peringatan gempa yang lebih baik. Gempa lain pada 20 September memperpanjang krisis dan menegaskan perlunya kesiapsiagaan. Peristiwa 1985 juga memperkuat organisasi masyarakat sipil dan menjadi titik penting dalam perkembangan politik urban Meksiko menjelang reformasi demokrasi 1990-an.</p>",
+                  "source": "USGS",
+                  "sourceUrl": "https://earthquake.usgs.gov/earthquakes/world/events/1985_09_19.php",
+                  "sourceSnippet": "USGS — Mexico Earthquake 1985",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/event/Mexico-City-earthquake-of-1985",
+                  "sourceSnippet2": "Britannica — Mexico City earthquake of 1985",
+                  "source3": "UNDRR",
+                  "sourceUrl3": "https://www.undrr.org/",
+                  "sourceSnippet3": "UNDRR — Disaster risk reduction resources"
+            },
+            "ja": {
+                  "title": "Gempa Mexico City 1985 dan Gerakan Masyarakat Sipil",
+                  "desc": "Gempa besar 19 September 1985 menewaskan ribuan orang dan mengubah kebijakan kebencanaan serta hubungan masyarakat dengan negara.",
+                  "content": "<p class=\"mb-4\">Pada 19 September 1985 pukul 07.17 waktu setempat, gempa berkekuatan sekitar 8,0–8,1 mengguncang pantai Pasifik Meksiko dan Mexico City yang berjarak ratusan kilometer. Tanah lunak bekas dasar Danau Texcoco memperkuat gelombang, sehingga kerusakan di ibu kota jauh lebih besar daripada jaraknya dari episentrum. Gedung apartemen, rumah sakit, sekolah, dan fasilitas komunikasi runtuh atau rusak berat.</p> <p class=\"mb-4\">Angka korban resmi dan perkiraan independen berbeda karena banyak orang hilang dan data awal kacau. Ribuan orang meninggal, puluhan ribu terluka, dan ratusan ribu kehilangan tempat tinggal. Pemerintah awalnya dianggap lamban, sementara warga membentuk brigada de rescate, dapur umum, dan jaringan bantuan untuk mencari korban. Los Topos, kelompok penyelamat sukarela yang lahir dari tragedi ini, kemudian membantu operasi bencana di berbagai negara.</p> <p class=\"mb-4\">Rekonstruksi menghasilkan program perumahan, aturan bangunan yang lebih ketat, dan sistem peringatan gempa yang lebih baik. Gempa lain pada 20 September memperpanjang krisis dan menegaskan perlunya kesiapsiagaan. Peristiwa 1985 juga memperkuat organisasi masyarakat sipil dan menjadi titik penting dalam perkembangan politik urban Meksiko menjelang reformasi demokrasi 1990-an.</p>",
+                  "source": "USGS",
+                  "sourceUrl": "https://earthquake.usgs.gov/earthquakes/world/events/1985_09_19.php",
+                  "sourceSnippet": "USGS — Mexico Earthquake 1985",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/event/Mexico-City-earthquake-of-1985",
+                  "sourceSnippet2": "Britannica — Mexico City earthquake of 1985",
+                  "source3": "UNDRR",
+                  "sourceUrl3": "https://www.undrr.org/",
+                  "sourceSnippet3": "UNDRR — Disaster risk reduction resources"
+            },
+            "ko": {
+                  "title": "Gempa Mexico City 1985 dan Gerakan Masyarakat Sipil",
+                  "desc": "Gempa besar 19 September 1985 menewaskan ribuan orang dan mengubah kebijakan kebencanaan serta hubungan masyarakat dengan negara.",
+                  "content": "<p class=\"mb-4\">Pada 19 September 1985 pukul 07.17 waktu setempat, gempa berkekuatan sekitar 8,0–8,1 mengguncang pantai Pasifik Meksiko dan Mexico City yang berjarak ratusan kilometer. Tanah lunak bekas dasar Danau Texcoco memperkuat gelombang, sehingga kerusakan di ibu kota jauh lebih besar daripada jaraknya dari episentrum. Gedung apartemen, rumah sakit, sekolah, dan fasilitas komunikasi runtuh atau rusak berat.</p> <p class=\"mb-4\">Angka korban resmi dan perkiraan independen berbeda karena banyak orang hilang dan data awal kacau. Ribuan orang meninggal, puluhan ribu terluka, dan ratusan ribu kehilangan tempat tinggal. Pemerintah awalnya dianggap lamban, sementara warga membentuk brigada de rescate, dapur umum, dan jaringan bantuan untuk mencari korban. Los Topos, kelompok penyelamat sukarela yang lahir dari tragedi ini, kemudian membantu operasi bencana di berbagai negara.</p> <p class=\"mb-4\">Rekonstruksi menghasilkan program perumahan, aturan bangunan yang lebih ketat, dan sistem peringatan gempa yang lebih baik. Gempa lain pada 20 September memperpanjang krisis dan menegaskan perlunya kesiapsiagaan. Peristiwa 1985 juga memperkuat organisasi masyarakat sipil dan menjadi titik penting dalam perkembangan politik urban Meksiko menjelang reformasi demokrasi 1990-an.</p>",
+                  "source": "USGS",
+                  "sourceUrl": "https://earthquake.usgs.gov/earthquakes/world/events/1985_09_19.php",
+                  "sourceSnippet": "USGS — Mexico Earthquake 1985",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/event/Mexico-City-earthquake-of-1985",
+                  "sourceSnippet2": "Britannica — Mexico City earthquake of 1985",
+                  "source3": "UNDRR",
+                  "sourceUrl3": "https://www.undrr.org/",
+                  "sourceSnippet3": "UNDRR — Disaster risk reduction resources"
+            },
+            "zh": {
+                  "title": "Gempa Mexico City 1985 dan Gerakan Masyarakat Sipil",
+                  "desc": "Gempa besar 19 September 1985 menewaskan ribuan orang dan mengubah kebijakan kebencanaan serta hubungan masyarakat dengan negara.",
+                  "content": "<p class=\"mb-4\">Pada 19 September 1985 pukul 07.17 waktu setempat, gempa berkekuatan sekitar 8,0–8,1 mengguncang pantai Pasifik Meksiko dan Mexico City yang berjarak ratusan kilometer. Tanah lunak bekas dasar Danau Texcoco memperkuat gelombang, sehingga kerusakan di ibu kota jauh lebih besar daripada jaraknya dari episentrum. Gedung apartemen, rumah sakit, sekolah, dan fasilitas komunikasi runtuh atau rusak berat.</p> <p class=\"mb-4\">Angka korban resmi dan perkiraan independen berbeda karena banyak orang hilang dan data awal kacau. Ribuan orang meninggal, puluhan ribu terluka, dan ratusan ribu kehilangan tempat tinggal. Pemerintah awalnya dianggap lamban, sementara warga membentuk brigada de rescate, dapur umum, dan jaringan bantuan untuk mencari korban. Los Topos, kelompok penyelamat sukarela yang lahir dari tragedi ini, kemudian membantu operasi bencana di berbagai negara.</p> <p class=\"mb-4\">Rekonstruksi menghasilkan program perumahan, aturan bangunan yang lebih ketat, dan sistem peringatan gempa yang lebih baik. Gempa lain pada 20 September memperpanjang krisis dan menegaskan perlunya kesiapsiagaan. Peristiwa 1985 juga memperkuat organisasi masyarakat sipil dan menjadi titik penting dalam perkembangan politik urban Meksiko menjelang reformasi demokrasi 1990-an.</p>",
+                  "source": "USGS",
+                  "sourceUrl": "https://earthquake.usgs.gov/earthquakes/world/events/1985_09_19.php",
+                  "sourceSnippet": "USGS — Mexico Earthquake 1985",
+                  "source2": "Encyclopaedia Britannica",
+                  "sourceUrl2": "https://www.britannica.com/event/Mexico-City-earthquake-of-1985",
+                  "sourceSnippet2": "Britannica — Mexico City earthquake of 1985",
+                  "source3": "UNDRR",
+                  "sourceUrl3": "https://www.undrr.org/",
+                  "sourceSnippet3": "UNDRR — Disaster risk reduction resources"
+            }
+      }
+}
+    ,{
+      "id": "meksiko-nafta-1994-perdagangan",
+      "langs": {
+            "id": {
+                  "title": "NAFTA 1994: Meksiko dan Integrasi Ekonomi Amerika Utara",
+                  "desc": "Perjanjian perdagangan bebas Amerika Utara menghubungkan Meksiko, Amerika Serikat, dan Kanada dalam rantai produksi regional.",
+                  "content": "<p class=\"mb-4\">North American Free Trade Agreement atau NAFTA ditandatangani oleh Meksiko, Amerika Serikat, dan Kanada pada 1992 dan mulai berlaku pada 1 Januari 1994. Perjanjian ini menghapus atau menurunkan banyak tarif, menetapkan aturan asal barang, dan membuka kerangka bagi investasi serta perdagangan jasa. Meksiko berharap integrasi tersebut menarik modal, meningkatkan ekspor, dan mempercepat pertumbuhan industri manufaktur.</p> <p class=\"mb-4\">NAFTA mendorong berkembangnya pabrik maquiladora dan rantai pasok lintas perbatasan untuk kendaraan, elektronik, mesin, serta produk pertanian. Perdagangan Meksiko dengan Amerika Serikat meningkat tajam, tetapi manfaatnya tidak merata. Sejumlah petani kecil menghadapi persaingan dari impor jagung, sementara kawasan industri utara tumbuh lebih cepat daripada banyak wilayah selatan.</p> <p class=\"mb-4\">Perjanjian itu digantikan oleh United States–Mexico–Canada Agreement atau USMCA pada 1 Juli 2020. USMCA mempertahankan sebagian besar akses pasar tetapi memperbarui aturan otomotif, tenaga kerja, lingkungan, dan perdagangan digital. Warisan NAFTA tetap menjadi perdebatan: pendukung menekankan integrasi dan ekspor, sedangkan pengkritik menyoroti ketimpangan wilayah, tekanan pada upah, dan ketergantungan ekonomi.</p>",
+                  "source": "Office of the United States Trade Representative",
+                  "sourceUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement",
+                  "sourceSnippet": "USTR — USMCA",
+                  "source2": "Congressional Research Service",
+                  "sourceUrl2": "https://crsreports.congress.gov/product/pdf/R/R42965",
+                  "sourceSnippet2": "CRS — NAFTA and the United States-Mexico-Canada Agreement",
+                  "source3": "World Bank",
+                  "sourceUrl3": "https://www.worldbank.org/en/country/mexico/overview",
+                  "sourceSnippet3": "World Bank — Mexico overview"
+            },
+            "en": {
+                  "title": "NAFTA 1994: Meksiko dan Integrasi Ekonomi Amerika Utara",
+                  "desc": "Perjanjian perdagangan bebas Amerika Utara menghubungkan Meksiko, Amerika Serikat, dan Kanada dalam rantai produksi regional.",
+                  "content": "<p class=\"mb-4\">North American Free Trade Agreement atau NAFTA ditandatangani oleh Meksiko, Amerika Serikat, dan Kanada pada 1992 dan mulai berlaku pada 1 Januari 1994. Perjanjian ini menghapus atau menurunkan banyak tarif, menetapkan aturan asal barang, dan membuka kerangka bagi investasi serta perdagangan jasa. Meksiko berharap integrasi tersebut menarik modal, meningkatkan ekspor, dan mempercepat pertumbuhan industri manufaktur.</p> <p class=\"mb-4\">NAFTA mendorong berkembangnya pabrik maquiladora dan rantai pasok lintas perbatasan untuk kendaraan, elektronik, mesin, serta produk pertanian. Perdagangan Meksiko dengan Amerika Serikat meningkat tajam, tetapi manfaatnya tidak merata. Sejumlah petani kecil menghadapi persaingan dari impor jagung, sementara kawasan industri utara tumbuh lebih cepat daripada banyak wilayah selatan.</p> <p class=\"mb-4\">Perjanjian itu digantikan oleh United States–Mexico–Canada Agreement atau USMCA pada 1 Juli 2020. USMCA mempertahankan sebagian besar akses pasar tetapi memperbarui aturan otomotif, tenaga kerja, lingkungan, dan perdagangan digital. Warisan NAFTA tetap menjadi perdebatan: pendukung menekankan integrasi dan ekspor, sedangkan pengkritik menyoroti ketimpangan wilayah, tekanan pada upah, dan ketergantungan ekonomi.</p>",
+                  "source": "Office of the United States Trade Representative",
+                  "sourceUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement",
+                  "sourceSnippet": "USTR — USMCA",
+                  "source2": "Congressional Research Service",
+                  "sourceUrl2": "https://crsreports.congress.gov/product/pdf/R/R42965",
+                  "sourceSnippet2": "CRS — NAFTA and the United States-Mexico-Canada Agreement",
+                  "source3": "World Bank",
+                  "sourceUrl3": "https://www.worldbank.org/en/country/mexico/overview",
+                  "sourceSnippet3": "World Bank — Mexico overview"
+            },
+            "ja": {
+                  "title": "NAFTA 1994: Meksiko dan Integrasi Ekonomi Amerika Utara",
+                  "desc": "Perjanjian perdagangan bebas Amerika Utara menghubungkan Meksiko, Amerika Serikat, dan Kanada dalam rantai produksi regional.",
+                  "content": "<p class=\"mb-4\">North American Free Trade Agreement atau NAFTA ditandatangani oleh Meksiko, Amerika Serikat, dan Kanada pada 1992 dan mulai berlaku pada 1 Januari 1994. Perjanjian ini menghapus atau menurunkan banyak tarif, menetapkan aturan asal barang, dan membuka kerangka bagi investasi serta perdagangan jasa. Meksiko berharap integrasi tersebut menarik modal, meningkatkan ekspor, dan mempercepat pertumbuhan industri manufaktur.</p> <p class=\"mb-4\">NAFTA mendorong berkembangnya pabrik maquiladora dan rantai pasok lintas perbatasan untuk kendaraan, elektronik, mesin, serta produk pertanian. Perdagangan Meksiko dengan Amerika Serikat meningkat tajam, tetapi manfaatnya tidak merata. Sejumlah petani kecil menghadapi persaingan dari impor jagung, sementara kawasan industri utara tumbuh lebih cepat daripada banyak wilayah selatan.</p> <p class=\"mb-4\">Perjanjian itu digantikan oleh United States–Mexico–Canada Agreement atau USMCA pada 1 Juli 2020. USMCA mempertahankan sebagian besar akses pasar tetapi memperbarui aturan otomotif, tenaga kerja, lingkungan, dan perdagangan digital. Warisan NAFTA tetap menjadi perdebatan: pendukung menekankan integrasi dan ekspor, sedangkan pengkritik menyoroti ketimpangan wilayah, tekanan pada upah, dan ketergantungan ekonomi.</p>",
+                  "source": "Office of the United States Trade Representative",
+                  "sourceUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement",
+                  "sourceSnippet": "USTR — USMCA",
+                  "source2": "Congressional Research Service",
+                  "sourceUrl2": "https://crsreports.congress.gov/product/pdf/R/R42965",
+                  "sourceSnippet2": "CRS — NAFTA and the United States-Mexico-Canada Agreement",
+                  "source3": "World Bank",
+                  "sourceUrl3": "https://www.worldbank.org/en/country/mexico/overview",
+                  "sourceSnippet3": "World Bank — Mexico overview"
+            },
+            "ko": {
+                  "title": "NAFTA 1994: Meksiko dan Integrasi Ekonomi Amerika Utara",
+                  "desc": "Perjanjian perdagangan bebas Amerika Utara menghubungkan Meksiko, Amerika Serikat, dan Kanada dalam rantai produksi regional.",
+                  "content": "<p class=\"mb-4\">North American Free Trade Agreement atau NAFTA ditandatangani oleh Meksiko, Amerika Serikat, dan Kanada pada 1992 dan mulai berlaku pada 1 Januari 1994. Perjanjian ini menghapus atau menurunkan banyak tarif, menetapkan aturan asal barang, dan membuka kerangka bagi investasi serta perdagangan jasa. Meksiko berharap integrasi tersebut menarik modal, meningkatkan ekspor, dan mempercepat pertumbuhan industri manufaktur.</p> <p class=\"mb-4\">NAFTA mendorong berkembangnya pabrik maquiladora dan rantai pasok lintas perbatasan untuk kendaraan, elektronik, mesin, serta produk pertanian. Perdagangan Meksiko dengan Amerika Serikat meningkat tajam, tetapi manfaatnya tidak merata. Sejumlah petani kecil menghadapi persaingan dari impor jagung, sementara kawasan industri utara tumbuh lebih cepat daripada banyak wilayah selatan.</p> <p class=\"mb-4\">Perjanjian itu digantikan oleh United States–Mexico–Canada Agreement atau USMCA pada 1 Juli 2020. USMCA mempertahankan sebagian besar akses pasar tetapi memperbarui aturan otomotif, tenaga kerja, lingkungan, dan perdagangan digital. Warisan NAFTA tetap menjadi perdebatan: pendukung menekankan integrasi dan ekspor, sedangkan pengkritik menyoroti ketimpangan wilayah, tekanan pada upah, dan ketergantungan ekonomi.</p>",
+                  "source": "Office of the United States Trade Representative",
+                  "sourceUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement",
+                  "sourceSnippet": "USTR — USMCA",
+                  "source2": "Congressional Research Service",
+                  "sourceUrl2": "https://crsreports.congress.gov/product/pdf/R/R42965",
+                  "sourceSnippet2": "CRS — NAFTA and the United States-Mexico-Canada Agreement",
+                  "source3": "World Bank",
+                  "sourceUrl3": "https://www.worldbank.org/en/country/mexico/overview",
+                  "sourceSnippet3": "World Bank — Mexico overview"
+            },
+            "zh": {
+                  "title": "NAFTA 1994: Meksiko dan Integrasi Ekonomi Amerika Utara",
+                  "desc": "Perjanjian perdagangan bebas Amerika Utara menghubungkan Meksiko, Amerika Serikat, dan Kanada dalam rantai produksi regional.",
+                  "content": "<p class=\"mb-4\">North American Free Trade Agreement atau NAFTA ditandatangani oleh Meksiko, Amerika Serikat, dan Kanada pada 1992 dan mulai berlaku pada 1 Januari 1994. Perjanjian ini menghapus atau menurunkan banyak tarif, menetapkan aturan asal barang, dan membuka kerangka bagi investasi serta perdagangan jasa. Meksiko berharap integrasi tersebut menarik modal, meningkatkan ekspor, dan mempercepat pertumbuhan industri manufaktur.</p> <p class=\"mb-4\">NAFTA mendorong berkembangnya pabrik maquiladora dan rantai pasok lintas perbatasan untuk kendaraan, elektronik, mesin, serta produk pertanian. Perdagangan Meksiko dengan Amerika Serikat meningkat tajam, tetapi manfaatnya tidak merata. Sejumlah petani kecil menghadapi persaingan dari impor jagung, sementara kawasan industri utara tumbuh lebih cepat daripada banyak wilayah selatan.</p> <p class=\"mb-4\">Perjanjian itu digantikan oleh United States–Mexico–Canada Agreement atau USMCA pada 1 Juli 2020. USMCA mempertahankan sebagian besar akses pasar tetapi memperbarui aturan otomotif, tenaga kerja, lingkungan, dan perdagangan digital. Warisan NAFTA tetap menjadi perdebatan: pendukung menekankan integrasi dan ekspor, sedangkan pengkritik menyoroti ketimpangan wilayah, tekanan pada upah, dan ketergantungan ekonomi.</p>",
+                  "source": "Office of the United States Trade Representative",
+                  "sourceUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement",
+                  "sourceSnippet": "USTR — USMCA",
+                  "source2": "Congressional Research Service",
+                  "sourceUrl2": "https://crsreports.congress.gov/product/pdf/R/R42965",
+                  "sourceSnippet2": "CRS — NAFTA and the United States-Mexico-Canada Agreement",
+                  "source3": "World Bank",
+                  "sourceUrl3": "https://www.worldbank.org/en/country/mexico/overview",
+                  "sourceSnippet3": "World Bank — Mexico overview"
+            }
+      }
+}
   ]
 };

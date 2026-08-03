@@ -2319,6 +2319,182 @@ window.countryDataFiles['meksiko'] = {
       "source3": "Library of Congress — Mexico",
       "sourceUrl3": "https://www.loc.gov/",
       "sourceSnippet3": "Library of Congress — Mexico"
+    },
+    {
+      "id": "meksiko-pandemi-influenza-1918",
+      "langs": {
+        "id": {
+          "title": "Pandemi Influenza 1918 di Meksiko",
+          "desc": "Pandemi 1918 mengubah demografi, kesehatan publik, dan kebijakan sosial Meksiko.",
+          "content": "<p class=\"mb-4\">Pandemi influenza H1N1 tahun 1918 menyebar ke Meksiko pada tahun yang sama ketika Revolusi Meksiko belum berakhir. Data kematian nasional tidak lengkap karena perang dan pencatatan sipil yang tidak seragam, tetapi arsip lokal menunjukkan wabah besar di berbagai wilayah.</p><p class=\"mb-4\">Wabah memperlihatkan lemahnya sistem kesehatan, terutama di daerah pedesaan dan komunitas adat. Pemerintah daerah menggunakan penutupan sekolah, pembatasan kerumunan, karantina, dan kampanye kebersihan, meskipun pelaksanaannya berbeda-beda.</p><p class=\"mb-4\">Pengalaman 1918 mendorong perhatian lebih besar terhadap kesehatan publik dan kapasitas negara setelah revolusi. Seperti di banyak negara, pandemi juga memperlihatkan bahwa kemiskinan, kepadatan hunian, dan akses layanan kesehatan sangat menentukan dampak penyakit.</p>"
+        },
+        "en": {
+          "title": "The 1918 Influenza Pandemic in Mexico",
+          "desc": "The 1918 pandemic reshaped Mexico’s demographics, public health, and social policy.",
+          "content": "<p class=\"mb-4\">The H1N1 influenza pandemic reached Mexico in 1918, while the Mexican Revolution had not yet ended. National death data are incomplete because of war and uneven civil registration, but local archives document severe outbreaks in many regions.</p><p class=\"mb-4\">The outbreak exposed the weakness of the health system, particularly in rural areas and Indigenous communities. Local authorities used school closures, limits on gatherings, quarantine, and hygiene campaigns, although implementation varied widely.</p><p class=\"mb-4\">The 1918 experience increased attention to public health and state capacity after the revolution. As elsewhere, the pandemic showed that poverty, crowded housing, and access to care strongly shaped disease outcomes.</p>"
+        },
+        "ja": {
+          "title": "メキシコの1918年インフルエンザ・パンデミック",
+          "desc": "1918年のパンデミックはメキシコの人口、公共衛生、社会政策を変えた。",
+          "content": "<p class=\"mb-4\">H1N1インフルエンザはメキシコ革命が終わっていない1918年にメキシコへ広がった。戦争と不統一な戸籍のため全国の死者数は不完全だが、各地の記録は大規模な流行を示している。</p><p class=\"mb-4\">流行は、特に農村と先住民コミュニティで医療制度の弱さを露呈した。地方当局は休校、集会制限、隔離、衛生キャンペーンを行ったが、実施状況は地域で異なった。</p><p class=\"mb-4\">1918年の経験は革命後の公衆衛生と国家能力への関心を高めた。貧困、過密住宅、医療へのアクセスが疾病の影響を左右することも明らかになった。</p>"
+        },
+        "ko": {
+          "title": "멕시코의 1918년 인플루엔자 대유행",
+          "desc": "1918년 대유행은 멕시코의 인구와 공중보건, 사회정책을 바꾸었다.",
+          "content": "<p class=\"mb-4\">H1N1 인플루엔자는 멕시코 혁명이 끝나지 않은 1918년 멕시코로 퍼졌다. 전쟁과 불균일한 민사 기록 때문에 전국 사망 자료는 불완전하지만 지역 기록은 여러 지역의 대규모 유행을 보여준다.</p><p class=\"mb-4\">유행은 특히 농촌과 원주민 공동체에서 보건 체계의 취약성을 드러냈다. 지방 당국은 휴교, 집회 제한, 격리, 위생 캠페인을 시행했지만 실행은 지역마다 달랐다.</p><p class=\"mb-4\">1918년 경험은 혁명 이후 공중보건과 국가 역량에 대한 관심을 높였다. 빈곤, 과밀 주거, 의료 접근성이 질병의 영향을 좌우한다는 점도 드러났다.</p>"
+        },
+        "zh": {
+          "title": "墨西哥的1918年流感大流行",
+          "desc": "1918年大流行改变了墨西哥的人口、公共卫生和社会政策。",
+          "content": "<p class=\"mb-4\">H1N1流感于1918年传入墨西哥，当时墨西哥革命尚未结束。由于战争和民事登记不完整，全国死亡数据并不完整，但地方档案记录了许多地区的严重疫情。</p><p class=\"mb-4\">疫情暴露了卫生系统的薄弱，尤其是在农村和原住民社区。地方政府采取停课、限制聚集、隔离和卫生宣传，但执行程度各不相同。</p><p class=\"mb-4\">1918年的经历提高了革命后对公共卫生和国家能力的重视。疫情也表明贫困、住房拥挤和医疗可及性深刻影响疾病结果。</p>"
+        }
+      },
+      "sources": [
+        {
+          "title": "Britannica — Influenza pandemic of 1918",
+          "url": "https://www.britannica.com/event/influenza-pandemic-of-1918-1919"
+        },
+        {
+          "title": "WHO — History of influenza",
+          "url": "https://www.who.int/news-room/spotlight/influenza-are-we-ready"
+        },
+        {
+          "title": "UNAM — Historia de la salud pública en México",
+          "url": "https://www.facmed.unam.mx/"
+        }
+      ]
+    },
+    {
+      "id": "meksiko-krisis-utang-1982",
+      "langs": {
+        "id": {
+          "title": "Krisis Utang Meksiko 1982 dan Dekade yang Hilang",
+          "desc": "Krisis 1982 memicu resesi panjang, devaluasi peso, dan perubahan besar dalam kebijakan ekonomi Meksiko.",
+          "content": "<p class=\"mb-4\">Pada Agustus 1982, pemerintah Meksiko menyatakan tidak mampu memenuhi kewajiban utang luar negerinya. Krisis ini didahului pinjaman besar pada era harga minyak tinggi, lalu diperparah kenaikan suku bunga Amerika Serikat dan jatuhnya harga minyak.</p><p class=\"mb-4\">Pemerintah mendevaluasi peso, menasionalisasi bank, dan meminta bantuan IMF. Inflasi dan pengangguran meningkat, sementara pendapatan riil turun sepanjang 1980-an. Krisis Meksiko ikut memicu krisis utang Amerika Latin.</p><p class=\"mb-4\">Program stabilisasi berikutnya menekankan disiplin fiskal, privatisasi, dan liberalisasi perdagangan. Pengalaman ini menjelaskan mengapa Meksiko menandatangani NAFTA pada 1994 dan berusaha mengikat kebijakan ekonominya pada pasar global.</p>"
+        },
+        "en": {
+          "title": "Mexico’s 1982 Debt Crisis and the Lost Decade",
+          "desc": "The 1982 crisis triggered a long recession, peso devaluation, and a major shift in Mexico’s economic policy.",
+          "content": "<p class=\"mb-4\">In August 1982, Mexico’s government announced that it could no longer meet its foreign-debt obligations. The crisis followed heavy borrowing during high oil prices and was worsened by rising US interest rates and falling oil prices.</p><p class=\"mb-4\">The government devalued the peso, nationalized banks, and sought IMF assistance. Inflation and unemployment rose while real incomes declined during the 1980s. Mexico’s crisis helped trigger the broader Latin American debt crisis.</p><p class=\"mb-4\">Later stabilization programs emphasized fiscal discipline, privatization, and trade liberalization. This experience helps explain Mexico’s decision to sign NAFTA in 1994 and tie more of its economy to global markets.</p>"
+        },
+        "ja": {
+          "title": "メキシコの1982年債務危機と失われた10年",
+          "desc": "1982年危機は長い景気後退、ペソ切り下げ、経済政策の大転換を招いた。",
+          "content": "<p class=\"mb-4\">1982年8月、メキシコ政府は対外債務を履行できないと発表した。高い原油価格期の大量借入に加え、米国金利上昇と原油価格下落が危機を悪化させた。</p><p class=\"mb-4\">政府はペソを切り下げ、銀行を国有化し、IMFの支援を求めた。1980年代にはインフレと失業が上昇し、実質所得が低下した。</p><p class=\"mb-4\">その後の安定化政策は財政規律、民営化、貿易自由化を重視した。この経験は1994年のNAFTA締結と世界市場への統合を説明する。</p>"
+        },
+        "ko": {
+          "title": "멕시코 1982년 외채 위기와 잃어버린 10년",
+          "desc": "1982년 위기는 장기 침체와 페소 평가절하, 경제정책의 큰 전환을 일으켰다.",
+          "content": "<p class=\"mb-4\">1982년 8월 멕시코 정부는 외채 의무를 이행할 수 없다고 발표했다. 높은 유가 시기의 대규모 차입에 미국 금리 상승과 유가 하락이 겹쳐 위기가 악화됐다.</p><p class=\"mb-4\">정부는 페소를 평가절하하고 은행을 국유화했으며 IMF 지원을 요청했다. 1980년대 인플레이션과 실업이 상승하고 실질소득은 하락했다. 멕시코 위기는 중남미 외채 위기를 촉발했다.</p><p class=\"mb-4\">이후 안정화 정책은 재정 규율, 민영화, 무역 자유화를 중시했다. 이 경험은 멕시코가 1994년 NAFTA를 체결하고 세계시장과 통합한 배경을 설명한다.</p>"
+        },
+        "zh": {
+          "title": "墨西哥1982年债务危机与失去的十年",
+          "desc": "1982年危机引发长期衰退、比索贬值和墨西哥经济政策的重大转变。",
+          "content": "<p class=\"mb-4\">1982年8月，墨西哥政府宣布无法履行外债义务。高油价时期的大量借款，加上美国利率上升和油价下跌，使危机恶化。</p><p class=\"mb-4\">政府让比索贬值、将银行国有化并寻求IMF援助。20世纪80年代通胀和失业上升，实际收入下降，危机也助推了拉美债务危机。</p><p class=\"mb-4\">随后的稳定计划强调财政纪律、私有化和贸易自由化。这段经历解释了墨西哥1994年签署北美自贸协定并融入全球市场。</p>"
+        }
+      },
+      "sources": [
+        {
+          "title": "IMF — Mexico and the 1980s debt crisis",
+          "url": "https://www.imf.org/external/pubs/ft/fandd/1999/09/ros.htm"
+        },
+        {
+          "title": "World Bank — Mexico overview",
+          "url": "https://www.worldbank.org/en/country/mexico/overview"
+        },
+        {
+          "title": "Federal Reserve History — Latin American Debt Crisis",
+          "url": "https://www.federalreservehistory.org/essays/latin-american-debt-crisis"
+        }
+      ]
+    },
+    {
+      "id": "meksiko-pemberontakan-zapatista-1994",
+      "langs": {
+        "id": {
+          "title": "Pemberontakan Zapatista 1994 dan Politik Pribumi",
+          "desc": "Pemberontakan di Chiapas mengangkat isu tanah, hak adat, dan dampak NAFTA ke panggung nasional.",
+          "content": "<p class=\"mb-4\">Pada 1 Januari 1994, hari NAFTA mulai berlaku, Ejército Zapatista de Liberación Nacional (EZLN) menduduki beberapa kota di Chiapas. Gerakan yang dipimpin Subcomandante Marcos menyatakan bahwa petani adat menghadapi kemiskinan, kehilangan tanah, dan keterwakilan politik yang terbatas.</p><p class=\"mb-4\">Pemerintah dan EZLN menyepakati gencatan senjata setelah pertempuran singkat. Dialog San Andrés kemudian membahas hak dan budaya adat, tetapi kesepakatan yang dicapai tidak sepenuhnya diterapkan. Gerakan itu beralih dari perang terbuka ke organisasi masyarakat dan komunikasi digital.</p><p class=\"mb-4\">Pemberontakan Zapatista memengaruhi gerakan alter-globalisasi dan memperkenalkan isu hak adat ke perdebatan konstitusional Meksiko. Pada 2001, Kongres mengesahkan reformasi konstitusi tentang hak masyarakat adat, meski EZLN menilai hasilnya tidak memadai.</p>"
+        },
+        "en": {
+          "title": "The 1994 Zapatista Uprising and Indigenous Politics",
+          "desc": "The Chiapas uprising brought land, Indigenous rights, and NAFTA’s impact onto the national stage.",
+          "content": "<p class=\"mb-4\">On January 1, 1994, the day NAFTA entered into force, the Ejército Zapatista de Liberación Nacional (EZLN) occupied several towns in Chiapas. Led by Subcomandante Marcos, the movement said Indigenous farmers faced poverty, land loss, and limited political representation.</p><p class=\"mb-4\">The government and EZLN agreed to a ceasefire after brief fighting. The San Andrés dialogues then addressed Indigenous rights and culture, but the agreements were not fully implemented. The movement shifted from open warfare to community organizing and digital communication.</p><p class=\"mb-4\">The Zapatista uprising influenced alter-globalization movements and brought Indigenous rights into Mexico’s constitutional debate. In 2001, Congress passed constitutional reforms on Indigenous rights, although the EZLN considered them inadequate.</p>"
+        },
+        "ja": {
+          "title": "1994年サパティスタ蜂起と先住民政治",
+          "desc": "チアパスの蜂起は土地、先住民の権利、NAFTAの影響を全国的議題にした。",
+          "content": "<p class=\"mb-4\">NAFTA発効日である1994年1月1日、サパティスタ民族解放軍（EZLN）はチアパス州の複数都市を占拠した。マルコス副司令官に率いられ、先住民農民の貧困、土地喪失、政治的代表の不足を訴えた。</p><p class=\"mb-4\">短い戦闘の後、政府とEZLNは停戦した。サン・アンドレス対話は先住民の権利と文化を議論したが、合意は完全には実施されなかった。運動は公開戦闘から地域組織とデジタル発信へ移った。</p><p class=\"mb-4\">蜂起は反グローバリゼーション運動に影響し、先住民の権利を憲法論議に押し上げた。2001年、議会は先住民権利の改正を可決したが、EZLNは不十分と評価した。</p>"
+        },
+        "ko": {
+          "title": "1994년 사파티스타 봉기와 원주민 정치",
+          "desc": "치아파스 봉기는 토지와 원주민 권리, NAFTA의 영향을 국가 의제로 끌어올렸다.",
+          "content": "<p class=\"mb-4\">NAFTA가 발효된 1994년 1월 1일, 사파티스타 민족해방군(EZLN)은 치아파스의 여러 도시를 점령했다. 마르코스 부사령관이 이끈 운동은 원주민 농민의 빈곤, 토지 상실, 제한된 정치 대표를 문제 삼았다.</p><p class=\"mb-4\">짧은 전투 뒤 정부와 EZLN은 휴전에 합의했다. 산안드레스 대화는 원주민 권리와 문화를 논의했지만 합의는 완전히 이행되지 않았다. 운동은 공개 전투에서 공동체 조직과 디지털 소통으로 전환했다.</p><p class=\"mb-4\">봉기는 반세계화 운동에 영향을 주고 원주민 권리를 헌법 논쟁에 올렸다. 2001년 의회가 원주민 권리 헌법 개정을 통과시켰지만 EZLN은 불충분하다고 평가했다.</p>"
+        },
+        "zh": {
+          "title": "1994年萨帕塔主义起义与原住民政治",
+          "desc": "恰帕斯起义将土地、原住民权利和北美自贸协定影响带入全国议程。",
+          "content": "<p class=\"mb-4\">1994年1月1日北美自贸协定生效当天，萨帕塔民族解放军（EZLN）占领了恰帕斯州数座城镇。马科斯副司令领导的运动指出原住民农民面临贫困、失地和政治代表不足。</p><p class=\"mb-4\">短暂战斗后，政府和EZLN达成停火。圣安德烈斯对话讨论原住民权利和文化，但协议没有完全实施。运动从公开战争转向社区组织和数字传播。</p><p class=\"mb-4\">萨帕塔主义起义影响了反全球化运动，并将原住民权利带入墨西哥宪法讨论。2001年国会通过原住民权利修宪，但EZLN认为不够。</p>"
+        }
+      },
+      "sources": [
+        {
+          "title": "Encyclopaedia Britannica — Zapatista National Liberation Army",
+          "url": "https://www.britannica.com/topic/Zapatista-National-Liberation-Army"
+        },
+        {
+          "title": "CFR — Mexico’s Zapatista Movement",
+          "url": "https://www.cfr.org/backgrounder/mexicos-zapatista-movement"
+        },
+        {
+          "title": "UN — Indigenous Peoples and Mexico",
+          "url": "https://www.un.org/development/desa/indigenouspeoples/"
+        }
+      ]
+    },
+    {
+      "id": "meksiko-gempa-2017-rekonstruksi",
+      "langs": {
+        "id": {
+          "title": "Gempa Meksiko 2017 dan Ketangguhan Masyarakat",
+          "desc": "Dua gempa besar pada September 2017 menguji sistem peringatan, bangunan, dan solidaritas masyarakat Meksiko.",
+          "content": "<p class=\"mb-4\">Pada 7 September 2017, gempa berkekuatan 8,2 mengguncang lepas pantai Chiapas dan terasa hingga Kota Meksiko. Beberapa hari kemudian, pada 19 September—tepat 32 tahun setelah gempa 1985—gempa berkekuatan 7,1 merusak Puebla, Morelos, dan Kota Meksiko.</p><p class=\"mb-4\">Runtuhnya bangunan menewaskan ratusan orang dan merusak sekolah, rumah, serta fasilitas kesehatan. Sistem peringatan dini memberi waktu berbeda-beda bergantung jarak, tetapi tidak dapat mencegah kerusakan. Relawan dan warga menggunakan media sosial untuk mengoordinasikan penyelamatan dan distribusi bantuan.</p><p class=\"mb-4\">Bencana mendorong pemeriksaan ulang peraturan bangunan, pengawasan konstruksi, dan kesiapsiagaan sekolah. Seperti gempa 1985, respons warga memperkuat organisasi sipil, sementara pengalaman 2017 memperlihatkan bahwa standar teknis harus disertai penegakan dan kesiapan lokal.</p>"
+        },
+        "en": {
+          "title": "Mexico’s 2017 Earthquakes and Community Resilience",
+          "desc": "Two major earthquakes in September 2017 tested Mexico’s alerts, buildings, and civic solidarity.",
+          "content": "<p class=\"mb-4\">On September 7, 2017, an magnitude 8.2 earthquake struck offshore Chiapas and was felt as far as Mexico City. Days later, on September 19—exactly 32 years after the 1985 earthquake—a magnitude 7.1 quake damaged Puebla, Morelos, and Mexico City.</p><p class=\"mb-4\">Collapsed buildings killed hundreds and damaged schools, homes, and health facilities. The early-warning system provided different amounts of time depending on distance, but it could not prevent damage. Volunteers and residents used social media to coordinate rescue and aid distribution.</p><p class=\"mb-4\">The disasters prompted renewed review of building codes, construction oversight, and school preparedness. As in 1985, citizen response strengthened civil organizations, while 2017 showed that technical standards must be paired with enforcement and local readiness.</p>"
+        },
+        "ja": {
+          "title": "メキシコの2017年地震と市民の強靭性",
+          "desc": "2017年9月の2つの大地震はメキシコの警報、建物、市民連帯を試した。",
+          "content": "<p class=\"mb-4\">2017年9月7日、マグニチュード8.2の地震がチアパス沖を襲い、メキシコシティまで揺れた。数日後の9月19日、1985年地震からちょうど32年後にM7.1の地震がプエブラ、モレロス、メキシコシティを損壊させた。</p><p class=\"mb-4\">建物の倒壊で数百人が死亡し、学校、住宅、医療施設が被害を受けた。早期警報の時間は距離で異なり、被害を防げなかった。住民はSNSで救助と支援を調整した。</p><p class=\"mb-4\">災害は建築基準、建設監督、学校の備えの再検討を促した。1985年と同様、市民の対応が市民組織を強め、技術基準には執行と地域の準備が必要だと示した。</p>"
+        },
+        "ko": {
+          "title": "멕시코 2017년 지진과 시민 회복력",
+          "desc": "2017년 9월 두 차례 대지진은 멕시코의 경보와 건물, 시민 연대를 시험했다.",
+          "content": "<p class=\"mb-4\">2017년 9월 7일 규모 8.2 지진이 치아파스 앞바다를 강타해 멕시코시티까지 흔들었다. 며칠 뒤 9월 19일, 1985년 지진 32주년에 규모 7.1 지진이 푸에블라·모렐로스·멕시코시티를 훼손했다.</p><p class=\"mb-4\">건물 붕괴로 수백 명이 사망하고 학교·주택·의료시설이 피해를 입었다. 조기경보는 거리에 따라 시간을 제공했지만 피해를 막지는 못했다. 주민들은 소셜미디어로 구조와 구호를 조정했다.</p><p class=\"mb-4\">재난은 건축 기준, 건설 감독, 학교 대비를 재검토하게 했다. 1985년처럼 시민 대응이 시민조직을 강화했고 기술 기준에는 집행과 지역 준비가 필요함을 보여주었다.</p>"
+        },
+        "zh": {
+          "title": "墨西哥2017年地震与社会韧性",
+          "desc": "2017年9月的两次大地震考验了墨西哥的预警、建筑和公民团结。",
+          "content": "<p class=\"mb-4\">2017年9月7日，8.2级地震袭击恰帕斯近海，墨西哥城也有震感。几天后的9月19日，正值1985年地震32周年，7.1级地震破坏了普埃布拉、莫雷洛斯和墨西哥城。</p><p class=\"mb-4\">建筑倒塌造成数百人死亡，学校、住宅和医疗设施受损。预警系统按距离提供不同时间，但无法阻止破坏。居民利用社交媒体协调救援和援助分发。</p><p class=\"mb-4\">灾害促使重新审查建筑规范、施工监管和学校准备。与1985年一样，公民响应加强了民间组织，也显示技术标准必须配合执行和地方准备。</p>"
+        }
+      },
+      "sources": [
+        {
+          "title": "USGS — Mexico earthquakes 2017",
+          "url": "https://earthquake.usgs.gov/earthquakes/browse/"
+        },
+        {
+          "title": "CENAPRED — Sismos de septiembre de 2017",
+          "url": "https://www.gob.mx/cenapred"
+        },
+        {
+          "title": "UNDRR — Mexico disaster risk reduction",
+          "url": "https://www.undrr.org/"
+        }
+      ]
     }
   ]
 };

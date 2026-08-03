@@ -2495,6 +2495,138 @@ window.countryDataFiles['meksiko'] = {
           "url": "https://www.undrr.org/"
         }
       ]
+    },
+    {
+      "id": "meksiko-krisis-peso-1994",
+      "langs": {
+        "id": {
+          "title": "Krisis Peso Meksiko 1994",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada Desember 1994, pemerintah Meksiko mendevaluasi peso setelah cadangan devisa turun dan tekanan pasar meningkat. Banyak perusahaan memiliki utang dalam dolar sehingga biaya pembayaran melonjak.</p><p class=\"mb-4\">Amerika Serikat dan IMF memimpin paket bantuan sekitar 50 miliar dolar untuk mencegah gagal bayar. Krisis menyebabkan resesi, pengangguran, dan penurunan standar hidup.</p><p class=\"mb-4\">Dampaknya menyebar ke pasar negara berkembang dan dikenal sebagai Efek Tequila. Krisis mendorong reformasi regulasi keuangan dan perdebatan tentang biaya sosial liberalisasi.</p>"
+        },
+        "en": {
+          "title": "Mexico’s 1994 Peso Crisis",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada Desember 1994, pemerintah Meksiko mendevaluasi peso setelah cadangan devisa turun dan tekanan pasar meningkat. Banyak perusahaan memiliki utang dalam dolar sehingga biaya pembayaran melonjak.</p><p class=\"mb-4\">Amerika Serikat dan IMF memimpin paket bantuan sekitar 50 miliar dolar untuk mencegah gagal bayar. Krisis menyebabkan resesi, pengangguran, dan penurunan standar hidup.</p><p class=\"mb-4\">Dampaknya menyebar ke pasar negara berkembang dan dikenal sebagai Efek Tequila. Krisis mendorong reformasi regulasi keuangan dan perdebatan tentang biaya sosial liberalisasi.</p>"
+        },
+        "ja": {
+          "title": "メキシコの1994年ペソ危機",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada Desember 1994, pemerintah Meksiko mendevaluasi peso setelah cadangan devisa turun dan tekanan pasar meningkat. Banyak perusahaan memiliki utang dalam dolar sehingga biaya pembayaran melonjak.</p><p class=\"mb-4\">Amerika Serikat dan IMF memimpin paket bantuan sekitar 50 miliar dolar untuk mencegah gagal bayar. Krisis menyebabkan resesi, pengangguran, dan penurunan standar hidup.</p><p class=\"mb-4\">Dampaknya menyebar ke pasar negara berkembang dan dikenal sebagai Efek Tequila. Krisis mendorong reformasi regulasi keuangan dan perdebatan tentang biaya sosial liberalisasi.</p>"
+        },
+        "ko": {
+          "title": "멕시코 1994년 페소 위기",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada Desember 1994, pemerintah Meksiko mendevaluasi peso setelah cadangan devisa turun dan tekanan pasar meningkat. Banyak perusahaan memiliki utang dalam dolar sehingga biaya pembayaran melonjak.</p><p class=\"mb-4\">Amerika Serikat dan IMF memimpin paket bantuan sekitar 50 miliar dolar untuk mencegah gagal bayar. Krisis menyebabkan resesi, pengangguran, dan penurunan standar hidup.</p><p class=\"mb-4\">Dampaknya menyebar ke pasar negara berkembang dan dikenal sebagai Efek Tequila. Krisis mendorong reformasi regulasi keuangan dan perdebatan tentang biaya sosial liberalisasi.</p>"
+        },
+        "zh": {
+          "title": "墨西哥1994年比索危机",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada Desember 1994, pemerintah Meksiko mendevaluasi peso setelah cadangan devisa turun dan tekanan pasar meningkat. Banyak perusahaan memiliki utang dalam dolar sehingga biaya pembayaran melonjak.</p><p class=\"mb-4\">Amerika Serikat dan IMF memimpin paket bantuan sekitar 50 miliar dolar untuk mencegah gagal bayar. Krisis menyebabkan resesi, pengangguran, dan penurunan standar hidup.</p><p class=\"mb-4\">Dampaknya menyebar ke pasar negara berkembang dan dikenal sebagai Efek Tequila. Krisis mendorong reformasi regulasi keuangan dan perdebatan tentang biaya sosial liberalisasi.</p>"
+        }
+      },
+      "sources": [
+        {
+          "title": "Federal Reserve History — Mexican Peso Crisis",
+          "url": "https://www.federalreservehistory.org/essays/mexican-peso-crisis"
+        },
+        {
+          "title": "IMF — Mexico 1994 crisis",
+          "url": "https://www.imf.org/external/pubs/ft/fandd/1999/06/naim.htm"
+        },
+        {
+          "title": "U.S. Treasury",
+          "url": "https://home.treasury.gov/"
+        }
+      ]
+    },
+    {
+      "id": "meksiko-ayotzinapa-2014",
+      "langs": {
+        "id": {
+          "title": "Kasus Ayotzinapa 2014",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada September 2014, 43 mahasiswa calon guru dari Ayotzinapa hilang setelah dicegat di Iguala, Guerrero. Kasus ini menjadi salah satu krisis hak asasi paling penting dalam sejarah Meksiko modern.</p><p class=\"mb-4\">Investigasi resmi awal dikritik keluarga korban dan pakar independen karena kelemahan metodologi dan dugaan penyiksaan. Banyak aspek kasus tetap belum terjelaskan.</p><p class=\"mb-4\">Kasus ini memicu demonstrasi besar, tuntutan pencarian orang hilang, dan perdebatan reformasi kejaksaan serta polisi. Keluarga korban terus menuntut kebenaran dan keadilan.</p>"
+        },
+        "en": {
+          "title": "The 2014 Ayotzinapa Case",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada September 2014, 43 mahasiswa calon guru dari Ayotzinapa hilang setelah dicegat di Iguala, Guerrero. Kasus ini menjadi salah satu krisis hak asasi paling penting dalam sejarah Meksiko modern.</p><p class=\"mb-4\">Investigasi resmi awal dikritik keluarga korban dan pakar independen karena kelemahan metodologi dan dugaan penyiksaan. Banyak aspek kasus tetap belum terjelaskan.</p><p class=\"mb-4\">Kasus ini memicu demonstrasi besar, tuntutan pencarian orang hilang, dan perdebatan reformasi kejaksaan serta polisi. Keluarga korban terus menuntut kebenaran dan keadilan.</p>"
+        },
+        "ja": {
+          "title": "2014年アヨツィナパ事件",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada September 2014, 43 mahasiswa calon guru dari Ayotzinapa hilang setelah dicegat di Iguala, Guerrero. Kasus ini menjadi salah satu krisis hak asasi paling penting dalam sejarah Meksiko modern.</p><p class=\"mb-4\">Investigasi resmi awal dikritik keluarga korban dan pakar independen karena kelemahan metodologi dan dugaan penyiksaan. Banyak aspek kasus tetap belum terjelaskan.</p><p class=\"mb-4\">Kasus ini memicu demonstrasi besar, tuntutan pencarian orang hilang, dan perdebatan reformasi kejaksaan serta polisi. Keluarga korban terus menuntut kebenaran dan keadilan.</p>"
+        },
+        "ko": {
+          "title": "2014년 아요치나파 사건",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada September 2014, 43 mahasiswa calon guru dari Ayotzinapa hilang setelah dicegat di Iguala, Guerrero. Kasus ini menjadi salah satu krisis hak asasi paling penting dalam sejarah Meksiko modern.</p><p class=\"mb-4\">Investigasi resmi awal dikritik keluarga korban dan pakar independen karena kelemahan metodologi dan dugaan penyiksaan. Banyak aspek kasus tetap belum terjelaskan.</p><p class=\"mb-4\">Kasus ini memicu demonstrasi besar, tuntutan pencarian orang hilang, dan perdebatan reformasi kejaksaan serta polisi. Keluarga korban terus menuntut kebenaran dan keadilan.</p>"
+        },
+        "zh": {
+          "title": "2014年阿约齐纳帕事件",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Pada September 2014, 43 mahasiswa calon guru dari Ayotzinapa hilang setelah dicegat di Iguala, Guerrero. Kasus ini menjadi salah satu krisis hak asasi paling penting dalam sejarah Meksiko modern.</p><p class=\"mb-4\">Investigasi resmi awal dikritik keluarga korban dan pakar independen karena kelemahan metodologi dan dugaan penyiksaan. Banyak aspek kasus tetap belum terjelaskan.</p><p class=\"mb-4\">Kasus ini memicu demonstrasi besar, tuntutan pencarian orang hilang, dan perdebatan reformasi kejaksaan serta polisi. Keluarga korban terus menuntut kebenaran dan keadilan.</p>"
+        }
+      },
+      "sources": [
+        {
+          "title": "IACHR — Ayotzinapa",
+          "url": "https://www.oas.org/en/iachr/"
+        },
+        {
+          "title": "OHCHR — Mexico",
+          "url": "https://www.ohchr.org/en/countries/mexico"
+        },
+        {
+          "title": "BBC — Ayotzinapa",
+          "url": "https://www.bbc.com/news/world-latin-america-29766014"
+        }
+      ]
+    },
+    {
+      "id": "meksiko-pandemi-covid-2020",
+      "langs": {
+        "id": {
+          "title": "Pandemi COVID-19 di Meksiko sejak 2020",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Meksiko mengonfirmasi kasus COVID-19 pertama pada Februari 2020. Pemerintah mengurangi aktivitas ekonomi dan pendidikan tatap muka, sementara rumah sakit menghadapi tekanan besar.</p><p class=\"mb-4\">Dampaknya tidak merata: pekerja informal, keluarga berpenghasilan rendah, dan komunitas dengan akses layanan terbatas menghadapi risiko lebih besar. Sekolah beralih ke pembelajaran jarak jauh.</p><p class=\"mb-4\">Vaksinasi dimulai pada akhir 2020 dan berkembang melalui pembelian serta produksi lokal. Pandemi meninggalkan pelajaran tentang kesehatan publik, ketimpangan, komunikasi risiko, dan data tepercaya.</p>"
+        },
+        "en": {
+          "title": "The COVID-19 Pandemic in Mexico Since 2020",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Meksiko mengonfirmasi kasus COVID-19 pertama pada Februari 2020. Pemerintah mengurangi aktivitas ekonomi dan pendidikan tatap muka, sementara rumah sakit menghadapi tekanan besar.</p><p class=\"mb-4\">Dampaknya tidak merata: pekerja informal, keluarga berpenghasilan rendah, dan komunitas dengan akses layanan terbatas menghadapi risiko lebih besar. Sekolah beralih ke pembelajaran jarak jauh.</p><p class=\"mb-4\">Vaksinasi dimulai pada akhir 2020 dan berkembang melalui pembelian serta produksi lokal. Pandemi meninggalkan pelajaran tentang kesehatan publik, ketimpangan, komunikasi risiko, dan data tepercaya.</p>"
+        },
+        "ja": {
+          "title": "2020年以降のメキシコCOVID-19",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Meksiko mengonfirmasi kasus COVID-19 pertama pada Februari 2020. Pemerintah mengurangi aktivitas ekonomi dan pendidikan tatap muka, sementara rumah sakit menghadapi tekanan besar.</p><p class=\"mb-4\">Dampaknya tidak merata: pekerja informal, keluarga berpenghasilan rendah, dan komunitas dengan akses layanan terbatas menghadapi risiko lebih besar. Sekolah beralih ke pembelajaran jarak jauh.</p><p class=\"mb-4\">Vaksinasi dimulai pada akhir 2020 dan berkembang melalui pembelian serta produksi lokal. Pandemi meninggalkan pelajaran tentang kesehatan publik, ketimpangan, komunikasi risiko, dan data tepercaya.</p>"
+        },
+        "ko": {
+          "title": "2020년 이후 멕시코 코로나19",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Meksiko mengonfirmasi kasus COVID-19 pertama pada Februari 2020. Pemerintah mengurangi aktivitas ekonomi dan pendidikan tatap muka, sementara rumah sakit menghadapi tekanan besar.</p><p class=\"mb-4\">Dampaknya tidak merata: pekerja informal, keluarga berpenghasilan rendah, dan komunitas dengan akses layanan terbatas menghadapi risiko lebih besar. Sekolah beralih ke pembelajaran jarak jauh.</p><p class=\"mb-4\">Vaksinasi dimulai pada akhir 2020 dan berkembang melalui pembelian serta produksi lokal. Pandemi meninggalkan pelajaran tentang kesehatan publik, ketimpangan, komunikasi risiko, dan data tepercaya.</p>"
+        },
+        "zh": {
+          "title": "墨西哥自2020年以来的新冠疫情",
+          "desc": "Artikel sejarah Meksiko yang didokumentasikan oleh sumber resmi dan tepercaya.",
+          "content": "<p class=\"mb-4\">Meksiko mengonfirmasi kasus COVID-19 pertama pada Februari 2020. Pemerintah mengurangi aktivitas ekonomi dan pendidikan tatap muka, sementara rumah sakit menghadapi tekanan besar.</p><p class=\"mb-4\">Dampaknya tidak merata: pekerja informal, keluarga berpenghasilan rendah, dan komunitas dengan akses layanan terbatas menghadapi risiko lebih besar. Sekolah beralih ke pembelajaran jarak jauh.</p><p class=\"mb-4\">Vaksinasi dimulai pada akhir 2020 dan berkembang melalui pembelian serta produksi lokal. Pandemi meninggalkan pelajaran tentang kesehatan publik, ketimpangan, komunikasi risiko, dan data tepercaya.</p>"
+        }
+      },
+      "sources": [
+        {
+          "title": "WHO — Mexico COVID-19",
+          "url": "https://covid19.who.int/region/amro/country/mx"
+        },
+        {
+          "title": "PAHO — Mexico",
+          "url": "https://www.paho.org/en/countries/mexico"
+        },
+        {
+          "title": "World Bank — Mexico",
+          "url": "https://www.worldbank.org/en/country/mexico/overview"
+        }
+      ]
     }
   ]
 };

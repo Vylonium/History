@@ -994,5 +994,309 @@ window.countryDataFiles['polandia'] = {
             }
         }
     }
-  ]
+  ,{
+      "id": "polandia-pertempuran-grunwald-1410",
+      "langs": {
+          "id": {
+              "title": "Pertempuran Grunwald (1410): Kemenangan atas Ordo Teutonik",
+              "desc": "Pertempuran abad pertengahan yang memperkuat kekuatan Polandia-Lituania di Eropa Timur.",
+              "content": "<p class=\"mb-4\">Pada 15 Juli 1410, pasukan gabungan Kerajaan Polandia dan Kadipaten Agung Lituania menghadapi Ordo Teutonik di dekat Grunwald, dalam salah satu pertempuran terbesar Eropa abad pertengahan.</p><p class=\"mb-4\">Pasukan sekutu dipimpin Raja Władysław II Jagiełło dan Adipati Vytautas. Kemenangan mereka menghancurkan kekuatan militer Ordo Teutonik, meskipun benteng Marienburg tidak langsung jatuh.</p><p class=\"mb-4\">Perjanjian Toruń pada 1411 mengakhiri perang sementara. Grunwald kemudian menjadi simbol kerja sama Polandia-Lituania dan salah satu kemenangan paling penting dalam sejarah Polandia.</p>"
+          },
+          "en": {
+              "title": "Battle of Grunwald (1410): Victory over the Teutonic Order",
+              "desc": "A medieval battle that strengthened Polish-Lithuanian power in Eastern Europe.",
+              "content": "<p class=\"mb-4\">On 15 July 1410, the combined forces of the Kingdom of Poland and Grand Duchy of Lithuania confronted the Teutonic Order near Grunwald in one of medieval Europe’s largest battles.</p><p class=\"mb-4\">The allied army was led by King Władysław II Jagiełło and Grand Duke Vytautas. Their victory shattered the Teutonic Order’s military power, although its fortress at Marienburg did not immediately fall.</p><p class=\"mb-4\">The First Peace of Thorn in 1411 temporarily ended the war. Grunwald later became a symbol of Polish-Lithuanian cooperation and one of Poland’s most important historical victories.</p>"
+          },
+          "ja": {
+              "title": "グルンヴァルトの戦い（1410年）：ドイツ騎士団への勝利",
+              "desc": "ポーランド・リトアニアの東欧における力を強めた中世の戦い。",
+              "content": "<p class=\"mb-4\">1410年7月15日、ポーランド王国とリトアニア大公国の連合軍はグルンヴァルト近郊でドイツ騎士団と戦った。</p><p class=\"mb-4\">連合軍はヴワディスワフ2世ヤギェウォ王とヴィータウタス大公が率い、勝利によって騎士団の軍事力を大きく弱めた。</p><p class=\"mb-4\">1411年のトルンの和約で戦争は一時終結し、グルンヴァルトはポーランド・リトアニア協力の象徴となった。</p>"
+          },
+          "ko": {
+              "title": "그룬발트 전투(1410): 튜턴 기사단에 대한 승리",
+              "desc": "동유럽에서 폴란드-리투아니아의 힘을 강화한 중세 전투.",
+              "content": "<p class=\"mb-4\">1410년 7월 15일 폴란드 왕국과 리투아니아 대공국 연합군이 그룬발트에서 튜턴 기사단과 맞붙었다.</p><p class=\"mb-4\">연합군은 브와디스와프 2세 야기엘로와 비타우타스가 이끌었고 승리로 기사단의 군사력이 크게 약화되었다.</p><p class=\"mb-4\">1411년 토룬 조약으로 전쟁이 잠시 끝났고 그룬발트는 폴란드-리투아니아 협력의 상징이 되었다.</p>"
+          },
+          "zh": {
+              "title": "格伦瓦尔德战役（1410）：击败条顿骑士团",
+              "desc": "加强波兰-立陶宛在东欧力量的中世纪战役。",
+              "content": "<p class=\"mb-4\">1410年7月15日，波兰王国和立陶宛大公国联军在格伦瓦尔德附近与条顿骑士团交战。</p><p class=\"mb-4\">联军由瓦迪斯瓦夫二世和维陶塔斯率领，胜利重创了骑士团的军事实力。</p><p class=\"mb-4\">1411年《托伦和约》暂时结束战争，格伦瓦尔德成为波兰-立陶宛合作的象征。</p>"
+          }
+      },
+      "source": "Encyclopaedia Britannica",
+      "sourceUrl": "https://www.britannica.com/event/Battle-of-Tannenberg",
+      "sourceSnippet": "Britannica — Battle of Tannenberg",
+      "source2": "Museum of the Battle of Grunwald",
+      "sourceUrl2": "https://www.muzeumgrunwald.pl/en/",
+      "sourceSnippet2": "Grunwald Museum — History",
+      "source3": "World History Encyclopedia",
+      "sourceUrl3": "https://www.worldhistory.org/Battle_of_Grunwald/",
+      "sourceSnippet3": "World History Encyclopedia — Grunwald"
+  },{
+      "id": "polandia-copernicus-revolusi-astronomi",
+      "langs": {
+          "id": {
+              "title": "Nicolaus Copernicus dan Revolusi Heliosentris",
+              "desc": "Astronom Polandia yang menempatkan Matahari, bukan Bumi, sebagai pusat model Tata Surya.",
+              "content": "<p class=\"mb-4\">Nicolaus Copernicus lahir di Toruń pada 1473 dan belajar hukum, kedokteran, serta astronomi di Italia. Ia bekerja sebagai kanon dan menggunakan waktu luangnya untuk mengembangkan model baru tentang gerak benda langit.</p><p class=\"mb-4\">Buku De revolutionibus orbium coelestium yang terbit pada 1543 menyatakan bahwa Bumi berputar pada porosnya dan mengelilingi Matahari. Model heliosentris ini menantang kosmologi geosentris yang telah dominan selama berabad-abad.</p><p class=\"mb-4\">Gagasan Copernicus tidak langsung diterima, tetapi menjadi dasar karya Kepler, Galileo, dan Newton. Revolusi Copernicus mengubah astronomi sekaligus cara manusia memahami tempatnya di alam semesta.</p>"
+          },
+          "en": {
+              "title": "Nicolaus Copernicus and the Heliocentric Revolution",
+              "desc": "The Polish astronomer who placed the Sun, rather than Earth, at the center of the Solar System model.",
+              "content": "<p class=\"mb-4\">Nicolaus Copernicus was born in Toruń in 1473 and studied law, medicine, and astronomy in Italy. Working as a canon, he used his spare time to develop a new model of celestial motion.</p><p class=\"mb-4\">His book De revolutionibus orbium coelestium, published in 1543, argued that Earth rotates on its axis and orbits the Sun. This heliocentric model challenged the geocentric cosmology dominant for centuries.</p><p class=\"mb-4\">Copernicus’s ideas were not immediately accepted, but they became foundations for Kepler, Galileo, and Newton. The Copernican Revolution transformed astronomy and humanity’s understanding of its place in the universe.</p>"
+          },
+          "ja": {
+              "title": "ニコラウス・コペルニクスと地動説革命",
+              "desc": "地球ではなく太陽を太陽系モデルの中心に置いたポーランドの天文学者。",
+              "content": "<p class=\"mb-4\">コペルニクスは1473年にトルンで生まれ、イタリアで法律、医学、天文学を学んだ。</p><p class=\"mb-4\">1543年の著書で地球が自転し太陽を公転すると主張し、長く支配的だった天動説に挑戦した。</p><p class=\"mb-4\">その考えはケプラー、ガリレオ、ニュートンの基礎となり、人類の宇宙観を変えた。</p>"
+          },
+          "ko": {
+              "title": "니콜라우스 코페르니쿠스와 태양중심 혁명",
+              "desc": "지구가 아닌 태양을 태양계 모델의 중심에 둔 폴란드 천문학자.",
+              "content": "<p class=\"mb-4\">코페르니쿠스는 1473년 토룬에서 태어나 이탈리아에서 법학, 의학, 천문학을 공부했다.</p><p class=\"mb-4\">1543년 저서에서 지구가 자전하고 태양을 공전한다고 주장해 오랫동안 지배적이던 천동설에 도전했다.</p><p class=\"mb-4\">그의 생각은 케플러, 갈릴레오, 뉴턴의 토대가 되어 인류의 우주관을 바꾸었다.</p>"
+          },
+          "zh": {
+              "title": "尼古拉·哥白尼与日心革命",
+              "desc": "将太阳而非地球置于太阳系模型中心的波兰天文学家。",
+              "content": "<p class=\"mb-4\">哥白尼1473年出生于托伦，曾在意大利学习法律、医学和天文学。</p><p class=\"mb-4\">1543年出版的著作主张地球自转并绕太阳运行，挑战了长期占主导地位的地心说。</p><p class=\"mb-4\">他的思想成为开普勒、伽利略和牛顿工作的基础，改变了人类对宇宙位置的理解。</p>"
+          }
+      },
+      "source": "Stanford Encyclopedia of Philosophy",
+      "sourceUrl": "https://plato.stanford.edu/entries/copernicus/",
+      "sourceSnippet": "SEP — Copernicus",
+      "source2": "Encyclopaedia Britannica",
+      "sourceUrl2": "https://www.britannica.com/biography/Nicolaus-Copernicus",
+      "sourceSnippet2": "Britannica — Copernicus",
+      "source3": "NASA",
+      "sourceUrl3": "https://science.nasa.gov/solar-system/solar-system-models/copernican-model/",
+      "sourceSnippet3": "NASA — Copernican Model"
+  },{
+      "id": "polandia-konstitusi-3-mei-1791",
+      "langs": {
+          "id": {
+              "title": "Konstitusi 3 Mei 1791: Reformasi Persemakmuran",
+              "desc": "Konstitusi modern awal yang berusaha memperkuat Polandia-Lituania sebelum pembagian negara.",
+              "content": "<p class=\"mb-4\">Konstitusi 3 Mei disahkan oleh Sejm Agung di Warsawa pada 3 Mei 1791. Dokumen ini lahir ketika Persemakmuran Polandia-Lituania menghadapi campur tangan asing, kelemahan pemerintahan, dan penggunaan hak veto liberum veto.</p><p class=\"mb-4\">Konstitusi memperkenalkan monarki konstitusional, pemisahan kekuasaan, perlindungan hukum bagi petani, dan perluasan hak politik kaum kota. Liberum veto dibatasi agar satu anggota tidak dapat melumpuhkan seluruh parlemen.</p><p class=\"mb-4\">Reformasi itu memicu perlawanan dari kelompok konservatif dan kekuatan tetangga. Rusia menginvasi pada 1792, lalu pembagian kedua dan ketiga menghapus Polandia dari peta pada 1795. Konstitusi 3 Mei tetap menjadi simbol reformasi demokratis Polandia.</p>"
+          },
+          "en": {
+              "title": "The Constitution of 3 May 1791: Commonwealth Reform",
+              "desc": "An early modern constitution that sought to strengthen Poland-Lithuania before the partitions.",
+              "content": "<p class=\"mb-4\">The Constitution of 3 May was adopted by the Great Sejm in Warsaw on 3 May 1791. It emerged as the Polish-Lithuanian Commonwealth faced foreign interference, weak government, and the liberum veto.</p><p class=\"mb-4\">The constitution introduced a constitutional monarchy, separation of powers, legal protection for peasants, and broader political rights for townspeople. It limited the liberum veto so one deputy could not paralyze parliament.</p><p class=\"mb-4\">The reforms provoked opposition from conservatives and neighboring powers. Russia invaded in 1792, and the second and third partitions erased Poland from the map by 1795. The constitution remains a symbol of Polish democratic reform.</p>"
+          },
+          "ja": {
+              "title": "1791年5月3日憲法：共和国の改革",
+              "desc": "ポーランド・リトアニアを強化しようとした近代初期の憲法。",
+              "content": "<p class=\"mb-4\">1791年5月3日、ワルシャワの大議会が5月3日憲法を採択した。外国干渉と政府の弱さが背景だった。</p><p class=\"mb-4\">立憲君主制、権力分立、農民の法的保護を導入し、議会を麻痺させる自由拒否権を制限した。</p><p class=\"mb-4\">ロシアの侵攻と分割で1795年に国家は地図から消えたが、憲法は民主改革の象徴である。</p>"
+          },
+          "ko": {
+              "title": "1791년 5월 3일 헌법: 연방 개혁",
+              "desc": "폴란드-리투아니아를 강화하려 한 근대 초기 헌법.",
+              "content": "<p class=\"mb-4\">1791년 5월 3일 바르샤바 대의회가 5월 3일 헌법을 채택했다. 외국 간섭과 정부 약화가 배경이었다.</p><p class=\"mb-4\">입헌군주제와 권력분립, 농민 법적 보호를 도입하고 의회를 마비시키는 자유 거부권을 제한했다.</p><p class=\"mb-4\">러시아 침공과 분할로 1795년 국가는 지도에서 사라졌지만 헌법은 민주 개혁의 상징이다.</p>"
+          },
+          "zh": {
+              "title": "1791年5月3日宪法：共和国改革",
+              "desc": "试图加强波兰-立陶宛的近代早期宪法。",
+              "content": "<p class=\"mb-4\">1791年5月3日，华沙大议会通过了5月3日宪法，背景是外国干涉和政府软弱。</p><p class=\"mb-4\">宪法引入君主立宪、权力分立和农民法律保护，并限制使议会瘫痪的自由否决权。</p><p class=\"mb-4\">俄国入侵和三次瓜分使国家1795年从地图消失，但宪法仍是民主改革的象征。</p>"
+          }
+      },
+      "source": "Polish History Museum",
+      "sourceUrl": "https://muzhp.pl/en/c/constitution-of-3-may",
+      "sourceSnippet": "Polish History Museum — Constitution",
+      "source2": "European Parliament",
+      "sourceUrl2": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2017/614591/EPRS_BRI(2017)614591_EN.pdf",
+      "sourceSnippet2": "European Parliament — May Constitution",
+      "source3": "Encyclopaedia Britannica",
+      "sourceUrl3": "https://www.britannica.com/event/Constitution-of-May-3",
+      "sourceSnippet3": "Britannica — Constitution of May 3"
+  },{
+      "id": "polandia-pemberontakan-ghetto-warsawa-1943",
+      "langs": {
+          "id": {
+              "title": "Pemberontakan Ghetto Warsawa (1943)",
+              "desc": "Perlawanan bersenjata Yahudi terhadap deportasi Nazi di ghetto Warsawa selama Holocaust.",
+              "content": "<p class=\"mb-4\">Ghetto Warsawa dibentuk oleh pendudukan Jerman pada 1940 dan menampung ratusan ribu orang Yahudi dalam kondisi kelaparan, penyakit, dan kepadatan ekstrem. Deportasi massal ke kamp pembantaian Treblinka dimulai pada 1942.</p><p class=\"mb-4\">Pada 19 April 1943, pejuang Organisasi Tempur Yahudi dan kelompok lain melawan pasukan Jerman yang memasuki ghetto untuk deportasi terakhir. Dengan senjata terbatas, mereka bertahan hampir sebulan menggunakan bunker dan jaringan bawah tanah.</p><p class=\"mb-4\">Jerman menghancurkan ghetto secara sistematis; perlawanan berakhir pada 16 Mei 1943 setelah Sinagoga Agung dibakar. Pemberontakan ini menjadi simbol perlawanan Yahudi dan dikenang dalam pendidikan Holocaust di Polandia dan dunia.</p>"
+          },
+          "en": {
+              "title": "The Warsaw Ghetto Uprising (1943)",
+              "desc": "An armed Jewish resistance against Nazi deportations in the Warsaw ghetto during the Holocaust.",
+              "content": "<p class=\"mb-4\">The Warsaw Ghetto was created by the German occupation in 1940 and confined hundreds of thousands of Jews amid starvation, disease, and extreme overcrowding. Mass deportations to the Treblinka killing center began in 1942.</p><p class=\"mb-4\">On 19 April 1943, fighters from the Jewish Combat Organization and other groups resisted German forces entering for the final deportation. With limited weapons, they held out for nearly a month using bunkers and underground networks.</p><p class=\"mb-4\">Germany systematically destroyed the ghetto; resistance ended on 16 May 1943 after the Great Synagogue was burned. The uprising became a symbol of Jewish resistance and is central to Holocaust remembrance.</p>"
+          },
+          "ja": {
+              "title": "ワルシャワ・ゲットー蜂起（1943年）",
+              "desc": "ホロコースト中、ナチスの移送に対するユダヤ人の武装抵抗。",
+              "content": "<p class=\"mb-4\">ワルシャワ・ゲットーは1940年のドイツ占領下に作られ、飢餓と病気の中で数十万人を閉じ込めた。1942年にトレブリンカへの大量移送が始まった。</p><p class=\"mb-4\">1943年4月19日、ユダヤ戦闘組織などの戦士が最後の移送に抵抗し、地下壕を使って約1か月戦った。</p><p class=\"mb-4\">ドイツ軍はゲットーを破壊し、5月16日に蜂起は終わった。これはユダヤ人抵抗の象徴となった。</p>"
+          },
+          "ko": {
+              "title": "바르샤바 게토 봉기(1943)",
+              "desc": "홀로코스트 동안 나치 강제 이송에 맞선 유대인의 무장 저항.",
+              "content": "<p class=\"mb-4\">바르샤바 게토는 1940년 독일 점령으로 만들어져 굶주림과 질병 속에 수십만 명을 가두었다. 1942년 트레블링카로 대규모 이송이 시작됐다.</p><p class=\"mb-4\">1943년 4월 19일 유대인 전투조직 등이 마지막 이송에 저항해 지하 벙커에서 거의 한 달 싸웠다.</p><p class=\"mb-4\">독일군은 게토를 파괴했고 봉기는 5월 16일 끝났다. 이 사건은 유대인 저항의 상징이 되었다.</p>"
+          },
+          "zh": {
+              "title": "华沙犹太区起义（1943）",
+              "desc": "大屠杀期间犹太人反抗纳粹驱逐的武装抵抗。",
+              "content": "<p class=\"mb-4\">华沙犹太区由德国占领者于1940年建立，数十万人在饥饿和疾病中被关押。1942年开始向特雷布林卡死亡营大规模驱逐。</p><p class=\"mb-4\">1943年4月19日，犹太战斗组织等抵抗最后一次驱逐，利用地堡和地下网络坚持近一个月。</p><p class=\"mb-4\">德军系统摧毁犹太区，起义于5月16日结束，成为犹太人抵抗的象征。</p>"
+          }
+      },
+      "source": "Encyclopaedia Britannica",
+      "sourceUrl": "https://www.britannica.com/event/Warsaw-Ghetto-Uprising",
+      "sourceSnippet": "Britannica — Warsaw Ghetto Uprising",
+      "source2": "Yad Vashem",
+      "sourceUrl2": "https://www.yadvashem.org/holocaust/about/final-solution/ghetto-warsaw.html",
+      "sourceSnippet2": "Yad Vashem — Warsaw Ghetto",
+      "source3": "United States Holocaust Memorial Museum",
+      "sourceUrl3": "https://encyclopedia.ushmm.org/content/en/article/the-warsaw-ghetto-uprising",
+      "sourceSnippet3": "USHMM — Warsaw Ghetto Uprising"
+  },{
+      "id": "polandia-perang-polandia-soviet-1920",
+      "langs": {
+          "id": {
+              "title": "Pertempuran Warsawa (1920): Keajaiban di Vistula",
+              "desc": "Kemenangan Polandia atas Tentara Merah yang menghentikan kemajuan revolusi Bolshevik ke Eropa Tengah.",
+              "content": "<p class=\"mb-4\">Perang Polandia-Soviet berlangsung pada 1919–1921 setelah Polandia mendapatkan kembali kemerdekaan. Pasukan Soviet berusaha mendorong revolusi ke barat, sementara Polandia mempertahankan perbatasan dan kedaulatannya.</p><p class=\"mb-4\">Pada Agustus 1920, pasukan Polandia di bawah Józef Piłsudski melancarkan serangan balik dari Sungai Wieprz saat Tentara Merah mengepung Warsawa. Kemenangan ini dikenal sebagai Keajaiban di Vistula dan memukul mundur pasukan Soviet.</p><p class=\"mb-4\">Perjanjian Riga pada 1921 mengakhiri perang dan menetapkan perbatasan Polandia di timur. Pertempuran Warsawa dianggap penting karena menghentikan ekspor revolusi Bolshevik ke Jerman dan Eropa Barat.</p>"
+          },
+          "en": {
+              "title": "The Battle of Warsaw (1920): Miracle on the Vistula",
+              "desc": "Poland’s victory over the Red Army that stopped Bolshevik revolutionary expansion into Central Europe.",
+              "content": "<p class=\"mb-4\">The Polish-Soviet War took place from 1919 to 1921 after Poland regained independence. Soviet forces sought to push revolution westward while Poland defended its borders and sovereignty.</p><p class=\"mb-4\">In August 1920, Polish forces under Józef Piłsudski launched a counteroffensive from the Wieprz River as the Red Army surrounded Warsaw. The victory became known as the Miracle on the Vistula and drove Soviet forces back.</p><p class=\"mb-4\">The Treaty of Riga in 1921 ended the war and set Poland’s eastern border. The battle is considered significant because it halted the export of Bolshevik revolution toward Germany and Western Europe.</p>"
+          },
+          "ja": {
+              "title": "ワルシャワの戦い（1920年）：ヴィスワ川の奇跡",
+              "desc": "ボルシェビキ革命の中欧への進展を止めたポーランドの勝利。",
+              "content": "<p class=\"mb-4\">ポーランド・ソビエト戦争はポーランド独立回復後の1919～1921年に行われた。ソ連軍は革命を西へ広げようとした。</p><p class=\"mb-4\">1920年8月、ピウスツキ率いるポーランド軍がヴィスワ川から反撃し、ワルシャワを包囲した赤軍を退けた。</p><p class=\"mb-4\">1921年のリガ条約で戦争は終わり、ボルシェビキ革命の西進は阻止された。</p>"
+          },
+          "ko": {
+              "title": "바르샤바 전투(1920): 비스와의 기적",
+              "desc": "볼셰비키 혁명의 중부 유럽 진출을 막은 폴란드의 승리.",
+              "content": "<p class=\"mb-4\">폴란드-소련 전쟁은 폴란드가 독립을 회복한 뒤 1919~1921년에 벌어졌다. 소련군은 혁명을 서쪽으로 확산하려 했다.</p><p class=\"mb-4\">1920년 8월 피우수트스키가 이끄는 폴란드군이 비스와강에서 반격해 바르샤바를 포위한 적군을 물리쳤다.</p><p class=\"mb-4\">1921년 리가 조약으로 전쟁이 끝났고 볼셰비키 혁명의 서진이 중단되었다.</p>"
+          },
+          "zh": {
+              "title": "华沙战役（1920）：维斯瓦河奇迹",
+              "desc": "波兰击败红军、阻止布尔什维克革命进入中欧的胜利。",
+              "content": "<p class=\"mb-4\">波苏战争发生于波兰复国后的1919年至1921年，苏军试图将革命向西推进。</p><p class=\"mb-4\">1920年8月，毕苏斯基领导的波兰军队从维斯瓦河发动反攻，击退包围华沙的红军。</p><p class=\"mb-4\">1921年《里加和约》结束战争，阻止了布尔什维克革命向德国和西欧扩散。</p>"
+          }
+      },
+      "source": "Imperial War Museums",
+      "sourceUrl": "https://www.iwm.org.uk/history/what-was-the-battle-of-warsaw",
+      "sourceSnippet": "IWM — Battle of Warsaw",
+      "source2": "Polish History Museum",
+      "sourceUrl2": "https://muzhp.pl/en/c/battle-of-warsaw-1920",
+      "sourceSnippet2": "Polish History Museum — Battle of Warsaw",
+      "source3": "Encyclopaedia Britannica",
+      "sourceUrl3": "https://www.britannica.com/event/Russo-Polish-War",
+      "sourceSnippet3": "Britannica — Russo-Polish War"
+  },{
+      "id": "polandia-uni-eropa-2004",
+      "langs": {
+          "id": {
+              "title": "Polandia Bergabung dengan Uni Eropa (2004)",
+              "desc": "Keanggotaan Uni Eropa menandai integrasi Polandia pasca-komunis ke dalam institusi politik dan ekonomi Eropa.",
+              "content": "<p class=\"mb-4\">Polandia mengajukan permohonan keanggotaan Komunitas Eropa pada 1994, lima tahun setelah runtuhnya pemerintahan komunis. Negosiasi menuntut reformasi hukum, ekonomi, administrasi, dan perlindungan perbatasan agar sesuai dengan acquis communautaire.</p><p class=\"mb-4\">Pada 13 Desember 2002, negosiasi aksesi selesai di Kopenhagen. Referendum nasional pada Juni 2003 menyetujui keanggotaan dengan mayoritas besar, dan Polandia resmi bergabung dengan Uni Eropa pada 1 Mei 2004 bersama sembilan negara lain.</p><p class=\"mb-4\">Keanggotaan membawa akses pasar tunggal, dana pembangunan, dan kebebasan bergerak bagi warga Polandia. Polandia juga berperan dalam kebijakan Eropa, sementara proses integrasi mempercepat pembangunan infrastruktur dan perubahan ekonomi jangka panjang.</p>"
+          },
+          "en": {
+              "title": "Poland Joins the European Union (2004)",
+              "desc": "EU membership marked post-communist Poland’s integration into Europe’s political and economic institutions.",
+              "content": "<p class=\"mb-4\">Poland applied for membership in the European Communities in 1994, five years after communist rule collapsed. Negotiations required legal, economic, administrative, and border reforms to meet the acquis communautaire.</p><p class=\"mb-4\">Accession negotiations concluded in Copenhagen on 13 December 2002. A national referendum in June 2003 approved membership by a large majority, and Poland joined the European Union on 1 May 2004 with nine other countries.</p><p class=\"mb-4\">Membership brought access to the single market, development funds, and freedom of movement for Polish citizens. Poland also gained a role in European policy, while integration accelerated infrastructure and long-term economic change.</p>"
+          },
+          "ja": {
+              "title": "ポーランドのEU加盟（2004年）",
+              "desc": "EU加盟は共産主義後のポーランドを欧州の政治・経済機関に統合した。",
+              "content": "<p class=\"mb-4\">ポーランドは共産主義体制崩壊から5年後の1994年に加盟を申請し、法制度と経済の改革を進めた。</p><p class=\"mb-4\">2002年に交渉が終わり、2003年の国民投票で加盟が承認された。2004年5月1日に正式加盟した。</p><p class=\"mb-4\">単一市場、開発資金、市民の移動の自由を得て、インフラ整備と経済変化が加速した。</p>"
+          },
+          "ko": {
+              "title": "폴란드의 유럽연합 가입(2004)",
+              "desc": "EU 가입은 공산주의 이후 폴란드를 유럽 정치·경제 기관에 통합했다.",
+              "content": "<p class=\"mb-4\">폴란드는 공산주의 붕괴 5년 뒤인 1994년 가입을 신청하고 법과 경제 개혁을 추진했다.</p><p class=\"mb-4\">2002년 협상이 끝났고 2003년 국민투표에서 가입이 승인되어 2004년 5월 1일 정식 가입했다.</p><p class=\"mb-4\">단일시장, 개발 기금, 시민 이동의 자유를 얻어 인프라와 경제 변화가 가속되었다.</p>"
+          },
+          "zh": {
+              "title": "波兰加入欧盟（2004）",
+              "desc": "加入欧盟标志着后共产主义波兰融入欧洲政治和经济机构。",
+              "content": "<p class=\"mb-4\">波兰在共产主义政权垮台五年后的1994年申请加入，并进行法律和经济改革。</p><p class=\"mb-4\">谈判于2002年结束，2003年全民公投批准加入，波兰于2004年5月1日正式加入欧盟。</p><p class=\"mb-4\">成员资格带来单一市场、发展基金和公民自由流动，基础设施与经济转型加速。</p>"
+          }
+      },
+      "source": "European Commission",
+      "sourceUrl": "https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/overview-enlargement-process/2004-enlargement_en",
+      "sourceSnippet": "European Commission — 2004 Enlargement",
+      "source2": "Polish Government",
+      "sourceUrl2": "https://www.gov.pl/web/european-funds",
+      "sourceSnippet2": "Polish Government — European Funds",
+      "source3": "European Union",
+      "sourceUrl3": "https://european-union.europa.eu/principles-countries-history/country-profiles/poland_en",
+      "sourceSnippet3": "EU — Poland Profile"
+  },{
+      "id": "polandia-rekonstruksi-warsawa-pasca-perang",
+      "langs": {
+          "id": {
+              "title": "Rekonstruksi Warsawa setelah Perang Dunia II",
+              "desc": "Pembangunan kembali ibu kota Polandia dari kehancuran perang menjadi simbol ketahanan nasional.",
+              "content": "<p class=\"mb-4\">Warsawa mengalami kehancuran luar biasa selama Perang Dunia II, terutama setelah Pemberontakan Warsawa 1944. Sebagian besar bangunan pusat kota hancur dan penduduk dipaksa meninggalkan kota setelah pasukan Jerman menghancurkan kawasan-kawasannya.</p><p class=\"mb-4\">Warga Polandia, arsitek, dan sejarawan segera menyusun rencana rekonstruksi berdasarkan lukisan, foto, peta, dan survei sebelum perang. Kota Tua dibangun kembali dengan mempertahankan tata ruang dan tampilan historis, meskipun banyak bangunannya merupakan rekonstruksi pascaperang.</p><p class=\"mb-4\">Rekonstruksi berlangsung selama puluhan tahun dan menjadi proyek sosial besar di bawah pemerintahan Polandia pascaperang. Pada 1980, Kota Tua Warsawa dimasukkan ke Daftar Warisan Dunia UNESCO sebagai contoh pemulihan menyeluruh atas kehancuran bersejarah.</p>"
+          },
+          "en": {
+              "title": "Rebuilding Warsaw after World War II",
+              "desc": "The reconstruction of Poland’s capital from wartime ruins into a symbol of national resilience.",
+              "content": "<p class=\"mb-4\">Warsaw suffered extraordinary destruction during World War II, especially after the Warsaw Uprising of 1944. Much of the city center was destroyed and residents were expelled as German forces demolished neighborhoods.</p><p class=\"mb-4\">Polish citizens, architects, and historians quickly planned reconstruction using paintings, photographs, maps, and prewar surveys. The Old Town was rebuilt while preserving its historic street plan and appearance, even though many buildings were postwar reconstructions.</p><p class=\"mb-4\">Reconstruction continued for decades and became a major social project under Poland’s postwar government. In 1980, Warsaw’s Old Town entered the UNESCO World Heritage List as an example of comprehensive historic reconstruction.</p>"
+          },
+          "ja": {
+              "title": "第二次大戦後のワルシャワ再建",
+              "desc": "戦争の廃墟から国民の回復力の象徴へと再建されたポーランドの首都。",
+              "content": "<p class=\"mb-4\">ワルシャワは第二次大戦、特に1944年の蜂起後に甚大な被害を受け、市中心部の多くが破壊された。</p><p class=\"mb-4\">市民、建築家、歴史家は戦前の絵画や写真、地図を使って再建を計画し、旧市街の歴史的な街路と外観を復元した。</p><p class=\"mb-4\">再建は数十年続き、1980年にワルシャワ旧市街は包括的な歴史復元の例としてユネスコ世界遺産になった。</p>"
+          },
+          "ko": {
+              "title": "제2차 세계대전 후 바르샤바 재건",
+              "desc": "전쟁 폐허에서 국민 회복력의 상징으로 재건된 폴란드 수도.",
+              "content": "<p class=\"mb-4\">바르샤바는 제2차 세계대전, 특히 1944년 봉기 후 큰 피해를 입어 도심 대부분이 파괴되었다.</p><p class=\"mb-4\">시민과 건축가, 역사가들은 전쟁 전 그림과 사진, 지도를 사용해 재건 계획을 세우고 구시가지의 역사적 외관을 복원했다.</p><p class=\"mb-4\">재건은 수십 년 이어졌고 1980년 바르샤바 구시가지는 종합적 역사 복원의 사례로 유네스코 세계유산이 되었다.</p>"
+          },
+          "zh": {
+              "title": "二战后的华沙重建",
+              "desc": "从战争废墟重建为民族韧性象征的波兰首都。",
+              "content": "<p class=\"mb-4\">华沙在二战尤其是1944年起义后遭到巨大破坏，市中心大部分被摧毁。</p><p class=\"mb-4\">市民、建筑师和历史学家利用战前绘画、照片和地图规划重建，恢复老城历史街道和外观。</p><p class=\"mb-4\">重建持续数十年，1980年华沙老城作为全面历史重建范例列入联合国教科文组织世界遗产。</p>"
+          }
+      },
+      "source": "UNESCO",
+      "sourceUrl": "https://whc.unesco.org/en/list/30/",
+      "sourceSnippet": "UNESCO — Historic Centre of Warsaw",
+      "source2": "Encyclopaedia Britannica",
+      "sourceUrl2": "https://www.britannica.com/place/Warsaw/History",
+      "sourceSnippet2": "Britannica — Warsaw History",
+      "source3": "Warsaw City Archives",
+      "sourceUrl3": "https://archiwum.um.warszawa.pl/",
+      "sourceSnippet3": "Warsaw Archives — Reconstruction"
+  },{
+      "id": "polandia-pemberontakan-silesia-1919-1921",
+      "langs": {
+          "id": {
+              "title": "Pemberontakan Silesia (1919–1921)",
+              "desc": "Serangkaian pemberontakan dan plebisit yang menentukan pembagian Silesia Atas antara Polandia dan Jerman.",
+              "content": "<p class=\"mb-4\">Silesia Atas menjadi wilayah sengketa setelah Perang Dunia I karena penduduknya menggunakan bahasa dan identitas yang beragam. Perjanjian Versailles menempatkan sebagian wilayah di bawah administrasi internasional dan merencanakan plebisit untuk menentukan masa depannya.</p><p class=\"mb-4\">Antara 1919 dan 1921, tiga pemberontakan Silesia melibatkan pekerja dan kelompok politik yang mendukung penggabungan dengan Polandia. Plebisit Maret 1921 menghasilkan suara campuran, sehingga pembagian wilayah harus diputuskan melalui negosiasi internasional.</p><p class=\"mb-4\">Pada 1922, Liga Bangsa-Bangsa menyetujui pembagian Silesia Atas. Polandia memperoleh bagian timur yang mencakup kawasan industri penting, sementara Jerman mempertahankan wilayah barat. Peristiwa ini membentuk perbatasan dan politik nasional kedua negara.</p>"
+          },
+          "en": {
+              "title": "The Silesian Uprisings (1919–1921)",
+              "desc": "Uprisings and a plebiscite that determined the division of Upper Silesia between Poland and Germany.",
+              "content": "<p class=\"mb-4\">Upper Silesia became disputed after World War I because its population had diverse languages and identities. The Treaty of Versailles placed part of the region under international administration and planned a plebiscite.</p><p class=\"mb-4\">Between 1919 and 1921, three Silesian uprisings involved workers and political groups supporting union with Poland. The March 1921 plebiscite produced mixed results, so international negotiations had to determine the border.</p><p class=\"mb-4\">In 1922, the League of Nations approved the division of Upper Silesia. Poland received the industrial eastern section while Germany retained the west, shaping both countries’ borders and politics.</p>"
+          },
+          "ja": {
+              "title": "シレジア蜂起（1919～1921年）",
+              "desc": "ポーランドとドイツの上シレジア分割を決めた蜂起と住民投票。",
+              "content": "<p class=\"mb-4\">第一次大戦後、言語とアイデンティティが多様な上シレジアが争われ、ヴェルサイユ条約で住民投票が計画された。</p><p class=\"mb-4\">1919～1921年にポーランド編入を支持する3回の蜂起が起き、1921年の投票結果は混在した。</p><p class=\"mb-4\">1922年、国際連盟は工業地帯東部をポーランド、西部をドイツとする分割を承認した。</p>"
+          },
+          "ko": {
+              "title": "실레지아 봉기(1919~1921)",
+              "desc": "폴란드와 독일의 상실레지아 분할을 결정한 봉기와 주민투표.",
+              "content": "<p class=\"mb-4\">제1차 세계대전 후 언어와 정체성이 다양한 상실레지아가 분쟁 지역이 되어 베르사유 조약으로 주민투표가 계획됐다.</p><p class=\"mb-4\">1919~1921년 폴란드 편입을 지지하는 세 차례 봉기가 일어났고 1921년 투표 결과는 엇갈렸다.</p><p class=\"mb-4\">1922년 국제연맹은 산업지대 동부를 폴란드, 서부를 독일로 나누는 결정을 승인했다.</p>"
+          },
+          "zh": {
+              "title": "西里西亚起义（1919—1921）",
+              "desc": "决定上西里西亚在波兰和德国之间分割的起义与公投。",
+              "content": "<p class=\"mb-4\">一战后，语言和身份多样的上西里西亚成为争议地区，《凡尔赛条约》计划举行公投。</p><p class=\"mb-4\">1919至1921年发生三次支持并入波兰的起义，1921年公投结果混合。</p><p class=\"mb-4\">1922年国际联盟批准分割，波兰获得包括重要工业区的东部，德国保留西部。</p>"
+          }
+      },
+      "source": "Polish History Museum",
+      "sourceUrl": "https://muzhp.pl/en/c/silesian-uprisings",
+      "sourceSnippet": "Polish History Museum — Silesian Uprisings",
+      "source2": "Encyclopaedia Britannica",
+      "sourceUrl2": "https://www.britannica.com/event/Upper-Silesia-plebiscite",
+      "sourceSnippet2": "Britannica — Upper Silesia Plebiscite",
+      "source3": "Encyclopaedia Britannica",
+      "sourceUrl3": "https://www.britannica.com/place/Silesia",
+      "sourceSnippet3": "Britannica — Silesia"
+  }  ]
 };

@@ -1260,43 +1260,5 @@ window.countryDataFiles['polandia'] = {
       "source3": "Warsaw City Archives",
       "sourceUrl3": "https://archiwum.um.warszawa.pl/",
       "sourceSnippet3": "Warsaw Archives — Reconstruction"
-  },{
-      "id": "polandia-pemberontakan-silesia-1919-1921",
-      "langs": {
-          "id": {
-              "title": "Pemberontakan Silesia (1919–1921)",
-              "desc": "Serangkaian pemberontakan dan plebisit yang menentukan pembagian Silesia Atas antara Polandia dan Jerman.",
-              "content": "<p class=\"mb-4\">Silesia Atas menjadi wilayah sengketa setelah Perang Dunia I karena penduduknya menggunakan bahasa dan identitas yang beragam. Perjanjian Versailles menempatkan sebagian wilayah di bawah administrasi internasional dan merencanakan plebisit untuk menentukan masa depannya.</p><p class=\"mb-4\">Antara 1919 dan 1921, tiga pemberontakan Silesia melibatkan pekerja dan kelompok politik yang mendukung penggabungan dengan Polandia. Plebisit Maret 1921 menghasilkan suara campuran, sehingga pembagian wilayah harus diputuskan melalui negosiasi internasional.</p><p class=\"mb-4\">Pada 1922, Liga Bangsa-Bangsa menyetujui pembagian Silesia Atas. Polandia memperoleh bagian timur yang mencakup kawasan industri penting, sementara Jerman mempertahankan wilayah barat. Peristiwa ini membentuk perbatasan dan politik nasional kedua negara.</p>"
-          },
-          "en": {
-              "title": "The Silesian Uprisings (1919–1921)",
-              "desc": "Uprisings and a plebiscite that determined the division of Upper Silesia between Poland and Germany.",
-              "content": "<p class=\"mb-4\">Upper Silesia became disputed after World War I because its population had diverse languages and identities. The Treaty of Versailles placed part of the region under international administration and planned a plebiscite.</p><p class=\"mb-4\">Between 1919 and 1921, three Silesian uprisings involved workers and political groups supporting union with Poland. The March 1921 plebiscite produced mixed results, so international negotiations had to determine the border.</p><p class=\"mb-4\">In 1922, the League of Nations approved the division of Upper Silesia. Poland received the industrial eastern section while Germany retained the west, shaping both countries’ borders and politics.</p>"
-          },
-          "ja": {
-              "title": "シレジア蜂起（1919～1921年）",
-              "desc": "ポーランドとドイツの上シレジア分割を決めた蜂起と住民投票。",
-              "content": "<p class=\"mb-4\">第一次大戦後、言語とアイデンティティが多様な上シレジアが争われ、ヴェルサイユ条約で住民投票が計画された。</p><p class=\"mb-4\">1919～1921年にポーランド編入を支持する3回の蜂起が起き、1921年の投票結果は混在した。</p><p class=\"mb-4\">1922年、国際連盟は工業地帯東部をポーランド、西部をドイツとする分割を承認した。</p>"
-          },
-          "ko": {
-              "title": "실레지아 봉기(1919~1921)",
-              "desc": "폴란드와 독일의 상실레지아 분할을 결정한 봉기와 주민투표.",
-              "content": "<p class=\"mb-4\">제1차 세계대전 후 언어와 정체성이 다양한 상실레지아가 분쟁 지역이 되어 베르사유 조약으로 주민투표가 계획됐다.</p><p class=\"mb-4\">1919~1921년 폴란드 편입을 지지하는 세 차례 봉기가 일어났고 1921년 투표 결과는 엇갈렸다.</p><p class=\"mb-4\">1922년 국제연맹은 산업지대 동부를 폴란드, 서부를 독일로 나누는 결정을 승인했다.</p>"
-          },
-          "zh": {
-              "title": "西里西亚起义（1919—1921）",
-              "desc": "决定上西里西亚在波兰和德国之间分割的起义与公投。",
-              "content": "<p class=\"mb-4\">一战后，语言和身份多样的上西里西亚成为争议地区，《凡尔赛条约》计划举行公投。</p><p class=\"mb-4\">1919至1921年发生三次支持并入波兰的起义，1921年公投结果混合。</p><p class=\"mb-4\">1922年国际联盟批准分割，波兰获得包括重要工业区的东部，德国保留西部。</p>"
-          }
-      },
-      "source": "Polish History Museum",
-      "sourceUrl": "https://muzhp.pl/en/c/silesian-uprisings",
-      "sourceSnippet": "Polish History Museum — Silesian Uprisings",
-      "source2": "Encyclopaedia Britannica",
-      "sourceUrl2": "https://www.britannica.com/event/Upper-Silesia-plebiscite",
-      "sourceSnippet2": "Britannica — Upper Silesia Plebiscite",
-      "source3": "Encyclopaedia Britannica",
-      "sourceUrl3": "https://www.britannica.com/place/Silesia",
-      "sourceSnippet3": "Britannica — Silesia"
   }  ]
 };

@@ -1260,5 +1260,279 @@ window.countryDataFiles['polandia'] = {
       "source3": "Warsaw City Archives",
       "sourceUrl3": "https://archiwum.um.warszawa.pl/",
       "sourceSnippet3": "Warsaw Archives — Reconstruction"
-  }  ]
+  },
+{
+    "id": "polandia-pertempuran-wina-1683",
+    "langs": {
+      "id": {
+        "title": "Pertempuran Wina (1683) dan Jan III Sobieski",
+        "desc": "Kemenangan pasukan Persemakmuran Polandia-Lituania di Wina menghentikan pengepungan Ottoman.",
+        "content": "<p>Kesultanan Utsmaniyah mengepung Wina pada musim panas 1683 dalam upaya memperluas pengaruhnya di Eropa Tengah. Kota itu dipertahankan pasukan Habsburg dan sekutunya, sementara pasukan bantuan dari Persemakmuran Polandia-Lituania bergerak menuju medan pertempuran.</p><p>Raja Jan III Sobieski memimpin pasukan gabungan yang tiba pada September 1683. Pada 12 September, serangan kavaleri besar dari bukit Kahlenberg memukul mundur tentara Ottoman dan mematahkan pengepungan. Kemenangan ini menjadikan Sobieski tokoh penting dalam sejarah Eropa.</p><p>Pertempuran Wina tidak mengakhiri Kesultanan Utsmaniyah, tetapi mengubah keseimbangan politik di Eropa Tengah. Persemakmuran kemudian bergabung dalam Liga Suci, sedangkan perang berikutnya mendorong mundurnya Ottoman dari sebagian wilayah Eropa.</p>"
+      },
+      "en": {
+        "title": "Battle of Vienna (1683) and Jan III Sobieski",
+        "desc": "The Polish-Lithuanian Commonwealth victory at Vienna ended the Ottoman siege.",
+        "content": "<p>The Ottoman Empire besieged Vienna in the summer of 1683 as it sought to expand its influence in Central Europe. Habsburg defenders and their allies held the city while relief forces from the Polish-Lithuanian Commonwealth marched toward the battlefield.</p><p>King Jan III Sobieski commanded the allied force that arrived in September 1683. On September 12, a major cavalry attack from Kahlenberg broke the Ottoman siege. The victory made Sobieski one of the most prominent figures in European history.</p><p>The battle did not end the Ottoman Empire, but it changed the political balance of Central Europe. The Commonwealth joined the Holy League, and later campaigns pushed Ottoman power back from parts of Europe.</p>"
+      },
+      "ja": {
+        "title": "ウィーンの戦い（1683年）とヤン3世ソビェスキ",
+        "desc": "ポーランド・リトアニア共和国の勝利がオスマン軍の包囲を終わらせた。",
+        "content": "<p>オスマン帝国は1683年夏、中央ヨーロッパへの拡大を目指してウィーンを包囲しました。ハプスブルク軍が都市を守る間、ポーランド・リトアニア共和国の援軍が向かいました。</p><p>ヤン3世ソビェスキが連合軍を指揮し、9月に到着しました。9月12日、カーレンベルクからの大規模な騎兵攻撃が包囲を破り、ソビェスキは欧州史上の重要人物となりました。</p><p>戦いはオスマン帝国を終わらせませんでしたが、中央ヨーロッパの勢力均衡を変え、後の戦役でオスマン勢力は後退しました。</p>"
+      },
+      "ko": {
+        "title": "빈 전투(1683)와 얀 3세 소비에스키",
+        "desc": "폴란드-리투아니아 연방의 승리가 오스만군의 빈 포위를 끝냈다.",
+        "content": "<p>오스만 제국은 1683년 여름 중부 유럽으로 세력을 넓히기 위해 빈을 포위했습니다. 합스부르크 수비대가 도시를 지키는 동안 폴란드-리투아니아 연방의 구원군이 도착했습니다.</p><p>얀 3세 소비에스키가 연합군을 지휘했습니다. 9월 12일 칼렌베르크에서 시작한 대규모 기병 공격이 포위를 무너뜨렸고, 소비에스키는 유럽사의 주요 인물이 되었습니다.</p><p>전투는 오스만 제국을 끝내지는 않았지만 중부 유럽의 세력 균형을 바꾸었고, 이후 전쟁에서 오스만 세력은 유럽 일부에서 후퇴했습니다.</p>"
+      },
+      "zh": {
+        "title": "维也纳战役（1683）与扬三世·索别斯基",
+        "desc": "波兰立陶宛联邦的胜利结束了奥斯曼军队对维也纳的围攻。",
+        "content": "<p>1683年夏，奥斯曼帝国为扩大在中欧的影响而围攻维也纳。哈布斯堡守军坚守城市，波兰立陶宛联邦援军向战场进发。</p><p>扬三世·索别斯基率领联军于9月抵达。9月12日，联军从卡伦贝格发动大规模骑兵攻击，突破了围攻，索别斯基由此成为欧洲史上的重要人物。</p><p>这场战役没有终结奥斯曼帝国，却改变了中欧政治力量平衡，后续战争使奥斯曼势力从欧洲部分地区后退。</p>"
+      }
+    },
+    "source": "Britannica — Battle of Vienna",
+    "sourceUrl": "https://www.britannica.com/event/battle-of-Vienna-1683",
+    "sourceSnippet": "Britannica — Battle of Vienna",
+    "source2": "Encyclopaedia Britannica — John III Sobieski",
+    "sourceUrl2": "https://www.britannica.com/biography/John-III-Sobieski",
+    "sourceSnippet2": "Encyclopaedia Britannica — John III Sobieski",
+    "source3": "Wikipedia — Battle of Vienna",
+    "sourceUrl3": "https://en.wikipedia.org/wiki/Battle_of_Vienna",
+    "sourceSnippet3": "Wikipedia — Battle of Vienna"
+  },
+  {
+    "id": "polandia-pemberontakan-november-1830",
+    "langs": {
+      "id": {
+        "title": "Pemberontakan November (1830–1831)",
+        "desc": "Pemberontakan Polandia terhadap kekuasaan Rusia menjadi simbol perjuangan kemerdekaan abad ke-19.",
+        "content": "<p>Pemberontakan November dimulai di Warsawa pada 29 November 1830 ketika kadet militer dan warga menentang pemerintahan Rusia di Kerajaan Polandia. Kerajaan tersebut memiliki otonomi terbatas setelah Kongres Wina, tetapi kebijakan Tsar mempersempit kebebasan politik dan meningkatkan sensor.</p><p>Pemberontak membentuk pemerintahan sementara dan parlemen Polandia menggulingkan Tsar sebagai penguasa konstitusional pada Januari 1831. Tentara Rusia kemudian melancarkan serangan besar. Pasukan Polandia bertempur dalam beberapa pertempuran, tetapi kalah jumlah dan akhirnya Warsawa jatuh pada September 1831.</p><p>Setelah kekalahan, Rusia menghapus banyak otonomi Polandia dan melakukan penindasan serta pengasingan. Ribuan orang beremigrasi dalam gelombang yang dikenal sebagai Emigrasi Besar. Pemberontakan ini gagal secara militer, tetapi memperkuat identitas nasional dan tradisi politik Polandia.</p>"
+      },
+      "en": {
+        "title": "November Uprising (1830–1831)",
+        "desc": "The Polish revolt against Russian rule became a symbol of nineteenth-century independence struggles.",
+        "content": "<p>The November Uprising began in Warsaw on November 29, 1830, when military cadets and civilians challenged Russian rule in Congress Poland. The kingdom had limited autonomy after the Congress of Vienna, but the tsarist government restricted political freedoms and increased censorship.</p><p>Rebels formed a provisional government, and Poland's parliament deposed the tsar as constitutional king in January 1831. Russia then launched a major offensive. Polish forces fought several battles, but Warsaw fell in September 1831 after the rebels were outnumbered.</p><p>Russia removed much of Poland's autonomy after the defeat and imposed repression and exile. Thousands emigrated in the movement known as the Great Emigration. Although the uprising failed militarily, it strengthened Polish national identity and political traditions.</p>"
+      },
+      "ja": {
+        "title": "十一月蜂起（1830～1831年）",
+        "desc": "ロシア支配に対するポーランドの反乱は19世紀の独立闘争の象徴となった。",
+        "content": "<p>十一月蜂起は1830年11月29日、ワルシャワの士官候補生と市民がロシア支配に抵抗して始まりました。ウィーン会議後のポーランド王国には限定的自治がありましたが、皇帝政府は自由を制限しました。</p><p>反乱側は暫定政府を作り、1831年1月に議会が皇帝を国王から退位させました。ロシア軍の攻勢に対しポーランド軍は戦いましたが、9月にワルシャワが陥落しました。</p><p>敗北後、ロシアは自治を縮小し、弾圧と流刑を行いました。大移民と呼ばれる亡命が起き、蜂起は軍事的には失敗しても国民意識を強めました。</p>"
+      },
+      "ko": {
+        "title": "11월 봉기(1830~1831)",
+        "desc": "러시아 지배에 맞선 폴란드의 반란은 19세기 독립 투쟁의 상징이 되었다.",
+        "content": "<p>11월 봉기는 1830년 11월 29일 바르샤바의 사관생도와 시민들이 러시아 지배에 저항하며 시작했습니다. 빈 회의 뒤 폴란드 왕국에는 제한된 자치가 있었지만 황제 정부는 자유를 축소했습니다.</p><p>반란군은 임시정부를 세우고 1831년 1월 의회에서 황제를 왕위에서 폐위했습니다. 러시아군의 공세 속에 폴란드군은 싸웠지만 9월 바르샤바가 함락되었습니다.</p><p>패배 후 러시아는 자치를 없애고 탄압과 유배를 실시했습니다. 대이주라 불리는 망명이 이어졌으며, 봉기는 군사적으로 실패했지만 폴란드 민족 정체성을 강화했습니다.</p>"
+      },
+      "zh": {
+        "title": "十一月起义（1830—1831）",
+        "desc": "反抗俄国统治的波兰起义成为19世纪独立斗争的象征。",
+        "content": "<p>十一月起义于1830年11月29日在华沙开始，军事学员和市民反抗俄国统治。维也纳会议后波兰王国拥有有限自治，但沙皇政府限制政治自由。</p><p>起义者建立临时政府，波兰议会于1831年1月废黜沙皇的国王地位。俄军发动攻势，波军虽多次作战，华沙仍于9月陷落。</p><p>失败后俄国削减自治并实施镇压和流放。数千人参与被称为“大移民”的流亡运动。起义虽军事失败，却强化了波兰民族认同。</p>"
+      }
+    },
+    "source": "Encyclopaedia Britannica — Polish History",
+    "sourceUrl": "https://www.britannica.com/place/Poland/Insurrection-of-1830-31",
+    "sourceSnippet": "Encyclopaedia Britannica — Polish History",
+    "source2": "Wikipedia — November Uprising",
+    "sourceUrl2": "https://en.wikipedia.org/wiki/November_Uprising",
+    "sourceSnippet2": "Wikipedia — November Uprising",
+    "source3": "Polish History Museum",
+    "sourceUrl3": "https://muzhp.pl/en",
+    "sourceSnippet3": "Polish History Museum"
+  },
+  {
+    "id": "polandia-pemberontakan-januari-1863",
+    "langs": {
+      "id": {
+        "title": "Pemberontakan Januari (1863–1864)",
+        "desc": "Pemberontakan Januari adalah perlawanan panjang Polandia dan Lituania terhadap Kekaisaran Rusia.",
+        "content": "<p>Pemberontakan Januari dimulai pada 22 Januari 1863 di wilayah Polandia yang berada di bawah Kekaisaran Rusia. Gerakan ini dipicu wajib militer yang dipercepat oleh pemerintah Rusia untuk membubarkan jaringan pemuda nasionalis. Komite Pusat Nasional menyerukan perang gerilya dan membentuk pemerintahan bawah tanah.</p><p>Pasukan pemberontak beroperasi dalam kelompok kecil di hutan dan pedesaan Polandia, Lituania, serta sebagian Belarus. Mereka kekurangan senjata dan menghadapi tentara Rusia yang lebih besar. Perlawanan berlangsung hingga 1864, ketika Romuald Traugutt ditangkap dan dieksekusi.</p><p>Rusia kemudian memperketat integrasi wilayah tersebut, menyita tanah, dan menekan penggunaan bahasa serta institusi Polandia. Meski gagal, pemberontakan ini menjadi simbol pengorbanan nasional dan memengaruhi gerakan kemerdekaan Polandia pada awal abad ke-20.</p>"
+      },
+      "en": {
+        "title": "January Uprising (1863–1864)",
+        "desc": "The January Uprising was a prolonged Polish and Lithuanian resistance against the Russian Empire.",
+        "content": "<p>The January Uprising began on January 22, 1863, in Polish lands ruled by the Russian Empire. It was triggered by an accelerated conscription campaign intended to break up nationalist youth networks. The Central National Committee called for guerrilla war and created an underground administration.</p><p>Insurgents operated in small groups in the forests and countryside of Poland, Lithuania, and parts of Belarus. They lacked weapons and faced a much larger Russian army. Resistance continued into 1864, when leader Romuald Traugutt was captured and executed.</p><p>Russia tightened integration afterward, confiscated land, and restricted Polish language and institutions. Although defeated, the uprising became a symbol of national sacrifice and influenced Poland's independence movement in the early twentieth century.</p>"
+      },
+      "ja": {
+        "title": "一月蜂起（1863～1864年）",
+        "desc": "一月蜂起はロシア帝国に対するポーランドとリトアニアの長期抵抗だった。",
+        "content": "<p>一月蜂起は1863年1月22日、ロシア帝国支配下のポーランドで始まりました。民族主義青年組織を解体する徴兵がきっかけとなり、中央国民委員会はゲリラ戦を呼びかけました。</p><p>反乱軍はポーランド、リトアニア、ベラルーシの森林や農村で小集団として活動しました。武器が不足し、ロシアの大軍と戦いました。1864年に指導者トラウグットが逮捕・処刑されて終わりました。</p><p>ロシアは土地を没収し、ポーランド語と制度を制限しました。蜂起は失敗しましたが、国民的犠牲の象徴となり、20世紀の独立運動に影響しました。</p>"
+      },
+      "ko": {
+        "title": "1월 봉기(1863~1864)",
+        "desc": "1월 봉기는 러시아 제국에 맞선 폴란드와 리투아니아의 장기 저항이었다.",
+        "content": "<p>1월 봉기는 1863년 1월 22일 러시아 제국 지배하의 폴란드에서 시작했습니다. 민족주의 청년 조직을 해체하려는 징병이 계기였고 중앙국민위원회는 게릴라전을 촉구했습니다.</p><p>반란군은 폴란드, 리투아니아, 벨라루스의 숲과 농촌에서 소규모로 활동했습니다. 무기가 부족한 상태에서 대규모 러시아군과 싸웠으며 1864년 지도자 트라우구트가 체포·처형되며 끝났습니다.</p><p>러시아는 토지를 몰수하고 폴란드어와 제도를 제한했습니다. 봉기는 실패했지만 민족적 희생의 상징이 되어 20세기 독립운동에 영향을 주었습니다.</p>"
+      },
+      "zh": {
+        "title": "一月起义（1863—1864）",
+        "desc": "一月起义是波兰和立陶宛反抗俄罗斯帝国的长期抵抗。",
+        "content": "<p>一月起义于1863年1月22日在俄国统治的波兰地区爆发。俄国加速征兵以瓦解民族主义青年组织，中央民族委员会号召游击战并建立地下政府。</p><p>起义者在波兰、立陶宛和白俄罗斯部分地区的森林与乡村分组作战。他们缺少武器，面对更大的俄军，最终领袖特劳古特于1864年被捕处决。</p><p>俄国随后没收土地并限制波兰语和波兰制度。起义虽失败，却成为民族牺牲的象征并影响了20世纪独立运动。</p>"
+      }
+    },
+    "source": "Encyclopaedia Britannica — January Insurrection",
+    "sourceUrl": "https://www.britannica.com/event/January-Insurrection",
+    "sourceSnippet": "Encyclopaedia Britannica — January Insurrection",
+    "source2": "Wikipedia — January Uprising",
+    "sourceUrl2": "https://en.wikipedia.org/wiki/January_Uprising",
+    "sourceSnippet2": "Wikipedia — January Uprising",
+    "source3": "Institute of National Remembrance Poland",
+    "sourceUrl3": "https://eng.ipn.gov.pl/",
+    "sourceSnippet3": "Institute of National Remembrance Poland"
+  },
+  {
+    "id": "polandia-perang-polandia-soviet-1920",
+    "langs": {
+      "id": {
+        "title": "Perang Polandia–Soviet (1919–1921)",
+        "desc": "Perang setelah kemerdekaan Polandia berakhir dengan kemenangan di Warsawa dan Perjanjian Riga.",
+        "content": "<p>Setelah Polandia merdeka kembali pada 1918, perbatasannya dengan Rusia Bolshevik belum jelas. Bentrokan berubah menjadi perang terbuka pada 1919 ketika kedua pihak berebut wilayah di Eropa Timur. Pemimpin Polandia Józef Piłsudski menginginkan federasi negara-negara di antara Polandia dan Rusia, sementara pemerintah Bolshevik berusaha menyebarkan revolusi.</p><p>Pada musim panas 1920, Tentara Merah maju menuju Warsawa. Polandia melancarkan serangan balik pada Agustus dalam Pertempuran Warsawa, yang kemudian dikenal sebagai Keajaiban di Vistula. Manuver Piłsudski dan pemecahan kode komunikasi Soviet membantu Polandia menghentikan serangan tersebut.</p><p>Perang berakhir dengan Perjanjian Riga pada Maret 1921. Polandia memperoleh wilayah luas di timur, tetapi perjanjian itu juga membagi masyarakat Ukraina dan Belarus di antara dua negara. Kemenangan tersebut mengamankan kemerdekaan Polandia dan menghentikan ekspor revolusi Bolshevik ke Eropa Tengah.</p>"
+      },
+      "en": {
+        "title": "Polish–Soviet War (1919–1921)",
+        "desc": "The war after Poland regained independence ended with victory at Warsaw and the Treaty of Riga.",
+        "content": "<p>After Poland regained independence in 1918, its border with Bolshevik Russia remained unsettled. Clashes became open war in 1919 as both sides competed for territory in Eastern Europe. Polish leader Józef Piłsudski envisioned a federation of states between Poland and Russia, while the Bolshevik government sought to spread revolution.</p><p>In summer 1920, the Red Army advanced toward Warsaw. Poland counterattacked in August in the Battle of Warsaw, later called the Miracle on the Vistula. Piłsudski's maneuver and the breaking of Soviet communications codes helped stop the offensive.</p><p>The war ended with the Treaty of Riga in March 1921. Poland gained extensive eastern territories, although the treaty divided Ukrainian and Belarusian communities between states. The victory secured Polish independence and halted the export of Bolshevik revolution into Central Europe.</p>"
+      },
+      "ja": {
+        "title": "ポーランド・ソビエト戦争（1919～1921年）",
+        "desc": "独立回復後の戦争はワルシャワの勝利とリガ条約で終わった。",
+        "content": "<p>1918年に独立を回復したポーランドは、ボリシェヴィキ・ロシアとの国境が未確定でした。1919年に東欧の領土をめぐって戦争が始まりました。ピウスツキはポーランドとロシアの間に連邦を構想しました。</p><p>1920年夏、赤軍がワルシャワへ進みました。8月のワルシャワの戦いでポーランドは反撃し、「ヴィスワ川の奇跡」と呼ばれる勝利を得ました。ソ連通信の解読も貢献しました。</p><p>戦争は1921年3月のリガ条約で終わりました。ポーランドの独立が確保され、ボリシェヴィキ革命の中央ヨーロッパへの拡大も止まりました。</p>"
+      },
+      "ko": {
+        "title": "폴란드-소련 전쟁(1919~1921)",
+        "desc": "독립 회복 뒤의 전쟁은 바르샤바 승리와 리가 조약으로 끝났다.",
+        "content": "<p>1918년 독립을 회복한 폴란드는 볼셰비키 러시아와 국경이 정해지지 않았습니다. 1919년 동유럽 영토를 두고 전쟁이 시작되었습니다. 피우수트스키는 폴란드와 러시아 사이의 연방을 구상했습니다.</p><p>1920년 여름 적군이 바르샤바로 진격했습니다. 폴란드는 8월 바르샤바 전투에서 반격해 ‘비스와강의 기적’이라 불린 승리를 거두었습니다. 소련 통신 해독도 도움이 되었습니다.</p><p>전쟁은 1921년 3월 리가 조약으로 끝났습니다. 폴란드 독립이 확보되었고 볼셰비키 혁명의 중부 유럽 확산이 중단되었습니다.</p>"
+      },
+      "zh": {
+        "title": "波苏战争（1919—1921）",
+        "desc": "波兰复国后的战争以华沙胜利和里加条约结束。",
+        "content": "<p>波兰1918年复国后，与布尔什维克俄国的边界尚未确定。1919年双方为争夺东欧领土爆发战争。波兰领导人毕苏斯基设想建立位于波兰与俄国之间的联邦。</p><p>1920年夏红军向华沙推进。波兰在8月华沙战役中反攻并取得被称为“维斯瓦河奇迹”的胜利，解读苏军通信也发挥了作用。</p><p>战争于1921年3月里加条约结束。波兰独立得到保障，布尔什维克革命向中欧扩散的企图也被阻止。</p>"
+      }
+    },
+    "source": "Encyclopaedia Britannica — Polish-Soviet War",
+    "sourceUrl": "https://www.britannica.com/event/Russo-Polish-War",
+    "sourceSnippet": "Encyclopaedia Britannica — Polish-Soviet War",
+    "source2": "Wikipedia — Polish–Soviet War",
+    "sourceUrl2": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War",
+    "sourceSnippet2": "Wikipedia — Polish–Soviet War",
+    "source3": "Imperial War Museums — Battle of Warsaw",
+    "sourceUrl3": "https://www.iwm.org.uk/history/the-battle-of-warsaw-1920",
+    "sourceSnippet3": "Imperial War Museums — Battle of Warsaw"
+  },
+  {
+    "id": "polandia-ghetto-warsawa-1943",
+    "langs": {
+      "id": {
+        "title": "Pemberontakan Ghetto Warsawa (1943)",
+        "desc": "Pemberontakan Ghetto Warsawa menjadi simbol perlawanan Yahudi terhadap pendudukan Nazi.",
+        "content": "<p>Pemberontakan Ghetto Warsawa dimulai pada 19 April 1943 ketika pasukan Jerman memasuki ghetto untuk melakukan deportasi terakhir. Sekitar puluhan ribu orang Yahudi yang tersisa menghadapi pasukan bersenjata dengan senjata terbatas, setelah sebagian besar komunitas telah dikirim ke kamp pembantaian Treblinka.</p><p>Organisasi Perlawanan Yahudi dan Serikat Militer Yahudi menggunakan bunker, lorong, dan bangunan yang dibakar untuk melawan. Jerman menghancurkan ghetto secara sistematis di bawah komando Jürgen Stroop. Pada 16 Mei, Sinagoge Agung Warsawa diledakkan sebagai tanda simbolis berakhirnya perlawanan.</p><p>Pemberontakan berlangsung sekitar satu bulan dan tidak dapat menghentikan Holocaust, tetapi menunjukkan perlawanan terorganisasi di tengah kondisi yang hampir mustahil. Kesaksiannya menjadi bagian penting dari ingatan Holocaust dan sejarah Polandia di bawah pendudukan Nazi.</p>"
+      },
+      "en": {
+        "title": "Warsaw Ghetto Uprising (1943)",
+        "desc": "The Warsaw Ghetto Uprising became a symbol of Jewish resistance against Nazi occupation.",
+        "content": "<p>The Warsaw Ghetto Uprising began on April 19, 1943, when German forces entered the ghetto for its final deportation. Tens of thousands of Jews remained, armed with very limited weapons, after most of the community had been sent to the Treblinka killing center.</p><p>The Jewish Combat Organization and Jewish Military Union fought from bunkers, tunnels, and burning buildings. Germany systematically destroyed the ghetto under Jürgen Stroop. On May 16, the Great Synagogue was blown up as a symbolic declaration that resistance had ended.</p><p>The uprising lasted about a month and could not stop the Holocaust, but it demonstrated organized resistance under nearly impossible conditions. Its testimony remains central to Holocaust memory and the history of Nazi-occupied Poland.</p>"
+      },
+      "ja": {
+        "title": "ワルシャワ・ゲットー蜂起（1943年）",
+        "desc": "ワルシャワ・ゲットー蜂起はナチス占領に対するユダヤ人抵抗の象徴となった。",
+        "content": "<p>ワルシャワ・ゲットー蜂起は1943年4月19日、ドイツ軍が最後の強制移送のためゲットーに入った時に始まりました。多くの住民はトレブリンカへ送られていました。</p><p>ユダヤ人戦闘組織などが地下壕、トンネル、燃える建物から戦いました。ドイツ軍はゲットーを組織的に破壊し、5月16日に大シナゴーグを爆破して抵抗の終結を象徴しました。</p><p>蜂起は約1か月続き、ホロコーストを止められませんでしたが、極限状況での組織的抵抗を示しました。</p>"
+      },
+      "ko": {
+        "title": "바르샤바 게토 봉기(1943)",
+        "desc": "바르샤바 게토 봉기는 나치 점령에 맞선 유대인 저항의 상징이 되었다.",
+        "content": "<p>바르샤바 게토 봉기는 1943년 4월 19일 독일군이 마지막 강제이송을 위해 게토에 들어오며 시작되었습니다. 대부분의 주민은 트레블링카 학살 수용소로 보내진 뒤였습니다.</p><p>유대인 전투조직은 벙커와 터널, 불타는 건물에서 싸웠습니다. 독일군은 게토를 체계적으로 파괴했고 5월 16일 대회당 폭파로 저항의 종결을 상징했습니다.</p><p>봉기는 약 한 달 지속되었고 홀로코스트를 막지는 못했지만 극한 상황의 조직적 저항을 보여주었습니다.</p>"
+      },
+      "zh": {
+        "title": "华沙犹太人区起义（1943）",
+        "desc": "华沙犹太人区起义成为犹太人反抗纳粹占领的象征。",
+        "content": "<p>华沙犹太人区起义于1943年4月19日开始，德军进入犹太人区进行最后驱逐。大多数居民此前已被送往特雷布林卡杀戮中心。</p><p>犹太战斗组织利用地堡、隧道和燃烧的建筑抵抗。德军在施特鲁普指挥下系统摧毁犹太人区，5月16日炸毁大犹太会堂象征抵抗结束。</p><p>起义持续约一个月，虽未能阻止大屠杀，却展示了几乎不可能条件下的有组织抵抗。</p>"
+      }
+    },
+    "source": "United States Holocaust Memorial Museum — Warsaw Ghetto Uprising",
+    "sourceUrl": "https://encyclopedia.ushmm.org/content/en/article/warsaw-ghetto-uprising",
+    "sourceSnippet": "United States Holocaust Memorial Museum — Warsaw Ghetto Uprising",
+    "source2": "Yad Vashem — Warsaw Ghetto",
+    "sourceUrl2": "https://www.yadvashem.org/holocaust/about/fate-of-jews/ghettos/warsaw.html",
+    "sourceSnippet2": "Yad Vashem — Warsaw Ghetto",
+    "source3": "Wikipedia — Warsaw Ghetto Uprising",
+    "sourceUrl3": "https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising",
+    "sourceSnippet3": "Wikipedia — Warsaw Ghetto Uprising"
+  },
+  {
+    "id": "polandia-bergabung-uni-eropa-2004",
+    "langs": {
+      "id": {
+        "title": "Polandia Bergabung dengan Uni Eropa (2004)",
+        "desc": "Keanggotaan Uni Eropa menandai integrasi Polandia ke dalam institusi Eropa setelah berakhirnya komunisme.",
+        "content": "<p>Setelah perubahan politik 1989, Polandia menjadikan integrasi Eropa sebagai tujuan strategis. Polandia mengajukan permohonan keanggotaan Komunitas Eropa pada 1994 dan memulai negosiasi yang mencakup reformasi hukum, ekonomi, pertanian, dan administrasi publik.</p><p>Dalam referendum nasional pada Juni 2003, sekitar 77 persen pemilih yang berpartisipasi mendukung keanggotaan Uni Eropa. Polandia kemudian bergabung pada 1 Mei 2004 bersama sembilan negara lain dalam perluasan terbesar Uni Eropa saat itu.</p><p>Keanggotaan membawa akses ke pasar tunggal, dana pembangunan, kebebasan bergerak, dan kerja sama kelembagaan. Pada saat yang sama, integrasi menuntut penyesuaian regulasi dan memicu perdebatan tentang kedaulatan. Keanggotaan Uni Eropa menjadi salah satu perubahan geopolitik terpenting bagi Polandia pasca-1989.</p>"
+      },
+      "en": {
+        "title": "Poland Joins the European Union (2004)",
+        "desc": "EU membership marked Poland's integration into European institutions after communism ended.",
+        "content": "<p>After the political changes of 1989, Poland made European integration a strategic goal. It applied to join the European Communities in 1994 and began negotiations covering legal, economic, agricultural, and public-administration reforms.</p><p>In a national referendum in June 2003, about 77 percent of participating voters supported membership. Poland joined the European Union on May 1, 2004, with nine other countries in the EU's largest enlargement at the time.</p><p>Membership brought access to the single market, development funds, free movement, and institutional cooperation. It also required regulatory adaptation and generated debates about sovereignty. EU membership became one of the most important geopolitical changes for post-1989 Poland.</p>"
+      },
+      "ja": {
+        "title": "ポーランドのEU加盟（2004年）",
+        "desc": "EU加盟は共産主義後のポーランドが欧州機関に統合される転機となった。",
+        "content": "<p>1989年の政治変化後、ポーランドは欧州統合を戦略目標にしました。1994年に欧州共同体へ申請し、法制度、経済、農業、行政の改革を含む交渉を始めました。</p><p>2003年6月の国民投票では参加者の約77%が加盟を支持しました。2004年5月1日、9か国とともにEUへ加盟しました。</p><p>単一市場、開発資金、移動の自由、制度協力を得る一方、規制調整と主権をめぐる議論も生じました。</p>"
+      },
+      "ko": {
+        "title": "폴란드의 유럽연합 가입(2004)",
+        "desc": "EU 가입은 공산주의 종식 후 폴란드가 유럽 제도에 통합된 전환점이었다.",
+        "content": "<p>1989년 정치 변화 이후 폴란드는 유럽 통합을 전략 목표로 삼았습니다. 1994년 유럽공동체에 가입 신청을 하고 법률, 경제, 농업, 행정 개혁 협상을 시작했습니다.</p><p>2003년 6월 국민투표에서 참여 유권자의 약 77%가 가입을 지지했습니다. 2004년 5월 1일 9개국과 함께 EU에 가입했습니다.</p><p>단일시장, 개발기금, 이동의 자유와 제도 협력을 얻었지만 규정 조정과 주권 논쟁도 이어졌습니다.</p>"
+      },
+      "zh": {
+        "title": "波兰加入欧盟（2004）",
+        "desc": "加入欧盟标志着波兰在共产主义结束后融入欧洲机构。",
+        "content": "<p>1989年政治变革后，波兰把欧洲一体化作为战略目标。1994年申请加入欧洲共同体，并开始涉及法律、经济、农业和公共行政改革的谈判。</p><p>2003年6月全民公投中，约77%的参与选民支持加入。2004年5月1日，波兰与其他九国一起加入欧盟，完成当时最大规模的扩张。</p><p>成员资格带来单一市场、发展基金、自由流动和制度合作，同时也要求法规调整并引发主权讨论。</p>"
+      }
+    },
+    "source": "European Union — Poland",
+    "sourceUrl": "https://european-union.europa.eu/principles-countries-history/country-profiles/poland_en",
+    "sourceSnippet": "European Union — Poland",
+    "source2": "European Commission — Poland in the EU",
+    "sourceUrl2": "https://commission.europa.eu/strategy-and-policy/eu-member-states/poland_en",
+    "sourceSnippet2": "European Commission — Poland in the EU",
+    "source3": "Wikipedia — 2003 Polish European Union membership referendum",
+    "sourceUrl3": "https://en.wikipedia.org/wiki/2003_Polish_European_Union_membership_referendum",
+    "sourceSnippet3": "Wikipedia — 2003 Polish European Union membership referendum"
+  },
+  {
+    "id": "polandia-bencana-chernobyl-dampak-1986",
+    "langs": {
+      "id": {
+        "title": "Dampak Bencana Chernobyl di Polandia (1986)",
+        "desc": "Awan radioaktif Chernobyl memicu respons kesehatan publik dan kebijakan distribusi yodium di Polandia.",
+        "content": "<p>Pada 26 April 1986, reaktor nomor empat Pembangkit Listrik Tenaga Nuklir Chernobyl di Ukraina Soviet mengalami ledakan dan kebakaran. Radioaktif menyebar melalui atmosfer Eropa. Polandia berada di jalur awal penyebaran dan mendeteksi peningkatan radiasi pada 28 April, meskipun informasi resmi Soviet terlambat.</p><p>Pemerintah Polandia merespons dengan membagikan larutan Lugol, yang mengandung yodium stabil untuk mengurangi penyerapan yodium radioaktif oleh tiroid. Jutaan anak dan orang dewasa menerima dosis tersebut dalam beberapa hari. Susu dari wilayah tertentu juga ditarik atau dibatasi karena kekhawatiran kontaminasi.</p><p>Dampak kesehatan jangka panjang di Polandia lebih rendah daripada di wilayah yang paling dekat dengan reaktor, tetapi peristiwa ini meningkatkan perhatian terhadap keselamatan nuklir dan transparansi informasi. Chernobyl juga memengaruhi opini publik Polandia terhadap energi nuklir dan menjadi bagian penting dari sejarah akhir era komunis.</p>"
+      },
+      "en": {
+        "title": "Impact of the Chernobyl Disaster in Poland (1986)",
+        "desc": "The Chernobyl radioactive cloud prompted a public-health response and iodine distribution policy in Poland.",
+        "content": "<p>On April 26, 1986, reactor four at the Chernobyl Nuclear Power Plant in Soviet Ukraine exploded and burned. Radioactive material spread through the European atmosphere. Poland was on the early path of the plume and detected increased radiation on April 28, although official Soviet information was delayed.</p><p>Polish authorities distributed Lugol's solution, containing stable iodine that reduces radioactive iodine uptake by the thyroid. Millions of children and adults received it within days. Milk from some areas was also withdrawn or restricted because of contamination concerns.</p><p>Long-term health impacts in Poland were lower than in areas closest to the reactor, but the disaster increased attention to nuclear safety and information transparency. Chernobyl also influenced Polish public opinion about nuclear energy during the final years of communist rule.</p>"
+      },
+      "ja": {
+        "title": "チェルノブイリ事故のポーランドへの影響（1986年）",
+        "desc": "チェルノブイリの放射性雲はポーランドの公衆衛生対応とヨウ素配布政策を促した。",
+        "content": "<p>1986年4月26日、ソ連ウクライナのチェルノブイリ原発4号炉が爆発・火災を起こしました。放射性物質は欧州大気に広がり、ポーランドでは4月28日に放射線上昇を検出しました。</p><p>ポーランド当局は甲状腺による放射性ヨウ素吸収を抑える安定ヨウ素を含むルゴール液を配布し、数百万人が投与を受けました。一部地域の牛乳も制限されました。</p><p>長期的健康影響は原発近隣より小さかったものの、安全と情報公開への関心が高まり、共産主義末期の原子力世論にも影響しました。</p>"
+      },
+      "ko": {
+        "title": "체르노빌 사고가 폴란드에 미친 영향(1986)",
+        "desc": "체르노빌 방사성 구름은 폴란드의 공중보건 대응과 요오드 배포 정책을 촉발했다.",
+        "content": "<p>1986년 4월 26일 소련 우크라이나 체르노빌 원전 4호기가 폭발하고 화재가 발생했습니다. 방사성 물질이 유럽 대기로 퍼졌고 폴란드는 4월 28일 방사선 증가를 감지했습니다.</p><p>폴란드 당국은 갑상선의 방사성 요오드 흡수를 줄이는 안정 요오드가 든 루골 용액을 배포했습니다. 수백만 명이 며칠 안에 투여받았고 일부 지역 우유도 제한되었습니다.</p><p>장기 건강 영향은 원전 인근보다 낮았지만 원자력 안전과 정보 공개에 대한 관심이 커졌고 공산주의 말기 원자력 여론에도 영향을 주었습니다.</p>"
+      },
+      "zh": {
+        "title": "切尔诺贝利事故对波兰的影响（1986）",
+        "desc": "切尔诺贝利放射性云促使波兰采取公共卫生应对和碘剂分发政策。",
+        "content": "<p>1986年4月26日，苏联乌克兰切尔诺贝利核电站4号反应堆爆炸起火。放射性物质扩散到欧洲大气，波兰于4月28日发现辐射升高。</p><p>波兰当局分发含稳定碘的卢戈氏液，以减少甲状腺吸收放射性碘。数百万人在数日内服用，部分地区的牛奶也被限制。</p><p>波兰的长期健康影响低于反应堆附近地区，但事故提高了对核安全和信息透明的关注，也影响了共产主义末期的核能舆论。</p>"
+      }
+    },
+    "source": "IAEA — Chernobyl Accident",
+    "sourceUrl": "https://www.iaea.org/topics/chernobyl",
+    "sourceSnippet": "IAEA — Chernobyl Accident",
+    "source2": "WHO — Chernobyl",
+    "sourceUrl2": "https://www.who.int/news-room/questions-and-answers/item/chernobyl-accident",
+    "sourceSnippet2": "WHO — Chernobyl",
+    "source3": "Wikipedia — Chernobyl disaster effects",
+    "sourceUrl3": "https://en.wikipedia.org/wiki/Effects_of_the_Chernobyl_disaster",
+    "sourceSnippet3": "Wikipedia — Chernobyl disaster effects"
+  }
+  ]
 };
